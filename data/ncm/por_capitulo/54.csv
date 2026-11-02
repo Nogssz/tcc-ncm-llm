@@ -1,0 +1,146 @@
+codigo,descricao,data_inicio
+54.01,"Linhas para costurar de filamentos sintéticos ou artificiais, mesmo acondicionadas para venda a retal",01/04/2022
+54.02,"Fios de filamentos sintéticos (exceto linhas para costurar), não acondicionados para venda a retalho,",01/04/2022
+54.03,"Fios de filamentos artificiais (exceto linhas para costurar), não acondicionados para venda a retalho,",01/04/2022
+54.04,"Monofilamentos sintéticos, de título igual ou superior a 67 decitex e cuja maior dimensão da seção tr",01/04/2022
+54.07,"Tecidos de fios de filamentos sintéticos, incluindo os tecidos obtidos a partir dos produtos da posição",01/04/2022
+54.08,"Tecidos de fios de filamentos artificiais, incluindo os tecidos obtidos a partir dos produtos da posição",01/04/2022
+5401.10,- De filamentos sintéticos,01/04/2022
+5401.10.1,De poliéster,01/04/2022
+5401.10.11,Não acondicionadas para venda a retalho,01/04/2022
+5401.10.12,Acondicionadas para venda a retalho,01/04/2022
+5401.10.90,Outras,01/04/2022
+5401.20,- De filamentos artificiais,01/04/2022
+5401.20.1,"De raiom viscose, de alta tenacidade",01/04/2022
+5401.20.11,Não acondicionadas para venda a retalho,01/04/2022
+5401.20.12,Acondicionadas para venda a retalho,01/04/2022
+5401.20.90,Outras,01/04/2022
+5402.1,"- Fios de alta tenacidade, de náilon ou de outras poliamidas, mesmo texturizados:",01/04/2022
+5402.11.00,-- De aramidas,01/04/2022
+5402.19,-- Outros,01/04/2022
+5402.19.10,De náilon,01/04/2022
+5402.19.90,Outros,01/04/2022
+5402.20,"- Fios de alta tenacidade, de poliésteres, mesmo texturizados",01/04/2022
+5402.20.10,De copolímero de ácido p-hidroxibenzoico e ácido hidroxinaftoico,01/04/2022
+5402.20.90,Outros,01/04/2022
+5402.3,- Fios texturizados:,01/04/2022
+5402.31,"-- De náilon ou de outras poliamidas, de título não superior a 50 tex por fio simples",01/04/2022
+5402.31.1,De náilon,01/04/2022
+5402.31.11,Tintos,01/04/2022
+5402.31.19,Outros,01/04/2022
+5402.31.90,Outros,01/04/2022
+5402.32,"-- De náilon ou de outras poliamidas, de título superior a 50 tex por fio simples",01/04/2022
+5402.32.1,De náilon,01/04/2022
+5402.32.11,"Multifilamento com efeito antiestático permanente, de título superior a 110 tex",01/04/2022
+5402.32.19,Outros,01/04/2022
+5402.32.90,Outros,01/04/2022
+5402.33,-- De poliésteres,01/04/2022
+5402.33.10,Crus,01/04/2022
+5402.33.20,Tintos,01/04/2022
+5402.33.90,Outros,01/04/2022
+5402.34.00,-- De polipropileno,01/04/2022
+5402.39.00,-- Outros,01/04/2022
+5402.4,"- Outros fios, simples, sem torção ou com torção não superior a 50 voltas pormetro:",01/04/2022
+5402.44.00,-- De elastômeros,01/04/2022
+5402.45,"-- Outros, de náilon ou de outras poliamidas",01/04/2022
+5402.45.10,De aramidas,01/04/2022
+5402.45.20,De náilon,01/04/2022
+5402.45.90,Outros,01/04/2022
+5402.46.00,"-- Outros, de poliésteres, parcialmente orientados",01/04/2022
+5402.47,"-- Outros, de poliésteres",01/04/2022
+5402.47.10,Crus,01/04/2022
+5402.47.20,Tintos,01/04/2022
+5402.47.90,Outros,01/04/2022
+5402.48.00,"-- Outros, de polipropileno",01/04/2022
+5402.49,-- Outros,01/04/2022
+5402.49.10,"De polietileno, com tenacidade igual ou superior a 26 cN/tex",01/04/2022
+5402.49.90,Outros,01/04/2022
+5402.5,"- Outros fios, simples, com torção superior a 50 voltas por metro:",01/04/2022
+5402.51,-- De náilon ou de outras poliamidas,01/04/2022
+5402.51.10,De aramidas,01/04/2022
+5402.51.90,Outros,01/04/2022
+5402.52.00,-- De poliésteres,01/04/2022
+5402.53.00,-- De polipropileno,01/04/2022
+5402.59.00,-- Outros,01/04/2022
+5402.6,"- Outros fios, retorcidos ou retorcidos múltiplos:",01/04/2022
+5402.61,-- De náilon ou de outras poliamidas,01/04/2022
+5402.61.10,De aramidas,01/04/2022
+5402.61.90,Outros,01/04/2022
+5402.62.00,-- De poliésteres,01/04/2022
+5402.63.00,-- De polipropileno,01/04/2022
+5402.69.00,-- Outros,01/04/2022
+5403.10.00,"- Fios de alta tenacidade, de raiom viscose",01/04/2022
+5403.3,"- Outros fios, simples:",01/04/2022
+5403.31,"-- De raiom viscose, sem torção ou com torção não superior a 120 voltas pormetro",01/04/2022
+5403.31.10,Crus ou branqueados,01/04/2022
+5403.31.90,Outros,01/04/2022
+5403.32.00,"-- De raiom viscose, com torção superior a 120 voltas por metro",01/04/2022
+5403.33.00,-- De acetato de celulose,01/04/2022
+5403.39.00,-- Outros,01/04/2022
+5403.4,"- Outros fios, retorcidos ou retorcidos múltiplos:",01/04/2022
+5403.41.00,-- De raiom viscose,01/04/2022
+5403.42.00,-- De acetato de celulose,01/04/2022
+5403.49.00,-- Outros,01/04/2022
+5404.1,- Monofilamentos:,01/04/2022
+5404.11.00,-- De elastômeros,01/04/2022
+5404.12.00,"-- Outros, de polipropileno",01/04/2022
+5404.19,-- Outros,01/04/2022
+5404.19.1,Imitações de categute,01/04/2022
+5404.19.11,Reabsorvíveis,01/04/2022
+5404.19.19,Outros,01/04/2022
+5404.19.90,Outros,01/04/2022
+5404.90.00,- Outras,01/04/2022
+5405.00.00,"Monofilamentos artificiais, de título igual ou superior a 67 decitex e cuja maiordimensão da seção tra",01/04/2022
+5406.00,"Fios de filamentos sintéticos ou artificiais (exceto linhas para costurar), acondicionados para venda a",01/04/2022
+5406.00.10,Fios de filamentos sintéticos,01/04/2022
+5406.00.20,Fios de filamentos artificiais,01/04/2022
+5407.10,"- Tecidos obtidos a partir de fios de alta tenacidade, de náilon ou de outras poliamidas ou de poliéste",01/04/2022
+5407.10.1,Sem fios de borracha,01/04/2022
+5407.10.11,De aramidas,01/04/2022
+5407.10.19,Outros,01/04/2022
+5407.10.2,Com fios de borracha,01/04/2022
+5407.10.21,De aramidas,01/04/2022
+5407.10.29,Outros,01/04/2022
+5407.20.00,- Tecidos obtidos a partir de lâminas ou de formas semelhantes,01/04/2022
+5407.30.00,"- ""Tecidos"" mencionados na Nota 9 da Seção XI",01/04/2022
+5407.4,"- Outros tecidos, que contenham pelo menos 85 %, em peso, de filamentos de náilon ou de outras p",01/04/2022
+5407.41.00,-- Crus ou branqueados,01/04/2022
+5407.42.00,-- Tintos,01/04/2022
+5407.43.00,-- De fios de diversas cores,01/04/2022
+5407.44.00,-- Estampados,01/04/2022
+5407.5,"- Outros tecidos, que contenham pelo menos 85 %, em peso, de filamentos de poliéster texturizados:",01/04/2022
+5407.51.00,-- Crus ou branqueados,01/04/2022
+5407.52,-- Tintos,01/04/2022
+5407.52.10,Sem fios de borracha,01/04/2022
+5407.52.20,Com fios de borracha,01/04/2022
+5407.53.00,-- De fios de diversas cores,01/04/2022
+5407.54.00,-- Estampados,01/04/2022
+5407.6,"- Outros tecidos, que contenham pelo menos 85 %, em peso, de filamentos de poliéster:",01/04/2022
+5407.61.00,"-- Que contenham pelo menos 85 %, em peso, de filamentos de poliéster nãotexturizados",01/04/2022
+5407.69.00,-- Outros,01/04/2022
+5407.7,"- Outros tecidos, que contenham pelo menos 85 %, em peso, de filamentos sintéticos:",01/04/2022
+5407.71.00,-- Crus ou branqueados,01/04/2022
+5407.72.00,-- Tintos,01/04/2022
+5407.73.00,-- De fios de diversas cores,01/04/2022
+5407.74.00,-- Estampados,01/04/2022
+5407.8,"- Outros tecidos, que contenham menos de 85 %, em peso, de filamentos sintéticos, combinados, pri",01/04/2022
+5407.81.00,-- Crus ou branqueados,01/04/2022
+5407.82.00,-- Tintos,01/04/2022
+5407.83.00,-- De fios de diversas cores,01/04/2022
+5407.84.00,-- Estampados,01/04/2022
+5407.9,- Outros tecidos:,01/04/2022
+5407.91.00,-- Crus ou branqueados,01/04/2022
+5407.92.00,-- Tintos,01/04/2022
+5407.93.00,-- De fios de diversas cores,01/04/2022
+5407.94.00,-- Estampados,01/04/2022
+5408.10.00,"- Tecidos obtidos a partir de fios de alta tenacidade, de raiom viscose",01/04/2022
+5408.2,"- Outros tecidos, que contenham pelo menos 85 %, em peso, de filamentos ou de lâminas ou formas",01/04/2022
+5408.21.00,-- Crus ou branqueados,01/04/2022
+5408.22.00,-- Tintos,01/04/2022
+5408.23.00,-- De fios de diversas cores,01/04/2022
+5408.24.00,-- Estampados,01/04/2022
+5408.3,- Outros tecidos:,01/04/2022
+5408.31.00,-- Crus ou branqueados,01/04/2022
+5408.32.00,-- Tintos,01/04/2022
+5408.33.00,-- De fios de diversas cores,01/04/2022
+5408.34.00,-- Estampados,01/04/2022

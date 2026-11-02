@@ -1,0 +1,29 @@
+codigo,descricao,data_inicio
+92.01,"Pianos, mesmo automáticos; cravos e outros instrumentos de cordas, com teclado.",01/04/2022
+92.02,"Outros instrumentos musicais de cordas (por exemplo, violões (guitarras*), violinos, harpas).",01/04/2022
+92.05,"Instrumentos musicais de sopro (por exemplo, órgãos de tubos e teclado, acordeões, clarinetes, trom",01/04/2022
+92.07,"Instrumentos musicais cujo som é produzido ou amplificado por meios elétricos (por exemplo, órgãos",01/04/2022
+92.08,"Caixas de música, órgãos mecânicos de feira, realejos, pássaros cantores mecânicos, serrotes musi",01/04/2022
+92.09,"Partes (mecanismos de caixas de música, por exemplo) e acessórios (por exemplo, cartões, discos e",01/04/2022
+9201.10.00,- Pianos verticais,01/04/2022
+9201.20.00,- Pianos de cauda,01/04/2022
+9201.90.00,- Outros,01/04/2022
+9202.10.00,"- De cordas, tocados com o auxílio de um arco",01/04/2022
+9202.90.00,- Outros,01/04/2022
+9205.10.00,"- Instrumentos denominados ""metais""",01/04/2022
+9205.90.00,- Outros,01/04/2022
+9206.00.00,"Instrumentos musicais de percussão (por exemplo, tambores, caixas, xilofones, pratos, castanholas,",01/04/2022
+9207.10,"- Instrumentos de teclado, exceto acordeões",01/04/2022
+9207.10.10,Sintetizadores,01/04/2022
+9207.10.90,Outros,01/04/2022
+9207.90,- Outros,01/04/2022
+9207.90.10,Guitarras e contrabaixos,01/04/2022
+9207.90.90,Outros,01/04/2022
+9208.10.00,- Caixas de música,01/04/2022
+9208.90.00,- Outros,01/04/2022
+9209.30.00,- Cordas para instrumentos musicais,01/04/2022
+9209.9,- Outros:,01/04/2022
+9209.91.00,-- Partes e acessórios de pianos,01/04/2022
+9209.92.00,-- Partes e acessórios de instrumentos musicais da posição 92.02,01/04/2022
+9209.94.00,-- Partes e acessórios de instrumentos musicais da posição 92.07,01/04/2022
+9209.99.00,-- Outros,01/04/2022

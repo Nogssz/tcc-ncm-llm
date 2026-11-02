@@ -1,0 +1,956 @@
+codigo,descricao,data_inicio
+85.01,"Motores e geradores, elétricos, exceto os grupos eletrogêneos.",01/04/2022
+85.02,Grupos eletrogêneos e conversores rotativos elétricos.,01/04/2022
+85.04,"Transformadores elétricos, conversores elétricos estáticos (retificadores, porexemplo), bobinas de re",01/04/2022
+85.05,Eletroímãs; ímãs permanentes e artigos destinados a tornarem-se ímãs permanentes após magnetiz,01/04/2022
+85.06,"Pilhas e baterias de pilhas, elétricas.",01/04/2022
+85.07,"Acumuladores elétricos e seus separadores, mesmo de forma quadrada ou retangular.",01/04/2022
+85.08,Aspiradores.,01/04/2022
+85.09,"Aparelhos eletromecânicos com motor elétrico incorporado, de uso doméstico, exceto os aspiradores",01/04/2022
+85.10,"Aparelhos ou máquinas de barbear, máquinas de cortar o cabelo ou de tosquiar e aparelhos de depil",01/04/2022
+85.11,Aparelhos e dispositivos elétricos de ignição ou de arranque para motores deignição por centelha (fa,01/04/2022
+85.12,"Aparelhos elétricos de iluminação ou de sinalização (exceto os da posição 85.03), limpadores de par",19/04/2022
+85.13,Lanternas elétricas portáteis concebidas para funcionar por meio de sua própria fonte de energia (po,01/04/2022
+85.14,"Fornos elétricos industriais ou de laboratório, incluindo os que funcionam porindução ou por perdas",01/04/2022
+85.15,Máquinas e aparelhos para soldar (mesmo de corte) elétricos (incluindo os agás aquecido eletricam,01/04/2022
+85.16,"Aquecedores elétricos de água, incluindo os de imersão; aparelhos elétricospara aquecimento de a",01/04/2022
+85.17,"Aparelhos telefônicos, incluindo os telefones inteligentes (smartphones) e outros telefones para rede",01/04/2022
+85.18,"Microfones e seus suportes; alto-falantes (altifalantes), mesmo montados nassuas caixas (colunas);",01/04/2022
+85.19,Aparelhos de gravação de som; aparelhos de reprodução de som; aparelhosde gravação e de repro,01/04/2022
+85.21,"Aparelhos de gravação ou de reprodução de vídeo, mesmo incorporando umreceptor de televisão.",01/04/2022
+85.22,Partes e acessórios reconhecíveis como sendo exclusiva ou principalmente destinados aos aparelho,01/04/2022
+85.23,"Discos, fitas, dispositivos de armazenamento de dados não voláteis à base de semicondutores, ""cart",01/04/2022
+85.24,"Módulos de visualização de tela (ecrã*) plana, mesmo que incorporem telas sensíveis ao toque (ecrã",01/04/2022
+85.25,"Aparelhos transmissores (emissores) para radiodifusão ou televisão, mesmoque incorporem um apa",01/04/2022
+85.26,"Aparelhos de radiodetecção e de radiossondagem (radar), aparelhos de radionavegação e aparelhos",01/04/2022
+85.27,"Aparelhos receptores para radiodifusão, mesmo combinados num mesmo invólucro, com um aparelh",01/04/2022
+85.28,"Monitores e projetores, que não incorporem aparelho receptor de televisão; aparelhos receptores de",01/04/2022
+85.29,Partes reconhecíveis como exclusiva ou principalmente destinadas aos aparelhos das posições 85.2,01/04/2022
+85.30,"Aparelhos elétricos de sinalização (excluindo os de transmissão de mensagens), de segurança, de c",01/04/2022
+85.31,"Aparelhos elétricos de sinalização acústica ou visual (por exemplo, campainhas, sirenes, painéis indi",01/04/2022
+85.32,"Condensadores elétricos, fixos, variáveis ou ajustáveis.",01/04/2022
+85.33,"Resistências elétricas (incluindo os reostatos e os potenciômetros), exceto deaquecimento.",01/04/2022
+85.35,"Aparelhos para interrupção, seccionamento, proteção, derivação, ligação ouconexão de circuitos elé",01/04/2022
+85.36,"Aparelhos para interrupção, seccionamento, proteção, derivação, ligação ouconexão de circuitos elé",01/04/2022
+85.37,"Quadros, painéis, consoles, cabinas, armários e outros suportes com dois oumais aparelhos das po",01/04/2022
+85.38,Partes reconhecíveis como exclusiva ou principalmente destinadas aos aparelhos das posições 85.3,01/04/2022
+85.39,"Lâmpadas e tubos elétricos de incandescência ou de descarga, incluindo osartigos denominados ""fa",01/04/2022
+85.40,"Lâmpadas, tubos e válvulas, eletrônicos, de cátodo quente, cátodo frio ou fotocátodo (por exemplo, l",01/04/2022
+85.41,"Dispositivos semicondutores (por exemplo, diodos, transistores, transdutoresà base de semiconduto",01/04/2022
+85.42,Circuitos integrados eletrônicos.,01/04/2022
+85.43,"Máquinas e aparelhos elétricos com função própria, não especificados nem compreendidos noutras",01/04/2022
+85.44,"Fios, cabos (incluindo os cabos coaxiais) e outros condutores, isolados parausos elétricos (incluindo",01/04/2022
+85.45,"Eletrodos de carvão, escovas de carvão, carvões para lâmpadas ou para pilhas e outros artigos de g",01/04/2022
+85.46,Isoladores elétricos de qualquer matéria.,01/04/2022
+85.47,"Peças isolantes inteiramente de matérias isolantes, ou com simples peças metálicas de montagem (",01/04/2022
+85.49,"Desperdícios e resíduos, e sucata, elétricos e eletrônicos.",01/04/2022
+8501.10,"- Motores de potência não superior a 37,5 W",01/04/2022
+8501.10.1,De corrente contínua,01/04/2022
+8501.10.11,"De passo não superior a 1,8°",01/04/2022
+8501.10.19,Outros,01/04/2022
+8501.10.2,De corrente alternada,01/04/2022
+8501.10.21,Síncronos,01/04/2022
+8501.10.29,Outros,01/04/2022
+8501.10.30,Universais,01/04/2022
+8501.20.00,"- Motores universais de potência superior a 37,5 W",01/04/2022
+8501.3,"- Outros motores de corrente contínua; geradores de corrente contínua, exceto os geradores fotovolt",01/04/2022
+8501.31,-- De potência não superior a 750 W,01/04/2022
+8501.31.10,Motores,01/04/2022
+8501.31.20,Geradores,01/04/2022
+8501.32,"-- De potência superior a 750 W, mas não superior a 75 kW",01/04/2022
+8501.32.10,Motores,01/04/2022
+8501.32.20,Geradores,01/04/2022
+8501.33,"-- De potência superior a 75 kW, mas não superior a 375 kW",01/04/2022
+8501.33.10,Motores,01/04/2022
+8501.33.20,Geradores,01/04/2022
+8501.34,-- De potência superior a 375 kW,01/04/2022
+8501.34.1,Motores,01/04/2022
+8501.34.11,De potência não superior a 3.000 kW,01/04/2022
+8501.34.19,Outros,01/04/2022
+8501.34.20,Geradores,01/04/2022
+8501.40,"- Outros motores de corrente alternada, monofásicos",01/04/2022
+8501.40.1,De potência não superior a 15 kW,01/04/2022
+8501.40.11,Síncronos,01/04/2022
+8501.40.19,Outros,01/04/2022
+8501.40.2,De potência superior a 15 kW,01/04/2022
+8501.40.21,Síncronos,01/04/2022
+8501.40.29,Outros,01/04/2022
+8501.5,"- Outros motores de corrente alternada, polifásicos:",01/04/2022
+8501.51,-- De potência não superior a 750 W,01/04/2022
+8501.51.10,"Trifásicos, com rotor de gaiola",01/04/2022
+8501.51.20,"Trifásicos, com rotor de anéis",01/04/2022
+8501.51.90,Outros,01/04/2022
+8501.52,"-- De potência superior a 750 W, mas não superior a 75 kW",01/04/2022
+8501.52.10,"Trifásicos, com rotor de gaiola",01/04/2022
+8501.52.20,"Trifásicos, com rotor de anéis",01/04/2022
+8501.52.90,Outros,01/04/2022
+8501.53,-- De potência superior a 75 kW,01/04/2022
+8501.53.10,"Trifásicos, de potência não superior a 7.500 kW",01/04/2022
+8501.53.20,"Trifásicos, de potência superior a 7.500 kW, mas não superior a 30.000 kW",01/04/2022
+8501.53.30,"Trifásicos, de potência superior a 30.000 kW, mas não superior a 50.000 kW",01/04/2022
+8501.53.90,Outros,01/04/2022
+8501.6,"- Geradores de corrente alternada (alternadores), exceto os geradores fotovoltaicos:",01/04/2022
+8501.61.00,-- De potência não superior a 75 kVA,01/04/2022
+8501.62.00,"-- De potência superior a 75 kVA, mas não superior a 375 kVA",01/04/2022
+8501.63.00,"-- De potência superior a 375 kVA, mas não superior a 750 kVA",01/04/2022
+8501.64.00,-- De potência superior a 750 kVA,01/04/2022
+8501.7,- Geradores fotovoltaicos de corrente contínua:,01/04/2022
+8501.71.00,-- De potência não superior a 50 W,01/04/2022
+8501.72,-- De potência superior a 50 W,01/04/2022
+8501.72.10,De potência não superior a 75 kW,01/04/2022
+8501.72.90,Outros,01/04/2022
+8501.80.00,- Geradores fotovoltaicos de corrente alternada,01/04/2022
+8502.1,"- Grupos eletrogêneos de motor de pistão, de ignição por compressão (motores diesel ou semidiesel",01/04/2022
+8502.11,-- De potência não superior a 75 kVA,01/04/2022
+8502.11.10,De corrente alternada,01/04/2022
+8502.11.90,Outros,01/04/2022
+8502.12,"-- De potência superior a 75 kVA, mas não superior a 375 kVA",01/04/2022
+8502.12.10,De corrente alternada,01/04/2022
+8502.12.90,Outros,01/04/2022
+8502.13,-- De potência superior a 375 kVA,01/04/2022
+8502.13.1,De corrente alternada,01/04/2022
+8502.13.11,De potência não superior a 430 kVA,01/04/2022
+8502.13.19,Outros,01/04/2022
+8502.13.90,Outros,01/04/2022
+8502.20,"- Grupos eletrogêneos de motor de pistão, de ignição por centelha (faísca) (motor de explosão)",01/04/2022
+8502.20.1,De corrente alternada,01/04/2022
+8502.20.11,De potência não superior a 210 kVA,01/04/2022
+8502.20.19,Outros,01/04/2022
+8502.20.90,Outros,01/04/2022
+8502.3,- Outros grupos eletrogêneos:,01/04/2022
+8502.31.00,-- De energia eólica,01/04/2022
+8502.39.00,-- Outros,01/04/2022
+8502.40,- Conversores rotativos elétricos,01/04/2022
+8502.40.10,De frequência,01/04/2022
+8502.40.90,Outros,01/04/2022
+8503.00,Partes reconhecíveis como exclusiva ou principalmente destinadas às máquinas das posições 85.01,01/04/2022
+8503.00.10,"De motores ou geradores das subposições 8501.10, 8501.20, 8501.31, 8501.30 ou do item 8501.40.",21/04/2022
+8503.00.90,Outras,01/04/2022
+8504.10.00,- Reatores (Balastros*) para lâmpadas ou tubos de descarga,01/04/2022
+8504.2,- Transformadores de dielétrico líquido:,01/04/2022
+8504.21.00,-- De potência não superior a 650 kVA,01/04/2022
+8504.22.00,"-- De potência superior a 650 kVA, mas não superior a 10.000 kVA",01/04/2022
+8504.23.00,-- De potência superior a 10.000 kVA,01/04/2022
+8504.3,- Outros transformadores:,01/04/2022
+8504.31,-- De potência não superior a 1 kVA,01/04/2022
+8504.31.1,Para frequências inferiores ou iguais a 60 Hz,01/04/2022
+8504.31.11,Transformadores de corrente,01/04/2022
+8504.31.19,Outros,01/04/2022
+8504.31.9,Outros,01/04/2022
+8504.31.91,"Transformador de saída horizontal (fly back), com tensão de saída superior a10 kV e frequência de v",81/04/2022
+8504.31.92,"Transformadores de FI, de detecção, de relação, de linearidade ou de foco",01/04/2022
+8504.31.93,"Outros, de largura e comprimento não superior a 50 mm e altura não superior",
+8504.31.99,Outros,01/04/2022
+8504.32,"-- De potência superior a 1 kVA, mas não superior a 16 kVA",01/04/2022
+8504.32.1,De potência não superior a 3 kVA,01/04/2022
+8504.32.11,Para frequências inferiores ou iguais a 60 Hz,01/04/2022
+8504.32.19,Outros,01/04/2022
+8504.32.2,De potência superior a 3 kVA,01/04/2022
+8504.32.21,Para frequências inferiores ou iguais a 60 Hz,01/04/2022
+8504.32.29,Outros,01/04/2022
+8504.33.00,"-- De potência superior a 16 kVA, mas não superior a 500 kVA",01/04/2022
+8504.34.00,-- De potência superior a 500 kVA,01/04/2022
+8504.40,- Conversores estáticos,01/04/2022
+8504.40.10,Carregadores de acumuladores,01/04/2022
+8504.40.2,"Retificadores, exceto carregadores de acumuladores",01/04/2022
+8504.40.21,De cristal (semicondutores),01/04/2022
+8504.40.22,Eletrolíticos,01/04/2022
+8504.40.29,Outros,01/04/2022
+8504.40.30,Conversores de corrente contínua,01/04/2022
+8504.40.40,Equipamento de alimentação ininterrupta de energia (UPS ou no break),01/04/2022
+8504.40.50,"Conversores eletrônicos de frequência, para variação de velocidade de motores elétricos",01/04/2022
+8504.40.60,Aparelhos eletrônicos de alimentação de energia do tipo utilizado para iluminação de emergência,01/04/2022
+8504.40.90,Outros,01/04/2022
+8504.50,- Outras bobinas de reatância e de autoindução,01/07/2024
+8504.50.10,"De largura e comprimento não superior a 45 mm e altura não superior a 30 mm, próprias para monta",01/07/2024
+8504.50.90,Outras,01/07/2024
+8504.90,- Partes,01/04/2022
+8504.90.10,Núcleos de pó ferromagnético,01/04/2022
+8504.90.20,De reatores para lâmpadas ou tubos de descarga,01/04/2022
+8504.90.30,"De transformadores das subposições 8504.21, 8504.22, 8504.23, 8504.33 ou",
+8504.90.40,"De conversores estáticos, exceto de carregadores de acumuladores e de retificadores",01/04/2022
+8504.90.90,Outras,01/04/2022
+8505.1,- Ímãs permanentes e artigos destinados a tornarem-se ímãs permanentes após magnetização:,01/04/2022
+8505.11.00,-- De metal,01/04/2022
+8505.19,-- Outros,01/04/2022
+8505.19.10,De ferrita (cerâmicos),01/04/2022
+8505.19.90,Outros,01/04/2022
+8505.20,"- Acoplamentos, embreagens, variadores de velocidade e freios (travões), eletromagnéticos",01/04/2022
+8505.20.10,"Freios (travões) que atuam por corrente de Foucault, do tipo utilizado nos veículos das posições 87.0",01/04/2022
+8505.20.90,Outros,01/04/2022
+8505.90,"- Outros, incluindo as partes",01/04/2022
+8505.90.1,Eletroímãs,01/04/2024
+8505.90.11,Do tipo utilizado em aparelhos de diagnóstico de imagem por ressonância magnética,01/04/2024
+8505.90.19,Outros,01/04/2024
+8505.90.80,Outros,01/04/2022
+8505.90.90,Partes,01/04/2022
+8506.10,- De dióxido de manganês,01/04/2022
+8506.10.1,Pilhas alcalinas,01/04/2022
+8506.10.11,"De tensão igual a 1,5 V, cilíndricas, do tipo LR14 (C)",01/04/2022
+8506.10.12,"De tensão igual a 1,5 V, cilíndricas, do tipo LR20 (D)",01/04/2022
+8506.10.19,Outras,01/04/2022
+8506.10.20,Outras pilhas,01/04/2022
+8506.10.3,Baterias de pilhas,01/04/2022
+8506.10.31,"Alcalinas, de tensão igual a 9 V",01/04/2022
+8506.10.32,"Alcalinas, de tensão igual a 12 V",01/04/2022
+8506.10.39,Outras,01/04/2022
+8506.30,- De óxido de mercúrio,01/04/2022
+8506.30.10,Com volume exterior não superior a 300 cm3,01/04/2022
+8506.30.90,Outras,01/04/2022
+8506.40,- De óxido de prata,01/04/2022
+8506.40.10,Com volume exterior não superior a 300 cm3,01/04/2022
+8506.40.90,Outras,01/04/2022
+8506.50,- De lítio,01/04/2022
+8506.50.10,Com volume exterior não superior a 300 cm3,01/04/2022
+8506.50.90,Outras,01/04/2022
+8506.60,- De ar-zinco,01/04/2022
+8506.60.10,Com volume exterior não superior a 300 cm3,01/04/2022
+8506.60.90,Outras,01/04/2022
+8506.80,- Outras pilhas e baterias de pilhas,01/04/2022
+8506.80.10,Com volume exterior não superior a 300 cm3,01/04/2022
+8506.80.90,Outras,01/04/2022
+8506.90.00,- Partes,01/04/2022
+8507.10,"- De chumbo, do tipo utilizado para o arranque dos motores de pistão",01/04/2022
+8507.10.10,De capacidade inferior ou igual a 20 Ah e tensão inferior ou igual a 12 V,01/04/2022
+8507.10.90,Outros,01/04/2022
+8507.20,- Outros acumuladores de chumbo,01/04/2022
+8507.20.10,De peso inferior ou igual a 1.000 kg,01/04/2022
+8507.20.90,Outros,01/04/2022
+8507.30,- De níquel-cádmio,01/04/2022
+8507.30.1,De peso inferior ou igual a 2.500 kg,01/04/2022
+8507.30.11,De capacidade inferior ou igual a 15 Ah,01/04/2022
+8507.30.19,Outros,01/04/2022
+8507.30.90,Outros,01/04/2022
+8507.50,- De níquel-hidreto metálico,01/04/2022
+8507.50.10,"De tensão igual a 1,2 V, cilíndricos do tipo HR6 (AA)",01/04/2022
+8507.50.20,"De tensão igual a 1,2 V, cilíndricos do tipo HR03 (AAA)",01/04/2022
+8507.50.90,Outros,01/04/2022
+8507.60.00,- De íon de lítio,01/04/2022
+8507.80.00,- Outros acumuladores,01/04/2022
+8507.90,- Partes,01/04/2022
+8507.90.10,Separadores,01/04/2022
+8507.90.20,"Recipientes de plástico, suas tampas e tampões",01/04/2022
+8507.90.90,Outras,01/04/2022
+8508.1,- Com motor elétrico incorporado:,01/04/2022
+8508.11.00,-- De potência não superior a 1.500 W e cujo volume do reservatório não exc,
+8508.19.00,-- Outros,01/04/2022
+8508.60.00,- Outros aspiradores,01/04/2022
+8508.70.00,- Partes,01/04/2022
+8509.40,- Trituradores (moedores) e misturadores de alimentos; espremedores de fruta ou de produtos hortíc,01/04/2022
+8509.40.10,Liquidificadores,01/04/2022
+8509.40.20,Batedeiras,01/04/2022
+8509.40.30,Moedores de carne,01/04/2022
+8509.40.40,Extratores centrífugos de sucos,01/04/2022
+8509.40.50,"Aparelhos de funções múltiplas, providos de acessórios intercambiáveis, paraprocessar alimentos",01/04/2022
+8509.40.90,Outros,01/04/2022
+8509.80,- Outros aparelhos,01/04/2022
+8509.80.10,Enceradeiras de pisos,01/04/2022
+8509.80.90,Outros,01/04/2022
+8509.90.00,- Partes,01/04/2022
+8510.10.00,- Aparelhos ou máquinas de barbear,01/04/2022
+8510.20.00,- Máquinas de cortar o cabelo ou de tosquiar,01/04/2022
+8510.30.00,- Aparelhos de depilar,01/04/2022
+8510.90,- Partes,01/04/2022
+8510.90.1,De aparelhos ou máquinas de barbear,01/04/2022
+8510.90.11,Lâminas,01/04/2022
+8510.90.19,Outras,01/04/2022
+8510.90.20,Pentes e contrapentes para máquinas de tosquiar,01/04/2022
+8510.90.90,Outras,01/04/2022
+8511.10.00,- Velas de ignição,01/04/2022
+8511.20,- Magnetos; dínamos-magnetos; volantes magnéticos,01/04/2022
+8511.20.10,Magnetos,01/04/2022
+8511.20.90,Outros,01/04/2022
+8511.30,- Distribuidores; bobinas de ignição,01/04/2022
+8511.30.10,Distribuidores,01/04/2022
+8511.30.20,Bobinas de ignição,01/04/2022
+8511.40.00,"- Motores de arranque, mesmo funcionando como geradores",01/04/2022
+8511.50,- Outros geradores,01/04/2022
+8511.50.10,Dínamos e alternadores,01/04/2022
+8511.50.90,Outros,01/04/2022
+8511.80,- Outros aparelhos e dispositivos,01/04/2022
+8511.80.10,Velas de aquecimento,01/04/2022
+8511.80.20,Reguladores de voltagem (conjuntores-disjuntores),01/04/2022
+8511.80.30,Ignição eletrônica digital,01/04/2022
+8511.80.90,Outros,01/04/2022
+8511.90.00,- Partes,01/04/2022
+8512.10.00,- Aparelhos de iluminação ou de sinalização visual do tipo utilizado em bicicletas,01/04/2022
+8512.20,- Outros aparelhos de iluminação ou de sinalização visual,01/04/2022
+8512.20.1,Aparelhos de iluminação,01/04/2022
+8512.20.11,Faróis,01/04/2022
+8512.20.19,Outros,01/04/2022
+8512.20.2,Aparelhos de sinalização visual,01/04/2022
+8512.20.21,Luzes fixas,01/04/2022
+8512.20.22,Luzes indicadoras de manobras,01/04/2022
+8512.20.23,Caixas de luzes combinadas,01/04/2022
+8512.20.29,Outros,01/04/2022
+8512.30.00,- Aparelhos de sinalização acústica,01/04/2022
+8512.40,"- Limpadores de para-brisas, degeladores e desembaçadores",01/04/2022
+8512.40.10,Limpadores de para-brisas,01/04/2022
+8512.40.20,Degeladores e desembaçadores,01/04/2022
+8512.90.00,- Partes,01/04/2022
+8513.10,- Lanternas,01/04/2022
+8513.10.10,Manuais,01/04/2022
+8513.10.90,Outras,01/04/2022
+8513.90.00,- Partes,01/04/2022
+8514.1,- Fornos de resistência (de aquecimento indireto):,01/04/2022
+8514.11.00,-- Prensas isostáticas a quente,01/04/2022
+8514.19.00,-- Outros,01/04/2022
+8514.20,- Fornos que funcionam por indução ou por perdas dielétricas,01/04/2022
+8514.20.1,Por indução,01/04/2022
+8514.20.11,Industriais,01/04/2022
+8514.20.19,Outros,01/04/2022
+8514.20.20,Por perdas dielétricas,01/04/2022
+8514.3,- Outros fornos:,01/04/2022
+8514.31.00,-- Fornos de feixe de elétrons,01/04/2022
+8514.32.00,-- Fornos de plasma e fornos de arco a vácuo,01/04/2022
+8514.39.00,-- Outros,01/04/2022
+8514.40.00,- Outros aparelhos para tratamento térmico de matérias por indução ou por perdas dielétricas,01/04/2022
+8514.90.00,- Partes,01/04/2022
+8515.1,- Máquinas e aparelhos para soldadura forte ou fraca:,01/04/2022
+8515.11.00,-- Ferros e pistolas,01/04/2022
+8515.19.00,-- Outros,01/04/2022
+8515.2,- Máquinas e aparelhos para soldar metais por resistência:,01/04/2022
+8515.21.00,-- Inteira ou parcialmente automáticos,01/04/2022
+8515.29.00,-- Outros,01/04/2022
+8515.3,- Máquinas e aparelhos para soldar metais por arco ou jato de plasma:,01/04/2022
+8515.31,-- Inteira ou parcialmente automáticos,01/04/2022
+8515.31.10,"Robôs para soldar, por arco, em atmosfera inerte (MIG - Metal Inert Gas) ou atmosfera ativa (MAG -",01/04/2022
+8515.31.90,Outros,01/04/2022
+8515.39.00,-- Outros,01/04/2022
+8515.80,- Outras máquinas e aparelhos,01/04/2022
+8515.80.10,Para soldar a laser,01/04/2022
+8515.80.90,Outros,01/04/2022
+8515.90.00,- Partes,01/04/2022
+8516.10.00,"- Aquecedores elétricos de água, incluindo os de imersão",01/04/2022
+8516.2,"- Aparelhos elétricos para aquecimento de ambientes, do solo ou para usos semelhantes:",01/04/2022
+8516.21.00,-- Radiadores de acumulação,01/04/2022
+8516.29.00,-- Outros,01/04/2022
+8516.3,- Aparelhos eletrotérmicos para arranjos do cabelo ou para secar as mãos:,01/04/2022
+8516.31.00,-- Secadores de cabelo,01/04/2022
+8516.32.00,-- Outros aparelhos para arranjos do cabelo,01/04/2022
+8516.33.00,-- Aparelhos para secar as mãos,01/04/2022
+8516.40.00,- Ferros elétricos de passar,01/04/2022
+8516.50.00,- Fornos de micro-ondas,01/04/2022
+8516.60.00,"- Outros fornos; fogões de cozinha, fogareiros (incluindo as chapas de cocção), grelhas e assadeiras",01/04/2022
+8516.7,- Outros aparelhos eletrotérmicos:,01/04/2022
+8516.71.00,-- Aparelhos para preparação de café ou de chá,01/04/2022
+8516.72.00,-- Torradeiras de pão,01/04/2022
+8516.79,-- Outros,01/04/2022
+8516.79.10,Panelas,01/04/2022
+8516.79.20,Fritadoras,01/04/2022
+8516.79.90,Outros,01/04/2022
+8516.80,- Resistências de aquecimento,01/04/2022
+8516.80.10,Para aparelhos da presente posição,01/04/2022
+8516.80.90,Outras,01/04/2022
+8516.90.00,- Partes,01/04/2022
+8517.1,"- Aparelhos telefônicos, incluindo os telefones inteligentes (smartphones) e outros telefones para red",01/04/2022
+8517.11.00,-- Aparelhos telefônicos por fio com unidade auscultador-microfone sem fio,01/04/2022
+8517.13.00,-- Telefones inteligentes (smartphones),01/04/2022
+8517.14,-- Outros telefones para redes celulares ou para outras redes sem fio,01/04/2022
+8517.14.10,"De radiotelefonia, analógicos",01/04/2022
+8517.14.3,"De redes celulares, exceto por satélite",01/04/2022
+8517.14.31,Portáteis,01/04/2022
+8517.14.32,"Fixos, sem fonte própria de energia",01/04/2022
+8517.14.39,Outros,01/04/2022
+8517.14.4,De telecomunicações por satélite,01/04/2022
+8517.14.41,"Digitais, operando em banda C, Ku, L ou S",01/04/2022
+8517.14.49,Outros,01/04/2022
+8517.14.90,Outros,01/04/2022
+8517.18,-- Outros,01/04/2022
+8517.18.30,Não combinados com outros aparelhos,01/04/2022
+8517.18.90,Outros,01/04/2022
+8517.6,"- Outros aparelhos para a transmissão ou recepção de voz, imagens ou outros dados, incluindo os a",01/04/2022
+8517.61,-- Estações-base,01/04/2022
+8517.61.30,De telefonia celular,01/04/2022
+8517.61.4,De telecomunicação por satélite,01/04/2022
+8517.61.41,"Principal terrena fixa, sem conjunto antena-refletor",01/04/2022
+8517.61.42,"VSAT (Very Small Aperture Terminal), sem conjunto antena-refletor",01/04/2022
+8517.61.43,"Digitais, operando em banda C, Ku, L ou S",01/04/2022
+8517.61.49,Outras,01/04/2022
+8517.61.9,Outras,01/04/2022
+8517.61.91,"Digitais, de frequência igual ou superior a 15 GHz e inferior ou igual a 23 GHze taxa de transmissão",01/04/2022
+8517.61.92,"Digitais, de frequência superior a 23 GHz",01/04/2022
+8517.61.99,Outras,01/04/2022
+8517.62,"-- Aparelhos para recepção, conversão, transmissão ou regeneração de voz,imagens ou outros dad",01/04/2022
+8517.62.1,Concentradores de linhas de assinantes (terminais de central ou terminal remoto) e multiplexadores,01/04/2022
+8517.62.14,Concentradores de linhas de assinantes (terminais de central ou terminal remoto),01/04/2022
+8517.62.15,Multiplexadores,01/04/2022
+8517.62.2,Aparelhos para comutação de linhas telefônicas,01/04/2022
+8517.62.21,"Centrais automáticas públicas, incluindo as de trânsito",01/04/2022
+8517.62.29,Outros,01/04/2022
+8517.62.3,Outros aparelhos para comutação,01/04/2022
+8517.62.34,Aparelhos para comutação de pacotes de dados (switches),01/04/2022
+8517.62.39,Outros,01/04/2022
+8517.62.4,"Roteadores digitais, em redes mesmo com fio",01/04/2022
+8517.62.41,Com capacidade de conexão sem fio,01/04/2022
+8517.62.49,Outros,01/04/2022
+8517.62.5,"Outros aparelhos para recepção, transmissão ou regeneração de voz, imagens ou outros dados em",01/04/2022
+8517.62.51,Terminais ou repetidores sobre linhas metálicas,01/04/2022
+8517.62.52,"Terminais ou repetidores sobre linhas de fibras ópticas, com velocidade de transmissão superior a 2,",01/04/2022
+8517.62.53,"Terminais de texto que operem com código de transmissão Baudot, providosde teclado alfanumérico",01/04/2022
+8517.62.54,Distribuidores de conexões para redes (hubs),01/04/2022
+8517.62.55,Moduladores-demoduladores (modems),01/04/2022
+8517.62.56,Interfones,01/04/2022
+8517.62.59,Outros,01/04/2022
+8517.62.6,Aparelhos emissores com receptor incorporado de tecnologia celular ou por satélite,01/04/2022
+8517.62.62,De tecnologia celular,01/04/2022
+8517.62.64,"Por satélite, digitais, operando em banda C, Ku, L ou S",01/04/2022
+8517.62.65,"Outros, por satélite",01/04/2022
+8517.62.7,"Outros aparelhos emissores com receptor incorporado, digitais",01/04/2022
+8517.62.72,De frequência inferior a 15 GHz e de taxa de transmissão inferior ou igual a 3,
+8517.62.73,Interfones,01/04/2022
+8517.62.77,"Outros, de frequência inferior a 15 GHz",01/04/2022
+8517.62.78,"De frequência igual ou superior a 15 GHz, mas inferior ou igual a 23 GHz e taxa de transmissão infer",01/04/2022
+8517.62.79,Outros,01/04/2022
+8517.62.9,Outros,01/04/2022
+8517.62.91,Aparelhos transmissores (emissores),01/04/2022
+8517.62.94,Tradutores (conversores) de protocolos para interconexão de redes (gateways),01/04/2022
+8517.62.96,"Outros, analógicos",01/04/2022
+8517.62.99,Outros,01/04/2022
+8517.69.00,-- Outros,01/04/2022
+8517.7,- Partes:,01/04/2022
+8517.71,-- Antenas e refletores de antenas de qualquer tipo; partes reconhecíveis como de utilização conjunta,01/04/2022
+8517.71.10,Antenas próprias para telefones celulares portáteis,01/04/2022
+8517.71.90,Outras,01/04/2022
+8517.79.00,-- Outras,01/04/2022
+8518.10,- Microfones e seus suportes,01/04/2022
+8518.10.10,Piezelétricos próprios para aparelhos telefônicos,01/04/2022
+8518.10.90,Outros,01/04/2022
+8518.2,"- Alto-falantes (altifalantes), mesmo montados nas suas caixas (colunas):",01/04/2022
+8518.21.00,-- Alto-falante (altifalante) único montado na sua caixa (coluna),01/04/2022
+8518.22.00,-- Alto-falantes (altifalantes) múltiplos montados na mesma caixa (coluna),01/04/2022
+8518.29,-- Outros,01/04/2022
+8518.29.10,Piezelétricos próprios para aparelhos telefônicos,01/04/2022
+8518.29.90,Outros,01/04/2022
+8518.30.00,"- Fones de ouvido (Auscultadores e auriculares*), mesmo combinados com um microfone, e conjunto",01/04/2022
+8518.40.00,- Amplificadores elétricos de audiofrequência,01/04/2022
+8518.50.00,- Aparelhos elétricos de amplificação de som,01/04/2022
+8518.90,- Partes,01/04/2022
+8518.90.10,De alto-falantes (altifalantes),01/04/2022
+8518.90.90,Outras,01/04/2022
+8519.20.00,"- Aparelhos que funcionem por introdução de moedas, notas (papéis-moeda),cartões de banco, fich",01/04/2022
+8519.30.00,- Pratos de toca-discos (gira-discos*),01/04/2022
+8519.8,- Outros aparelhos:,01/04/2022
+8519.81,"-- Que utilizem um suporte magnético, óptico ou de semicondutor",01/04/2022
+8519.81.10,Com sistema de leitura óptica por laser (leitores de discos compactos),01/04/2022
+8519.81.20,Gravadores de som de cabinas de aeronaves,01/04/2022
+8519.81.90,Outros,01/04/2022
+8519.89.00,-- Outros,01/04/2022
+8521.10,- De fita magnética,01/04/2022
+8521.10.10,"Gravador-reprodutor, sem sintonizador",01/04/2022
+8521.10.8,"Outros, para fitas de largura inferior a 19,05 mm (3/4'')",01/04/2022
+8521.10.81,"Em cassete, de largura de fita igual a 12,65 mm (1/2'')",01/04/2022
+8521.10.89,Outros,01/04/2022
+8521.10.90,"Outros, para fitas de largura igual ou superior a 19,05 mm (3/4'')",01/04/2022
+8521.90.00,- Outros,01/04/2022
+8522.10.00,- Fonocaptores,01/04/2022
+8522.90.00,- Outros,01/04/2022
+8523.2,- Suportes magnéticos:,01/04/2022
+8523.21,-- Cartões com tarja (banda) magnética,01/04/2022
+8523.21.10,Não gravados,01/04/2022
+8523.21.20,Gravados,01/04/2022
+8523.29,-- Outros,01/04/2022
+8523.29.1,Discos magnéticos,01/04/2022
+8523.29.11,Do tipo utilizado em unidades de discos rígidos,01/04/2022
+8523.29.19,Outros,01/04/2022
+8523.29.90,Outros,01/04/2022
+8523.4,- Suportes ópticos:,01/04/2022
+8523.41,-- Não gravados,01/04/2022
+8523.41.10,Discos para sistema de leitura por raios laser com possibilidade de serem gravados uma única vez,01/04/2022
+8523.41.90,Outros,01/04/2022
+8523.49,-- Outros,01/04/2022
+8523.49.10,Para reprodução apenas do som,01/04/2022
+8523.49.20,Para reprodução de fenômenos diferentes do som ou da imagem,01/04/2022
+8523.49.90,Outros,01/04/2022
+8523.5,- Suportes de semicondutor:,01/04/2022
+8523.51,-- Dispositivos de armazenamento de dados não voláteis à base de semicondutores,01/04/2022
+8523.51.10,Cartões de memória (memory cards),01/04/2022
+8523.51.90,Outros,01/04/2022
+8523.52,"-- ""Cartões inteligentes""",01/04/2022
+8523.52.10,Cartões e etiquetas de acionamento por aproximação,01/04/2022
+8523.52.90,Outros,01/04/2022
+8523.59.00,-- Outros,01/04/2022
+8523.80.00,- Outros,01/04/2022
+8524.1,- Sem controladores (drivers) nem circuitos de controle:,01/04/2022
+8524.11.00,-- De cristais líquidos,01/04/2022
+8524.12.00,-- De diodos emissores de luz orgânicos (OLED),01/04/2022
+8524.19.00,-- Outros,01/04/2022
+8524.9,- Outros:,01/04/2022
+8524.91.00,-- De cristais líquidos,01/04/2022
+8524.92.00,-- De diodos emissores de luz orgânicos (OLED),01/04/2022
+8524.99.00,-- Outros,01/04/2022
+8525.50,- Aparelhos transmissores (emissores),01/04/2022
+8525.50.1,De radiodifusão,01/04/2022
+8525.50.11,"Em AM, com modulação por código ou largura de pulso, totalmente a semicondutor e com potência d",01/04/2022
+8525.50.19,Outros,01/04/2022
+8525.50.2,De televisão,01/04/2022
+8525.50.21,De frequência superior a 7 GHz,01/04/2022
+8525.50.22,"Em banda UHF, de frequência igual ou superior a 2,0 GHz, mas não superior",
+8525.50.23,"Em banda UHF, com potência de saída superior a 10 kW",01/04/2022
+8525.50.24,"Em banda VHF, com potência de saída igual ou superior a 20 kW",01/04/2022
+8525.50.29,Outros,01/04/2022
+8525.60,- Aparelhos transmissores (emissores) que incorporem um aparelho receptor,01/04/2022
+8525.60.10,De radiodifusão,01/04/2022
+8525.60.20,"De televisão, de frequência superior a 7 GHz",01/04/2022
+8525.60.90,Outros,01/04/2022
+8525.8,"- Câmeras de televisão, câmeras fotográficas digitais e câmeras de vídeo:",01/04/2022
+8525.81.00,"-- Ultrarrápidas, mencionadas na Nota de subposições 1 do presente Capítulo",01/04/2022
+8525.82.00,"-- Outras, resistentes à radiação, mencionadas na Nota de subposições 2 dopresente Capítulo",01/04/2022
+8525.83.00,"-- Outras, de visão noturna, mencionadas na Nota de subposições 3 do presente Capítulo",01/04/2022
+8525.89,-- Outras,01/04/2022
+8525.89.1,Câmeras de televisão,01/04/2022
+8525.89.11,Com três ou mais captadores de imagem,01/04/2022
+8525.89.12,"Com sensor de imagem a semicondutor tipo CCD, de mais de 490 x 580 elementos de imagem (pixe",01/04/2022
+8525.89.13,"Com sensor de imagem a semicondutor tipo CMOS, de mais de 490 x 580 elementos de imagem (pi",01/04/2022
+8525.89.14,"Outras, próprias para captar imagens exclusivamente no espectro infravermelho de comprimento de",01/04/2022
+8525.89.19,Outras,01/04/2022
+8525.89.2,Câmeras fotográficas digitais e câmeras de vídeo,01/04/2022
+8525.89.21,Com três ou mais captadores de imagem,01/04/2022
+8525.89.22,"Outras, próprias para captar imagens exclusivamente no espectro infravermelho de comprimento de",01/04/2022
+8525.89.29,Outras,01/04/2022
+8526.10.00,- Aparelhos de radiodetecção e de radiossondagem (radar),01/04/2022
+8526.9,- Outros:,01/04/2022
+8526.91.00,-- Aparelhos de radionavegação,01/04/2022
+8526.92.00,-- Aparelhos de radiotelecomando,01/04/2022
+8527.1,- Aparelhos receptores de radiodifusão suscetíveis de funcionarem sem fonteexterna de energia:,01/04/2022
+8527.12.00,-- Rádios toca-fitas (Rádios-leitores de cassetes*) de bolso,01/04/2022
+8527.13.00,-- Outros aparelhos combinados com um aparelho de gravação ou de reprodução de som,01/04/2022
+8527.19.00,-- Outros,01/04/2022
+8527.2,"- Aparelhos receptores de radiodifusão que só funcionem com fonte externa de energia, do tipo utiliz",01/04/2022
+8527.21.00,-- Combinados com um aparelho de gravação ou de reprodução de som,01/04/2022
+8527.29.00,-- Outros,01/04/2022
+8527.9,- Outros:,01/04/2022
+8527.91.00,-- Combinados com um aparelho de gravação ou de reprodução de som,01/04/2022
+8527.92.00,"-- Não combinados com um aparelho de gravação ou de reprodução de som,mas combinados com",01/04/2022
+8527.99,-- Outros,01/04/2022
+8527.99.10,Amplificador com sintonizador (receiver),01/04/2022
+8527.99.90,Outros,01/04/2022
+8528.4,- Monitores com tubo de raios catódicos:,01/04/2022
+8528.42.00,-- Capazes de serem conectados diretamente a uma máquina automática para processamento de da,01/04/2022
+8528.49,-- Outros,01/04/2022
+8528.49.30,"Policromáticos, com dispositivos de seleção de varredura (underscanning) ede retardo de sincronism",01/04/2022
+8528.49.90,Outros,01/04/2022
+8528.5,- Outros monitores:,01/04/2022
+8528.52.00,-- Capazes de serem conectados diretamente a uma máquina automática para processamento de da,01/04/2022
+8528.59.00,-- Outros,01/04/2022
+8528.6,- Projetores:,01/04/2022
+8528.62.00,-- Capazes de serem conectados diretamente a uma máquina automática para processamento de da,01/04/2022
+8528.69,-- Outros,01/04/2022
+8528.69.10,Com tecnologia de dispositivo digital de microespelhos (DMD - Digital Micromirror Device),01/04/2022
+8528.69.90,Outros,01/04/2022
+8528.7,"- Aparelhos receptores de televisão, mesmo que incorporem um aparelho receptor de radiodifusão o",01/04/2022
+8528.71,"-- Não concebidos para incorporar um dispositivo de visualização ou uma tela(ecrã*), de vídeo",01/04/2022
+8528.71.1,Receptor-decodificador integrado (IRD) de sinais digitalizados de vídeo codificados,01/04/2022
+8528.71.11,"Sem saída de radiofrequência (RF) modulada nos canais 3 ou 4, com saídasde áudio balanceadas c",01/04/2022
+8528.71.19,Outros,01/04/2022
+8528.71.90,Outros,01/04/2022
+8528.72.00,"-- Outros, a cores",01/04/2022
+8528.73.00,"-- Outros, a preto e branco ou outros monocromos",01/04/2022
+8529.10,- Antenas e refletores de antenas de qualquer tipo; partes reconhecíveis como de utilização conjunta,01/04/2022
+8529.10.20,Antenas com refletor parabólico,01/04/2022
+8529.10.90,Outros,01/04/2022
+8529.90,- Outras,01/04/2022
+8529.90.1,De aparelhos das subposições 8525.50 ou 8525.60,01/04/2022
+8529.90.11,Gabinetes e bastidores,01/04/2022
+8529.90.12,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",01/04/2022
+8529.90.19,Outras,01/04/2022
+8529.90.20,De aparelhos das posições 85.27 ou 85.28,01/04/2022
+8529.90.30,De aparelhos da subposição 8526.10,01/04/2022
+8529.90.40,De aparelhos da subposição 8526.91,01/04/2022
+8529.90.50,De módulos de visualização da posição 85.24,01/04/2022
+8529.90.90,Outras,01/04/2022
+8530.10,- Aparelhos para vias férreas ou semelhantes,01/04/2022
+8530.10.10,"Digitais, para controle de tráfego",01/04/2022
+8530.10.90,Outros,01/04/2022
+8530.80,- Outros aparelhos,01/04/2022
+8530.80.10,"Digitais, para controle de tráfego de automotores",01/04/2022
+8530.80.90,Outros,01/04/2022
+8530.90.00,- Partes,01/04/2022
+8531.10,- Aparelhos elétricos de alarme para proteção contra roubo ou incêndio e aparelhos semelhantes,01/04/2022
+8531.10.10,Alarmes contra incêndio ou sobreaquecimento,01/04/2022
+8531.10.90,Outros,01/04/2022
+8531.20.00,- Painéis indicadores com dispositivos de cristais líquidos (LCD) ou de diodosemissores de luz (LED,01/04/2022
+8531.80.00,- Outros aparelhos,01/04/2022
+8531.90.00,- Partes,01/04/2022
+8532.10.00,- Condensadores fixos concebidos para linhas elétricas de 50/60 Hz e capazes de absorver uma pot,01/04/2022
+8532.2,- Outros condensadores fixos:,01/04/2022
+8532.21,-- De tântalo,01/04/2022
+8532.21.1,Próprios para montagem em superfície (SMD - Surface Mounted Device),01/04/2022
+8532.21.11,Com tensão de isolação inferior ou igual a 125 V,01/04/2022
+8532.21.19,Outros,01/04/2022
+8532.21.20,Próprios para montagem por inserção (PTH - Pin Through Hole),01/04/2022
+8532.21.90,Outros,01/04/2022
+8532.22.00,-- Eletrolíticos de alumínio,01/04/2022
+8532.23,"-- Com dielétrico de cerâmica, de uma só camada",01/04/2022
+8532.23.10,Próprios para montagem em superfície (SMD - Surface Mounted Device),01/04/2022
+8532.23.90,Outros,01/04/2022
+8532.24,"-- Com dielétrico de cerâmica, de camadas múltiplas",01/04/2022
+8532.24.10,Próprios para montagem em superfície (SMD - Surface Mounted Device),01/04/2022
+8532.24.20,Próprios para montagem por inserção (PTH - Pin Through Hole),01/04/2022
+8532.24.90,Outros,01/04/2022
+8532.25,-- Com dielétrico de papel ou de plástico,01/04/2022
+8532.25.10,Próprios para montagem em superfície (SMD - Surface Mounted Device),01/04/2022
+8532.25.90,Outros,01/04/2022
+8532.29,-- Outros,01/04/2022
+8532.29.10,Próprios para montagem em superfície (SMD - Surface Mounted Device),01/04/2022
+8532.29.90,Outros,01/04/2022
+8532.30,- Condensadores variáveis ou ajustáveis,01/04/2022
+8532.30.10,Próprios para montagem em superfície (SMD - Surface Mounted Device),01/04/2022
+8532.30.90,Outros,01/04/2022
+8532.90.00,- Partes,01/04/2022
+8533.10.00,"- Resistências fixas de carbono, aglomeradas ou de camada",01/04/2022
+8533.2,- Outras resistências fixas:,01/04/2022
+8533.21,-- Para potência não superior a 20 W,01/04/2022
+8533.21.10,De fio,01/04/2022
+8533.21.20,Próprias para montagem em superfície (SMD - Surface Mounted Device),01/04/2022
+8533.21.90,Outras,01/04/2022
+8533.29.00,-- Outras,01/04/2022
+8533.3,- Resistências variáveis bobinadas (incluindo os reostatos e os potenciômetros):,01/04/2022
+8533.31,-- Para potência não superior a 20 W,01/04/2022
+8533.31.10,Potenciômetros,01/04/2022
+8533.31.90,Outras,01/04/2022
+8533.39,-- Outras,01/04/2022
+8533.39.10,Potenciômetros,01/04/2022
+8533.39.90,Outras,01/04/2022
+8533.40,- Outras resistências variáveis (incluindo os reostatos e os potenciômetros),01/04/2022
+8533.40.1,Resistências não lineares semicondutoras,01/04/2022
+8533.40.11,Termistores,01/04/2022
+8533.40.12,Varistores para uma tensão inferior ou igual a 1.000 V,01/04/2022
+8533.40.13,Outros varistores,01/04/2022
+8533.40.19,Outras,01/04/2022
+8533.40.9,Outras,01/04/2022
+8533.40.91,"Potenciômetro de carvão, do tipo utilizado para determinar o ângulo de abertura da borboleta, em sis",01/04/2022
+8533.40.92,Outros potenciômetros de carvão,01/04/2022
+8533.40.99,Outras,01/04/2022
+8533.90.00,- Partes,01/04/2022
+8534.00,Circuitos impressos.,01/04/2022
+8534.00.1,"Simples face, rígidos",01/04/2022
+8534.00.11,Com isolante de resina fenólica e papel celulósico,01/04/2022
+8534.00.12,Com isolante de resina epóxida e papel celulósico,01/04/2022
+8534.00.13,Com isolante de resina epóxida e tecido de fibra de vidro,01/04/2022
+8534.00.19,Outros,01/04/2022
+8534.00.20,"Simples face, flexíveis",01/04/2022
+8534.00.3,"Dupla face, rígidos",01/04/2022
+8534.00.31,Com isolante de resina fenólica e papel celulósico,01/04/2022
+8534.00.32,Com isolante de resina epóxida e papel celulósico,01/04/2022
+8534.00.33,Com isolante de resina epóxida e tecido de fibra de vidro,01/04/2022
+8534.00.39,Outros,01/04/2022
+8534.00.40,"Dupla face, flexíveis",01/04/2022
+8534.00.5,Multicamadas,01/04/2022
+8534.00.51,Com isolante de resina epóxida e tecido de fibra de vidro,01/04/2022
+8534.00.59,Outros,01/04/2022
+8535.10.00,- Fusíveis e corta-circuitos de fusíveis,01/04/2022
+8535.2,- Disjuntores:,01/04/2022
+8535.21.00,"-- Para uma tensão inferior a 72,5 kV",01/04/2022
+8535.29.00,-- Outros,01/04/2022
+8535.30,- Seccionadores e interruptores,01/04/2022
+8535.30.1,Para corrente nominal inferior ou igual a 1.600 A,01/04/2022
+8535.30.13,"Interruptores a vácuo, sem dispositivo de acionamento (ampolas a vácuo)",01/04/2022
+8535.30.17,"Outros, com dispositivo de acionamento não automático",01/04/2022
+8535.30.18,"Outros, com dispositivo de acionamento automático, exceto os de contatos imersos em meio líquido",01/04/2022
+8535.30.19,Outros,01/04/2022
+8535.30.2,Para corrente nominal superior a 1.600 A,01/04/2022
+8535.30.23,"Interruptores a vácuo, sem dispositivo de acionamento (ampolas a vácuo)",01/04/2022
+8535.30.27,"Outros, com dispositivo de acionamento não automático",01/04/2022
+8535.30.28,"Outros, com dispositivo de acionamento automático, exceto os de contatos imersos em meio líquido",01/04/2022
+8535.30.29,Outros,01/04/2022
+8535.40,"- Para-raios, limitadores de tensão e supressores de picos de tensão (eliminadores de onda)",01/04/2022
+8535.40.10,Para-raios para proteção de linhas de transmissão de eletricidade,01/04/2022
+8535.40.90,Outros,01/04/2022
+8535.90,- Outros,01/04/2022
+8535.90.10,"Comutadores com ampolas a vácuo, sem interrupção de circulação de corrente durante a comutação",01/04/2022
+8535.90.90,Outros,01/04/2022
+8536.10.00,- Fusíveis e corta-circuitos de fusíveis,01/04/2022
+8536.20.00,- Disjuntores,01/04/2022
+8536.30,- Outros aparelhos para proteção de circuitos elétricos,01/04/2022
+8536.30.10,Centelhador a gás,01/04/2022
+8536.30.90,Outros,01/04/2022
+8536.4,- Relés:,01/04/2022
+8536.41.00,-- Para uma tensão não superior a 60 V,01/04/2022
+8536.49.00,-- Outros,01/04/2022
+8536.50,"- Outros interruptores, seccionadores e comutadores",01/04/2022
+8536.50.10,Unidade chaveadora de conversor de subida e descida para sistema de telecomunicações via satélit,01/04/2022
+8536.50.20,Unidade chaveadora de amplificador de alta potência (HPA) para sistema detelecomunicações via s,01/04/2022
+8536.50.30,"Comutadores codificadores digitais, próprios para montagem em circuitos impressos",01/04/2022
+8536.50.90,Outros,01/04/2022
+8536.6,"- Suportes para lâmpadas, plugues (fichas*) e tomadas de corrente:",01/04/2022
+8536.61.00,-- Suportes para lâmpadas,01/04/2022
+8536.69,-- Outros,01/04/2022
+8536.69.10,Tomada polarizada e tomada blindada,01/04/2022
+8536.69.90,Outros,01/04/2022
+8536.70.00,"- Conectores para fibras ópticas, feixes ou cabos de fibras ópticas",01/04/2022
+8536.90,- Outros aparelhos,01/04/2022
+8536.90.10,Conectores para cabos planos constituídos por condutores paralelos isoladosindividualmente,01/04/2022
+8536.90.20,Tomadas de contato deslizante em condutores aéreos,01/04/2022
+8536.90.30,Soquetes para microestruturas eletrônicas,01/04/2022
+8536.90.40,Conectores para circuito impresso,01/04/2022
+8536.90.50,"Terminais de conexão para condensadores, mesmo montados em suporte isolante",01/04/2022
+8536.90.60,"Conector de corrente elétrica para acoplamento através da carcaça, do tipo utilizado em motocompre",01/04/2022
+8536.90.90,Outros,01/04/2022
+8537.10,- Para uma tensão não superior a 1.000 V,01/04/2022
+8537.10.1,Comando numérico computadorizado (CNC),01/04/2022
+8537.10.11,"Com processador e barramento de 32 bits ou superior, incorporando recursosgráficos e execução d",01/04/2022
+8537.10.19,Outros,01/04/2022
+8537.10.20,Controladores programáveis,01/04/2022
+8537.10.30,Controladores de demanda de energia elétrica,01/04/2022
+8537.10.90,Outros,01/04/2022
+8537.20,- Para uma tensão superior a 1.000 V,01/04/2022
+8537.20.10,"Subestações isoladas a gás (GIS - Gas-Insulated Switchgear ou HIS - HighlyIntegrated Switchgear),",01/04/2022
+8537.20.90,Outros,01/04/2022
+8538.10.00,"- Quadros, painéis, consoles, cabinas, armários e outros suportes, da posição",
+8538.90,- Outras,01/04/2022
+8538.90.10,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",01/04/2022
+8538.90.20,"De disjuntores, para uma tensão igual ou superior a 72,5 kV",01/04/2022
+8538.90.90,Outras,01/04/2022
+8539.10,"- Artigos denominados ""faróis e projetores, em unidades seladas""",01/04/2022
+8539.10.10,Para uma tensão inferior ou igual a 15 V,01/04/2022
+8539.10.90,Outros,01/04/2022
+8539.2,"- Outras lâmpadas e tubos de incandescência, exceto de raios ultravioleta ouinfravermelhos:",01/04/2022
+8539.21,"-- Halógenos, de tungstênio (volfrâmio)",01/04/2022
+8539.21.10,Para uma tensão inferior ou igual a 15 V,01/04/2022
+8539.21.90,Outros,01/04/2022
+8539.22.00,"-- Outros, de potência não superior a 200 W e uma tensão superior a 100 V",01/04/2022
+8539.29,-- Outros,01/04/2022
+8539.29.10,Para uma tensão inferior ou igual a 15 V,01/04/2022
+8539.29.90,Outros,01/04/2022
+8539.3,"- Lâmpadas e tubos de descarga, exceto de raios ultravioleta:",01/04/2022
+8539.31,"-- Fluorescentes, de cátodo quente",01/04/2022
+8539.31.1,"Lâmpadas, com reator eletrônico incorporado e base rosca E 14, E 27 ou E 40",01/04/2022
+8539.31.11,Que contenham mais de 5 mg de mercúrio por cada invólucro (tubo),01/04/2022
+8539.31.19,Outras,01/04/2022
+8539.31.20,Outras lâmpadas,01/04/2022
+8539.31.3,Tubos,01/04/2022
+8539.31.31,Com fósforo tribanda e que contenham mais de 5 mg de mercúrio,01/04/2022
+8539.31.32,Com fósforo em halofosfato e que contenham mais de 10 mg de mercúrio,01/04/2022
+8539.31.39,Outros,01/04/2022
+8539.32,-- Lâmpadas de vapor de mercúrio ou de sódio; lâmpadas de halogeneto metálico,01/04/2022
+8539.32.10,De vapor de mercúrio,01/04/2022
+8539.32.20,De vapor de sódio,01/04/2022
+8539.32.30,De halogeneto metálico,01/04/2022
+8539.39,-- Outros,01/04/2022
+8539.39.1,"Tubos fluorescentes de cátodo frio ou de eletrodo externo, para telas eletrônicas",01/04/2022
+8539.39.11,"De comprimento não superior a 500 mm e que contenham mais de 3,5 mg demercúrio",01/04/2022
+8539.39.12,"De comprimento superior a 500 mm, mas não superior a 1.500 mm e que contenham mais de 5 mg d",01/04/2022
+8539.39.13,De comprimento superior a 1.500 mm e que contenham mais de 13 mg de mercúrio,01/04/2022
+8539.39.19,Outros,01/04/2022
+8539.39.90,Outros,01/04/2022
+8539.4,- Lâmpadas e tubos de raios ultravioleta ou infravermelhos; lâmpadas de arco:,01/04/2022
+8539.41,-- Lâmpadas de arco,01/04/2022
+8539.41.10,De potência igual ou superior a 1.000 W,01/04/2022
+8539.41.90,Outras,01/04/2022
+8539.49.00,-- Outros,01/04/2022
+8539.5,- Fontes de luz de diodos emissores de luz (LED):,01/04/2022
+8539.51.00,-- Módulos de diodos emissores de luz (LED),01/04/2022
+8539.52.00,-- Lâmpadas e tubos de diodos emissores de luz (LED),01/04/2022
+8539.90,- Partes,01/04/2022
+8539.90.10,Eletrodos,01/04/2022
+8539.90.20,Bases,01/04/2022
+8539.90.90,Outras,01/04/2022
+8540.1,"- Tubos catódicos para receptores de televisão, incluindo os tubos para monitores de vídeo:",01/04/2022
+8540.11.00,-- A cores,01/04/2022
+8540.12.00,-- A preto e branco ou outros monocromos,01/04/2022
+8540.20,- Tubos para câmeras de televisão; tubos conversores ou intensificadores deimagens; outros tubos,01/04/2022
+8540.20.1,Tubos para câmeras de televisão,01/04/2022
+8540.20.11,A preto e branco ou outros monocromos,01/04/2022
+8540.20.19,Outros,01/04/2022
+8540.20.20,"Tubos conversores ou intensificadores de imagens, de raios X",01/04/2022
+8540.20.90,Outros,01/04/2022
+8540.40.00,"- Tubos de visualização de dados gráficos, em monocromos; tubos de visualização de dados gráficos",01/04/2022
+8540.60,- Outros tubos catódicos,01/04/2022
+8540.60.10,"Tubos de visualização de dados gráficos, em cores, com uma tela de espaçamento entre os pontos i",01/04/2022
+8540.60.90,Outros,01/04/2022
+8540.7,"- Tubos para micro-ondas (por exemplo, magnétrons, clístrons, guias (tubos)de ondas progressivas,",01/04/2022
+8540.71.00,-- Magnétrons,01/04/2022
+8540.79.00,-- Outros,01/04/2022
+8540.8,"- Outras lâmpadas, tubos e válvulas:",01/04/2022
+8540.81.00,-- Tubos de recepção ou de amplificação,01/04/2022
+8540.89,-- Outros,01/04/2022
+8540.89.10,Válvulas de potência para transmissores,01/04/2022
+8540.89.90,Outros,01/04/2022
+8540.9,- Partes:,01/04/2022
+8540.91,-- De tubos catódicos,01/04/2022
+8540.91.10,Bobinas de deflexão (yokes),01/04/2022
+8540.91.20,Núcleos de pó ferromagnético para bobinas de deflexão (yokes),01/04/2022
+8540.91.30,Canhões eletrônicos,01/04/2022
+8540.91.40,"Painel de vidro, máscara de sombra e blindagem interna, reunidos, para tubos tricromáticos",01/04/2022
+8540.91.90,Outras,01/04/2022
+8540.99.00,-- Outras,01/04/2022
+8541.10,"- Diodos, exceto fotodiodos e diodos emissores de luz (LED)",01/04/2022
+8541.10.1,Não montados,01/04/2022
+8541.10.11,Zener,01/04/2022
+8541.10.12,"Outros, de intensidade de corrente inferior ou igual a 3 A",01/04/2022
+8541.10.19,Outros,01/04/2022
+8541.10.2,"Montados, próprios para montagem em superfície (SMD - Surface Mounted Device)",01/04/2022
+8541.10.21,Zener,01/04/2022
+8541.10.22,"Outros, de intensidade de corrente inferior ou igual a 3 A",01/04/2022
+8541.10.29,Outros,01/04/2022
+8541.10.3,"Montados, próprios para montagem por inserção (PTH - Pin Through Hole)",01/04/2022
+8541.10.31,Zener,01/04/2022
+8541.10.32,"Outros, de intensidade de corrente inferior ou igual a 3 A",01/04/2022
+8541.10.39,Outros,01/04/2022
+8541.10.9,Outros,01/04/2022
+8541.10.91,Zener,01/04/2022
+8541.10.92,"Outros, de intensidade de corrente inferior ou igual a 3 A",01/04/2022
+8541.10.99,Outros,01/04/2022
+8541.2,"- Transistores, exceto os fototransistores:",01/04/2022
+8541.21,-- Com capacidade de dissipação inferior a 1 W,01/04/2022
+8541.21.10,Não montados,01/04/2022
+8541.21.20,"Montados, próprios para montagem em superfície (SMD - Surface Mounted Device)",01/04/2022
+8541.21.9,Outros,01/04/2022
+8541.21.91,"De efeito de campo, com junção heterogênea (HJFET ou HEMT)",01/04/2022
+8541.21.99,Outros,01/04/2022
+8541.29,-- Outros,01/04/2022
+8541.29.10,Não montados,01/04/2022
+8541.29.20,Montados,01/04/2022
+8541.30,"- Tiristores, diacs e triacs, exceto os dispositivos fotossensíveis",01/04/2022
+8541.30.1,Não montados,01/04/2022
+8541.30.11,De intensidade de corrente inferior ou igual a 3 A,01/04/2022
+8541.30.19,Outros,01/04/2022
+8541.30.2,Montados,01/04/2022
+8541.30.21,De intensidade de corrente inferior ou igual a 3 A,01/04/2022
+8541.30.29,Outros,01/04/2022
+8541.4,"- Dispositivos fotossensíveis semicondutores, incluindo as células fotovoltaicas, mesmo montadas e",01/04/2022
+8541.41,-- Diodos emissores de luz (LED),01/04/2022
+8541.41.1,Não montados,01/04/2022
+8541.41.11,"Diodos emissores de luz (LED), exceto diodos laser",01/04/2022
+8541.41.12,Diodos laser,01/04/2022
+8541.41.2,Montados,01/04/2022
+8541.41.21,"Diodos emissores de luz (LED), exceto diodos laser, próprios para montagemem superfície (SMD -",01/04/2022
+8541.41.22,"Outros diodos emissores de luz (LED), exceto diodos laser",01/04/2022
+8541.41.23,Diodos laser com comprimento de onda de 1.300 nm ou 1.500 nm,01/04/2022
+8541.41.24,Outros diodos laser,01/04/2022
+8541.42,-- Células fotovoltaicas não montadas em módulos nem em painéis,01/04/2022
+8541.42.10,Células solares orgânicas,01/04/2022
+8541.42.20,Outras células solares,01/04/2022
+8541.42.90,Outras,01/04/2022
+8541.43.00,-- Células fotovoltaicas montadas em módulos ou em painéis,01/04/2022
+8541.49.00,-- Outros,01/04/2022
+8541.5,- Outros dispositivos semicondutores:,01/04/2022
+8541.51.00,-- Transdutores à base de semicondutores,01/04/2022
+8541.59.00,-- Outros,01/04/2022
+8541.60,- Cristais piezelétricos montados,01/04/2022
+8541.60.10,"De quartzo, de frequência igual ou superior a 1 MHz, mas não superior a 100MHz",01/04/2022
+8541.60.90,Outros,01/04/2022
+8541.90,- Partes,01/04/2022
+8541.90.10,Suportes-conectores apresentados em tiras (lead frames),01/04/2022
+8541.90.20,Coberturas para encapsulamento (cápsulas),01/04/2022
+8541.90.90,Outras,01/04/2022
+8542.3,- Circuitos integrados eletrônicos:,01/04/2022
+8542.31,"-- Processadores e controladores, mesmo combinados com memórias, conversores, circuitos lógicos",01/04/2022
+8542.31.10,Não montados,01/04/2022
+8542.31.20,"Montados, próprios para montagem em superfície (SMD - Surface Mounted Device)",01/04/2022
+8542.31.90,Outros,01/04/2022
+8542.32,-- Memórias,01/04/2022
+8542.32.10,Não montadas,01/04/2022
+8542.32.2,"Montadas, próprias para montagem em superfície (SMD - Surface Mounted Device)",01/04/2022
+8542.32.21,"Dos tipos RAM estáticas (SRAM) com tempo de acesso inferior ou igual a 25ns, EPROM, EEPROM",01/04/2022
+8542.32.29,Outras,01/04/2022
+8542.32.9,Outras,01/04/2022
+8542.32.91,"Dos tipos RAM estáticas (SRAM) com tempo de acesso inferior ou igual a 25ns, EPROM, EEPROM",01/04/2022
+8542.32.99,Outras,01/04/2022
+8542.33,-- Amplificadores,01/04/2022
+8542.33.1,Híbridos,01/04/2022
+8542.33.11,De espessura de camada inferior ou igual a 1 micrômetro (mícron) com frequência de operação igua,01/04/2022
+8542.33.19,Outros,01/04/2022
+8542.33.20,"Outros, não montados",01/04/2022
+8542.33.90,Outros,01/04/2022
+8542.39,-- Outros,01/04/2022
+8542.39.1,Híbridos,01/04/2022
+8542.39.11,De espessura de camada inferior ou igual a 1 micrômetro (mícron) com frequência de operação igua,01/04/2022
+8542.39.19,Outros,01/04/2022
+8542.39.20,"Outros, não montados",01/04/2022
+8542.39.3,"Outros, montados, próprios para montagem em superfície (SMD - Surface Mounted Device)",01/04/2022
+8542.39.31,Circuitos do tipo chipset,01/04/2022
+8542.39.39,Outros,01/04/2022
+8542.39.9,Outros,01/04/2022
+8542.39.91,Circuitos do tipo chipset,01/04/2022
+8542.39.99,Outros,01/04/2022
+8542.90.00,- Partes,01/04/2022
+8543.10.00,- Aceleradores de partículas,01/04/2022
+8543.20.00,- Geradores de sinais,01/04/2022
+8543.30,"- Máquinas e aparelhos de galvanoplastia, eletrólise ou eletroforese",01/04/2022
+8543.30.10,"De eletrólise, com células de membrana",01/04/2022
+8543.30.90,Outros,01/04/2022
+8543.40.00,- Cigarros eletrônicos e dispositivos de vaporização elétricos de uso pessoalsemelhantes,01/04/2022
+8543.70,- Outras máquinas e aparelhos,01/04/2022
+8543.70.1,Amplificadores de radiofrequência,01/04/2022
+8543.70.11,"Para transmissão de sinais de micro-ondas de alta potência (HPA), a válvulaTWT do tipo Phase Co",01/04/2022
+8543.70.12,"Para recepção de sinais de micro-ondas de baixo ruído (LNA) na banda de 3.600 a .2020 MHz, com",10/04/4202
+8543.70.13,Para distribuição de sinais de televisão,01/04/2022
+8543.70.14,Outros para recepção de sinais de micro-ondas,01/04/2022
+8543.70.15,Outros para transmissão de sinais de micro-ondas,01/04/2022
+8543.70.19,Outros,01/04/2022
+8543.70.20,Aparelhos para eletrocutar insetos,01/04/2022
+8543.70.3,Máquinas e aparelhos auxiliares para vídeo,01/04/2022
+8543.70.31,"Geradores de efeitos especiais com manipulação em 2 ou 3 dimensões, mesmo combinados com di",01/04/2022
+8543.70.32,"Geradores de caracteres, digitais",01/04/2022
+8543.70.33,Sincronizadores de quadro armazenadores ou corretores de base de tempo,01/04/2022
+8543.70.34,Controladores de edição,01/04/2022
+8543.70.35,"Misturador digital, em tempo real, com oito ou mais entradas",01/04/2022
+8543.70.36,"Roteador-comutador (routing switcher) de mais de 20 entradas e mais de 16saídas, de áudio ou de",01/04/2022
+8543.70.39,Outros,01/04/2022
+8543.70.40,Transcodificadores ou conversores de padrões de televisão,01/04/2022
+8543.70.50,Simulador de antenas para transmissores com potência igual ou superior a 25 kW (carga fantasma),01/04/2022
+8543.70.9,Outros,01/04/2022
+8543.70.91,"Terminais de texto que operem com código de transmissão Baudot, providosde teclado alfanumérico",01/04/2022
+8543.70.92,Eletrificadores de cercas,01/04/2022
+8543.70.99,Outros,01/04/2022
+8543.90,- Partes,01/04/2022
+8543.90.10,Das máquinas ou aparelhos da subposição 8543.70,01/04/2022
+8543.90.90,Outras,01/04/2022
+8544.1,- Fios para bobinar:,01/04/2022
+8544.11.00,-- De cobre,01/04/2022
+8544.19,-- Outros,01/04/2022
+8544.19.1,De alumínio,01/04/2024
+8544.19.11,Revestido de cobre (CCA - Copper Clad Aluminum),01/04/2024
+8544.19.19,Outros,01/04/2024
+8544.19.90,Outros,01/04/2022
+8544.20.00,- Cabos coaxiais e outros condutores elétricos coaxiais,01/04/2022
+8544.30.00,- Jogos de fios para velas de ignição e outros jogos de fios do tipo utilizado em quaisquer veículos,01/04/2022
+8544.4,"- Outros condutores elétricos, para uma tensão não superior a 1.000 V:",01/04/2022
+8544.42.00,-- Munidos de peças de conexão,01/04/2022
+8544.49.00,-- Outros,01/04/2022
+8544.60.00,"- Outros condutores elétricos, para uma tensão superior a 1.000 V",01/04/2022
+8544.70,- Cabos de fibras ópticas,01/04/2022
+8544.70.10,Com revestimento externo de material dielétrico,01/04/2022
+8544.70.20,"Com revestimento externo de aço, próprios para instalação submarina (cabosubmarino)",01/04/2022
+8544.70.30,Com revestimento externo de alumínio,01/04/2022
+8544.70.90,Outros,01/04/2022
+8545.1,- Eletrodos:,01/04/2022
+8545.11.00,-- Do tipo utilizado em fornos,01/04/2022
+8545.19,-- Outros,01/04/2022
+8545.19.10,"De grafita, com um teor de carbono igual ou superior a 99,9 %, em peso",01/04/2022
+8545.19.20,"Blocos de grafite, do tipo utilizado como cátodos em cubas eletrolíticas",01/04/2022
+8545.19.90,Outros,01/04/2022
+8545.20.00,- Escovas,01/04/2022
+8545.90,- Outros,01/04/2022
+8545.90.10,Carvões para pilhas elétricas,01/04/2022
+8545.90.20,Resistências aquecedoras desprovidas de revestimento e de terminais,01/04/2022
+8545.90.30,"Suportes de conexão (nipples), para eletrodos",01/04/2022
+8545.90.90,Outros,01/04/2022
+8546.10.00,- De vidro,01/04/2022
+8546.20.00,- De cerâmica,01/04/2022
+8546.90.00,- Outros,01/04/2022
+8547.10.00,- Peças isolantes de cerâmica,01/04/2022
+8547.20,- Peças isolantes de plástico,01/04/2022
+8547.20.10,"Tampões vedadores para condensadores, com perfurações para terminais",01/04/2022
+8547.20.90,Outras,01/04/2022
+8547.90.00,- Outros,01/04/2022
+8548.00,"Partes elétricas de máquinas ou aparelhos, não especificadas nem compreendidas noutras posições",01/04/2022
+8548.00.10,Termopares do tipo utilizado em dispositivos termoelétricos de segurança deaparelhos alimentados,01/04/2022
+8548.00.90,Outras,01/04/2022
+8549.1,"- Desperdícios e resíduos, e sucata, de pilhas, de baterias de pilhas e de acumuladores, elétricos; pil",01/04/2022
+8549.11.00,"-- Desperdícios e resíduos, e sucata, de acumuladores de chumbo-ácido; acumuladores de chumbo-",01/04/2022
+8549.12.00,"-- Outros, que contenham chumbo, cádmio ou mercúrio",01/04/2022
+8549.13.00,"-- Selecionados por tipo de componente químico e que não contenham chumbo, cádmio ou mercúrio",01/04/2022
+8549.14.00,"-- Não selecionados e que não contenham chumbo, cádmio ou mercúrio",01/04/2022
+8549.19.00,-- Outros,01/04/2022
+8549.2,- Do tipo utilizado principalmente para a recuperação de metais preciosos:,01/04/2022
+8549.21.00,"-- Que contenham pilhas, baterias de pilhas ou acumuladores, elétricos, interruptores de mercúrio, vi",01/04/2022
+8549.29.00,-- Outros,01/04/2022
+8549.3,- Outras montagens elétricas e eletrônicas e placas de circuitos impressos:,01/04/2022
+8549.31.00,"-- Que contenham pilhas, baterias de pilhas ou acumuladores, elétricos, interruptores de mercúrio, vi",01/04/2022
+8549.39.00,-- Outras,01/04/2022
+8549.9,- Outros:,01/04/2022
+8549.91.00,"-- Que contenham pilhas, baterias de pilhas ou acumuladores, elétricos, interruptores de mercúrio, vi",01/04/2022
+8549.99.00,-- Outros,01/04/2022

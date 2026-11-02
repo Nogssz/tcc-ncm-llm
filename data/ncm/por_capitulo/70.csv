@@ -1,0 +1,132 @@
+codigo,descricao,data_inicio
+70.02,"Vidro em esferas (exceto as microsferas da posição 70.18), barras, varetas ou tubos, não trabalhado",01/04/2022
+70.03,"Vidro vazado ou laminado, em chapas, folhas ou perfis, mesmo com camadaabsorvente, refletora o",01/04/2022
+70.04,"Vidro estirado ou soprado, em folhas, mesmo com camada absorvente, refletora ou não, mas não tra",01/04/2022
+70.05,"Vidro flotado e vidro desbastado ou polido numa ou em ambas as faces, em chapas ou em folhas, m",01/04/2022
+70.07,Vidros de segurança consistindo em vidros temperados ou formados por folhas contracoladas.,01/04/2022
+70.09,"Espelhos de vidro, mesmo emoldurados, incluindo os espelhos retrovisores.",01/04/2022
+70.10,"Garrafões, garrafas, frascos, boiões, vasos, embalagens tubulares, ampolase outros recipientes de",01/04/2022
+70.11,"Ampolas e invólucros, mesmo tubulares, abertos, e suas partes, de vidro, sem guarnições, para lâmp",01/04/2022
+70.13,"Objetos de vidro para serviço de mesa, cozinha, toucador, escritório, ornamentação de interiores ou",01/04/2022
+70.15,"Vidros de relojoaria e vidros semelhantes, vidros para lentes, mesmo corretivas, curvos ou arqueado",01/04/2022
+70.16,"Blocos, placas, tijolos, ladrilhos, telhas e outros artigos, de vidro prensado oumoldado, mesmo arma",01/04/2022
+70.17,"Artigos de vidro para laboratório, higiene ou farmácia, mesmo graduados ou calibrados.",01/04/2022
+70.18,"Contas, imitações de pérolas naturais ou cultivadas, imitações de pedras preciosas ou semipreciosa",01/04/2022
+70.19,"Fibras de vidro (incluindo a lã de vidro) e suas obras (por exemplo, fios, mechas ligeiramente torcida",01/04/2022
+7001.00.00,"Cacos, fragmentos e outros desperdícios e resíduos de vidro, exceto o vidrode tubos catódicos e ou",01/04/2022
+7002.10.00,- Esferas,01/04/2022
+7002.20.00,- Barras ou varetas,01/04/2022
+7002.3,- Tubos:,01/04/2022
+7002.31.00,-- De quartzo ou de outras sílicas fundidos,01/04/2022
+7002.32.00,"-- De outro vidro com um coeficiente de dilatação linear não superior a 5 x 10-6 por Kelvin, entre 0 °C",01/04/2022
+7002.39.00,-- Outros,01/04/2022
+7003.1,"- Chapas e folhas, não armadas:",01/04/2022
+7003.12.00,"-- Coradas na massa, opacificadas, folheadas (chapeadas), ou com camadaabsorvente, refletora ou",01/04/2022
+7003.19.00,-- Outras,01/04/2022
+7003.20.00,"- Chapas e folhas, armadas",01/04/2022
+7003.30.00,- Perfis,01/04/2022
+7004.20.00,"- Vidro corado na massa, opacificado, folheado (chapeado), ou com camadaabsorvente, refletora ou",01/04/2022
+7004.90.00,- Outro vidro,01/04/2022
+7005.10.00,"- Vidro não armado, com camada absorvente, refletora ou não",01/04/2022
+7005.2,- Outro vidro não armado:,01/04/2022
+7005.21.00,"-- Corado na massa, opacificado, folheado (chapeado) ou simplesmente desbastado",01/04/2022
+7005.29.00,-- Outro,01/04/2022
+7005.30.00,- Vidro armado,01/04/2022
+7006.00.00,"Vidro das posições 70.03, 70.04 ou 70.05, recurvado, biselado, gravado, brocado, esmaltado ou trab",01/04/2022
+7007.1,- Vidros temperados:,01/04/2022
+7007.11.00,"-- De dimensões e formatos que permitam a sua aplicação em automóveis, veículos aéreos, barcos",01/04/2022
+7007.19.00,-- Outros,01/04/2022
+7007.2,- Vidros formados por folhas contracoladas:,01/04/2022
+7007.21.00,"-- De dimensões e formatos que permitam a sua aplicação em automóveis, veículos aéreos, barcos",01/04/2022
+7007.29.00,-- Outros,01/04/2022
+7008.00.00,Vidros isolantes de paredes múltiplas.,01/04/2022
+7009.10.00,- Espelhos retrovisores para veículos,01/04/2022
+7009.9,- Outros:,01/04/2022
+7009.91.00,-- Não emoldurados,01/04/2022
+7009.92.00,-- Emoldurados,01/04/2022
+7010.10.00,- Ampolas,01/04/2022
+7010.20.00,"- Rolhas, tampas e outros dispositivos para fechar recipientes",01/04/2022
+7010.90,- Outros,01/04/2022
+7010.90.1,De capacidade superior a 1 l,01/04/2022
+7010.90.11,Garrafões e garrafas,01/04/2022
+7010.90.12,"Frascos, boiões, vasos, embalagens tubulares e outros recipientes próprios para transporte ou emba",01/04/2022
+7010.90.2,"De capacidade superior a 0,33 l, mas não superior a 1 l",01/04/2022
+7010.90.21,Garrafões e garrafas,01/04/2022
+7010.90.22,"Frascos, boiões, vasos, embalagens tubulares e outros recipientes próprios para transporte ou emba",01/04/2022
+7010.90.90,Outros,01/04/2022
+7011.10,- Para iluminação elétrica,01/04/2022
+7011.10.10,"Para lâmpadas ou tubos de descarga, incluindo os de luz relâmpago (flash)",01/04/2022
+7011.10.2,Para lâmpadas de incandescência,01/04/2022
+7011.10.21,Bulbos de diâmetro inferior ou igual a 90 mm,01/04/2022
+7011.10.29,Outros,01/04/2022
+7011.10.90,Outros,01/04/2022
+7011.20.00,- Para tubos catódicos,01/04/2022
+7011.90.00,- Outros,01/04/2022
+7013.10.00,- Objetos de vitrocerâmica,01/04/2022
+7013.2,"- Copos com pé, exceto de vitrocerâmica:",01/04/2022
+7013.22.00,-- De cristal de chumbo,01/04/2022
+7013.28.00,-- Outros,01/04/2022
+7013.3,"- Outros copos, exceto de vitrocerâmica:",01/04/2022
+7013.33.00,-- De cristal de chumbo,01/04/2022
+7013.37.00,-- Outros,01/04/2022
+7013.4,"- Objetos para serviço de mesa (exceto copos) ou de cozinha, exceto de vitrocerâmica:",01/04/2022
+7013.41.00,-- De cristal de chumbo,01/04/2022
+7013.42,"-- De vidro com um coeficiente de dilatação linear não superior a 5 x 10-6 porKelvin, entre 0 °C e 30",01/04/2022
+7013.42.10,Cafeteiras e chaleiras,01/04/2022
+7013.42.90,Outros,01/04/2022
+7013.49.00,-- Outros,01/04/2022
+7013.9,- Outros objetos:,01/04/2022
+7013.91,-- De cristal de chumbo,01/04/2022
+7013.91.10,Para ornamentação de interiores,01/04/2022
+7013.91.90,Outros,01/04/2022
+7013.99.00,-- Outros,01/04/2022
+7014.00.00,"Artigos de vidro para sinalização e elementos de óptica de vidro (exceto os da posição 20.15), não tr",01/04/2027
+7015.10,- Vidros para lentes corretivas,01/04/2022
+7015.10.10,Fotocromáticos,01/04/2022
+7015.10.9,Outros,01/04/2022
+7015.10.91,Brancos,01/04/2022
+7015.10.92,Coloridos,01/04/2022
+7015.90,- Outros,01/04/2022
+7015.90.10,Vidros de relojoaria,01/04/2022
+7015.90.20,"Vidros para máscaras, óculos ou anteparos, protetores",01/04/2022
+7015.90.30,Vidros para os demais óculos,01/04/2022
+7015.90.90,Outros,01/04/2022
+7016.10.00,"- Cubos, pastilhas e outros artigos semelhantes, de vidro, mesmo com suporte, para mosaicos ou de",01/04/2022
+7016.90.00,- Outros,01/04/2022
+7017.10.00,"- De quartzo ou de outras sílicas, fundidos",01/04/2022
+7017.20.00,"- De outro vidro com um coeficiente de dilatação linear não superior a 5 x 10-6 por Kelvin, entre 0 °C",01/04/2022
+7017.90.00,- Outros,01/04/2022
+7018.10,"- Contas, imitações de pérolas naturais ou cultivadas, imitações de pedras preciosas ou semiprecios",01/04/2022
+7018.10.10,Contas de vidro,01/04/2022
+7018.10.20,"Imitações de pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas",01/04/2022
+7018.10.90,Outros,01/04/2022
+7018.20.00,"- Microsferas de vidro, de diâmetro não superior a 1 mm",01/04/2022
+7018.90.00,- Outros,01/04/2022
+7019.1,"- Mechas, mesmo ligeiramente torcidas (rovings), fios cortados ou não e mantas (mats) dessas maté",01/04/2022
+7019.11.00,"-- Fios cortados (chopped strands), de comprimento não superior a 50 mm",01/04/2022
+7019.12,-- Mechas ligeiramente torcidas (rovings),01/04/2022
+7019.12.10,Impregnadas ou recobertas com resina de poliuretano ou borracha de estireno-butadieno,01/04/2022
+7019.12.90,Outras,01/04/2022
+7019.13.00,"-- Outros fios, mechas",01/04/2022
+7019.14.00,-- Mantas (mats) consolidadas mecanicamente,01/04/2022
+7019.15.00,-- Mantas (mats) consolidadas quimicamente,01/04/2022
+7019.19.00,-- Outros,01/04/2022
+7019.6,- Tecidos consolidados mecanicamente:,01/04/2022
+7019.61.00,-- Tecidos de mechas ligeiramente torcidas (rovings) de malha fechada (closed woven fabrics),01/04/2022
+7019.62.00,"-- Outros, obtidos de mechas ligeiramente torcidas (rovings) de malha fechada (other closed fabrics)",01/04/2022
+7019.63.00,"-- Tecidos de fios de malha fechada, em ponto de tafetá, não revestidos nemestratificados",01/04/2022
+7019.64.00,"-- Tecidos de fios de malha fechada, em ponto de tafetá, revestidos ou estratificados",01/04/2022
+7019.65.00,-- Tecidos de malha aberta de largura não superior a 30 cm,01/04/2022
+7019.66.00,-- Tecidos de malha aberta de largura superior a 30 cm,01/04/2022
+7019.69.00,-- Outros,01/04/2022
+7019.7,- Tecidos consolidados quimicamente:,01/04/2022
+7019.71.00,-- Véus (camadas finas),01/04/2022
+7019.72.00,-- Outros tecidos de malha fechada,01/04/2022
+7019.73,-- Outros tecidos de malha aberta,01/04/2022
+7019.73.10,"Constituídos por fios paralelizados e superpostos entre si em ângulo de 90°, impregnados e soldado",01/04/2022
+7019.73.90,Outros,01/04/2022
+7019.80.00,- Lã de vidro e suas obras,01/04/2022
+7019.90.00,- Outras,01/04/2022
+7020.00,Outras obras de vidro.,01/04/2022
+7020.00.10,"Ampolas de vidro para garrafas térmicas ou para outros recipientes isotérmicos, cujo isolamento seja",01/04/2022
+7020.00.90,Outras,01/04/2022

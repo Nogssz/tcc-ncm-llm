@@ -1,0 +1,93 @@
+codigo,descricao,data_inicio
+76.01,Alumínio em formas brutas.,01/04/2022
+76.03,"Pós e escamas, de alumínio.",01/04/2022
+76.04,"Barras e perfis, de alumínio.",01/04/2022
+76.05,Fios de alumínio.,01/04/2022
+76.06,"Chapas e tiras, de alumínio, de espessura superior a 0,2 mm.",01/04/2022
+76.07,"Folhas e tiras, delgadas, de alumínio (mesmo impressas ou com suporte de papel, cartão, plástico o",01/04/2022
+76.08,Tubos de alumínio.,01/04/2022
+76.10,"Construções e suas partes (por exemplo, pontes e elementos de pontes, torres, pórticos ou pilones,",01/04/2022
+76.12,"Reservatórios, barris, tambores, latas, caixas e recipientes semelhantes (incluindo os recipientes tub",01/04/2022
+76.14,"Cordas, cabos, tranças (entrançados*) e semelhantes, de alumínio, não isolados para usos elétricos.",01/04/2022
+76.15,"Serviços de mesa, artigos de cozinha e outros artigos de uso doméstico, e suas partes, de alumínio;",01/04/2022
+76.16,Outras obras de alumínio.,01/04/2022
+7601.10.00,- Alumínio não ligado,01/04/2022
+7601.20.00,- Ligas de alumínio,01/04/2022
+7602.00.00,"Desperdícios e resíduos, e sucata, de alumínio.",01/04/2022
+7603.10.00,- Pós de estrutura não lamelar,01/04/2022
+7603.20.00,- Pós de estrutura lamelar; escamas,01/04/2022
+7604.10,- De alumínio não ligado,01/04/2022
+7604.10.10,Barras,01/04/2022
+7604.10.2,Perfis,01/04/2022
+7604.10.21,Ocos,01/04/2022
+7604.10.29,Outros,01/04/2022
+7604.2,- De ligas de alumínio:,01/04/2022
+7604.21.00,-- Perfis ocos,01/04/2022
+7604.29,-- Outros,01/04/2022
+7604.29.1,Barras,01/04/2022
+7604.29.11,"Forjadas, de seção transversal circular, de diâmetro igual ou superior a 400 mm, mas não superior a",01/04/2022
+7604.29.19,Outras,01/04/2022
+7604.29.20,Perfis,01/04/2022
+7605.1,- De alumínio não ligado:,01/04/2022
+7605.11,-- Com a maior dimensão da seção transversal superior a 7 mm,01/04/2022
+7605.11.10,"Com um teor de alumínio igual ou superior a 99,45 %, em peso, e uma resistividade elétrica inferior o",01/04/2022
+7605.11.90,Outros,01/04/2022
+7605.19,-- Outros,01/04/2022
+7605.19.10,"Com um teor de alumínio igual ou superior a 99,45 %, em peso, e uma resistividade elétrica inferior o",01/04/2022
+7605.19.90,Outros,01/04/2022
+7605.2,- De ligas de alumínio:,01/04/2022
+7605.21,-- Com a maior dimensão da seção transversal superior a 7 mm,01/04/2022
+7605.21.10,"Com um teor, em peso, de alumínio igual ou superior a 98,45 %, e de magnésio e silício, considerad",01/04/2022
+7605.21.90,Outros,01/04/2022
+7605.29,-- Outros,01/04/2022
+7605.29.10,"Com um teor, em peso, de alumínio igual ou superior a 98,45 %, e de magnésio e silício, considerad",01/04/2022
+7605.29.90,Outros,01/04/2022
+7606.1,- De forma quadrada ou retangular:,01/04/2022
+7606.11,-- De alumínio não ligado,01/04/2022
+7606.11.10,"Com um teor, em peso, de silício igual ou superior a 0,05 % e inferior ou igua",
+7606.11.90,Outras,01/04/2022
+7606.12,-- De ligas de alumínio,01/04/2022
+7606.12.10,"Com teores, em peso, de magnésio igual ou superior a 4 % e inferior ou igual0a  %, de manganês ig",15/04/2022
+7606.12.20,"Com um teor, em peso, de alumínio igual ou superior a 99 % e de magnésio superior a 2,10 %, de es",01/04/2020
+7606.12.30,"Simplesmente laminadas, constituídas de, pelo menos, duas camadas de diferentes ligas de alumíni",01/01/2023
+7606.12.90,Outras,01/04/2022
+7606.9,- Outras:,01/04/2022
+7606.91.00,-- De alumínio não ligado,01/04/2022
+7606.92.00,-- De ligas de alumínio,01/04/2022
+7607.1,- Sem suporte:,01/04/2022
+7607.11,-- Simplesmente laminadas,01/04/2022
+7607.11.10,"Com um teor, em peso, de alumínio igual ou superior a 99 % e de magnésio superior a 2,06 %, de es",01/04/2020
+7607.11.20,"Constituídas de, pelo menos, duas camadas de diferentes ligas de alumínio,sendo uma o núcleo e a",01/01/2023
+7607.11.90,Outras,01/04/2022
+7607.19,-- Outras,01/04/2022
+7607.19.10,"Gravadas por processo eletroquímico de corrosão, mesmo com camada de óxido de alumínio, de es",01/04/2022
+7607.19.90,Outras,01/04/2022
+7607.20.00,- Com suporte,01/04/2022
+7608.10.00,- De alumínio não ligado,01/04/2022
+7608.20,- De ligas de alumínio,01/04/2022
+7608.20.10,"Sem costura, extrudados e trefilados, segundo Norma ASTM B210, de seçãocircular, de liga AA 606",01/04/2022
+7608.20.90,Outros,01/04/2022
+7609.00.00,"Acessórios para tubos (por exemplo, uniões, cotovelos, luvas (mangas*)), dealumínio.",01/04/2022
+7610.10.00,"- Portas e janelas, e seus caixilhos, alizares e soleiras",01/04/2022
+7610.90.00,- Outros,01/04/2022
+7611.00.00,"Reservatórios, tonéis, cubas e recipientes semelhantes para quaisquer matérias (exceto gases comp",01/04/2022
+7612.10.00,"- Recipientes tubulares, flexíveis",01/04/2022
+7612.90,- Outros,01/04/2022
+7612.90.1,Recipientes tubulares,01/04/2022
+7612.90.11,"Para aerossóis, com capacidade inferior ou igual a 700 cm3",01/04/2022
+7612.90.12,"Isotérmicos, refrigerados a nitrogênio (azoto) líquido, do tipo utilizado para sêmen, sangue, tecidos b",01/04/2022
+7612.90.19,Outros,01/04/2022
+7612.90.90,Outros,01/04/2022
+7613.00.00,"Recipientes para gases comprimidos ou liquefeitos, de alumínio.",01/04/2022
+7614.10,- Com alma de aço,01/04/2022
+7614.10.10,Cordas e cabos,01/04/2022
+7614.10.90,Outros,01/04/2022
+7614.90,- Outros,01/04/2022
+7614.90.10,Cabos,01/04/2022
+7614.90.90,Outros,01/04/2022
+7615.10.00,"- Serviços de mesa, artigos de cozinha e outros artigos de uso doméstico, e suas partes; esponjas, e",01/04/2022
+7615.20.00,"- Artigos de higiene ou de toucador, e suas partes",01/04/2022
+7616.10.00,"- Tachas, pregos, escápulas (pregos para tacos), parafusos, pinos ou pernosroscados, porcas, ganc",01/04/2022
+7616.9,- Outras:,01/04/2022
+7616.91.00,"-- Telas metálicas, grades e redes, de fios de alumínio",01/04/2022
+7616.99.00,-- Outras,01/04/2022

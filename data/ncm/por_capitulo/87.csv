@@ -1,0 +1,244 @@
+codigo,descricao,data_inicio
+87.01,Tratores (exceto os carros-tratores da posição 87.09).,01/04/2022
+87.02,"Veículos automóveis para transporte de dez pessoas ou mais, incluindo o motorista.",01/04/2022
+87.03,Automóveis de passageiros e outros veículos automóveis principalmente concebidos para transporte,01/04/2022
+87.04,Veículos automóveis para transporte de mercadorias.,01/04/2022
+87.05,"Veículos automóveis para usos especiais (por exemplo, autossocorros, caminhões-guindastes, veícu",01/04/2022
+87.07,"Carroçarias para os veículos automóveis das posições 87.01 a 87.05, incluindo as cabinas.",01/04/2022
+87.08,Partes e acessórios dos veículos automóveis das posições 87.01 a 87.05.,01/04/2022
+87.09,"Veículos automóveis sem dispositivo de elevação, do tipo utilizado em fábricas, armazéns, portos ou",01/04/2022
+87.11,"Motocicletas (incluindo os ciclomotores) e outros ciclos equipados com motorauxiliar, mesmo com c",01/04/2022
+87.13,"Cadeiras de rodas e outros veículos para pessoas com incapacidade, mesmocom motor ou outro m",01/04/2022
+87.14,Partes e acessórios dos veículos das posições 87.11 a 87.13.,01/04/2022
+87.16,"Reboques e semirreboques, para quaisquer veículos; outros veículos não autopropulsados; suas par",01/04/2022
+8701.10.00,- Tratores de eixo único,01/04/2022
+8701.2,- Tratores rodoviários para semirreboques:,01/04/2022
+8701.21.00,-- Unicamente com motor de pistão de ignição por compressão (diesel ou semidiesel),01/04/2022
+8701.22.00,"-- Equipados para propulsão, simultaneamente, com motor de pistão de ignição por compressão (die",01/04/2022
+8701.23.00,"-- Equipados para propulsão, simultaneamente, com motor de pistão de ignição por centelha (faísca)",01/04/2022
+8701.24.00,-- Unicamente com motor elétrico para propulsão,01/04/2022
+8701.29.00,-- Outros,01/04/2022
+8701.30.00,- Tratores de lagartas (esteiras),01/04/2022
+8701.9,"- Outros, com uma potência de motor:",01/04/2022
+8701.91.00,-- Não superior a 18 kW,01/04/2022
+8701.92.00,"-- Superior a 18 kW, mas não superior a 37 kW",01/04/2022
+8701.93.00,"-- Superior a 37 kW, mas não superior a 75 kW",01/04/2022
+8701.94,"-- Superior a 75 kW, mas não superior a 130 kW",01/04/2022
+8701.94.10,Tratores especialmente concebidos para arrastar troncos (log skidders),01/04/2022
+8701.94.90,Outros,01/04/2022
+8701.95,-- Superior a 130 kW,01/04/2022
+8701.95.10,Tratores especialmente concebidos para arrastar troncos (log skidders),01/04/2022
+8701.95.90,Outros,01/04/2022
+8702.10.00,- Unicamente com motor de pistão de ignição por compressão (diesel ou semidiesel),01/04/2022
+8702.20.00,"- Equipados para propulsão, simultaneamente, com motor de pistão de ignição por compressão (dies",01/04/2022
+8702.30.00,"- Equipados para propulsão, simultaneamente, com motor de pistão de ignição por centelha (faísca)",01/04/2022
+8702.40,- Unicamente com motor elétrico para propulsão,01/04/2022
+8702.40.10,Trólebus,01/04/2022
+8702.40.90,Outros,01/04/2022
+8702.90.00,- Outros,01/04/2022
+8703.10.00,- Veículos especialmente concebidos para se deslocar sobre a neve; veículosespeciais para transpo,01/04/2022
+8703.2,"- Outros veículos, unicamente com motor de pistão de ignição por centelha (faísca):",01/04/2022
+8703.21.00,-- De cilindrada não superior a 1.000 cm3,01/04/2022
+8703.22,"-- De cilindrada superior a 1.000 cm3, mas não superior a 1.500 cm3",01/04/2022
+8703.22.10,"Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluindo o motorista",01/04/2022
+8703.22.90,Outros,01/04/2022
+8703.23,"-- De cilindrada superior a 1.500 cm3, mas não superior a 3.000 cm3",01/04/2022
+8703.23.10,"Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluindo o motorista",01/04/2022
+8703.23.90,Outros,01/04/2022
+8703.24,-- De cilindrada superior a 3.000 cm3,01/04/2022
+8703.24.10,"Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluindo o motorista",01/04/2022
+8703.24.90,Outros,01/04/2022
+8703.3,"- Outros veículos, unicamente com motor de pistão de ignição por compressão (diesel ou semidiesel",01/04/2022
+8703.31,-- De cilindrada não superior a 1.500 cm3,01/04/2022
+8703.31.10,"Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluindo o motorista",01/04/2022
+8703.31.90,Outros,01/04/2022
+8703.32,"-- De cilindrada superior a 1.500 cm3, mas não superior a 2.500 cm3",01/04/2022
+8703.32.10,"Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluindo o motorista",01/04/2022
+8703.32.90,Outros,01/04/2022
+8703.33,-- De cilindrada superior a 2.500 cm3,01/04/2022
+8703.33.10,"Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluindo o motorista",01/04/2022
+8703.33.90,Outros,01/04/2022
+8703.40.00,"- Outros veículos, equipados para propulsão, simultaneamente, com motor depistão de ignição por c",01/04/2022
+8703.50.00,"- Outros veículos, equipados para propulsão, simultaneamente, com motor depistão de ignição por c",01/04/2022
+8703.60.00,"- Outros veículos, equipados para propulsão, simultaneamente, com motor depistão de ignição por c",01/04/2022
+8703.70.00,"- Outros veículos, equipados para propulsão, simultaneamente, com motor depistão de ignição por c",01/04/2022
+8703.80.00,"- Outros veículos, equipados unicamente com motor elétrico para propulsão",01/04/2022
+8703.90.00,- Outros,01/04/2022
+8704.10,- Dumpers concebidos para serem utilizados fora de rodovias,01/04/2022
+8704.10.10,Com capacidade de carga igual ou superior a 85 toneladas,01/04/2022
+8704.10.90,Outros,01/04/2022
+8704.2,"- Outros, unicamente com motor de pistão, de ignição por compressão (diesel ou semidiesel):",01/04/2022
+8704.21,-- De peso em carga máxima (bruto) não superior a 5 toneladas,01/04/2022
+8704.21.10,Chassis com motor e cabina,01/04/2022
+8704.21.20,Com caixa basculante,01/04/2022
+8704.21.30,Frigoríficos ou isotérmicos,01/04/2022
+8704.21.90,Outros,01/04/2022
+8704.22,"-- De peso em carga máxima (bruto) superior a 5 toneladas, mas não superio",
+8704.22.10,Chassis com motor e cabina,01/04/2022
+8704.22.20,Com caixa basculante,01/04/2022
+8704.22.30,Frigoríficos ou isotérmicos,01/04/2022
+8704.22.90,Outros,01/04/2022
+8704.23,-- De peso em carga máxima (bruto) superior a 20 toneladas,01/04/2022
+8704.23.10,Chassis com motor e cabina,01/04/2022
+8704.23.20,Com caixa basculante,01/04/2022
+8704.23.30,Frigoríficos ou isotérmicos,01/04/2022
+8704.23.40,"De chassis articulado, para o transporte de troncos (forwarder), com grua incorporada, de potência m",01/04/2022
+8704.23.90,Outros,01/04/2022
+8704.3,"- Outros, unicamente com motor de pistão, de ignição por centelha (faísca):",01/04/2022
+8704.31,-- De peso em carga máxima (bruto) não superior a 5 toneladas,01/04/2022
+8704.31.10,Chassis com motor e cabina,01/04/2022
+8704.31.20,Com caixa basculante,01/04/2022
+8704.31.30,Frigoríficos ou isotérmicos,01/04/2022
+8704.31.90,Outros,01/04/2022
+8704.32,-- De peso em carga máxima (bruto) superior a 5 toneladas,01/04/2022
+8704.32.10,Chassis com motor e cabina,01/04/2022
+8704.32.20,Com caixa basculante,01/04/2022
+8704.32.30,Frigoríficos ou isotérmicos,01/04/2022
+8704.32.90,Outros,01/04/2022
+8704.4,"- Outros, equipados para propulsão, simultaneamente, com motor de pistão de ignição por compress",01/04/2022
+8704.41.00,-- De peso em carga máxima (bruto) não superior a 5 toneladas,01/04/2022
+8704.42.00,"-- De peso em carga máxima (bruto) superior a 5 toneladas, mas não superio",
+8704.43.00,-- De peso em carga máxima (bruto) superior a 20 toneladas,01/04/2022
+8704.5,"- Outros, equipados para propulsão, simultaneamente, com motor de pistão de ignição por centelha (",01/04/2022
+8704.51.00,-- De peso em carga máxima (bruto) não superior a 5 toneladas,01/04/2022
+8704.52.00,-- De peso em carga máxima (bruto) superior a 5 toneladas,01/04/2022
+8704.60.00,"- Outros, unicamente com motor elétrico para propulsão",01/04/2022
+8704.90.00,- Outros,01/04/2022
+8705.10,- Caminhões-guindastes,01/04/2022
+8705.10.20,Com todos os eixos de rodas direcionáveis e capacidade máxima de elevação inferior a 100 t,01/07/2022
+8705.10.30,Com capacidade máxima de elevação igual ou superior a 100 t,01/07/2022
+8705.10.90,Outros,01/04/2022
+8705.20.00,"- Torres (derricks) automóveis, para sondagem ou perfuração",01/04/2022
+8705.30.00,- Veículos de combate a incêndio,01/04/2022
+8705.40.00,- Caminhões-betoneiras,01/04/2022
+8705.90,- Outros,01/04/2022
+8705.90.10,Caminhões para a determinação de parâmetros físicos característicos (perfilagem) de poços petrolífe,01/04/2022
+8705.90.90,Outros,01/04/2022
+8706.00,Chassis com motor para os veículos automóveis das posições 87.01 a 87.05.,01/04/2022
+8706.00.10,Dos veículos da posição 87.02,01/04/2022
+8706.00.20,"Dos veículos das subposições 8701.10, 8701.30, 8701.91 a 8701.95 ou 8704.01",10/04/2022
+8706.00.90,Outros,01/04/2022
+8707.10.00,- Para os veículos da posição 87.03,01/04/2022
+8707.90,- Outras,01/04/2022
+8707.90.10,"Dos veículos das subposições 8701.10, 8701.30, 8701.91 a 8701.95 ou 8704.01",10/04/2022
+8707.90.90,Outras,01/04/2022
+8708.10.00,- Para-choques e suas partes,01/04/2022
+8708.2,- Outras partes e acessórios de carroçarias (incluindo as de cabinas):,01/04/2022
+8708.21.00,-- Cintos de segurança,01/04/2022
+8708.22.00,"-- Para-brisas, vidros traseiros e outros vidros especificados na Nota de subposição  do2 presente C",01/04/2102
+8708.29,-- Outros,01/04/2022
+8708.29.1,"Dos veículos das subposições 8701.10, 8701.30, 8701.91 a 8701.95 ou 8704.01",10/04/2022
+8708.29.11,Para-lamas,01/04/2022
+8708.29.12,Grades de radiadores,01/04/2022
+8708.29.13,Portas,01/04/2022
+8708.29.14,Painéis de instrumentos,01/04/2022
+8708.29.19,Outros,01/04/2022
+8708.29.9,Outros,01/04/2022
+8708.29.91,Para-lamas,01/04/2022
+8708.29.92,Grades de radiadores,01/04/2022
+8708.29.93,Portas,01/04/2022
+8708.29.94,Painéis de instrumentos,01/04/2022
+8708.29.95,Geradores de gás para acionar retratores de cintos de segurança,01/04/2022
+8708.29.99,Outros,01/04/2022
+8708.30,- Freios (travões) e servofreios; suas partes,01/04/2022
+8708.30.1,Guarnições de freios (travões) montadas,01/04/2022
+8708.30.11,"Dos veículos das subposições 8701.10, 8701.30, 8701.91 a 8701.95 ou 8704.01",10/04/2022
+8708.30.19,Outras,01/04/2022
+8708.30.90,Outros,01/04/2022
+8708.40,- Caixas de marchas (velocidades*) e suas partes,01/04/2022
+8708.40.1,"Caixas de marchas dos veículos das subposições 8701.10, 8701.30, 8701.91",
+8708.40.11,"Servo-assistidas, próprias para torques de entrada superiores ou iguais a 750Nm",01/04/2022
+8708.40.19,Outras,01/04/2022
+8708.40.80,Outras caixas de marchas,01/04/2022
+8708.40.90,Partes,01/04/2022
+8708.50,"- Eixos motores com diferencial, mesmo providos de outros componentes detransmissão, e eixos nã",01/04/2022
+8708.50.1,"Dos veículos das subposições 8701.10, 8701.30, 8701.91 a 8701.95 ou 8704.01",10/04/2022
+8708.50.11,Eixos com diferencial com capacidade de suportar cargas superiores ou iguai,
+8708.50.12,Eixos não motores,01/04/2022
+8708.50.19,Outros,01/04/2022
+8708.50.80,Outros,01/04/2022
+8708.50.9,Partes,01/04/2022
+8708.50.91,"De eixos não motores, dos veículos das subposições 8701.10, 8701.30, 8701",
+8708.50.99,Outras,01/04/2022
+8708.70,"- Rodas, suas partes e acessórios",01/04/2022
+8708.70.10,"De eixos propulsores dos veículos das subposições 8701.10, 8701.30, 8701.",
+8708.70.90,Outros,01/04/2022
+8708.80.00,- Sistemas de suspensão e suas partes (incluindo os amortecedores de suspensão),01/04/2022
+8708.9,- Outras partes e acessórios:,01/04/2022
+8708.91.00,-- Radiadores e suas partes,01/04/2022
+8708.92.00,-- Silenciosos e tubos de escape; suas partes,01/04/2022
+8708.93.00,-- Embreagens e suas partes,01/04/2022
+8708.94,"-- Volantes, colunas e caixas, de direção; suas partes",01/04/2022
+8708.94.1,"Volantes, colunas e caixas, de direção dos veículos das subposições 8701.10",
+8708.94.11,Volantes,01/04/2022
+8708.94.12,Colunas,01/04/2022
+8708.94.13,Caixas,01/04/2022
+8708.94.8,Outros,01/04/2022
+8708.94.81,Volantes,01/04/2022
+8708.94.82,Colunas,01/04/2022
+8708.94.83,Caixas,01/04/2022
+8708.94.90,Partes,01/04/2022
+8708.95,-- Bolsas infláveis de segurança com sistema de insuflação (airbags); suas partes,01/04/2022
+8708.95.10,Bolsas infláveis de segurança com sistema de insuflação (airbags),01/04/2022
+8708.95.2,Partes,01/04/2022
+8708.95.21,Bolsas infláveis para airbags,01/04/2022
+8708.95.22,Sistema de insuflação,01/04/2022
+8708.95.29,Outras,01/04/2022
+8708.99,-- Outros,01/04/2022
+8708.99.10,"Dispositivos para comando de acelerador, freio (travão), embreagem, direçãoou caixa de marchas m",01/04/2022
+8708.99.90,Outros,01/04/2022
+8709.1,- Veículos:,01/04/2022
+8709.11.00,-- Elétricos,01/04/2022
+8709.19.00,-- Outros,01/04/2022
+8709.90.00,- Partes,01/04/2022
+8710.00.00,"Tanques e outros veículos blindados de combate, armados ou não, e suas partes.",01/04/2022
+8711.10.00,- Com motor de pistão de cilindrada não superior a 50 cm3,01/04/2022
+8711.20,"- Com motor de pistão de cilindrada superior a 50 cm3, mas não superior a 2",
+8711.20.10,Motocicletas de cilindrada inferior ou igual a 125 cm3,01/04/2022
+8711.20.20,Motocicletas de cilindrada superior a 125 cm3,01/04/2022
+8711.20.90,Outros,01/04/2022
+8711.30.00,"- Com motor de pistão de cilindrada superior a 250 cm3, mas não superior a500 cm2",10/04/2302
+8711.40.00,"- Com motor de pistão de cilindrada superior a 500 cm3, mas não superior a800 cm2",10/04/2302
+8711.50.00,- Com motor de pistão de cilindrada superior a 800 cm3,01/04/2022
+8711.60.00,- Com motor elétrico para propulsão,01/04/2022
+8711.90.00,- Outros,01/04/2022
+8712.00,"Bicicletas e outros ciclos (incluindo os triciclos), sem motor.",01/04/2022
+8712.00.10,Bicicletas,01/04/2022
+8712.00.90,Outros,01/04/2022
+8713.10.00,- Sem mecanismo de propulsão,01/04/2022
+8713.90.00,- Outros,01/04/2022
+8714.10.00,- De motocicletas (incluindo os ciclomotores),01/04/2022
+8714.20.00,- De cadeiras de rodas ou de outros veículos para pessoas com incapacidade,01/04/2022
+8714.9,- Outros:,01/04/2022
+8714.91.00,"-- Quadros e garfos, e suas partes",01/04/2022
+8714.92.00,-- Aros e raios,01/04/2022
+8714.93,"-- Cubos, exceto de freios (travões), e pinhões de rodas livres",01/04/2022
+8714.93.1,"Cubos, exceto de freios (travões)",01/01/2023
+8714.93.11,"Sem rosca, para pinhões do tipo cassete",01/01/2023
+8714.93.19,Outros,01/01/2023
+8714.93.20,Pinhões de rodas livres,01/04/2022
+8714.94,"-- Freios (travões), incluindo os cubos de freios (travões), e suas partes",01/04/2022
+8714.94.10,Cubos de freios (travões),01/04/2022
+8714.94.90,Outros,01/04/2022
+8714.95.00,-- Selins,01/04/2022
+8714.96,"-- Pedais e pedaleiros, e suas partes",01/01/2023
+8714.96.1,Pedaleiros e suas partes,01/01/2023
+8714.96.11,Pedaleiros com pedivelas de peça única (monobloco),01/01/2023
+8714.96.12,Pedivelas de peça única (monobloco),01/01/2023
+8714.96.19,Outros,01/01/2023
+8714.96.90,Outros,01/01/2023
+8714.99,-- Outros,01/04/2022
+8714.99.10,Câmbio de velocidades,01/04/2022
+8714.99.20,Caixas de direção sem rosca,01/01/2023
+8714.99.90,Outros,01/04/2022
+8715.00.00,"Carrinhos e veículos semelhantes para transporte de crianças, e suas partes.",01/04/2022
+8716.10.00,"- Reboques e semirreboques, para habitação ou para acampar, do tipo trailer(caravana*)",01/04/2022
+8716.20.00,"- Reboques e semirreboques, autocarregáveis ou autodescarregáveis, para usos agrícolas",01/04/2022
+8716.3,"- Outros reboques e semirreboques, para transporte de mercadorias:",01/04/2022
+8716.31.00,-- Tanques (cisternas),01/04/2022
+8716.39.00,-- Outros,01/04/2022
+8716.40.00,- Outros reboques e semirreboques,01/04/2022
+8716.80.00,- Outros veículos,01/04/2022
+8716.90,- Partes,01/04/2022
+8716.90.10,Chassis de reboques e semirreboques,01/04/2022
+8716.90.90,Outras,01/04/2022

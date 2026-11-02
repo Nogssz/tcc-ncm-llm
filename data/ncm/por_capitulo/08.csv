@@ -1,0 +1,119 @@
+codigo,descricao,data_inicio
+08.01,"Cocos, castanha-do-brasil (castanha-do-pará) e castanha-de-caju, frescos ousecos, mesmo com ca",01/04/2022
+08.02,"Outra fruta de casca rija, fresca ou seca, mesmo com casca ou pelada.",01/04/2022
+08.03,"Bananas, incluindo as bananas-da-terra (bananas-pão*) (plátanos*), frescasou secas.",01/04/2022
+08.04,"Tâmaras, figos, abacaxis (ananases), abacates, goiabas, mangas e mangostões, frescos ou secos.",01/04/2022
+08.05,"Citros (citrinos), frescos ou secos.",01/04/2022
+08.06,Uvas frescas ou secas (passas).,01/04/2022
+08.07,"Melões, melancias e mamões (papaias), frescos.",01/04/2022
+08.08,"Maçãs, peras e marmelos, frescos.",01/04/2022
+08.09,"Damascos, cerejas, pêssegos (incluindo as nectarinas), ameixas e abrunhos,frescos.",01/04/2022
+08.10,Outra fruta fresca.,01/04/2022
+08.11,"Fruta, não cozida ou cozida em água ou vapor, congelada, mesmo adicionada de açúcar ou de outro",01/04/2022
+08.12,"Fruta conservada transitoriamente, mas imprópria para alimentação nesse estado.",01/04/2022
+08.13,"Fruta seca, exceto a das posições 08.01 a 08.06; misturas de fruta seca ou de fruta de casca rija, do",01/04/2022
+0801.1,- Cocos:,01/04/2022
+0801.11.00,-- Dessecados,01/04/2022
+0801.12.00,-- Na casca interna (endocarpo),01/04/2022
+0801.19.00,-- Outros,01/04/2022
+0801.2,- Castanha-do-brasil (castanha-do-pará):,01/04/2022
+0801.21.00,-- Com casca,01/04/2022
+0801.22.00,-- Sem casca,01/04/2022
+0801.3,- Castanha-de-caju:,01/04/2022
+0801.31.00,-- Com casca,01/04/2022
+0801.32.00,-- Sem casca,01/04/2022
+0802.1,- Amêndoas:,01/04/2022
+0802.11.00,-- Com casca,01/04/2022
+0802.12.00,-- Sem casca,01/04/2022
+0802.2,- Avelãs (Corylus spp.):,01/04/2022
+0802.21.00,-- Com casca,01/04/2022
+0802.22.00,-- Sem casca,01/04/2022
+0802.3,- Nozes:,01/04/2022
+0802.31.00,-- Com casca,01/04/2022
+0802.32.00,-- Sem casca,01/04/2022
+0802.4,- Castanhas (Castanea spp.):,01/04/2022
+0802.41.00,-- Com casca,01/04/2022
+0802.42.00,-- Sem casca,01/04/2022
+0802.5,- Pistácios:,01/04/2022
+0802.51.00,-- Com casca,01/04/2022
+0802.52.00,-- Sem casca,01/04/2022
+0802.6,- Nozes-macadâmia:,01/04/2022
+0802.61.00,-- Com casca,01/04/2022
+0802.62.00,-- Sem casca,01/04/2022
+0802.70.00,- Nozes-de-cola (Cola spp.),01/04/2022
+0802.80.00,- Nozes-de-areca (nozes de bétele),01/04/2022
+0802.9,- Outra:,01/04/2022
+0802.91.00,"-- Pinhões, com casca",01/04/2022
+0802.92.00,"-- Pinhões, sem casca",01/04/2022
+0802.99.00,-- Outra,01/04/2022
+0803.10.00,- Bananas-da-terra (Bananas-pão*) (Plátanos*),01/04/2022
+0803.90.00,- Outras,01/04/2022
+0804.10,- Tâmaras,01/04/2022
+0804.10.10,Frescas,01/04/2022
+0804.10.20,Secas,01/04/2022
+0804.20,- Figos,01/04/2022
+0804.20.10,Frescos,01/04/2022
+0804.20.20,Secos,01/04/2022
+0804.30.00,- Abacaxis (ananases),01/04/2022
+0804.40.00,- Abacates,01/04/2022
+0804.50,"- Goiabas, mangas e mangostões",01/04/2022
+0804.50.10,Goiabas,01/04/2022
+0804.50.20,Mangas,01/04/2022
+0804.50.30,Mangostões,01/04/2022
+0805.10.00,- Laranjas,01/04/2022
+0805.2,"- Mandarinas (incluindo as tangerinas e as satsumas); clementinas, wilkings ecitros (citrinos) híbrido",01/04/2022
+0805.21.00,-- Mandarinas (incluindo as tangerinas e as satsumas),01/04/2022
+0805.22.00,-- Clementinas,01/04/2022
+0805.29.00,-- Outros,01/04/2022
+0805.40.00,- Toranjas e pomelos,01/04/2022
+0805.50.00,"- Limões (Citrus limon, Citrus limonum) e limas (Citrus aurantifolia, Citrus latifolia)",01/04/2022
+0805.90.00,- Outros,01/04/2022
+0806.10.00,- Frescas,01/04/2022
+0806.20.00,- Secas (passas),01/04/2022
+0807.1,- Melões e melancias:,01/04/2022
+0807.11.00,-- Melancias,01/04/2022
+0807.19.00,-- Outros,01/04/2022
+0807.20.00,- Mamões (papaias),01/04/2022
+0808.10.00,- Maçãs,01/04/2022
+0808.30.00,- Peras,01/04/2022
+0808.40.00,- Marmelos,01/04/2022
+0809.10.00,- Damascos,01/04/2022
+0809.2,- Cerejas:,01/04/2022
+0809.21.00,-- Ginjas (Prunus cerasus),01/04/2022
+0809.29.00,-- Outras,01/04/2022
+0809.30,"- Pêssegos, incluindo as nectarinas",01/04/2022
+0809.30.10,"Pêssegos, excluindo as nectarinas",01/04/2022
+0809.30.20,Nectarinas,01/04/2022
+0809.40.00,- Ameixas e abrunhos,01/04/2022
+0810.10.00,- Morangos,01/04/2022
+0810.20.00,"- Framboesas, amoras, incluindo as silvestres, e amoras-framboesas",01/04/2022
+0810.30.00,"- Groselhas, incluindo o cassis",01/04/2022
+0810.40.00,"- Airelas, mirtilos e outra fruta do gênero Vaccinium",01/04/2022
+0810.50.00,- Kiwis (quivis),01/04/2022
+0810.60.00,- Duriões (duriangos),01/04/2022
+0810.70.00,- Caquis (dióspiros),01/04/2022
+0810.90,- Outra,01/04/2022
+0810.90.1,"Carambolas (Averrhoa carambola), anonas e outras frutas do gênero Annona, jacas (Artocarpus hete",01/04/2022
+0810.90.11,Carambolas (Averrhoa carambola),01/04/2022
+0810.90.12,Anonas e outras frutas do gênero Annona,01/04/2022
+0810.90.13,Jacas (Artocarpus heterophyllus),01/04/2022
+0810.90.14,Lechias (Litchi chinensis),01/04/2022
+0810.90.15,Maracujás (Passiflora edulis),01/04/2022
+0810.90.16,"Pitaias (Hylocereus spp., Selenicereus undatus)",01/04/2022
+0810.90.17,Tamarindos (Tamarindus indica),01/04/2022
+0810.90.90,Outra,01/04/2022
+0811.10.00,- Morangos,01/04/2022
+0811.20.00,"- Framboesas, amoras, incluindo as silvestres, amoras-framboesas e groselhas",01/04/2022
+0811.90.00,- Outra,01/04/2022
+0812.10.00,- Cerejas,01/04/2022
+0812.90.00,- Outra,01/04/2022
+0813.10.00,- Damascos,01/04/2022
+0813.20,- Ameixas,01/04/2022
+0813.20.10,Com caroço,01/04/2022
+0813.20.20,Sem caroço,01/04/2022
+0813.30.00,- Maçãs,01/04/2022
+0813.40,- Outra fruta,01/04/2022
+0813.40.10,Peras,01/04/2022
+0813.40.90,Outra,01/04/2022
+0813.50.00,"- Misturas de fruta seca ou de fruta de casca rija, do presente Capítulo",01/04/2022
+0814.00.00,"Cascas de citros (citrinos), de melões ou de melancias, frescas, secas, congeladas ou apresentadas",01/04/2022

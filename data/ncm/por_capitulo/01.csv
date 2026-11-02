@@ -1,0 +1,72 @@
+codigo,descricao,data_inicio
+01.01,"Cavalos, asininos e muares, vivos.",01/04/2022
+01.02,Animais vivos da espécie bovina.,01/04/2022
+01.03,Animais vivos da espécie suína.,01/04/2022
+01.04,Animais vivos das espécies ovina e caprina.,01/04/2022
+01.05,"Aves da espécie Gallus domesticus, patos, gansos, perus, peruas e galinhas-d'angola (pintadas), da",01/04/2022
+01.06,Outros animais vivos.,01/04/2022
+0101.2,- Cavalos:,01/04/2022
+0101.21.00,-- Reprodutores de raça pura,01/04/2022
+0101.29.00,-- Outros,01/04/2022
+0101.30.00,- Asininos,01/04/2022
+0101.90.00,- Outros,01/04/2022
+0102.2,- Bovinos domésticos:,01/04/2022
+0102.21,-- Reprodutores de raça pura,01/04/2022
+0102.21.10,Prenhes ou com cria ao pé,01/04/2022
+0102.21.90,Outros,01/04/2022
+0102.29,-- Outros,01/04/2022
+0102.29.1,Para reprodução,01/04/2022
+0102.29.11,Prenhes ou com cria ao pé,01/04/2022
+0102.29.19,Outros,01/04/2022
+0102.29.90,Outros,01/04/2022
+0102.3,- Búfalos:,01/04/2022
+0102.31,-- Reprodutores de raça pura,01/04/2022
+0102.31.10,Prenhes ou com cria ao pé,01/04/2022
+0102.31.90,Outros,01/04/2022
+0102.39,-- Outros,01/04/2022
+0102.39.1,Para reprodução,01/04/2022
+0102.39.11,Prenhes ou com cria ao pé,01/04/2022
+0102.39.19,Outros,01/04/2022
+0102.39.90,Outros,01/04/2022
+0102.90.00,- Outros,01/04/2022
+0103.10.00,- Reprodutores de raça pura,01/04/2022
+0103.9,- Outros:,01/04/2022
+0103.91.00,-- De peso inferior a 50 kg,01/04/2022
+0103.92.00,-- De peso igual ou superior a 50 kg,01/04/2022
+0104.10,- Ovinos,01/04/2022
+0104.10.1,Reprodutores de raça pura,01/04/2022
+0104.10.11,Prenhes ou com cria ao pé,01/04/2022
+0104.10.19,Outros,01/04/2022
+0104.10.90,Outros,01/04/2022
+0104.20,- Caprinos,01/04/2022
+0104.20.10,Reprodutores de raça pura,01/04/2022
+0104.20.90,Outros,01/04/2022
+0105.1,- De peso não superior a 185 g:,01/04/2022
+0105.11,-- Aves da espécie Gallus domesticus,01/04/2022
+0105.11.10,"De linhas puras ou híbridas, para reprodução",01/04/2022
+0105.11.90,Outros,01/04/2022
+0105.12.00,-- Peruas e perus,01/04/2022
+0105.13.00,-- Patos,01/04/2022
+0105.14.00,-- Gansos,01/04/2022
+0105.15.00,-- Galinhas-d'angola (pintadas),01/04/2022
+0105.9,- Outros:,01/04/2022
+0105.94.00,-- Aves da espécie Gallus domesticus,01/04/2022
+0105.99.00,-- Outros,01/04/2022
+0106.1,- Mamíferos:,01/04/2022
+0106.11.00,-- Primatas,01/04/2022
+0106.12.00,"-- Baleias, golfinhos e botos (mamíferos da ordem Cetacea); peixes-boi (manatins) e dugongos (mam",01/04/2022
+0106.13.00,-- Camelos e outros camelídeos (Camelidae),01/04/2022
+0106.14.00,-- Coelhos e lebres,01/04/2022
+0106.19.00,-- Outros,01/04/2022
+0106.20.00,- Répteis (incluindo as serpentes e as tartarugas marinhas),01/04/2022
+0106.3,- Aves:,01/04/2022
+0106.31.00,-- Aves de rapina,01/04/2022
+0106.32.00,"-- Psitaciformes (incluindo os papagaios, os periquitos, as araras e as catatuas)",01/04/2022
+0106.33,-- Avestruzes; emus (Dromaius novaehollandiae),01/04/2022
+0106.33.10,"Avestruzes (Struthio camelus), para reprodução",01/04/2022
+0106.33.90,Outros,01/04/2022
+0106.39.00,-- Outras,01/04/2022
+0106.4,- Insetos:,01/04/2022
+0106.41.00,-- Abelhas,01/04/2022
+0106.49.00,-- Outros,01/04/2022
+0106.90.00,- Outros,01/04/2022

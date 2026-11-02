@@ -1,0 +1,81 @@
+codigo,descricao,data_inicio
+51.01,Lã não cardada nem penteada.,01/04/2022
+51.02,"Pelos finos ou grosseiros, não cardados nem penteados.",01/04/2022
+51.03,"Desperdícios de lã ou de pelos finos ou grosseiros, incluindo os desperdíciosde fios e excluindo os f",01/04/2022
+51.05,"Lã, pelos finos ou grosseiros, cardados ou penteados (incluindo a ""lã penteada a granel"").",01/04/2022
+51.06,"Fios de lã cardada, não acondicionados para venda a retalho.",01/04/2022
+51.07,"Fios de lã penteada, não acondicionados para venda a retalho.",01/04/2022
+51.08,"Fios de pelos finos, cardados ou penteados, não acondicionados para vendaa retalho.",01/04/2022
+51.09,"Fios de lã ou de pelos finos, acondicionados para venda a retalho.",01/04/2022
+51.11,Tecidos de lã cardada ou de pelos finos cardados.,01/04/2022
+51.12,Tecidos de lã penteada ou de pelos finos penteados.,01/04/2022
+5101.1,"- Lã suja, incluindo a lã lavada a dorso:",01/04/2022
+5101.11,-- Lã de tosquia,01/04/2022
+5101.11.10,"De finura igual ou superior 22,05 micrômetros (mícrons), mas inferior ou igual",
+5101.11.90,Outra,01/04/2022
+5101.19.00,-- Outra,01/04/2022
+5101.2,"- Desengordurada, não carbonizada:",01/04/2022
+5101.21.00,-- Lã de tosquia,01/04/2022
+5101.29.00,-- Outra,01/04/2022
+5101.30.00,- Carbonizada,01/04/2022
+5102.1,- Pelos finos:,01/04/2022
+5102.11.00,-- De cabra de Caxemira,01/04/2022
+5102.19.00,-- Outros,01/04/2022
+5102.20.00,- Pelos grosseiros,01/04/2022
+5103.10.00,- Desperdícios da penteação de lã ou de pelos finos,01/04/2022
+5103.20.00,- Outros desperdícios de lã ou de pelos finos,01/04/2022
+5103.30.00,- Desperdícios de pelos grosseiros,01/04/2022
+5104.00.00,Fiapos de lã ou de pelos finos ou grosseiros.,01/04/2022
+5105.10.00,- Lã cardada,01/04/2022
+5105.2,- Lã penteada:,01/04/2022
+5105.21.00,"-- ""Lã penteada a granel""",01/04/2022
+5105.29,-- Outra,01/04/2022
+5105.29.10,Tops,01/04/2022
+5105.29.9,Outras,01/04/2022
+5105.29.91,"De finura inferior a 22,5 micrômetros (mícrons)",01/04/2022
+5105.29.99,Outras,01/04/2022
+5105.3,"- Pelos finos, cardados ou penteados:",01/04/2022
+5105.31.00,-- De cabra de Caxemira,01/04/2022
+5105.39.00,-- Outros,01/04/2022
+5105.40.00,"- Pelos grosseiros, cardados ou penteados",01/04/2022
+5106.10.00,"- Que contenham pelo menos 85 %, em peso, de lã",01/04/2022
+5106.20.00,"- Que contenham menos de 85 %, em peso, de lã",01/04/2022
+5107.10,"- Que contenham pelo menos 85 %, em peso, de lã",01/04/2022
+5107.10.1,Retorcidos ou retorcidos múltiplos,01/04/2022
+5107.10.11,"De dois cabos, de título inferior ou igual a 184,58 decitex por cabo",01/04/2022
+5107.10.19,Outros,01/04/2022
+5107.10.90,Outros,01/04/2022
+5107.20.00,"- Que contenham menos de 85 %, em peso, de lã",01/04/2022
+5108.10.00,- Cardados,01/04/2022
+5108.20.00,- Penteados,01/04/2022
+5109.10.00,"- Que contenham pelo menos 85 %, em peso, de lã ou de pelos finos",01/04/2022
+5109.90.00,- Outros,01/04/2022
+5110.00.00,"Fios de pelos grosseiros ou de crina (incluindo os fios de crina revestidos porenrolamento), mesmo",01/04/2022
+5111.1,"- Que contenham pelo menos 85 %, em peso, de lã ou de pelos finos:",01/04/2022
+5111.11,-- De peso não superior a 300 g/m2,01/04/2022
+5111.11.10,De lã,01/04/2022
+5111.11.20,De pelos finos,01/04/2022
+5111.19.00,-- Outros,01/04/2022
+5111.20.00,"- Outros, combinados, principal ou unicamente, com filamentos sintéticos ouartificiais",01/04/2022
+5111.30,"- Outros, combinados, principal ou unicamente, com fibras sintéticas ou artificiais descontínuas",01/04/2022
+5111.30.10,"De lã, feltrados, com trama combinada exclusivamente com fibras sintéticas eurdidura exclusivamen",01/04/2022
+5111.30.90,Outros,01/04/2022
+5111.90.00,- Outros,01/04/2022
+5112.1,"- Que contenham pelo menos 85 %, em peso, de lã ou de pelos finos:",01/04/2022
+5112.11.00,-- De peso não superior a 200 g/m2,01/04/2022
+5112.19,-- Outros,01/04/2022
+5112.19.10,De lã,01/04/2022
+5112.19.20,De pelos finos,01/04/2022
+5112.20,"- Outros, combinados, principal ou unicamente, com filamentos sintéticos ouartificiais",01/04/2022
+5112.20.10,De lã,01/04/2022
+5112.20.20,De pelos finos,01/04/2022
+5112.30,"- Outros, combinados, principal ou unicamente, com fibras sintéticas ou artificiais descontínuas",01/04/2022
+5112.30.10,De lã,01/04/2022
+5112.30.20,De pelos finos,01/04/2022
+5112.90.00,- Outros,01/04/2022
+5113.00,Tecidos de pelos grosseiros ou de crina.,01/04/2022
+5113.00.1,De pelos grosseiros,01/04/2022
+5113.00.11,"Que contenham pelo menos 85 %, em peso, de pelos grosseiros",01/04/2022
+5113.00.12,"Que contenham menos de 85 %, em peso, de pelos grosseiros e que contenham algodão",01/04/2022
+5113.00.13,"Que contenham menos de 85 %, em peso, de pelos grosseiros e que não contenham algodão",01/04/2022
+5113.00.20,De crina,01/04/2022

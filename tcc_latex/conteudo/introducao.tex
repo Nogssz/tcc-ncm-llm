@@ -1,0 +1,60 @@
+\chapter{INTRODUÇÃO}
+
+Nos dias atuais, sistemas de gestão empresarial (ERPs) dependem fortemente da inserção manual de dados cadastrais para o seu pleno funcionamento. Essa dependência operacional gera gargalos significativos, uma vez que a interação humana está sujeita a falhas de digitação ou interpretação \cite{Mehta2025ERPDataQuality}. Tais inconsistências em bancos de dados relacionais dividem-se, em geral, em duas categorias. A primeira envolve erros de preenchimento que não impedem o funcionamento básico do sistema, como a inserção de um número de telefone no campo destinado ao endereço. A segunda, e mais crítica, engloba informações que afetam diretamente o ecossistema de integrações do software. Um exemplo claro ocorre no módulo fiscal: quando o cadastro de um cliente apresenta divergências entre a Inscrição Estadual e o Indicador de Contribuinte, ou há a omissão e preenchimento incorreto de códigos obrigatórios como NCM (Nomenclatura Comum do Mercosul), CST (Código de Situação Tributária) e CFOP (Código Fiscal de Operações e Prestações), a emissão da Nota Fiscal Eletrônica (NF-e) é inviabilizada e sumariamente rejeitada pela Secretaria da Fazenda (SEFAZ) \cite{brasil2020moc}.
+
+Essas rejeições paralisam o faturamento das empresas e geram uma sobrecarga imediata no setor de suporte técnico, exigindo intervenção manual para correções que, na maioria das vezes, seguem padrões lógicos e regulatórios bem definidos. Nesse cenário, os Modelos de Linguagem de Grande Escala (LLMs) surgem como uma alternativa tecnológica promissora \cite{Wang2023LLMAgentsSurvey}. Combinados a regras de negócio predefinidas, eles podem ajudar a identificar anomalias e a formular propostas de correção \cite{Roychowdhury2025NLIDB}. Para garantir a segurança e a integridade da operação no banco de dados, o modelo não age de forma autônoma: ele apenas sugere, e a correção proposta aguarda a validação e a aprovação de um operador humano antes de ser executada, no paradigma conhecido como \textit{Human-in-the-Loop} \cite{Cheng2026DecoupledHITL}.
+
+Dentre as inconsistências fiscais, a classificação do produto pela NCM se destaca por exigir interpretação. Verificar se um código existe é uma consulta simples; descobrir qual código corresponde a uma descrição como ``PARACHOQUE DIANTEIRO GOL'' ou ``AZULEJO DE BANHEIRO'' exige conhecer uma tabela com mais de dez mil itens, organizada hierarquicamente e redigida em linguagem técnica que raramente coincide com o nome comercial do produto \cite{receita2026ncm}. Além disso, um código pode existir na tabela e, ainda assim, pertencer a outro produto, erro que nenhuma consulta simples detecta. Por esses motivos, este trabalho concentra a implementação e a avaliação na NCM do cadastro de produtos, deixando as demais categorias delimitadas no projeto (CST, CFOP e Indicador de Contribuinte) como continuidade natural da arquitetura proposta.
+
+Diante deste contexto, o presente trabalho busca responder à seguinte pergunta de pesquisa: em que medida um modelo de linguagem de pequeno porte, executado localmente e restrito a escolher entre candidatos recuperados da tabela oficial, consegue apontar classificações NCM inválidas ou incorretas no cadastro de produtos de um ERP e sugerir a classificação correta, em tempo compatível com o uso diário e sob supervisão humana?
+
+\section{Objetivos}
+
+\subsection{Objetivo Geral}
+
+Desenvolver e avaliar um protótipo de classificação fiscal NCM assistida por modelos de linguagem executados localmente, integrado ao banco de dados do ERP Lux Auto, que aponte produtos com NCM inválido ou possivelmente incorreto e sugira a classificação a partir da descrição do produto, com aprovação humana obrigatória antes de qualquer alteração no banco de dados.
+
+\subsection{Objetivos Específicos}
+
+\begin{itemize}
+    \item Delimitar, a partir da experiência do autor no suporte técnico do Lux Auto, as inconsistências fiscais do cadastro que impedem a emissão de NF-e, e justificar a escolha da classificação NCM de produtos como foco da implementação;
+    \item Estruturar a tabela NCM oficial em uma base local consultável, que permita validar códigos e recuperar candidatos a partir de descrições livres sem enviar a tabela inteira ao modelo de linguagem;
+    \item Projetar e implementar o protótipo, com detecção de NCM inválido, detecção de NCM possivelmente incorreto, sugestão de classificação, execução em segundo plano e aprovação por meio de uma interface independente do ERP;
+    \item Construir conjuntos de avaliação separados para desenvolvimento e para teste, com a classificação correta de cada produto conferida na tabela oficial, incluindo códigos inválidos de diferentes tipos e erros de classificação reais extraídos de bases de clientes;
+    \item Avaliar o protótipo quanto à detecção, ao acerto das sugestões e ao tempo de resposta, medindo a contribuição do modelo de linguagem em relação à busca sem modelo e comparando modelos abertos e arquiteturas alternativas.
+\end{itemize}
+
+\section{Justificativa}
+
+A gestão fiscal em sistemas ERP representa um dos principais gargalos operacionais em pequenas e médias empresas do setor automotivo. Inconsistências cadastrais, como divergências entre a Inscrição Estadual e o Indicador de Contribuinte e o preenchimento incorreto de códigos NCM, CST e CFOP, comprometem diretamente a emissão de NF-e, interrompendo o fluxo de faturamento. Problemas de qualidade de dados são reconhecidos como fonte recorrente de dificuldades na operação de ERPs \cite{xu2002}, e, na experiência do autor no suporte técnico do Lux Auto, erros cadastrais de natureza fiscal estão entre os motivos recorrentes de chamados abertos pelos clientes. Essa observação não se apoia em um levantamento quantitativo do sistema de chamados, que não foi realizado neste trabalho, mas na prática diária de atendimento; por isso, ela é apresentada como delimitação do problema, e não como medida de sua frequência. A Figura~\ref{fig:fluxo_rejeicao} sintetiza o fluxo que origina essa demanda.
+
+\begin{figure}[H]
+    \centering
+    \caption{Fluxo de rejeição de NF-e e geração de demanda de suporte técnico}
+    \label{fig:fluxo_rejeicao}
+    \begin{tikzpicture}[
+        node distance=1.2cm,
+        every node/.style={font=\small},
+        box/.style={rectangle, draw, rounded corners=4pt, minimum width=5.2cm, minimum height=0.9cm, align=center, fill=blue!8, text width=5cm},
+        errorbox/.style={rectangle, draw, rounded corners=4pt, minimum width=5.2cm, minimum height=0.9cm, align=center, fill=red!10, text width=5cm},
+        arrow/.style={-{Stealth[scale=1]}, thick}
+    ]
+        \node (cadastro)  [box]      {Operador preenche cadastro\\com dado incorreto};
+        \node (emissao)   [box,      below=of cadastro] {Sistema ERP tenta\\emitir a NF-e};
+        \node (sefaz)     [errorbox, below=of emissao]  {SEFAZ rejeita o documento\\(código de erro técnico)};
+        \node (suporte)   [errorbox, below=of sefaz]    {Abertura de chamado ao\\suporte técnico};
+
+        \draw [arrow] (cadastro) -- (emissao);
+        \draw [arrow] (emissao)  -- (sefaz);
+        \draw [arrow] (sefaz)    -- node[right, font=\footnotesize] {erro não compreendido pelo operador} (suporte);
+    \end{tikzpicture}
+    \fonte{O autor (2026).}
+\end{figure}
+
+Embora os próprios sistemas ERP sinalizem esses erros ao usuário, a baixa familiaridade dos operadores com terminologia fiscal faz com que as mensagens de erro sejam frequentemente ignoradas, resultando em chamados de suporte para problemas que já foram identificados pelo sistema, mas não compreendidos pelo usuário. Esse comportamento evidencia que a solução não passa apenas por detectar o erro, mas por interpretá-lo e propor uma correção acessível e supervisionada, de preferência no momento do cadastro, antes que a nota seja emitida.
+
+Nesse contexto, regras fixas resolvem apenas parte do problema. Uma regra consegue dizer que o NCM ``00000000'' é inválido, mas não consegue dizer que um ``PARACHOQUE'' deve ser classificado em ``8708.10.00 -- Para-choques e suas partes'': isso exige interpretar a descrição do produto e relacioná-la ao texto da tabela oficial, tarefa em que os LLMs têm demonstrado bom desempenho \cite{gholamian2024llmclassification}. Ao mesmo tempo, o risco de alucinação desses modelos \cite{huang2025hallucination} torna indispensável que a resposta seja verificável e que a decisão final permaneça com um humano \cite{Natarajan2024AI2L}. Investigar como equilibrar essas duas necessidades com um modelo pequeno, executado localmente e sem custo de API, e medir quanto o modelo de linguagem acrescenta em relação a uma busca sem ele, é a contribuição prática deste trabalho.
+
+\section{Estrutura do Trabalho}
+
+O Capítulo~\ref{cap:fundamentacao} apresenta a fundamentação teórica: sistemas ERP e qualidade de dados, a NF-e e a estrutura da NCM, os LLMs e a engenharia de \textit{prompt}, as técnicas de recuperação de informação e de avaliação empregadas e os trabalhos correlatos, incluindo estudos de classificação automática de NCM e do SH. O Capítulo~\ref{cap:metodologia} descreve a metodologia, incluindo o ambiente experimental, os conjuntos de casos e as métricas. O Capítulo~\ref{cap:desenvolvimento} detalha a arquitetura e a implementação do protótipo, bem como as versões testadas e descartadas ao longo do desenvolvimento. O Capítulo~\ref{cap:resultados} apresenta e discute os resultados, e o Capítulo~\ref{cap:conclusao} traz as conclusões e os trabalhos futuros.

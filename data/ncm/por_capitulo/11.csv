@@ -1,0 +1,45 @@
+codigo,descricao,data_inicio
+11.02,"Farinhas de cereais, exceto de trigo ou de mistura de trigo com centeio (méteil).",01/04/2022
+11.03,"Grumos, sêmolas e pellets, de cereais.",01/04/2022
+11.04,"Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em",01/04/2022
+11.05,"Farinha, sêmola, pó, flocos, grânulos e pellets, de batata.",01/04/2022
+11.06,"Farinhas, sêmolas e pós, dos legumes de vagem, secos, da posição 07.13, de sagu ou das raízes ou",01/04/2022
+11.07,"Malte, mesmo torrado.",01/04/2022
+11.08,Amidos e féculas; inulina.,01/04/2022
+1101.00,Farinhas de trigo ou de mistura de trigo com centeio (méteil).,01/04/2022
+1101.00.10,De trigo,01/04/2022
+1101.00.20,De mistura de trigo com centeio (méteil),01/04/2022
+1102.20.00,- Farinha de milho,01/04/2022
+1102.90.00,- Outras,01/04/2022
+1103.1,- Grumos e sêmolas:,01/04/2022
+1103.11.00,-- De trigo,01/04/2022
+1103.13.00,-- De milho,01/04/2022
+1103.19.00,-- De outros cereais,01/04/2022
+1103.20.00,- Pellets,01/04/2022
+1104.1,- Grãos esmagados ou em flocos:,01/04/2022
+1104.12.00,-- De aveia,01/04/2022
+1104.19.00,-- De outros cereais,01/04/2022
+1104.2,"- Outros grãos trabalhados (por exemplo, descascados, em pérolas, cortadosou partidos):",01/04/2022
+1104.22.00,-- De aveia,01/04/2022
+1104.23.00,-- De milho,01/04/2022
+1104.29.00,-- De outros cereais,01/04/2022
+1104.30.00,"- Germes de cereais, inteiros, esmagados, em flocos ou moídos",01/04/2022
+1105.10.00,"- Farinha, sêmola e pó",01/04/2022
+1105.20.00,"- Flocos, grânulos e pellets",01/04/2022
+1106.10.00,"- Dos legumes de vagem, secos, da posição 07.13",01/04/2022
+1106.20.00,"- De sagu ou das raízes ou tubérculos, da posição 07.14",01/04/2022
+1106.30.00,- Dos produtos do Capítulo 8,01/04/2022
+1107.10,- Não torrado,01/04/2022
+1107.10.10,Inteiro ou partido,01/04/2022
+1107.10.20,Moído ou em farinha,01/04/2022
+1107.20,- Torrado,01/04/2022
+1107.20.10,Inteiro ou partido,01/04/2022
+1107.20.20,Moído ou em farinha,01/04/2022
+1108.1,- Amidos e féculas:,01/04/2022
+1108.11.00,-- Amido de trigo,01/04/2022
+1108.12.00,-- Amido de milho,01/04/2022
+1108.13.00,-- Fécula de batata,01/04/2022
+1108.14.00,-- Fécula de mandioca,01/04/2022
+1108.19.00,-- Outros amidos e féculas,01/04/2022
+1108.20.00,- Inulina,01/04/2022
+1109.00.00,"Glúten de trigo, mesmo seco.",01/04/2022

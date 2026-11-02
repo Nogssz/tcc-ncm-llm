@@ -1,0 +1,128 @@
+codigo,descricao,data_inicio
+02.01,"Carnes de animais da espécie bovina, frescas ou refrigeradas.",01/04/2022
+02.02,"Carnes de animais da espécie bovina, congeladas.",01/04/2022
+02.03,"Carnes de animais da espécie suína, frescas, refrigeradas ou congeladas.",01/04/2022
+02.04,"Carnes de animais das espécies ovina ou caprina, frescas, refrigeradas ou congeladas.",01/04/2022
+02.06,"Miudezas comestíveis de animais das espécies bovina, suína, ovina, caprina,cavalar, asinina e mua",01/04/2022
+02.07,"Carnes e miudezas, comestíveis, frescas, refrigeradas ou congeladas, das aves da posição 01.05.",01/04/2022
+02.08,"Outras carnes e miudezas comestíveis, frescas, refrigeradas ou congeladas.",01/04/2022
+02.09,"Toucinho sem partes magras, gorduras de porco e de aves, não fundidas nem extraídas de outro mo",01/04/2022
+02.10,"Carnes e miudezas, comestíveis, salgadas ou em salmoura, secas ou defumadas (fumadas); farinha",01/04/2022
+0201.10.00,- Carcaças e meias-carcaças,01/04/2022
+0201.20,- Outras peças não desossadas,01/04/2022
+0201.20.10,Quartos dianteiros,01/04/2022
+0201.20.20,Quartos traseiros,01/04/2022
+0201.20.90,Outras,01/04/2022
+0201.30.00,- Desossadas,01/04/2022
+0202.10.00,- Carcaças e meias-carcaças,01/04/2022
+0202.20,- Outras peças não desossadas,01/04/2022
+0202.20.10,Quartos dianteiros,01/04/2022
+0202.20.20,Quartos traseiros,01/04/2022
+0202.20.90,Outras,01/04/2022
+0202.30.00,- Desossadas,01/04/2022
+0203.1,- Frescas ou refrigeradas:,01/04/2022
+0203.11.00,-- Carcaças e meias-carcaças,01/04/2022
+0203.12.00,"-- Pernas, pás e respectivos pedaços, não desossados",01/04/2022
+0203.19.00,-- Outras,01/04/2022
+0203.2,- Congeladas:,01/04/2022
+0203.21.00,-- Carcaças e meias-carcaças,01/04/2022
+0203.22.00,"-- Pernas, pás e respectivos pedaços, não desossados",01/04/2022
+0203.29.00,-- Outras,01/04/2022
+0204.10.00,"- Carcaças e meias-carcaças de cordeiro, frescas ou refrigeradas",01/04/2022
+0204.2,"- Outras carnes de animais da espécie ovina, frescas ou refrigeradas:",01/04/2022
+0204.21.00,-- Carcaças e meias-carcaças,01/04/2022
+0204.22.00,-- Outras peças não desossadas,01/04/2022
+0204.23.00,-- Desossadas,01/04/2022
+0204.30.00,"- Carcaças e meias-carcaças de cordeiro, congeladas",01/04/2022
+0204.4,"- Outras carnes de animais da espécie ovina, congeladas:",01/04/2022
+0204.41.00,-- Carcaças e meias-carcaças,01/04/2022
+0204.42.00,-- Outras peças não desossadas,01/04/2022
+0204.43.00,-- Desossadas,01/04/2022
+0204.50.00,- Carnes de animais da espécie caprina,01/04/2022
+0205.00.00,"Carnes de animais das espécies cavalar, asinina e muar, frescas, refrigeradas ou congeladas.",01/04/2022
+0206.10.00,"- Da espécie bovina, frescas ou refrigeradas",01/04/2022
+0206.2,"- Da espécie bovina, congeladas:",01/04/2022
+0206.21.00,-- Línguas,01/04/2022
+0206.22.00,-- Fígados,01/04/2022
+0206.29,-- Outras,01/04/2022
+0206.29.10,Rabos,01/04/2022
+0206.29.90,Outros,01/04/2022
+0206.30.00,"- Da espécie suína, frescas ou refrigeradas",01/04/2022
+0206.4,"- Da espécie suína, congeladas:",01/04/2022
+0206.41.00,-- Fígados,01/04/2022
+0206.49.00,-- Outras,01/04/2022
+0206.80.00,"- Outras, frescas ou refrigeradas",01/04/2022
+0206.90.00,"- Outras, congeladas",01/04/2022
+0207.1,- De aves da espécie Gallus domesticus:,01/04/2022
+0207.11.00,"-- Não cortadas em pedaços, frescas ou refrigeradas",01/04/2022
+0207.12,"-- Não cortadas em pedaços, congeladas",01/04/2023
+0207.12.10,Com miudezas,01/04/2023
+0207.12.20,Sem miudezas,01/04/2023
+0207.13.00,"-- Pedaços e miudezas, frescos ou refrigerados",01/04/2022
+0207.14,"-- Pedaços e miudezas, congelados",01/08/2024
+0207.14.1,Pedaços não desossados,01/08/2024
+0207.14.11,Peitos,01/08/2024
+0207.14.12,Coxas com sobrecoxas,01/08/2024
+0207.14.13,Asas,01/08/2024
+0207.14.19,Outros,01/08/2024
+0207.14.2,Pedaços desossados,01/08/2024
+0207.14.21,"Peitos, coxas e sobrecoxas, formando uma só peça",01/08/2024
+0207.14.22,Peitos,01/08/2024
+0207.14.23,Coxas com sobrecoxas,01/08/2024
+0207.14.24,Carne mecanicamente separada,01/08/2024
+0207.14.29,Outros,01/08/2024
+0207.14.3,Miudezas,01/08/2024
+0207.14.31,Fígados,01/08/2024
+0207.14.32,Moelas,01/08/2024
+0207.14.33,Corações,01/08/2024
+0207.14.34,Pés e patas,01/08/2024
+0207.14.39,Outras,01/08/2024
+0207.2,- De peruas e de perus:,01/04/2022
+0207.24.00,"-- Não cortadas em pedaços, frescas ou refrigeradas",01/04/2022
+0207.25.00,"-- Não cortadas em pedaços, congeladas",01/04/2022
+0207.26.00,"-- Pedaços e miudezas, frescos ou refrigerados",01/04/2022
+0207.27.00,"-- Pedaços e miudezas, congelados",01/04/2022
+0207.4,- De patos:,01/04/2022
+0207.41.00,"-- Não cortadas em pedaços, frescas ou refrigeradas",01/04/2022
+0207.42.00,"-- Não cortadas em pedaços, congeladas",01/04/2022
+0207.43.00,"-- Fígados gordos (foies gras), frescos ou refrigerados",01/04/2022
+0207.44.00,"-- Outras, frescas ou refrigeradas",01/04/2022
+0207.45.00,"-- Outras, congeladas",01/04/2022
+0207.5,- De gansos:,01/04/2022
+0207.51.00,"-- Não cortadas em pedaços, frescas ou refrigeradas",01/04/2022
+0207.52.00,"-- Não cortadas em pedaços, congeladas",01/04/2022
+0207.53.00,"-- Fígados gordos (foies gras), frescos ou refrigerados",01/04/2022
+0207.54.00,"-- Outras, frescas ou refrigeradas",01/04/2022
+0207.55.00,"-- Outras, congeladas",01/04/2022
+0207.60.00,- De galinhas-d'angola (pintadas),01/04/2022
+0208.10.00,- De coelhos ou lebres,01/04/2022
+0208.30.00,- De primatas,01/04/2022
+0208.40.00,"- De baleias, golfinhos e botos (mamíferos da ordem Cetacea); de peixes-boi(manatins) e dugongos",01/04/2022
+0208.50.00,- De répteis (incluindo as serpentes e as tartarugas marinhas),01/04/2022
+0208.60.00,- De camelos e outros camelídeos (Camelidae),01/04/2022
+0208.90.00,- Outras,01/04/2022
+0209.10,- De porco,01/04/2022
+0209.10.1,Toucinho,01/04/2022
+0209.10.11,"Fresco, refrigerado ou congelado",01/04/2022
+0209.10.19,Outros,01/04/2022
+0209.10.2,Gordura,01/04/2022
+0209.10.21,"Fresca, refrigerada ou congelada",01/04/2022
+0209.10.29,Outras,01/04/2022
+0209.90.00,- Outros,01/04/2022
+0210.1,- Carnes da espécie suína:,01/04/2022
+0210.11.00,"-- Pernas, pás e respectivos pedaços, não desossados",01/04/2022
+0210.12.00,-- Toucinhos entremeados (Barrigas (entremeadas)*) e seus pedaços,01/04/2022
+0210.19.00,-- Outras,01/04/2022
+0210.20.00,- Carnes da espécie bovina,01/04/2022
+0210.9,"- Outras, incluindo as farinhas e pós, comestíveis, de carnes ou de miudezas:",01/04/2022
+0210.91.00,-- De primatas,01/04/2022
+0210.92.00,"-- De baleias, golfinhos e botos (mamíferos da ordem Cetacea); de peixes-boi (manatins) e dugongo",01/04/2022
+0210.93.00,-- De répteis (incluindo as serpentes e as tartarugas marinhas),01/04/2022
+0210.99,-- Outras,01/04/2022
+0210.99.1,Carnes de aves da posição 01.05,01/04/2022
+0210.99.11,De galos e de galinhas,01/04/2022
+0210.99.19,Outras,01/04/2022
+0210.99.20,Carnes da espécie ovina,01/04/2022
+0210.99.30,Carnes da espécie cavalar,01/04/2022
+0210.99.40,Miudezas comestíveis,01/04/2022
+0210.99.90,Outras,01/04/2022

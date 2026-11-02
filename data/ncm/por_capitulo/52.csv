@@ -1,0 +1,206 @@
+codigo,descricao,data_inicio
+52.02,Desperdícios de algodão (incluindo os desperdícios de fios e os fiapos).,01/04/2022
+52.04,"Linhas para costurar, de algodão, mesmo acondicionadas para venda a retalho.",01/04/2022
+52.05,"Fios de algodão (exceto linhas para costurar) que contenham pelo menos 85%, em peso, de algodã",01/04/2022
+52.06,"Fios de algodão (exceto linhas para costurar) que contenham menos de 85 %, em peso, de algodão,",01/04/2022
+52.07,Fios de algodão (exceto linhas para costurar) acondicionados para venda a retalho.,01/04/2022
+52.08,"Tecidos de algodão que contenham pelo menos 85 %, em peso, de algodão,de peso não superior a",01/04/2022
+52.09,"Tecidos de algodão que contenham pelo menos 85 %, em peso, de algodão,de peso superior a 200",01/04/2022
+52.10,"Tecidos de algodão que contenham menos de 85 %, em peso, de algodão, combinados, principal ou",01/04/2022
+52.11,"Tecidos de algodão que contenham menos de 85 %, em peso, de algodão, combinados, principal ou",01/04/2022
+52.12,Outros tecidos de algodão.,01/04/2022
+5201.00,Algodão não cardado nem penteado.,01/04/2022
+5201.00.10,Não debulhado,01/04/2022
+5201.00.20,Simplesmente debulhado,01/04/2022
+5201.00.90,Outros,01/04/2022
+5202.10.00,- Desperdícios de fios,01/04/2022
+5202.9,- Outros:,01/04/2022
+5202.91.00,-- Fiapos,01/04/2022
+5202.99.00,-- Outros,01/04/2022
+5203.00.00,Algodão cardado ou penteado.,01/04/2022
+5204.1,- Não acondicionadas para venda a retalho:,01/04/2022
+5204.11,"-- Que contenham pelo menos 85 %, em peso, de algodão",01/04/2022
+5204.11.1,"De algodão cru, de título inferior ou igual a 5.000 decitex por fio simples",01/04/2022
+5204.11.11,De dois cabos,01/04/2022
+5204.11.12,De três ou mais cabos,01/04/2022
+5204.11.20,"De algodão cru, de título superior a 5.000 decitex por fio simples",01/04/2022
+5204.11.3,"De algodão branqueado ou colorido, de título inferior ou igual a 5.000 decitexpor fio simples",01/04/2022
+5204.11.31,De dois cabos,01/04/2022
+5204.11.32,De três ou mais cabos,01/04/2022
+5204.11.40,"De algodão branqueado ou colorido, de título superior a 5.000 decitex por fiosimples",01/04/2022
+5204.19,-- Outras,01/04/2022
+5204.19.1,"De algodão cru, de título inferior ou igual a 5.000 decitex por fio simples",01/04/2022
+5204.19.11,De dois cabos,01/04/2022
+5204.19.12,De três ou mais cabos,01/04/2022
+5204.19.20,"De algodão cru, de título superior a 5.000 decitex por fio simples",01/04/2022
+5204.19.3,"De algodão branqueado ou colorido, de título inferior ou igual a 5.000 decitexpor fio simples",01/04/2022
+5204.19.31,De dois cabos,01/04/2022
+5204.19.32,De três ou mais cabos,01/04/2022
+5204.19.40,"De algodão branqueado ou colorido, de título superior a 5.000 decitex por fiosimples",01/04/2022
+5204.20.00,- Acondicionadas para venda a retalho,01/04/2022
+5205.1,"- Fios simples, de fibras não penteadas:",01/04/2022
+5205.11.00,"-- De título igual ou superior a 714,29 decitex (número métrico não superior a10)",41/04/2022
+5205.12.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex (número métrico superior a 14",01/04/2022
+5205.13,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex (número métrico superior a 43",01/04/2022
+5205.13.10,Crus,01/04/2022
+5205.13.90,Outros,01/04/2022
+5205.14.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex (número métrico superior a 52, m",01/04/2022
+5205.15.00,-- De título inferior a 125 decitex (número métrico superior a 80),01/04/2022
+5205.2,"- Fios simples, de fibras penteadas:",01/04/2022
+5205.21.00,"-- De título igual ou superior a 714,29 decitex (número métrico não superior a10)",41/04/2022
+5205.22.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex (número métrico superior a 14",01/04/2022
+5205.23,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex (número métrico superior a 43",01/04/2022
+5205.23.10,Crus,01/04/2022
+5205.23.90,Outros,01/04/2022
+5205.24.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex (número métrico superior a 52, m",01/04/2022
+5205.26.00,"-- De título inferior a 125 decitex, mas não inferior a 106,38 decitex (número métrico superior a 80, m",01/04/2022
+5205.27.00,"-- De título inferior a 106,38 decitex, mas não inferior a 83,33 decitex (númerométrico superior a 94,",01/04/2022
+5205.28.00,"-- De título inferior a 83,33 decitex (número métrico superior a 120)",01/04/2022
+5205.3,"- Fios retorcidos ou retorcidos múltiplos, de fibras não penteadas:",01/04/2022
+5205.31.00,"-- De título igual ou superior a 714,29 decitex por fio simples (número métriconão superior a 14, por",01/04/2022
+5205.32.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex por fiosimples (número métric",01/04/2022
+5205.33.00,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex por fiosimples (número métric",01/04/2022
+5205.34.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex por fio simples (número métrico s",01/04/2022
+5205.35.00,"-- De título inferior a 125 decitex por fio simples (número métrico superior a 80, por fio simples)",01/04/2022
+5205.4,"- Fios retorcidos ou retorcidos múltiplos, de fibras penteadas:",01/04/2022
+5205.41.00,"-- De título igual ou superior a 714,29 decitex por fio simples (número métriconão superior a 14, por",01/04/2022
+5205.42.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex por fiosimples (número métric",01/04/2022
+5205.43.00,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex por fiosimples (número métric",01/04/2022
+5205.44.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex por fio simples (número métrico s",01/04/2022
+5205.46.00,"-- De título inferior a 125 decitex, mas não inferior a 106,38 decitex por fio simples (número métrico s",01/04/2022
+5205.47.00,"-- De título inferior a 106,38 decitex, mas não inferior a 83,33 decitex por fio simples (número métrico",01/04/2022
+5205.48.00,"-- De título inferior a 83,33 decitex por fio simples (número métrico superior a102, por fio simples)",10/04/2022
+5206.1,"- Fios simples, de fibras não penteadas:",01/04/2022
+5206.11.00,"-- De título igual ou superior a 714,29 decitex (número métrico não superior a10)",41/04/2022
+5206.12.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex (número métrico superior a 14",01/04/2022
+5206.13.00,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex (número métrico superior a 43",01/04/2022
+5206.14.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex (número métrico superior a 52, m",01/04/2022
+5206.15.00,-- De título inferior a 125 decitex (número métrico superior a 80),01/04/2022
+5206.2,"- Fios simples, de fibras penteadas:",01/04/2022
+5206.21.00,"-- De título igual ou superior a 714,29 decitex (número métrico não superior a10)",41/04/2022
+5206.22.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex (número métrico superior a 14",01/04/2022
+5206.23.00,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex (número métrico superior a 43",01/04/2022
+5206.24.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex (número métrico superior a 52, m",01/04/2022
+5206.25.00,-- De título inferior a 125 decitex (número métrico superior a 80),01/04/2022
+5206.3,"- Fios retorcidos ou retorcidos múltiplos, de fibras não penteadas:",01/04/2022
+5206.31.00,"-- De título igual ou superior a 714,29 decitex por fio simples (número métriconão superior a 14, por",01/04/2022
+5206.32.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex por fiosimples (número métric",01/04/2022
+5206.33.00,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex por fiosimples (número métric",01/04/2022
+5206.34.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex por fio simples (número métrico s",01/04/2022
+5206.35.00,"-- De título inferior a 125 decitex por fio simples (número métrico superior a 80, por fio simples)",01/04/2022
+5206.4,"- Fios retorcidos ou retorcidos múltiplos, de fibras penteadas:",01/04/2022
+5206.41.00,"-- De título igual ou superior a 714,29 decitex por fio simples (número métriconão superior a 14, por",01/04/2022
+5206.42.00,"-- De título inferior a 714,29 decitex, mas não inferior a 232,56 decitex por fiosimples (número métric",01/04/2022
+5206.43.00,"-- De título inferior a 232,56 decitex, mas não inferior a 192,31 decitex por fiosimples (número métric",01/04/2022
+5206.44.00,"-- De título inferior a 192,31 decitex, mas não inferior a 125 decitex por fio simples (número métrico s",01/04/2022
+5206.45.00,"-- De título inferior a 125 decitex por fio simples (número métrico superior a 80, por fio simples)",01/04/2022
+5207.10.00,"- Que contenham pelo menos 85 %, em peso, de algodão",01/04/2022
+5207.90.00,- Outros,01/04/2022
+5208.1,- Crus:,01/04/2022
+5208.11.00,"-- Em ponto de tafetá, de peso não superior a 100 g/m2",01/04/2022
+5208.12.00,"-- Em ponto de tafetá, de peso superior a 100 g/m2",01/04/2022
+5208.13.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5208.19.00,-- Outros tecidos,01/04/2022
+5208.2,- Branqueados:,01/04/2022
+5208.21.00,"-- Em ponto de tafetá, de peso não superior a 100 g/m2",01/04/2022
+5208.22.00,"-- Em ponto de tafetá, de peso superior a 100 g/m2",01/04/2022
+5208.23.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5208.29.00,-- Outros tecidos,01/04/2022
+5208.3,- Tintos:,01/04/2022
+5208.31.00,"-- Em ponto de tafetá, de peso não superior a 100 g/m2",01/04/2022
+5208.32.00,"-- Em ponto de tafetá, de peso superior a 100 g/m2",01/04/2022
+5208.33.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5208.39.00,-- Outros tecidos,01/04/2022
+5208.4,- De fios de diversas cores:,01/04/2022
+5208.41.00,"-- Em ponto de tafetá, de peso não superior a 100 g/m2",01/04/2022
+5208.42.00,"-- Em ponto de tafetá, de peso superior a 100 g/m2",01/04/2022
+5208.43.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5208.49.00,-- Outros tecidos,01/04/2022
+5208.5,- Estampados:,01/04/2022
+5208.51.00,"-- Em ponto de tafetá, de peso não superior a 100 g/m2",01/04/2022
+5208.52.00,"-- Em ponto de tafetá, de peso superior a 100 g/m2",01/04/2022
+5208.59,-- Outros tecidos,01/04/2022
+5208.59.10,"Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja supe",
+5208.59.90,Outros,01/04/2022
+5209.1,- Crus:,01/04/2022
+5209.11.00,-- Em ponto de tafetá,01/04/2022
+5209.12.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5209.19.00,-- Outros tecidos,01/04/2022
+5209.2,- Branqueados:,01/04/2022
+5209.21.00,-- Em ponto de tafetá,01/04/2022
+5209.22.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5209.29.00,-- Outros tecidos,01/04/2022
+5209.3,- Tintos:,01/04/2022
+5209.31.00,-- Em ponto de tafetá,01/04/2022
+5209.32.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5209.39.00,-- Outros tecidos,01/04/2022
+5209.4,- De fios de diversas cores:,01/04/2022
+5209.41.00,-- Em ponto de tafetá,01/04/2022
+5209.42,-- Tecidos denominados Denim,01/04/2022
+5209.42.10,Com fios tintos em indigo blue segundo Color Index 73000,01/04/2022
+5209.42.90,Outros,01/04/2022
+5209.43.00,"-- Outros tecidos em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a",01/04/2022
+5209.49.00,-- Outros tecidos,01/04/2022
+5209.5,- Estampados:,01/04/2022
+5209.51.00,-- Em ponto de tafetá,01/04/2022
+5209.52.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5209.59.00,-- Outros tecidos,01/04/2022
+5210.1,- Crus:,01/04/2022
+5210.11.00,-- Em ponto de tafetá,01/04/2022
+5210.19,-- Outros tecidos,01/04/2022
+5210.19.10,"Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja supe",
+5210.19.90,Outros,01/04/2022
+5210.2,- Branqueados:,01/04/2022
+5210.21.00,-- Em ponto de tafetá,01/04/2022
+5210.29,-- Outros tecidos,01/04/2022
+5210.29.10,"Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja supe",
+5210.29.90,Outros,01/04/2022
+5210.3,- Tintos:,01/04/2022
+5210.31.00,-- Em ponto de tafetá,01/04/2022
+5210.32.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5210.39.00,-- Outros tecidos,01/04/2022
+5210.4,- De fios de diversas cores:,01/04/2022
+5210.41.00,-- Em ponto de tafetá,01/04/2022
+5210.49,-- Outros tecidos,01/04/2022
+5210.49.10,"Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja supe",
+5210.49.90,Outros,01/04/2022
+5210.5,- Estampados:,01/04/2022
+5210.51.00,-- Em ponto de tafetá,01/04/2022
+5210.59,-- Outros tecidos,01/04/2022
+5210.59.10,"Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja supe",
+5210.59.90,Outros,01/04/2022
+5211.1,- Crus:,01/04/2022
+5211.11.00,-- Em ponto de tafetá,01/04/2022
+5211.12.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5211.19.00,-- Outros tecidos,01/04/2022
+5211.20,- Branqueados,01/04/2022
+5211.20.10,Em ponto de tafetá,01/04/2022
+5211.20.20,"Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja supe",
+5211.20.90,Outros,01/04/2022
+5211.3,- Tintos:,01/04/2022
+5211.31.00,-- Em ponto de tafetá,01/04/2022
+5211.32.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5211.39.00,-- Outros tecidos,01/04/2022
+5211.4,- De fios de diversas cores:,01/04/2022
+5211.41.00,-- Em ponto de tafetá,01/04/2022
+5211.42,-- Tecidos denominados Denim,01/04/2022
+5211.42.10,Com fios tintos em indigo blue segundo Color Index 73000,01/04/2022
+5211.42.90,Outros,01/04/2022
+5211.43.00,"-- Outros tecidos em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a",01/04/2022
+5211.49.00,-- Outros tecidos,01/04/2022
+5211.5,- Estampados:,01/04/2022
+5211.51.00,-- Em ponto de tafetá,01/04/2022
+5211.52.00,"-- Em ponto sarjado, incluindo o diagonal, cuja relação de textura não seja superior a 2",01/04/2042
+5211.59.00,-- Outros tecidos,01/04/2022
+5212.1,- De peso não superior a 200 g/m2:,01/04/2022
+5212.11.00,-- Crus,01/04/2022
+5212.12.00,-- Branqueados,01/04/2022
+5212.13.00,-- Tintos,01/04/2022
+5212.14.00,-- De fios de diversas cores,01/04/2022
+5212.15.00,-- Estampados,01/04/2022
+5212.2,- De peso superior a 200 g/m2:,01/04/2022
+5212.21.00,-- Crus,01/04/2022
+5212.22.00,-- Branqueados,01/04/2022
+5212.23.00,-- Tintos,01/04/2022
+5212.24.00,-- De fios de diversas cores,01/04/2022
+5212.25.00,-- Estampados,01/04/2022

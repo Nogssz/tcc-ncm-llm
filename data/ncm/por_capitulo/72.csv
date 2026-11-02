@@ -1,0 +1,316 @@
+codigo,descricao,data_inicio
+72.01,"Ferro fundido bruto e ferro spiegel (especular), em lingotes, linguados ou outras formas primárias.",01/04/2022
+72.02,Ferroligas.,01/04/2022
+72.03,Produtos ferrosos obtidos por redução direta dos minérios de ferro e outros produtos ferrosos esponj,01/04/2022
+72.04,"Desperdícios e resíduos, e sucata, de ferro fundido, ferro ou aço; desperdícios e resíduos, em lingote",01/04/2022
+72.05,"Granalhas e pós de ferro fundido bruto, de ferro spiegel (especular), de ferroou aço.",01/04/2022
+72.06,"Ferro e aço não ligado, em lingotes ou outras formas primárias, exceto o ferroda posição 72.03.",01/04/2022
+72.07,Produtos semimanufaturados de ferro ou aço não ligado.,01/04/2022
+72.08,"Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 020 mm, lamin",01/04/2062
+72.09,"Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 020 mm, lamin",01/04/2062
+72.10,"Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 020 mm, folhe",01/04/2062
+72.11,"Produtos laminados planos, de ferro ou aço não ligado, de largura inferior a 600 mm, não folheados",01/04/2022
+72.12,"Produtos laminados planos, de ferro ou aço não ligado, de largura inferior a 600 mm, folheados ou c",01/04/2022
+72.13,Fio-máquina de ferro ou aço não ligado.,01/04/2022
+72.14,"Barras de ferro ou aço não ligado, simplesmente forjadas, laminadas, estiradas ou extrudadas, a que",01/04/2022
+72.15,Outras barras de ferro ou aço não ligado.,01/04/2022
+72.16,Perfis de ferro ou aço não ligado.,01/04/2022
+72.17,Fios de ferro ou aço não ligado.,01/04/2022
+72.18,Aço inoxidável em lingotes ou outras formas primárias; produtos semimanufaturados de aço inoxidáv,01/04/2022
+72.19,"Produtos laminados planos de aço inoxidável, de largura igual ou superior a 600 mm.",01/04/2022
+72.20,"Produtos laminados planos de aço inoxidável, de largura inferior a 600 mm.",01/04/2022
+72.22,"Barras e perfis, de aço inoxidável.",01/04/2022
+72.24,"Outras ligas de aço, em lingotes ou outras formas primárias; produtos semimanufaturados, de outras",01/04/2022
+72.25,"Produtos laminados planos, de outras ligas de aço, de largura igual ou superi",
+72.26,"Produtos laminados planos, de outras ligas de aço, de largura inferior a 600 mm.",01/04/2022
+72.27,Fio-máquina de outras ligas de aço.,01/04/2022
+72.28,"Barras e perfis, de outras ligas de aço; barras ocas para perfuração, de ligasde aço ou de aço não li",01/04/2022
+72.29,Fios de outras ligas de aço.,01/04/2022
+7201.10.00,"- Ferro fundido bruto não ligado, que contenha, em peso, 0,5 % ou menos defósforo",01/04/2022
+7201.20.00,"- Ferro fundido bruto não ligado, que contenha, em peso, mais de 0,5 % de fósforo",01/04/2022
+7201.50.00,- Ligas de ferro fundido bruto; ferro spiegel (especular),01/04/2022
+7202.1,- Ferromanganês:,01/04/2022
+7202.11.00,"-- Que contenha, em peso, mais de 2 % de carbono",01/04/2022
+7202.19.00,-- Outra,01/04/2022
+7202.2,- Ferrossilício:,01/04/2022
+7202.21.00,"-- Que contenha, em peso, mais de 55 % de silício",01/04/2022
+7202.29.00,-- Outra,01/04/2022
+7202.30.00,- Ferrossiliciomanganês,01/04/2022
+7202.4,- Ferrocromo:,01/04/2022
+7202.41.00,"-- Que contenha, em peso, mais de 4 % de carbono",01/04/2022
+7202.49.00,-- Outra,01/04/2022
+7202.50.00,- Ferrossiliciocromo,01/04/2022
+7202.60.00,- Ferroníquel,01/04/2022
+7202.70.00,- Ferromolibdênio,01/04/2022
+7202.80.00,- Ferrotungstênio (ferrovolfrâmio) e ferrossiliciotungstênio (ferrossiliciovolfrâmio),01/04/2022
+7202.9,- Outras:,01/04/2022
+7202.91.00,-- Ferrotitânio e ferrossiliciotitânio,01/04/2022
+7202.92.00,-- Ferrovanádio,01/04/2022
+7202.93.00,-- Ferronióbio (ferrocolômbio),01/04/2022
+7202.99,-- Outras,01/04/2022
+7202.99.10,Ferrofósforo,01/04/2022
+7202.99.90,Outras,01/04/2022
+7203.10.00,- Produtos ferrosos obtidos por redução direta dos minérios de ferro,01/04/2022
+7203.90.00,- Outros,01/04/2022
+7204.10.00,"- Desperdícios e resíduos, e sucata, de ferro fundido",01/04/2022
+7204.2,"- Desperdícios e resíduos, e sucata, de ligas de aço:",01/04/2022
+7204.21.00,-- De aço inoxidável,01/04/2022
+7204.29.00,-- Outros,01/04/2022
+7204.30.00,"- Desperdícios e resíduos, e sucata, de ferro ou aço, estanhados",01/04/2022
+7204.4,"- Outros desperdícios e resíduos, e sucata:",01/04/2022
+7204.41.00,"-- Resíduos do torno e da fresa, aparas, lascas (meulures), pó de serra, limalhas e desperdícios da e",01/04/2022
+7204.49.00,-- Outros,01/04/2022
+7204.50.00,"- Desperdícios e resíduos, em lingotes",01/04/2022
+7205.10.00,- Granalhas,01/04/2022
+7205.2,- Pós:,01/04/2022
+7205.21.00,-- De ligas de aço,01/04/2022
+7205.29,-- Outros,01/04/2022
+7205.29.10,"De ferro esponjoso, com um teor de ferro igual ou superior a 98 %, em peso",01/04/2022
+7205.29.20,"De ferro revestido com resina termoplástica, com um teor de ferro igual ou superior a 82 %, em peso",01/04/2092
+7205.29.90,Outros,01/04/2022
+7206.10.00,- Lingotes,01/04/2022
+7206.90.00,- Outros,01/04/2022
+7207.1,"- Que contenham, em peso, menos de 0,25 % de carbono:",01/04/2022
+7207.11,"-- De seção transversal quadrada ou retangular, com largura inferior a duas vezes a espessura",01/04/2022
+7207.11.10,Billets,01/04/2022
+7207.11.90,Outros,01/04/2022
+7207.12.00,"-- Outros, de seção transversal retangular",01/04/2022
+7207.19.00,-- Outros,01/04/2022
+7207.20.00,"- Que contenham, em peso, 0,25 % ou mais de carbono",01/04/2022
+7208.10.00,"- Em rolos, simplesmente laminados a quente, apresentando motivos em relevo",01/04/2022
+7208.2,"- Outros, em rolos, simplesmente laminados a quente, decapados:",01/04/2022
+7208.25.00,"-- De espessura igual ou superior a 4,75 mm",01/04/2022
+7208.26,"-- De espessura igual ou superior a 3 mm, mas inferior a 4,75 mm",01/04/2022
+7208.26.10,Com um limite mínimo de elasticidade de 355 MPa,01/04/2022
+7208.26.90,Outros,01/04/2022
+7208.27,-- De espessura inferior a 3 mm,01/04/2022
+7208.27.10,Com um limite mínimo de elasticidade de 275 MPa,01/04/2022
+7208.27.90,Outros,01/04/2022
+7208.3,"- Outros, em rolos, simplesmente laminados a quente:",01/04/2022
+7208.36,-- De espessura superior a 10 mm,01/04/2022
+7208.36.10,Com um limite mínimo de elasticidade de 355 MPa,01/04/2022
+7208.36.90,Outros,01/04/2022
+7208.37.00,"-- De espessura igual ou superior a 4,75 mm, mas não superior a 10 mm",01/04/2022
+7208.38,"-- De espessura igual ou superior a 3 mm, mas inferior a 4,75 mm",01/04/2022
+7208.38.10,Com um limite mínimo de elasticidade de 355 MPa,01/04/2022
+7208.38.90,Outros,01/04/2022
+7208.39,-- De espessura inferior a 3 mm,01/04/2022
+7208.39.10,Com um limite mínimo de elasticidade de 275 MPa,01/04/2022
+7208.39.90,Outros,01/04/2022
+7208.40.00,"- Não enrolados, simplesmente laminados a quente, apresentando motivos em relevo",01/04/2022
+7208.5,"- Outros, não enrolados, simplesmente laminados a quente:",01/04/2022
+7208.51.00,-- De espessura superior a 10 mm,01/04/2022
+7208.52.00,"-- De espessura igual ou superior a 4,75 mm, mas não superior a 10 mm",01/04/2022
+7208.53.00,"-- De espessura igual ou superior a 3 mm, mas inferior a 4,75 mm",01/04/2022
+7208.54.00,-- De espessura inferior a 3 mm,01/04/2022
+7208.90.00,- Outros,01/04/2022
+7209.1,- Em rolos simplesmente laminados a frio:,01/04/2022
+7209.15.00,-- De espessura igual ou superior a 3 mm,01/04/2022
+7209.16.00,"-- De espessura superior a 1 mm, mas inferior a 3 mm",01/04/2022
+7209.17.00,"-- De espessura igual ou superior a 0,5 mm, mas não superior a 1 mm",01/04/2022
+7209.18.00,"-- De espessura inferior a 0,5 mm",01/04/2022
+7209.2,"- Não enrolados, simplesmente laminados a frio:",01/04/2022
+7209.25.00,-- De espessura igual ou superior a 3 mm,01/04/2022
+7209.26.00,"-- De espessura superior a 1 mm, mas inferior a 3 mm",01/04/2022
+7209.27.00,"-- De espessura igual ou superior a 0,5 mm, mas não superior a 1 mm",01/04/2022
+7209.28.00,"-- De espessura inferior a 0,5 mm",01/04/2022
+7209.90.00,- Outros,01/04/2022
+7210.1,- Estanhados:,01/04/2022
+7210.11.00,"-- De espessura igual ou superior a 0,5 mm",01/04/2022
+7210.12.00,"-- De espessura inferior a 0,5 mm",01/04/2022
+7210.20.00,"- Revestidos de chumbo, incluindo os revestidos de uma liga de chumboestanho",01/04/2022
+7210.30,- Galvanizados eletroliticamente,01/04/2022
+7210.30.10,"De espessura inferior a 4,75 mm",01/04/2022
+7210.30.90,Outros,01/04/2022
+7210.4,- Galvanizados por outro processo:,01/04/2022
+7210.41,-- Ondulados,01/04/2022
+7210.41.10,"De espessura inferior a 4,75 mm",01/04/2022
+7210.41.90,Outros,01/04/2022
+7210.49,-- Outros,01/04/2022
+7210.49.10,"De espessura inferior a 4,75 mm",01/04/2022
+7210.49.90,Outros,01/04/2022
+7210.50.00,- Revestidos de óxidos de cromo ou de cromo e óxidos de cromo,01/04/2022
+7210.6,- Revestidos de alumínio:,01/04/2022
+7210.61.00,-- Revestidos de ligas de aluminiozinco,01/04/2022
+7210.69,-- Outros,01/04/2022
+7210.69.1,Revestidos de ligas de aluminiossilício,01/04/2022
+7210.69.11,De peso igual ou superior a 120 g/m2 e com conteúdo de silício igual ou supe,
+7210.69.19,Outros,01/04/2022
+7210.69.90,Outros,01/04/2022
+7210.70,"- Pintados, envernizados ou revestidos de plástico",01/04/2022
+7210.70.10,Pintados ou envernizados,01/04/2022
+7210.70.20,Revestidos de plástico,01/04/2022
+7210.90.00,- Outros,01/04/2022
+7211.1,- Simplesmente laminados a quente:,01/04/2022
+7211.13.00,"-- Laminados nas quatro faces ou em caixa fechada, de largura superior a 150 mm e de espessura ig",01/04/2022
+7211.14.00,"-- Outros, de espessura igual ou superior a 4,75 mm",01/04/2022
+7211.19.00,-- Outros,01/04/2022
+7211.2,- Simplesmente laminados a frio:,01/04/2022
+7211.23.00,"-- Que contenham, em peso, menos de 0,25 % de carbono",01/04/2022
+7211.29,-- Outros,01/04/2022
+7211.29.10,"Com um teor de carbono igual ou superior a 0,25 %, mas inferior a 0,6 %, empeso",01/04/2022
+7211.29.20,"Com um teor de carbono igual ou superior a 0,6 %, em peso",01/04/2022
+7211.90,- Outros,01/04/2022
+7211.90.10,"Com um teor de carbono igual ou superior a 0,6 %, em peso",01/04/2022
+7211.90.90,Outros,01/04/2022
+7212.10.00,- Estanhados,01/04/2022
+7212.20,- Galvanizados eletroliticamente,01/04/2022
+7212.20.10,"De espessura inferior a 4,75 mm",01/04/2022
+7212.20.90,Outros,01/04/2022
+7212.30.00,- Galvanizados por outro processo,01/04/2022
+7212.40,"- Pintados, envernizados ou revestidos de plástico",01/04/2022
+7212.40.10,Pintados ou envernizados,01/04/2022
+7212.40.2,Revestidos de plástico,01/04/2022
+7212.40.21,"Com uma camada intermediária de liga cobre-estanho ou cobre-estanho-chumbo, aplicada por sinter",01/04/2022
+7212.40.29,Outros,01/04/2022
+7212.50,- Revestidos de outras matérias,01/04/2022
+7212.50.10,"Com uma camada de liga cobre-estanho ou cobre-estanho-chumbo, aplicadapor sinterização, inclus",01/04/2022
+7212.50.90,Outros,01/04/2022
+7212.60.00,- Folheados ou chapeados,01/04/2022
+7213.10.00,"- Dentados, com nervuras, sulcos (entalhes) ou relevos, obtidos durante a laminagem",01/04/2022
+7213.20.00,"- Outros, de aço para tornear",01/04/2022
+7213.9,- Outros:,01/04/2022
+7213.91,"-- De seção circular, de diâmetro inferior a 14 mm",01/04/2022
+7213.91.10,"Com um teor de carbono igual ou superior a 0,6 %, em peso",01/04/2022
+7213.91.90,Outros,01/04/2022
+7213.99,-- Outros,01/04/2022
+7213.99.10,"Com um teor de carbono igual ou superior a 0,6 %, em peso",01/04/2022
+7213.99.90,Outros,01/04/2022
+7214.10,- Forjadas,01/04/2022
+7214.10.10,"Com um teor de carbono inferior ou igual a 0,6 %, em peso",01/04/2022
+7214.10.90,Outras,01/04/2022
+7214.20.00,"- Dentadas, com nervuras, sulcos (entalhes) ou relevos, obtidos durante a laminagem, ou torcidas ap",01/04/2022
+7214.30.00,"- Outras, de aço para tornear",01/04/2022
+7214.9,- Outras:,01/04/2022
+7214.91.00,-- De seção transversal retangular,01/04/2022
+7214.99,-- Outras,01/04/2022
+7214.99.10,De seção circular,01/04/2022
+7214.99.90,Outras,01/04/2022
+7215.10.00,"- De aço para tornear, simplesmente obtidas ou completamente acabadas a frio",01/04/2022
+7215.50.00,"- Outras, simplesmente obtidas ou completamente acabadas a frio",01/04/2022
+7215.90,- Outras,01/04/2022
+7215.90.10,"Com um teor de carbono inferior ou igual a 0,6 %, em peso",01/04/2022
+7215.90.90,Outras,01/04/2022
+7216.10.00,"- Perfis em U, I ou H, simplesmente laminados, estirados ou extrudados, a quente, de altura inferior a",01/04/2022
+7216.2,"- Perfis em L ou T, simplesmente laminados, estirados ou extrudados, a quente, de altura inferior a 8",01/04/2022
+7216.21.00,-- Perfis em L,01/04/2022
+7216.22.00,-- Perfis em T,01/04/2022
+7216.3,"- Perfis em U, I ou H, simplesmente laminados, estirados ou extrudados, a quente, de altura igual ou",01/04/2022
+7216.31.00,-- Perfis em U,01/04/2022
+7216.32.00,-- Perfis em I,01/04/2022
+7216.33.00,-- Perfis em H,01/04/2022
+7216.40,"- Perfis em L ou T, simplesmente laminados, estirados ou extrudados, a quente, de altura igual ou su",01/04/2022
+7216.40.10,De altura inferior ou igual a 200 mm,01/04/2022
+7216.40.90,Outros,01/04/2022
+7216.50.00,"- Outros perfis, simplesmente laminados, estirados ou extrudados, a quente",01/04/2022
+7216.6,- Perfis simplesmente obtidos ou completamente acabados a frio:,01/04/2022
+7216.61,-- Obtidos a partir de produtos laminados planos,01/04/2022
+7216.61.10,De altura inferior a 80 mm,01/04/2022
+7216.61.90,Outros,01/04/2022
+7216.69,-- Outros,01/04/2022
+7216.69.10,De altura inferior a 80 mm,01/04/2022
+7216.69.90,Outros,01/04/2022
+7216.9,- Outros:,01/04/2022
+7216.91.00,-- Obtidos ou acabados a frio a partir de produtos laminados planos,01/04/2022
+7216.99.00,-- Outros,01/04/2022
+7217.10,"- Não revestidos, mesmo polidos",01/04/2022
+7217.10.1,"Com um teor de carbono igual ou superior a 0,6 %, em peso",01/04/2022
+7217.10.11,"Com um teor, em peso, de fósforo inferior a 0,035 % e de enxofre inferior a 0,003 %, temperado e re",15/04/2022
+7217.10.19,Outros,01/04/2022
+7217.10.90,Outros,01/04/2022
+7217.20,- Galvanizados,01/04/2022
+7217.20.10,"Com um teor de carbono igual ou superior a 0,6 %, em peso",01/04/2022
+7217.20.90,Outros,01/04/2022
+7217.30,- Revestidos de outros metais comuns,01/04/2022
+7217.30.10,"Com um teor de carbono igual ou superior a 0,6 %, em peso",01/04/2022
+7217.30.90,Outros,01/04/2022
+7217.90.00,- Outros,01/04/2022
+7218.10.00,- Lingotes e outras formas primárias,01/04/2022
+7218.9,- Outros:,01/04/2022
+7218.91.00,-- De seção transversal retangular,01/04/2022
+7218.99.00,-- Outros,01/04/2022
+7219.1,"- Simplesmente laminados a quente, em rolos:",01/04/2022
+7219.11.00,-- De espessura superior a 10 mm,01/04/2022
+7219.12.00,"-- De espessura igual ou superior a 4,75 mm, mas não superior a 10 mm",01/04/2022
+7219.13.00,"-- De espessura igual ou superior a 3 mm, mas inferior a 4,75 mm",01/04/2022
+7219.14.00,-- De espessura inferior a 3 mm,01/04/2022
+7219.2,"- Simplesmente laminados a quente, não enrolados:",01/04/2022
+7219.21.00,-- De espessura superior a 10 mm,01/04/2022
+7219.22.00,"-- De espessura igual ou superior a 4,75 mm, mas não superior a 10 mm",01/04/2022
+7219.23.00,"-- De espessura igual ou superior a 3 mm, mas inferior a 4,75 mm",01/04/2022
+7219.24.00,-- De espessura inferior a 3 mm,01/04/2022
+7219.3,- Simplesmente laminados a frio:,01/04/2022
+7219.31.00,"-- De espessura igual ou superior a 4,75 mm",01/04/2022
+7219.32.00,"-- De espessura igual ou superior a 3 mm, mas inferior a 4,75 mm",01/04/2022
+7219.33.00,"-- De espessura superior a 1 mm, mas inferior a 3 mm",01/04/2022
+7219.34.00,"-- De espessura igual ou superior a 0,5 mm, mas não superior a 1 mm",01/04/2022
+7219.35.00,"-- De espessura inferior a 0,5 mm",01/04/2022
+7219.90,- Outros,01/04/2022
+7219.90.10,"De espessura inferior a 4,75 mm e dureza igual ou superior a 42 HRC",01/04/2022
+7219.90.90,Outros,01/04/2022
+7220.1,- Simplesmente laminados a quente:,01/04/2022
+7220.11.00,"-- De espessura igual ou superior a 4,75 mm",01/04/2022
+7220.12,"-- De espessura inferior a 4,75 mm",01/04/2022
+7220.12.10,"De espessura inferior ou igual a 1,5 mm",01/04/2022
+7220.12.20,"De espessura superior a 1,5 mm, mas não superior a 3 mm",01/04/2022
+7220.12.90,Outros,01/04/2022
+7220.20,- Simplesmente laminados a frio,01/04/2022
+7220.20.10,"De largura inferior ou igual a 23 mm e espessura inferior ou igual a 0,1 mm",01/04/2022
+7220.20.90,Outros,01/04/2022
+7220.90.00,- Outros,01/04/2022
+7221.00.00,Fio-máquina de aço inoxidável.,01/04/2022
+7222.1,"- Barras simplesmente laminadas, estiradas ou extrudadas, a quente:",01/04/2022
+7222.11.00,-- De seção circular,01/04/2022
+7222.19,-- Outras,01/04/2022
+7222.19.10,De seção transversal retangular,01/04/2022
+7222.19.90,Outras,01/04/2022
+7222.20.00,- Barras simplesmente obtidas ou completamente acabadas a frio,01/04/2022
+7222.30.00,- Outras barras,01/04/2022
+7222.40,- Perfis,01/04/2022
+7222.40.10,De altura igual ou superior a 80 mm,01/04/2022
+7222.40.90,Outros,01/04/2022
+7223.00.00,Fios de aço inoxidável.,01/04/2022
+7224.10.00,- Lingotes e outras formas primárias,01/04/2022
+7224.90.00,- Outros,01/04/2022
+7225.1,"- De aço ao silício, denominado ""magnético"":",01/04/2022
+7225.11.00,-- De grãos orientados,01/04/2022
+7225.19.00,-- Outros,01/04/2022
+7225.30.00,"- Outros, simplesmente laminados a quente, em rolos",01/04/2022
+7225.40,"- Outros, simplesmente laminados a quente, não enrolados",01/04/2022
+7225.40.10,"De aço, segundo normas AISI D2, D3 ou D6, de espessura inferior ou igual a7 mm",01/04/2022
+7225.40.20,De aços de corte rápido,01/04/2022
+7225.40.90,Outros,01/04/2022
+7225.50,"- Outros, simplesmente laminados a frio",01/04/2022
+7225.50.10,De aços de corte rápido,01/04/2022
+7225.50.90,Outros,01/04/2022
+7225.9,- Outros:,01/04/2022
+7225.91.00,-- Galvanizados eletroliticamente,01/04/2022
+7225.92.00,-- Galvanizados por outro processo,01/04/2022
+7225.99,-- Outros,01/04/2022
+7225.99.10,De aços de corte rápido,01/04/2022
+7225.99.90,Outros,01/04/2022
+7226.1,"- De aço ao silício, denominado ""magnético"":",01/04/2022
+7226.11.00,-- De grãos orientados,01/04/2022
+7226.19.00,-- Outros,01/04/2022
+7226.20,- De aço de corte rápido,01/04/2022
+7226.20.10,"De espessura igual ou superior a 1 mm, mas não superior a 4 mm",01/04/2022
+7226.20.90,Outros,01/04/2022
+7226.9,- Outros:,01/04/2022
+7226.91.00,-- Simplesmente laminados a quente,01/04/2022
+7226.92.00,-- Simplesmente laminados a frio,01/04/2022
+7226.99.00,-- Outros,01/04/2022
+7227.10.00,- De aço de corte rápido,01/04/2022
+7227.20.00,- De aço siliciomanganês,01/04/2022
+7227.90.00,- Outros,01/04/2022
+7228.10,- Barras de aço de corte rápido,01/04/2022
+7228.10.10,"Simplesmente laminadas, estiradas ou extrudadas, a quente",01/04/2022
+7228.10.90,Outras,01/04/2022
+7228.20.00,- Barras de aço siliciomanganês,01/04/2022
+7228.30.00,"- Outras barras, simplesmente laminadas, estiradas ou extrudadas, a quente",01/04/2022
+7228.40.00,"- Outras barras, simplesmente forjadas",01/04/2022
+7228.50.00,"- Outras barras, simplesmente obtidas ou completamente acabadas a frio",01/04/2022
+7228.60.00,- Outras barras,01/04/2022
+7228.70.00,- Perfis,01/04/2022
+7228.80.00,- Barras ocas para perfuração,01/04/2022
+7229.20.00,- De aço siliciomanganês,01/04/2022
+7229.90.00,- Outros,01/04/2022

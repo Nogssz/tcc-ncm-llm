@@ -1,0 +1,1253 @@
+{
+  "conjunto": "teste2",
+  "modelo": "qwen2.5:7b",
+  "rotulo": "base",
+  "config": {
+    "dicas_posicao": false,
+    "irmaos": 0,
+    "max_itens_etapa2": 30
+  },
+  "resumo": {
+    "capitulo_certo_entre_escolhidos": "33/49 = 67.3%",
+    "posicao_certa_entre_escolhidas": "26/49 = 53.1%",
+    "acerto_1o_lugar": "16/50 = 32.0%",
+    "acerto_top3": "24/50 = 48.0%",
+    "tempo_medio_s": 13.4,
+    "falhas_infra": 0,
+    "busca_tem_certo": "32/50 = 64.0%"
+  },
+  "casos": [
+    {
+      "descricao": "PNEU 175/70 R14",
+      "grupo": "automotivo",
+      "esperados": [
+        "4011.10.00"
+      ],
+      "opcoes": [
+        "4011.10.00",
+        "4011.30.00",
+        "4011.90.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "40"
+      ],
+      "posicoes": [
+        "4011"
+      ],
+      "interpretacao": "pneu para veiculo",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 12.9
+    },
+    {
+      "descricao": "FILTRO AR COND CABINE",
+      "grupo": "automotivo",
+      "esperados": [
+        "8421.39.90"
+      ],
+      "opcoes": [
+        "8536.90.20",
+        "8536.90.10",
+        "8536.90.50"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8536"
+      ],
+      "interpretacao": "filtros para sistema de ar condicionado",
+      "pergunta": "Tipo de filtro (ex.: filtro de papel, filtro de carvão)",
+      "busca_tem_certo": false,
+      "segundos": 17.3
+    },
+    {
+      "descricao": "BRONZINA DE BIELA",
+      "grupo": "automotivo",
+      "esperados": [
+        "8483.30.90",
+        "8409.91.90"
+      ],
+      "opcoes": [
+        "3403.99.00",
+        "3403.19.00",
+        "3401.30.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "34"
+      ],
+      "posicoes": [
+        "3403"
+      ],
+      "interpretacao": "líquido lubrificante",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 14.3
+    },
+    {
+      "descricao": "CALOTA ARO 14",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.70.90"
+      ],
+      "opcoes": [
+        "8714.92.00",
+        "8714.96.11",
+        "8714.96.12"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8714"
+      ],
+      "interpretacao": "peça de automóvel",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 13.9
+    },
+    {
+      "descricao": "LAMPADA PINGO 12V 5W",
+      "grupo": "automotivo",
+      "esperados": [
+        "8539.29.10"
+      ],
+      "opcoes": [
+        "8539.31.20",
+        "8539.39.90",
+        "8539.29.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8539"
+      ],
+      "interpretacao": "lâmpada elétrica",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 16.9
+    },
+    {
+      "descricao": "TAPETE AUTOMOTIVO BORRACHA JOGO",
+      "grupo": "automotivo",
+      "esperados": [
+        "4016.91.00"
+      ],
+      "opcoes": [
+        "4016.91.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "40"
+      ],
+      "posicoes": [
+        "4016"
+      ],
+      "interpretacao": "tapete de automóvel",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 11.6
+    },
+    {
+      "descricao": "FILTRO DE COMBUSTIVEL",
+      "grupo": "automotivo",
+      "esperados": [
+        "8421.23.00"
+      ],
+      "opcoes": [],
+      "posicao_certo": null,
+      "capitulo_ok": null,
+      "posicao_ncm_ok": null,
+      "capitulos": [],
+      "posicoes": [],
+      "interpretacao": "filtros para combustível",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 7.8
+    },
+    {
+      "descricao": "CHAVE DE RODA CRUZ",
+      "grupo": "automotivo",
+      "esperados": [
+        "8204.11.00"
+      ],
+      "opcoes": [
+        "8204.11.00",
+        "8204.20.00",
+        "8205.40.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8204"
+      ],
+      "interpretacao": "chave de roda",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.3
+    },
+    {
+      "descricao": "TAMPA DO RADIADOR",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.91.00"
+      ],
+      "opcoes": [
+        "8708.91.00",
+        "8708.29.12",
+        "8708.29.92"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "tampa de radiador",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 12.7
+    },
+    {
+      "descricao": "RETENTOR VIRABREQUIM",
+      "grupo": "automotivo",
+      "esperados": [
+        "4016.93.00"
+      ],
+      "opcoes": [
+        "8708.30.19",
+        "8714.94.90",
+        "8714.94.10"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "componente para sistema de freios",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 13.8
+    },
+    {
+      "descricao": "PARAFUSO DE RODA",
+      "grupo": "automotivo",
+      "esperados": [
+        "7318.15.00"
+      ],
+      "opcoes": [
+        "7318.15.00",
+        "7318.19.00",
+        "7318.16.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "73"
+      ],
+      "posicoes": [
+        "7318"
+      ],
+      "interpretacao": "parafuso metálico para fixação",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.5
+    },
+    {
+      "descricao": "MULTIMETRO DIGITAL",
+      "grupo": "automotivo",
+      "esperados": [
+        "9030.31.00"
+      ],
+      "opcoes": [
+        "8543.70.35",
+        "8543.70.32",
+        "8528.69.10"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8543"
+      ],
+      "interpretacao": "aparelho medidor eletrico digital",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.8
+    },
+    {
+      "descricao": "CERA AUTOMOTIVA PASTA",
+      "grupo": "automotivo",
+      "esperados": [
+        "3405.30.00"
+      ],
+      "opcoes": [
+        "3407.00.10",
+        "3404.20.10",
+        "3407.00.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "34"
+      ],
+      "posicoes": [
+        "3407"
+      ],
+      "interpretacao": "cera para polimento de veículos",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 14.2
+    },
+    {
+      "descricao": "BOMBA COMBUSTIVEL ELETRICA FLEX",
+      "grupo": "automotivo",
+      "esperados": [
+        "8413.30.10"
+      ],
+      "opcoes": [
+        "8413.30.10",
+        "8413.30.90",
+        "8413.81.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8413"
+      ],
+      "interpretacao": "bomba de combustível elétrica",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.6
+    },
+    {
+      "descricao": "SOQUETE ENCAIXE 1/2 10MM",
+      "grupo": "automotivo",
+      "esperados": [
+        "8204.20.00"
+      ],
+      "opcoes": [
+        "8207.90.00",
+        "8207.80.00",
+        "8207.60.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8207"
+      ],
+      "interpretacao": "conector de ferramentas",
+      "pergunta": "Tipo específico de soquete (ex.: para fresar, perfurar, roscar).",
+      "busca_tem_certo": false,
+      "segundos": 14.8
+    },
+    {
+      "descricao": "CHAVE COMBINADA 13MM",
+      "grupo": "automotivo",
+      "esperados": [
+        "8204.11.00"
+      ],
+      "opcoes": [
+        "8205.40.00",
+        "8204.11.00",
+        "8204.12.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8205"
+      ],
+      "interpretacao": "chave de fenda",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.1
+    },
+    {
+      "descricao": "ARRUELA LISA ACO 10MM",
+      "grupo": "automotivo",
+      "esperados": [
+        "7318.22.00"
+      ],
+      "opcoes": [
+        "7318.21.00",
+        "7318.22.00",
+        "7318.15.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "73"
+      ],
+      "posicoes": [
+        "7318"
+      ],
+      "interpretacao": "arruela metálica lisa",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.4
+    },
+    {
+      "descricao": "SONDA LAMBDA",
+      "grupo": "automotivo",
+      "esperados": [
+        "9027.10.00"
+      ],
+      "opcoes": [
+        "8430.49.90",
+        "8430.49.20",
+        "8431.43.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8430"
+      ],
+      "interpretacao": "sensor de lambda",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 13.0
+    },
+    {
+      "descricao": "JAQUETA DE COURO",
+      "grupo": "vestuario",
+      "esperados": [
+        "4203.10.00"
+      ],
+      "opcoes": [
+        "4104.49.20",
+        "4104.19.20",
+        "4104.19.10"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "41"
+      ],
+      "posicoes": [
+        "4104"
+      ],
+      "interpretacao": "jaqueta de couro",
+      "pergunta": "Informação que falta: estado do couro. Jaqueta de couro pode estar em estado seco ou úmido.",
+      "busca_tem_certo": false,
+      "segundos": 14.7
+    },
+    {
+      "descricao": "ENERGETICO LATA 250ML",
+      "grupo": "bebidas",
+      "esperados": [
+        "2202.10.00",
+        "2202.99.00"
+      ],
+      "opcoes": [
+        "2201.90.00",
+        "2209.00.00",
+        "2208.90.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "22"
+      ],
+      "posicoes": [
+        "2201"
+      ],
+      "interpretacao": "bebida energética pronta para consumo",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.5
+    },
+    {
+      "descricao": "PREGO 17X27 1KG",
+      "grupo": "construcao",
+      "esperados": [
+        "7317.00.90"
+      ],
+      "opcoes": [
+        "7616.10.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "76"
+      ],
+      "posicoes": [
+        "7616"
+      ],
+      "interpretacao": "prego de construção",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 12.6
+    },
+    {
+      "descricao": "CARREGADOR DE CELULAR USB",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8504.40.10",
+        "8504.40.90"
+      ],
+      "opcoes": [
+        "8504.40.60",
+        "8504.40.10",
+        "8517.62.62"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8504"
+      ],
+      "interpretacao": "adaptador de energia para dispositivos móveis",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.7
+    },
+    {
+      "descricao": "MESA DE JANTAR MADEIRA",
+      "grupo": "moveis",
+      "esperados": [
+        "9403.60.00"
+      ],
+      "opcoes": [
+        "9506.40.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "95"
+      ],
+      "posicoes": [
+        "9506"
+      ],
+      "interpretacao": "mesa de madeira para refeicoes",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 11.8
+    },
+    {
+      "descricao": "FOGAO 4 BOCAS",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "7321.11.00"
+      ],
+      "opcoes": [
+        "7321.11.00",
+        "7321.81.00",
+        "7321.19.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "73"
+      ],
+      "posicoes": [
+        "7321"
+      ],
+      "interpretacao": "aparelho de cozinha a gás",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.1
+    },
+    {
+      "descricao": "BANANA PRATA KG",
+      "grupo": "alimentos",
+      "esperados": [
+        "0803.90.00"
+      ],
+      "opcoes": [
+        "0803.10.00",
+        "0803.90.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "08"
+      ],
+      "posicoes": [
+        "0803"
+      ],
+      "interpretacao": "banana",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 12.0
+    },
+    {
+      "descricao": "COLCHAO DE ESPUMA SOLTEIRO",
+      "grupo": "moveis",
+      "esperados": [
+        "9404.21.00"
+      ],
+      "opcoes": [
+        "6806.20.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "68"
+      ],
+      "posicoes": [
+        "6806"
+      ],
+      "interpretacao": "colchão de espuma",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 11.0
+    },
+    {
+      "descricao": "MOCHILA ESCOLAR",
+      "grupo": "papelaria",
+      "esperados": [
+        "4202.92.00"
+      ],
+      "opcoes": [
+        "8715.00.00",
+        "8716.39.00",
+        "8704.90.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8715"
+      ],
+      "interpretacao": "mochila para transporte de pertences",
+      "pergunta": "É necessário saber se a mochila é um acessório ou se há alguma característica que a classifique como um veículo automóvel.",
+      "busca_tem_certo": false,
+      "segundos": 14.3
+    },
+    {
+      "descricao": "PENDRIVE 32GB",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8523.51.10",
+        "8523.51.90"
+      ],
+      "opcoes": [
+        "8523.51.10",
+        "8523.51.90",
+        "8523.80.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8523"
+      ],
+      "interpretacao": "dispositivo de armazenamento removível",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.8
+    },
+    {
+      "descricao": "APARELHO DE BARBEAR DESCARTAVEL",
+      "grupo": "higiene",
+      "esperados": [
+        "8212.10.20"
+      ],
+      "opcoes": [
+        "8510.10.00",
+        "8510.90.11",
+        "8510.90.19"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8510"
+      ],
+      "interpretacao": "aparelho de barbear descartável",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.1
+    },
+    {
+      "descricao": "BOLA DE BASQUETE",
+      "grupo": "esporte",
+      "esperados": [
+        "9506.62.00"
+      ],
+      "opcoes": [
+        "9506.61.00",
+        "9506.62.00",
+        "9506.32.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "95"
+      ],
+      "posicoes": [
+        "9506"
+      ],
+      "interpretacao": "bola esportiva",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.9
+    },
+    {
+      "descricao": "VESTIDO MALHA ALGODAO",
+      "grupo": "vestuario",
+      "esperados": [
+        "6104.42.00"
+      ],
+      "opcoes": [
+        "6104.42.00",
+        "6114.20.00",
+        "6104.19.20"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "61"
+      ],
+      "posicoes": [
+        "6104"
+      ],
+      "interpretacao": "vestido de malha de algodão",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.1
+    },
+    {
+      "descricao": "FITA ISOLANTE",
+      "grupo": "construcao",
+      "esperados": [
+        "3919.10.20"
+      ],
+      "opcoes": [
+        "5906.10.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "59"
+      ],
+      "posicoes": [
+        "5906"
+      ],
+      "interpretacao": "fita isolante adesiva",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 11.9
+    },
+    {
+      "descricao": "BONECA DE PLASTICO",
+      "grupo": "brinquedos",
+      "esperados": [
+        "9503.00.22"
+      ],
+      "opcoes": [
+        "9503.00.22",
+        "9503.00.99",
+        "9503.00.29"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "95"
+      ],
+      "posicoes": [
+        "9503"
+      ],
+      "interpretacao": "brinquedo de plastic",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.4
+    },
+    {
+      "descricao": "ESMALTE DE UNHA",
+      "grupo": "higiene",
+      "esperados": [
+        "3304.30.00"
+      ],
+      "opcoes": [
+        "3207.30.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "32"
+      ],
+      "posicoes": [
+        "3207"
+      ],
+      "interpretacao": "líquido para pintar unhas",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 12.0
+    },
+    {
+      "descricao": "ARGAMASSA 20KG",
+      "grupo": "construcao",
+      "esperados": [
+        "3824.50.00"
+      ],
+      "opcoes": [
+        "3824.50.00",
+        "3816.00.19",
+        "3816.00.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "38"
+      ],
+      "posicoes": [
+        "3824"
+      ],
+      "interpretacao": "argamassa para construção",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.7
+    },
+    {
+      "descricao": "SAL REFINADO 1KG",
+      "grupo": "alimentos",
+      "esperados": [
+        "2501.00.20"
+      ],
+      "opcoes": [
+        "2530.90.90",
+        "2530.90.30",
+        "2530.90.10"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "25"
+      ],
+      "posicoes": [
+        "2530"
+      ],
+      "interpretacao": "sal mineral refinado",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 13.4
+    },
+    {
+      "descricao": "AMACIANTE ROUPA 2L",
+      "grupo": "limpeza",
+      "esperados": [
+        "3809.91.90"
+      ],
+      "opcoes": [
+        "3405.20.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "34"
+      ],
+      "posicoes": [
+        "3405"
+      ],
+      "interpretacao": "produto limpeza para roupa",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 11.5
+    },
+    {
+      "descricao": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8443.31.11",
+        "8443.31.19"
+      ],
+      "opcoes": [
+        "8443.31.11",
+        "8443.32.91",
+        "8443.99.21"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8443"
+      ],
+      "interpretacao": "dispositivo de impressão multifuncional",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.2
+    },
+    {
+      "descricao": "TELHA FIBROCIMENTO",
+      "grupo": "construcao",
+      "esperados": [
+        "6811.82.00"
+      ],
+      "opcoes": [
+        "6811.82.00",
+        "6811.81.00",
+        "6811.89.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "68"
+      ],
+      "posicoes": [
+        "6811"
+      ],
+      "interpretacao": "telha para cobertura edificios",
+      "pergunta": "A telha é ondulada ou não?",
+      "busca_tem_certo": true,
+      "segundos": 13.0
+    },
+    {
+      "descricao": "ASPIRADOR DE PO",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8508.11.00"
+      ],
+      "opcoes": [
+        "8508.60.00",
+        "8509.80.90",
+        "8508.19.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8508"
+      ],
+      "interpretacao": "aparato de limpeza eletrônico",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.8
+    },
+    {
+      "descricao": "FERRO DE PASSAR",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8516.40.00"
+      ],
+      "opcoes": [
+        "8516.40.00",
+        "8515.11.00",
+        "8540.91.20"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8516"
+      ],
+      "interpretacao": "aparelho de ferro para passar roupas",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 12.8
+    },
+    {
+      "descricao": "FRANGO INTEIRO CONGELADO",
+      "grupo": "alimentos",
+      "esperados": [
+        "0207.12.10",
+        "0207.12.20"
+      ],
+      "opcoes": [
+        "0210.99.11"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "02"
+      ],
+      "posicoes": [
+        "0210"
+      ],
+      "interpretacao": "frango inteiro",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 11.7
+    },
+    {
+      "descricao": "LENCOL CASAL ALGODAO",
+      "grupo": "cama mesa banho",
+      "esperados": [
+        "6302.21.00",
+        "6302.31.00"
+      ],
+      "opcoes": [
+        "6302.31.00",
+        "6302.21.00",
+        "6302.91.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "63"
+      ],
+      "posicoes": [
+        "6302"
+      ],
+      "interpretacao": "lençol de algodão para cama",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.7
+    },
+    {
+      "descricao": "TOMADA 2P+T",
+      "grupo": "construcao",
+      "esperados": [
+        "8536.69.90"
+      ],
+      "opcoes": [
+        "8536.69.10",
+        "8536.69.90",
+        "8536.90.20"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8536"
+      ],
+      "interpretacao": "tomada elétrica simples",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.5
+    },
+    {
+      "descricao": "DESINFETANTE 2L",
+      "grupo": "limpeza",
+      "esperados": [
+        "3808.94.19"
+      ],
+      "opcoes": [
+        "3808.94.29",
+        "3808.94.22",
+        "3808.94.19"
+      ],
+      "posicao_certo": 3,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "38"
+      ],
+      "posicoes": [
+        "3808"
+      ],
+      "interpretacao": "produto desinfetante",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 8.9
+    },
+    {
+      "descricao": "MOUSE SEM FIO",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8471.60.53"
+      ],
+      "opcoes": [
+        "8543.70.35",
+        "8543.70.36"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8543"
+      ],
+      "interpretacao": "dispositivo de entrada sem fio",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 12.8
+    },
+    {
+      "descricao": "TECLADO USB",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8471.60.52"
+      ],
+      "opcoes": [
+        "8543.70.91",
+        "8537.10.19",
+        "8517.62.53"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8543"
+      ],
+      "interpretacao": "teclado de computador",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.0
+    },
+    {
+      "descricao": "QUEIJO MUSSARELA FATIADO",
+      "grupo": "alimentos",
+      "esperados": [
+        "0406.10.10"
+      ],
+      "opcoes": [
+        "0406.10.10",
+        "0406.90.90",
+        "0406.40.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "04"
+      ],
+      "posicoes": [
+        "0406"
+      ],
+      "interpretacao": "queijo pasteurizado fatiado",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 8.9
+    },
+    {
+      "descricao": "DESODORANTE AEROSOL MASC 150ML",
+      "grupo": "higiene",
+      "esperados": [
+        "3307.20.10",
+        "3307.20.90"
+      ],
+      "opcoes": [
+        "3307.20.10",
+        "3307.20.90",
+        "3307.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "33"
+      ],
+      "posicoes": [
+        "3307"
+      ],
+      "interpretacao": "desodorante aerosol masculino",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 16.4
+    },
+    {
+      "descricao": "MAQUINA DE LAVAR ROUPAS",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8450.11.00"
+      ],
+      "opcoes": [
+        "8450.90.90",
+        "8450.90.10",
+        "8451.40.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8450"
+      ],
+      "interpretacao": "maquina de lavar roupas",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.2
+    }
+  ]
+}

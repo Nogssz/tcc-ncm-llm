@@ -1,0 +1,131 @@
+codigo,descricao,data_inicio
+15.01,"Gorduras de porco (incluindo a banha) e gorduras de aves, exceto as das posições .2029 ou 15.03.",01/04/0220
+15.02,"Gorduras de animais das espécies bovina, ovina ou caprina, exceto as da po",
+15.04,"Gorduras, óleos e respectivas frações, de peixes ou de mamíferos marinhos,mesmo refinados, mas",01/04/2022
+15.07,"Óleo de soja e respectivas frações, mesmo refinados, mas não quimicamentemodificados.",01/04/2022
+15.08,"Óleo de amendoim e respectivas frações, mesmo refinados, mas não quimicamente modificados.",01/04/2022
+15.09,"Azeite de oliva (oliveira) e respectivas frações, mesmo refinados, mas não quimicamente modificado",01/04/2022
+15.10,"Outros óleos e respectivas frações, obtidos exclusivamente a partir de azeitonas, mesmo refinados,",01/04/2022
+15.11,"Óleo de palma (dendê) e respectivas frações, mesmo refinados, mas não quimicamente modificados",01/04/2022
+15.12,"Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quim",01/04/2022
+15.13,"Óleos de coco (copra), de amêndoa de palma (palmiste) (coconote) ou de babaçu, e respectivas fraç",01/04/2022
+15.14,"Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não",01/04/2022
+15.15,Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) ou de origem microbiana e respectivas,01/04/2022
+15.16,"Gorduras e óleos animais, vegetais ou de origem microbiana e respectivas frações, parcial ou totalm",01/04/2022
+15.17,"Margarina; misturas ou preparações alimentícias de gorduras ou de óleos animais, vegetais ou de or",01/04/2022
+15.21,"Ceras vegetais (exceto os triglicerídeos), ceras de abelha ou de outros insetos e espermacete, mesm",01/04/2022
+1501.10.00,- Banha,01/04/2022
+1501.20.00,- Outras gorduras de porco,01/04/2022
+1501.90.00,- Outras,01/04/2022
+1502.10,- Sebo,01/04/2022
+1502.10.1,Bovino,01/04/2022
+1502.10.11,Em bruto,01/04/2022
+1502.10.12,Fundido (incluindo o premier jus),01/04/2022
+1502.10.19,Outros,01/04/2022
+1502.10.90,Outros,01/04/2022
+1502.90.00,- Outras,01/04/2022
+1503.00.00,"Estearina solar, óleo de banha de porco, oleoestearina, oleomargarina e óleode sebo, não emulsion",01/04/2022
+1504.10,- Óleos de fígados de peixes e respectivas frações,01/04/2022
+1504.10.1,De bacalhau,01/04/2022
+1504.10.11,Óleo em bruto,01/04/2022
+1504.10.19,Outros,01/04/2022
+1504.10.90,Outros,01/04/2022
+1504.20.00,"- Gorduras e óleos de peixes e respectivas frações, exceto óleos de fígados",01/04/2022
+1504.30.00,- Gorduras e óleos de mamíferos marinhos e respectivas frações,01/04/2022
+1505.00,"Suarda e substâncias gordas dela derivadas, incluindo a lanolina.",01/04/2022
+1505.00.10,Lanolina,01/04/2022
+1505.00.90,Outras,01/04/2022
+1506.00.00,"Outras gorduras e óleos animais, e respectivas frações, mesmo refinados, mas não quimicamente m",01/04/2022
+1507.10.00,"- Óleo em bruto, mesmo degomado",01/04/2022
+1507.90,- Outros,01/04/2022
+1507.90.1,Refinado,01/04/2022
+1507.90.11,Em recipientes com capacidade inferior ou igual a 5 l,01/04/2022
+1507.90.19,Outros,01/04/2022
+1507.90.90,Outros,01/04/2022
+1508.10.00,- Óleo em bruto,01/04/2022
+1508.90.00,- Outros,01/04/2022
+1509.20.00,- Azeite de oliva (oliveira) extra virgem,01/04/2022
+1509.30.00,- Azeite de oliva (oliveira) virgem,01/04/2022
+1509.40.00,- Outros azeites de oliva (oliveira) virgens,01/04/2022
+1509.90,- Outros,01/04/2022
+1509.90.10,Refinado,01/04/2022
+1509.90.90,Outros,01/04/2022
+1510.10.00,- Óleo de bagaço de azeitona em bruto,01/04/2022
+1510.90.00,- Outros,01/04/2022
+1511.10.00,- Óleo em bruto,01/04/2022
+1511.90.00,- Outros,01/04/2022
+1512.1,- Óleos de girassol ou de cártamo e respectivas frações:,01/04/2022
+1512.11,-- Óleos em bruto,01/04/2022
+1512.11.10,De girassol,01/04/2022
+1512.11.20,De cártamo,01/04/2022
+1512.19,-- Outros,01/04/2022
+1512.19.1,De girassol,01/04/2022
+1512.19.11,"Refinado, em recipientes com capacidade inferior ou igual a 5 l",01/04/2022
+1512.19.19,Outros,01/04/2022
+1512.19.20,De cártamo,01/04/2022
+1512.2,- Óleo de algodão e respectivas frações:,01/04/2022
+1512.21.00,"-- Óleo em bruto, mesmo desprovido de gossipol",01/04/2022
+1512.29,-- Outros,01/04/2022
+1512.29.10,Refinado,01/04/2022
+1512.29.90,Outros,01/04/2022
+1513.1,- Óleo de coco (copra) e respectivas frações:,01/04/2022
+1513.11.00,-- Óleo em bruto,01/04/2022
+1513.19.00,-- Outros,01/04/2022
+1513.2,"- Óleos de amêndoa de palma (palmiste) (coconote) ou de babaçu, e respectivas frações:",01/04/2022
+1513.21,-- Óleos em bruto,01/04/2022
+1513.21.1,De amêndoa de palma (palmiste) (coconote),01/07/2022
+1513.21.11,De coco mbocaya (Acrocomia totai),01/07/2022
+1513.21.19,Outros,01/07/2022
+1513.21.20,De babaçu,01/04/2022
+1513.29,-- Outros,01/04/2022
+1513.29.1,De amêndoa de palma (palmiste) (coconote),01/07/2022
+1513.29.11,De coco mbocaya (Acrocomia totai),01/07/2022
+1513.29.19,Outros,01/07/2022
+1513.29.20,De babaçu,01/04/2022
+1514.1,"- Óleos de nabo silvestre ou de colza com baixo teor de ácido erúcico, e respectivas frações:",01/04/2022
+1514.11.00,-- Óleos em bruto,01/04/2022
+1514.19,-- Outros,01/04/2022
+1514.19.10,Refinados,01/04/2022
+1514.19.90,Outros,01/04/2022
+1514.9,- Outros:,01/04/2022
+1514.91.00,-- Óleos em bruto,01/04/2022
+1514.99,-- Outros,01/04/2022
+1514.99.10,Refinados,01/04/2022
+1514.99.90,Outros,01/04/2022
+1515.1,- Óleo de linhaça (sementes de linho) e respectivas frações:,01/04/2022
+1515.11.00,-- Óleo em bruto,01/04/2022
+1515.19.00,-- Outros,01/04/2022
+1515.2,- Óleo de milho e respectivas frações:,01/04/2022
+1515.21.00,-- Óleo em bruto,01/04/2022
+1515.29,-- Outros,01/04/2022
+1515.29.10,"Refinado, em recipientes com capacidade inferior ou igual a 5 l",01/04/2022
+1515.29.90,Outros,01/04/2022
+1515.30.00,- Óleo de rícino (mamona) e respectivas frações,01/04/2022
+1515.50.00,- Óleo de gergelim (sésamo) e respectivas frações,01/04/2022
+1515.60.00,- Gorduras e óleos de origem microbiana e respectivas frações,01/04/2022
+1515.90,- Outros,01/04/2022
+1515.90.10,Óleo de jojoba e respectivas frações,01/04/2022
+1515.90.2,Óleo de tungue,01/04/2022
+1515.90.21,Em bruto,01/04/2022
+1515.90.22,Refinado,01/04/2022
+1515.90.90,Outros,01/04/2022
+1516.10.00,- Gorduras e óleos animais e respectivas frações,01/04/2022
+1516.20.00,- Gorduras e óleos vegetais e respectivas frações,01/04/2022
+1516.30.00,- Gorduras e óleos de origem microbiana e respectivas frações,01/04/2022
+1517.10.00,"- Margarina, exceto a margarina líquida",01/04/2022
+1517.90,- Outras,01/04/2022
+1517.90.10,"Misturas de óleos refinados, em recipientes com capacidade inferior ou iguala0  l",51/04/2022
+1517.90.90,Outras,01/04/2022
+1518.00,"Gorduras e óleos animais, vegetais ou de origem microbiana e respectivas frações, cozidos, oxidado",01/04/2022
+1518.00.10,Óleo vegetal epoxidado,01/04/2022
+1518.00.90,Outros,01/04/2022
+1520.00,"Glicerol em bruto; águas e lixívias, glicéricas.",01/04/2022
+1520.00.10,Glicerol em bruto,01/04/2022
+1520.00.20,"Águas e lixívias, glicéricas",01/04/2022
+1521.10.00,- Ceras vegetais,01/04/2022
+1521.90,- Outros,01/04/2022
+1521.90.1,Cera de abelha,01/04/2022
+1521.90.11,Em bruto,01/04/2022
+1521.90.19,Outras,01/04/2022
+1521.90.90,Outros,01/04/2022
+1522.00.00,Dégras; resíduos provenientes do tratamento das substâncias gordas ou dasceras animais ou veget,01/04/2022

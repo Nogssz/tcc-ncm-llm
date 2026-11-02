@@ -1,0 +1,236 @@
+codigo,descricao,data_inicio
+73.01,"Estacas-pranchas de ferro ou aço, mesmo perfuradas ou feitas com elementos montados; perfis obti",01/04/2022
+73.02,"Elementos de vias férreas, de ferro fundido, ferro ou aço: trilhos (carris), contratrilhos (contracarris) e",01/04/2022
+73.04,"Tubos e perfis ocos, sem costura, de ferro ou aço.",01/04/2022
+73.05,"Outros tubos (por exemplo, soldados ou rebitados), de seção circular, de diâmetro exterior superior a",01/04/2022
+73.06,"Outros tubos e perfis ocos (por exemplo, soldados, rebitados, grampeados oucom as bordas simple",01/04/2022
+73.07,"Acessórios para tubos (por exemplo, uniões, cotovelos, luvas (mangas*)), deferro fundido, ferro ou a",01/04/2022
+73.08,"Construções e suas partes (por exemplo, pontes e elementos de pontes, comportas, torres, pórticos,",01/04/2022
+73.10,"Reservatórios, barris, tambores, latas, caixas e recipientes semelhantes paraquaisquer matérias (ex",01/04/2022
+73.12,"Cordas, cabos, tranças (entrançados*), lingas e artigos semelhantes, de ferroou aço, não isolados p",01/04/2022
+73.14,"Telas metálicas (incluindo as telas contínuas ou sem fim), grades e redes, defios de ferro ou aço; ch",01/04/2022
+73.15,"Correntes, cadeias, e suas partes, de ferro fundido, ferro ou aço.",01/04/2022
+73.18,"Parafusos, pinos ou pernos, roscados, porcas, tira-fundos, ganchos roscados, rebites, chavetas, con",01/04/2022
+73.19,"Agulhas de costura, agulhas de tricô, agulhas-passadoras, agulhas de crochê, furadores para bordar",01/04/2022
+73.20,"Molas e folhas de molas, de ferro ou aço.",01/04/2022
+73.21,"Aquecedores de ambiente (fogões de sala), caldeiras de fornalha, fogões decozinha (incluindo os qu",01/04/2022
+73.22,"Radiadores para aquecimento central, não elétricos, e suas partes, de ferro fundido, ferro ou aço; ge",01/04/2022
+73.23,"Serviços de mesa, artigos de cozinha e outros artigos de uso doméstico, e suas partes, de ferro fund",01/04/2022
+73.24,"Artigos de higiene ou de toucador, e suas partes, de ferro fundido, ferro ou aço.",01/04/2022
+73.25,"Outras obras moldadas, de ferro fundido, ferro ou aço.",01/04/2022
+73.26,Outras obras de ferro ou aço.,01/04/2022
+7301.10.00,- Estacas-pranchas,01/04/2022
+7301.20.00,- Perfis,01/04/2022
+7302.10,- Trilhos (carris),01/04/2022
+7302.10.10,"De aço, de peso linear igual ou superior a 44,5 kg/m",01/04/2022
+7302.10.90,Outros,01/04/2022
+7302.30.00,"- Agulhas, cróssimas, alavancas para comando de agulhas e outros elementos de cruzamentos e de",01/04/2022
+7302.40.00,- Talas de junção (Eclissas*) e placas de apoio ou assentamento,01/04/2022
+7302.90.00,- Outros,01/04/2022
+7303.00.00,"Tubos e perfis ocos, de ferro fundido.",01/04/2022
+7304.1,- Tubos do tipo utilizado em oleodutos ou gasodutos:,01/04/2022
+7304.11.00,-- De aço inoxidável,01/04/2022
+7304.19.00,-- Outros,01/04/2022
+7304.2,"- Tubos para revestimento de poços, de produção ou suprimento e hastes deperfuração, do tipo utili",01/04/2022
+7304.22.00,-- Hastes de perfuração de aço inoxidável,01/04/2022
+7304.23,-- Outras hastes de perfuração,01/04/2022
+7304.23.10,De aço não ligado,01/04/2022
+7304.23.90,Outras,01/04/2022
+7304.24.00,"-- Outros, de aço inoxidável",01/04/2022
+7304.29,-- Outros,01/04/2022
+7304.29.10,De aço não ligado,01/04/2022
+7304.29.3,De outras ligas de aço não revestidos,01/04/2022
+7304.29.31,De diâmetro exterior inferior ou igual a 229 mm,01/04/2022
+7304.29.39,Outros,01/04/2022
+7304.29.90,Outros,01/04/2022
+7304.3,"- Outros, de seção circular, de ferro ou aço não ligado:",01/04/2022
+7304.31,"-- Estirados ou laminados, a frio",01/04/2022
+7304.31.10,Tubos não revestidos,01/04/2022
+7304.31.90,Outros,01/04/2022
+7304.39,-- Outros,01/04/2022
+7304.39.10,"Tubos não revestidos, de diâmetro exterior inferior ou igual a 229 mm",01/04/2022
+7304.39.20,"Tubos revestidos, de diâmetro exterior inferior ou igual a 229 mm",01/04/2022
+7304.39.90,Outros,01/04/2022
+7304.4,"- Outros, de seção circular, de aço inoxidável:",01/04/2022
+7304.41,"-- Estirados ou laminados, a frio",01/04/2022
+7304.41.10,"Tubos capilares de diâmetro exterior inferior ou igual a 3 mm e diâmetro interior inferior ou igual a 0,2",01/04/2022
+7304.41.90,Outros,01/04/2022
+7304.49.00,-- Outros,01/04/2022
+7304.5,"- Outros, de seção circular, de outras ligas de aço:",01/04/2022
+7304.51,"-- Estirados ou laminados, a frio",01/04/2022
+7304.51.1,Tubos de diâmetro exterior inferior ou igual a 229 mm,01/04/2022
+7304.51.11,"Tubos capilares de diâmetro exterior inferior ou igual a 3 mm e diâmetro interior inferior ou igual a 0,2",01/04/2022
+7304.51.19,Outros,01/04/2022
+7304.51.90,Outros,01/04/2022
+7304.59,-- Outros,01/04/2022
+7304.59.10,Tubos de diâmetro exterior inferior ou igual a 229 mm,01/04/2022
+7304.59.90,Outros,01/04/2022
+7304.90,- Outros,01/04/2022
+7304.90.1,De diâmetro exterior inferior ou igual a 229 mm,01/04/2022
+7304.90.11,De aço inoxidável,01/04/2022
+7304.90.19,Outros,01/04/2022
+7304.90.90,Outros,01/04/2022
+7305.1,- Tubos do tipo utilizado em oleodutos ou gasodutos:,01/04/2022
+7305.11.00,-- Soldados longitudinalmente por arco imerso,01/04/2022
+7305.12.00,"-- Outros, soldados longitudinalmente",01/04/2022
+7305.19.00,-- Outros,01/04/2022
+7305.20.00,"- Tubos para revestimento de poços, do tipo utilizado na extração de petróleoou de gás",01/04/2022
+7305.3,"- Outros, soldados:",01/04/2022
+7305.31.00,-- Soldados longitudinalmente,01/04/2022
+7305.39.00,-- Outros,01/04/2022
+7305.90.00,- Outros,01/04/2022
+7306.1,- Tubos do tipo utilizado em oleodutos ou gasodutos:,01/04/2022
+7306.11.00,"-- Soldados, de aço inoxidável",01/04/2022
+7306.19.00,-- Outros,01/04/2022
+7306.2,"- Tubos para revestimento de poços, de produção ou suprimento, do tipo utilizado na extração de pet",01/04/2022
+7306.21.00,"-- Soldados, de aço inoxidável",01/04/2022
+7306.29.00,-- Outros,01/04/2022
+7306.30.00,"- Outros, soldados, de seção circular, de ferro ou aço não ligado",01/04/2022
+7306.40.00,"- Outros, soldados, de seção circular, de aço inoxidável",01/04/2022
+7306.50.00,"- Outros, soldados, de seção circular, de outras ligas de aço",01/04/2022
+7306.6,"- Outros, soldados, de seção não circular:",01/04/2022
+7306.61.00,-- De seção quadrada ou retangular,01/04/2022
+7306.69.00,-- De outras seções,01/04/2022
+7306.90,- Outros,01/04/2022
+7306.90.10,De ferro ou aço não ligado,01/04/2022
+7306.90.20,De aço inoxidável,01/04/2022
+7306.90.90,Outros,01/04/2022
+7307.1,- Moldados:,01/04/2022
+7307.11.00,-- De ferro fundido não maleável,01/04/2022
+7307.19,-- Outros,01/04/2022
+7307.19.10,"De ferro fundido maleável, de diâmetro interior superior a 50,8 mm",01/04/2022
+7307.19.20,De aço,01/04/2022
+7307.19.90,Outros,01/04/2022
+7307.2,"- Outros, de aço inoxidável:",01/04/2022
+7307.21.00,-- Flanges,01/04/2022
+7307.22.00,"-- Cotovelos, curvas e luvas (mangas*), roscados",01/04/2022
+7307.23.00,-- Acessórios para soldar topo a topo,01/04/2022
+7307.29.00,-- Outros,01/04/2022
+7307.9,- Outros:,01/04/2022
+7307.91.00,-- Flanges,01/04/2022
+7307.92.00,"-- Cotovelos, curvas e luvas (mangas*), roscados",01/04/2022
+7307.93.00,-- Acessórios para soldar topo a topo,01/04/2022
+7307.99.00,-- Outros,01/04/2022
+7308.10.00,- Pontes e elementos de pontes,01/04/2022
+7308.20.00,- Torres e pórticos,01/04/2022
+7308.30.00,"- Portas e janelas, e seus caixilhos, alizares e soleiras",01/04/2022
+7308.40.00,"- Material para andaimes, para cofragens ou para escoramentos",01/04/2022
+7308.90,- Outros,01/04/2022
+7308.90.10,"Chapas, barras, perfis, tubos e semelhantes, próprios para construções",01/04/2022
+7308.90.90,Outros,01/04/2022
+7309.00,"Reservatórios, tonéis, cubas e recipientes semelhantes para quaisquer matérias (exceto gases comp",01/04/2022
+7309.00.10,Para armazenamento de grãos e outras matérias sólidas,01/04/2022
+7309.00.20,"Recipientes isotérmicos refrigerados a nitrogênio (azoto) líquido, do tipo utilizado para sêmen, sangu",01/04/2022
+7309.00.90,Outros,01/04/2022
+7310.10,- De capacidade igual ou superior a 50 l,01/04/2022
+7310.10.10,"Recipientes isotérmicos refrigerados a nitrogênio (azoto) líquido, do tipo utilizado para sêmen, sangu",01/04/2022
+7310.10.90,Outros,01/04/2022
+7310.2,- De capacidade inferior a 50 l:,01/04/2022
+7310.21,-- Latas próprias para serem fechadas por soldadura ou cravação,01/04/2022
+7310.21.10,Próprias para acondicionar produtos alimentícios,01/04/2022
+7310.21.90,Outros,01/04/2022
+7310.29,-- Outros,01/04/2022
+7310.29.10,Próprios para acondicionar produtos alimentícios,01/04/2022
+7310.29.20,"Recipientes isotérmicos refrigerados a nitrogênio (azoto) líquido, do tipo utilizado para sêmen, sangu",01/04/2022
+7310.29.90,Outros,01/04/2022
+7311.00.00,"Recipientes para gases comprimidos ou liquefeitos, de ferro fundido, ferro ouaço.",01/04/2022
+7312.10,- Cordas e cabos,01/04/2022
+7312.10.10,De fios de aço revestidos de bronze ou latão,01/04/2022
+7312.10.90,Outros,01/04/2022
+7312.90.00,- Outros,01/04/2022
+7313.00.00,"Arame farpado, de ferro ou aço; arames ou tiras, retorcidos, mesmo farpados, de ferro ou aço, do tip",01/04/2022
+7314.1,- Telas metálicas tecidas:,01/04/2022
+7314.12.00,"-- Telas metálicas, contínuas ou sem fim, para máquinas, de aço inoxidável",01/04/2022
+7314.14.00,"-- Outras telas metálicas tecidas, de aço inoxidável",01/04/2022
+7314.19.00,-- Outras,01/04/2022
+7314.20.00,"- Grades e redes, soldadas nos pontos de interseção, de fios com, pelo menos0,  mm na maior dime",13/04/2022
+7314.3,"- Outras grades e redes, soldadas nos pontos de interseção:",01/04/2022
+7314.31.00,-- Galvanizadas,01/04/2022
+7314.39.00,-- Outras,01/04/2022
+7314.4,"- Outras telas metálicas, grades e redes:",01/04/2022
+7314.41.00,-- Galvanizadas,01/04/2022
+7314.42.00,-- Revestidas de plástico,01/04/2022
+7314.49.00,-- Outras,01/04/2022
+7314.50.00,"- Chapas e tiras, distendidas",01/04/2022
+7315.1,- Correntes de elos articulados e suas partes:,01/04/2022
+7315.11,-- Correntes de rolos,01/10/2024
+7315.11.10,"Do tipo utilizado em bicicletas, com passo de 12,7 mm (1/2"") e largura internaigual ou superior a 1,9",01/10/2024
+7315.11.90,Outras,01/10/2024
+7315.12,-- Outras correntes,01/04/2022
+7315.12.10,De transmissão,01/04/2022
+7315.12.90,Outras,01/04/2022
+7315.19.00,-- Partes,01/04/2022
+7315.20.00,- Correntes antiderrapantes,01/04/2022
+7315.8,- Outras correntes e cadeias:,01/04/2022
+7315.81.00,-- Correntes de elos com suporte,01/04/2022
+7315.82.00,"-- Outras correntes, de elos soldados",01/04/2022
+7315.89.00,-- Outras,01/04/2022
+7315.90.00,- Outras partes,01/04/2022
+7316.00.00,"Âncoras, fateixas, e suas partes, de ferro fundido, ferro ou aço.",01/04/2022
+7317.00,"Tachas, pregos, percevejos, escápulas (pregos para tacos), grampos ondulados ou biselados e artig",01/04/2022
+7317.00.10,Tachas,01/04/2022
+7317.00.20,Grampos de fio curvado,01/04/2022
+7317.00.30,Pontas ou dentes para máquinas têxteis,01/04/2022
+7317.00.90,Outros,01/04/2022
+7318.1,- Artigos roscados:,01/04/2022
+7318.11.00,-- Tira-fundos,01/04/2022
+7318.12.00,-- Outros parafusos para madeira,01/04/2022
+7318.13.00,"-- Ganchos, escápulas e pitões",01/04/2022
+7318.14.00,-- Parafusos autoperfurantes,01/04/2022
+7318.15.00,"-- Outros parafusos e pinos ou pernos, mesmo com as porcas e arruelas (anilhas)",01/04/2022
+7318.16.00,-- Porcas,01/04/2022
+7318.19.00,-- Outros,01/04/2022
+7318.2,- Artigos não roscados:,01/04/2022
+7318.21.00,-- Arruelas (anilhas) de pressão e outras arruelas (anilhas) de segurança,01/04/2022
+7318.22.00,-- Outras arruelas (anilhas),01/04/2022
+7318.23.00,-- Rebites,01/04/2022
+7318.24.00,-- Chavetas e contrapinos ou troços,01/04/2022
+7318.29.00,-- Outros,01/04/2022
+7319.40.00,- Alfinetes de segurança e outros alfinetes,01/04/2022
+7319.90.00,- Outros,01/04/2022
+7320.10.00,- Molas de folhas e suas folhas,01/04/2022
+7320.20,- Molas helicoidais,01/04/2022
+7320.20.10,Cilíndricas,01/04/2022
+7320.20.90,Outras,01/04/2022
+7320.90.00,- Outras,01/04/2022
+7321.1,- Aparelhos para cozinhar e aquecedores de pratos:,01/04/2022
+7321.11.00,"-- A combustíveis gasosos, ou a gás e outros combustíveis",01/04/2022
+7321.12.00,-- A combustíveis líquidos,01/04/2022
+7321.19.00,"-- Outros, incluindo os aparelhos a combustíveis sólidos",01/04/2022
+7321.8,- Outros aparelhos:,01/04/2022
+7321.81.00,"-- A combustíveis gasosos, ou a gás e outros combustíveis",01/04/2022
+7321.82.00,-- A combustíveis líquidos,01/04/2022
+7321.89.00,"-- Outros, incluindo os aparelhos a combustíveis sólidos",01/04/2022
+7321.90.00,- Partes,01/04/2022
+7322.1,- Radiadores e suas partes:,01/04/2022
+7322.11.00,-- De ferro fundido,01/04/2022
+7322.19.00,-- Outros,01/04/2022
+7322.90,- Outros,01/04/2022
+7322.90.10,"Geradores de ar quente a combustível líquido, com capacidade igual ou supe",
+7322.90.90,Outros,01/04/2022
+7323.10.00,"- Palha de ferro ou aço; esponjas, esfregões, luvas e artigos semelhantes para limpeza, polimento ou",01/04/2022
+7323.9,- Outros:,01/04/2022
+7323.91.00,"-- De ferro fundido, não esmaltados",01/04/2022
+7323.92.00,"-- De ferro fundido, esmaltados",01/04/2022
+7323.93.00,-- De aço inoxidável,01/04/2022
+7323.94.00,"-- De ferro ou aço, esmaltados",01/04/2022
+7323.99.00,-- Outros,01/04/2022
+7324.10.00,"- Pias e lavatórios, de aço inoxidável",01/04/2022
+7324.2,- Banheiras:,01/04/2022
+7324.21.00,"-- De ferro fundido, mesmo esmaltadas",01/04/2022
+7324.29.00,-- Outras,01/04/2022
+7324.90.00,"- Outros, incluindo as partes",01/04/2022
+7325.10.00,"- De ferro fundido, não maleável",01/04/2022
+7325.9,- Outras:,01/04/2022
+7325.91.00,"-- Esferas e artigos semelhantes, para moinhos",01/04/2022
+7325.99,-- Outras,01/04/2022
+7325.99.10,De aço,01/04/2022
+7325.99.90,Outras,01/04/2022
+7326.1,- Simplesmente forjadas ou estampadas:,01/04/2022
+7326.11.00,"-- Esferas e artigos semelhantes, para moinhos",01/04/2022
+7326.19.00,-- Outras,01/04/2022
+7326.20.00,- Obras de fio de ferro ou aço,01/04/2022
+7326.90,- Outras,01/04/2022
+7326.90.10,"Calotas elípticas de aço ao níquel, segundo Norma ASME SA 353, do tipo utilizado na fabricação de",01/04/2022
+7326.90.20,Discos próprios para cunhagem de moedas,01/04/2022
+7326.90.90,Outras,01/04/2022

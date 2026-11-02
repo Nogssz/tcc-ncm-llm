@@ -1,0 +1,104 @@
+codigo,descricao,data_inicio
+71.01,"Pérolas naturais ou cultivadas, mesmo trabalhadas ou combinadas, mas nãoenfiadas, nem montada",01/04/2022
+71.02,"Diamantes, mesmo trabalhados, mas não montados nem engastados.",01/04/2022
+71.03,"Pedras preciosas (exceto diamantes) ou semipreciosas, mesmo trabalhadasou combinadas, mas nã",01/04/2022
+71.04,"Pedras sintéticas ou reconstituídas, mesmo trabalhadas ou combinadas, masnão enfiadas, nem mo",01/04/2022
+71.05,"Pó de diamantes, de pedras preciosas ou semipreciosas ou de pedras sintéticas.",01/04/2022
+71.06,"Prata (incluindo a prata dourada ou platinada), em formas brutas ou semimanufaturadas, ou em pó.",01/04/2022
+71.08,"Ouro (incluindo o ouro platinado), em formas brutas ou semimanufaturadas, ou em pó.",01/04/2022
+71.10,"Platina, em formas brutas ou semimanufaturadas, ou em pó.",01/04/2022
+71.12,Desperdícios e resíduos de metais preciosos ou de metais folheados ou chapeados de metais precio,01/04/2022
+71.13,"Artigos de joalheria e suas partes, de metais preciosos ou de metais folheados ou chapeados de met",01/04/2022
+71.14,"Artigos de ourivesaria e suas partes, de metais preciosos ou de metais folheados ou chapeados de m",01/04/2022
+71.15,Outras obras de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê,01/04/2022
+71.16,"Obras de pérolas naturais ou cultivadas, de pedras preciosas ou semipreciosas ou de pedras sintétic",01/04/2022
+71.17,Bijuterias.,01/04/2022
+71.18,Moedas.,01/04/2022
+7101.10.00,- Pérolas naturais,01/04/2022
+7101.2,- Pérolas cultivadas:,01/04/2022
+7101.21.00,-- Em bruto,01/04/2022
+7101.22.00,-- Trabalhadas,01/04/2022
+7102.10.00,- Não selecionados,01/04/2022
+7102.2,- Industriais:,01/04/2022
+7102.21.00,"-- Em bruto ou simplesmente serrados, clivados ou desbastados",01/04/2022
+7102.29.00,-- Outros,01/04/2022
+7102.3,- Não industriais:,01/04/2022
+7102.31.00,"-- Em bruto ou simplesmente serrados, clivados ou desbastados",01/04/2022
+7102.39.00,-- Outros,01/04/2022
+7103.10.00,- Em bruto ou simplesmente serradas ou desbastadas,01/04/2022
+7103.9,- Trabalhadas de outro modo:,01/04/2022
+7103.91.00,"-- Rubis, safiras e esmeraldas",01/04/2022
+7103.99.00,-- Outras,01/04/2022
+7104.10.00,- Quartzo piezelétrico,01/04/2022
+7104.2,"- Outras, em bruto ou simplesmente serradas ou desbastadas:",01/04/2022
+7104.21.00,-- Diamantes,01/04/2022
+7104.29.00,-- Outras,01/04/2022
+7104.9,- Outras:,01/04/2022
+7104.91.00,-- Diamantes,01/04/2022
+7104.99.00,-- Outras,01/04/2022
+7105.10.00,- De diamantes,01/04/2022
+7105.90.00,- Outros,01/04/2022
+7106.10.00,- Pós,01/04/2022
+7106.9,- Outras:,01/04/2022
+7106.91.00,-- Em formas brutas,01/04/2022
+7106.92,-- Em formas semimanufaturadas,01/04/2022
+7106.92.10,"Barras, fios e perfis de seção maciça",01/04/2022
+7106.92.20,"Chapas, lâminas, folhas e tiras",01/04/2022
+7106.92.90,Outras,01/04/2022
+7107.00.00,"Metais comuns folheados ou chapeados (plaquê) de prata, em formas brutasou semimanufaturadas",01/04/2022
+7108.1,- Para usos não monetários:,01/04/2022
+7108.11.00,-- Pós,01/04/2022
+7108.12,-- Noutras formas brutas,01/04/2022
+7108.12.10,Bulhão dourado (bullion doré),01/04/2022
+7108.12.90,Outras,01/04/2022
+7108.13,-- Noutras formas semimanufaturadas,01/04/2022
+7108.13.10,"Barras, fios e perfis de seção maciça",01/04/2022
+7108.13.90,Outros,01/04/2022
+7108.20.00,- Para uso monetário,01/04/2022
+7109.00.00,"Metais comuns ou prata, folheados ou chapeados (plaquê) de ouro, em formas brutas ou semimanuf",01/04/2022
+7110.1,- Platina:,01/04/2022
+7110.11.00,-- Em formas brutas ou em pó,01/04/2022
+7110.19,-- Outras,01/04/2022
+7110.19.10,"Barras, fios e perfis de seção maciça",01/04/2022
+7110.19.90,Outras,01/04/2022
+7110.2,- Paládio:,01/04/2022
+7110.21.00,-- Em formas brutas ou em pó,01/04/2022
+7110.29.00,-- Outras,01/04/2022
+7110.3,- Ródio:,01/04/2022
+7110.31.00,-- Em formas brutas ou em pó,01/04/2022
+7110.39.00,-- Outras,01/04/2022
+7110.4,"- Irídio, ósmio e rutênio:",01/04/2022
+7110.41.00,-- Em formas brutas ou em pó,01/04/2022
+7110.49.00,-- Outras,01/04/2022
+7111.00.00,"Metais comuns, prata ou ouro, folheados ou chapeados (plaquê) de platina, em formas brutas ou se",01/04/2022
+7112.30,- Cinzas que contenham metais preciosos ou compostos de metais preciosos,01/04/2022
+7112.30.10,"Que contenham ouro, mas que não contenham outros metais preciosos",01/04/2022
+7112.30.20,"Que contenham platina, mas que não contenham outros metais preciosos",01/04/2022
+7112.30.90,Outros,01/04/2022
+7112.9,- Outros:,01/04/2022
+7112.91.00,"-- De ouro, de metais folheados ou chapeados (plaquê) de ouro, exceto varreduras de ourivesaria qu",01/04/2022
+7112.92.00,"-- De platina, de metais folheados ou chapeados (plaquê) de platina, exceto varreduras de ourivesari",01/04/2022
+7112.99.00,-- Outros,01/04/2022
+7113.1,"- De metais preciosos, mesmo revestidos, folheados ou chapeados de metaispreciosos (plaquê):",01/04/2022
+7113.11.00,"-- De prata, mesmo revestida, folheada ou chapeada de outros metais preciosos (plaquê)",01/04/2022
+7113.19.00,"-- De outros metais preciosos, mesmo revestidos, folheados ou chapeados de metais preciosos (plaq",01/04/2022
+7113.20.00,- De metais comuns folheados ou chapeados de metais preciosos (plaquê),01/04/2022
+7114.1,"- De metais preciosos, mesmo revestidos, folheados ou chapeados de metaispreciosos (plaquê):",01/04/2022
+7114.11.00,"-- De prata, mesmo revestida, folheada ou chapeada de outros metais preciosos (plaquê)",01/04/2022
+7114.19.00,"-- De outros metais preciosos, mesmo revestidos, folheados ou chapeados de metais preciosos (plaq",01/04/2022
+7114.20.00,- De metais comuns folheados ou chapeados de metais preciosos (plaquê),01/04/2022
+7115.10.00,"- Telas ou grades catalisadoras, de platina",01/04/2022
+7115.90.00,- Outras,01/04/2022
+7116.10.00,- De pérolas naturais ou cultivadas,01/04/2022
+7116.20,- De pedras preciosas ou semipreciosas ou de pedras sintéticas ou reconstituídas,01/04/2022
+7116.20.10,De diamantes sintéticos,01/04/2022
+7116.20.20,"Guias de agulhas, de rubi, para cabeças de impressão",01/04/2022
+7116.20.90,Outras,01/04/2022
+7117.1,"- De metais comuns, mesmo prateados, dourados ou platinados:",01/04/2022
+7117.11.00,-- Abotoaduras (botões de punho) e artigos semelhantes,01/04/2022
+7117.19.00,-- Outras,01/04/2022
+7117.90.00,- Outras,01/04/2022
+7118.10,"- Moedas sem curso legal, exceto de ouro",01/04/2022
+7118.10.10,Destinadas a ter curso legal no país importador,01/04/2022
+7118.10.90,Outras,01/04/2022
+7118.90.00,- Outras,01/04/2022

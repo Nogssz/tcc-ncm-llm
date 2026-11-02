@@ -1,0 +1,183 @@
+\chapter{FUNDAMENTAÇÃO TEÓRICA}
+\label{cap:fundamentacao}
+
+Neste capítulo, são apresentados os conceitos e tecnologias que embasam o desenvolvimento deste trabalho. São abordados o funcionamento dos sistemas ERP e os desafios de qualidade de dados, as exigências da legislação fiscal brasileira para emissão de Notas Fiscais Eletrônicas e a estrutura da NCM, os fundamentos dos Modelos de Linguagem de Grande Escala e da engenharia de \textit{prompt}, a abordagem de agentes com supervisão humana, as técnicas de recuperação de informação empregadas, os conceitos de avaliação experimental adotados, a integração de LLMs com bancos de dados relacionais, apresentada como contraste com a abordagem deste trabalho, e, por fim, os trabalhos correlatos, com ênfase na classificação automática de NCM e do Sistema Harmonizado.
+
+\section{Sistemas ERP}
+
+Os sistemas de gestão empresarial, conhecidos pela sigla ERP (do inglês \textit{Enterprise Resource Planning}), são plataformas de software integradas que centralizam e automatizam os principais processos organizacionais em um único ambiente \cite{arora2017}. Esses sistemas abrangem módulos como financeiro, fiscal, controle de estoque, vendas e relacionamento com clientes, permitindo que informações fluam entre os departamentos de forma padronizada. Sua adoção por pequenas e médias empresas tem crescido de forma expressiva nas últimas décadas, impulsionada pela necessidade de maior controle operacional e pela exigência de conformidade com normas regulatórias cada vez mais rigorosas \cite{laukkanen2007erp,vanEverdingen2000erp}.
+
+No setor automotivo brasileiro, especificamente em oficinas mecânicas, os sistemas ERP assumem papel estratégico. Dados do Anuário da Indústria de Reparação de Veículos indicam que o Brasil possui mais de 119 mil estabelecimentos do ramo automotivo \cite{sindirepa2023}, o que evidencia a dimensão do mercado e a necessidade de eficiência operacional nesses negócios. Nesse contexto, o ERP integra o controle de ordens de serviço, a gestão de peças e insumos, o cadastro de clientes e fornecedores e a emissão de documentos fiscais em um único fluxo, tornando a consistência dos dados cadastrais um requisito não apenas técnico, mas legal.
+
+Um exemplo prático dessa realidade é o sistema ERP Lux Auto, voltado ao segmento de oficinas mecânicas, desenvolvido em Delphi e com banco de dados Firebird. O sistema contempla o registro de produtos, o controle de serviços prestados em veículos, cadastros gerais de pessoas e fornecedores, além de módulos de contas a receber e a pagar. Embora ofereça uma interface funcional para usuários experientes, na experiência do autor no suporte técnico, novos clientes frequentemente enfrentam dificuldades nos primeiros meses de uso, e é no módulo fiscal que os problemas mais críticos surgem, pois as validações impostas pelos órgãos governamentais são rígidas e intolerantes a erros de formatação ou classificação.
+
+\subsection{Qualidade de Dados em Sistemas ERP}
+
+A qualidade dos dados armazenados em sistemas ERP é fator determinante para a confiabilidade dos processos organizacionais \cite{xu2002}. Inconsistências cadastrais, sejam elas provenientes de erros de digitação, falta de padronização ou desconhecimento técnico dos operadores, comprometem a integridade das informações e geram um efeito cascata em todos os processos dependentes desses dados \cite{krishna2024}. No contexto fiscal, essas inconsistências assumem caráter crítico: campos como Inscrição Estadual, Indicador de Contribuinte, NCM, CST e CFOP são validados por órgãos reguladores no momento da emissão de documentos fiscais eletrônicos \cite{brasil2020moc}. A presença de dados incorretos ou em branco nesses campos inviabiliza o faturamento da empresa emissora, gerando demanda urgente e recorrente ao suporte técnico \cite{Mehta2025ERPDataQuality}.
+
+Os ERPs atendem negócios dos mais variados perfis, e no nicho de oficinas mecânicas essa discrepância de conhecimento tecnológico fica ainda mais evidente. O sistema precisa atender desde profissionais qualificados em rotinas fiscais até usuários com pouca familiaridade com computação básica. Na experiência do autor com o Lux Auto, a maioria dos gargalos operacionais recai sobre usuários que não conseguem, por conta própria, ajustar campos como NCM ou Indicador de Contribuinte a partir de um código de rejeição devolvido pela SEFAZ. Nesse cenário, mecanismos de validação e correção preventiva, que atuem no momento do cadastro, tornam-se essenciais para manter a operação do negócio ativa \cite{Schelter2018DQVerify}.
+
+\section{Nota Fiscal Eletrônica e Legislação Fiscal Brasileira}
+
+A Nota Fiscal Eletrônica (NF-e) é um documento fiscal digital instituído pelo Ajuste SINIEF 07/2005, que substituiu o modelo em papel e conferiu maior agilidade e controle às operações comerciais \cite{sinief2005}. Sua emissão é regulamentada pela SEFAZ e está condicionada à validação em tempo real por meio de serviços web governamentais, que verificam centenas de regras de negócio antes de autorizar o documento \cite{brasil2020moc}.
+
+Entre os principais campos obrigatórios validados pela SEFAZ, destacam-se o Código de Situação Tributária (CST), que define o tratamento do ICMS aplicável à operação; o Código Fiscal de Operações e Prestações (CFOP), que classifica a natureza da operação comercial; e a Nomenclatura Comum do Mercosul (NCM), que identifica a classificação fiscal do produto e determina suas alíquotas tributárias \cite{sefazpe2016}. Além desses, o documento exige a descrição detalhada dos produtos, tributos como IPI, PIS, COFINS e ISS e os dados completos do emitente e do destinatário \cite{brasil2020moc}. O Manual de Orientação do Contribuinte define essas validações e associa a cada uma delas um código de rejeição: basta que uma regra não seja atendida, por exemplo um código NCM inexistente na tabela vigente, para que o documento seja rejeitado, interrompendo o fluxo de faturamento da empresa emissora \cite{brasil2020moc}.
+
+Com a reforma tributária em curso no Brasil \cite{brasil2023ec132}, que substitui progressivamente os tributos vigentes pelo IBS (Imposto sobre Bens e Serviços) e pela CBS (Contribuição sobre Bens e Serviços), os documentos fiscais eletrônicos passam a exigir novos campos e regras de classificação durante o período de transição. Para sistemas ERP, isso amplia o espaço de possíveis inconsistências cadastrais, tornando ainda mais improvável que um sistema baseado apenas em regras fixas acompanhe todas as combinações válidas. Abordagens que combinam LLMs com representações formais das regras tributárias têm sido propostas como forma de manter a confiabilidade do raciocínio fiscal diante de mudanças regulatórias frequentes \cite{Jurayj2025TaxLogic}.
+
+\subsection{Nomenclatura Comum do Mercosul}
+\label{sec:ncm}
+
+A NCM é o sistema de classificação de mercadorias adotado pelos países do Mercosul, utilizado tanto no comércio exterior quanto nas operações internas, como a emissão de NF-e \cite{receita2026ncm}. Ela tem por base o Sistema Harmonizado de Designação e de Codificação de Mercadorias (SH), mantido pela Organização Mundial das Aduanas, que padroniza internacionalmente os seis primeiros dígitos do código \cite{wco2026hs}. A NCM acrescenta dois dígitos próprios, formando um código de oito dígitos organizado de forma hierárquica, como ilustra a Figura~\ref{fig:hierarquia_ncm}: os dois primeiros identificam o Capítulo; os quatro primeiros, a Posição; o quinto e o sexto, as Subposições; e o sétimo e o oitavo, o Item e o Subitem. Somente o código completo de oito dígitos é válido para o cadastro de um produto.
+
+\begin{figure}[H]
+    \centering
+    \caption{Estrutura hierárquica de um código NCM}
+    \label{fig:hierarquia_ncm}
+    \begin{tikzpicture}[
+        node distance=0.45cm,
+        every node/.style={font=\small},
+        nivel/.style={rectangle, draw, rounded corners=3pt, align=left, fill=blue!8, text width=12.5cm, minimum height=0.8cm},
+        folha/.style={rectangle, draw, rounded corners=3pt, align=left, fill=green!10, text width=12.5cm, minimum height=0.8cm}
+    ]
+        \node (cap)  [nivel] {\textbf{87} \quad Capítulo: Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios};
+        \node (pos)  [nivel, below=of cap] {\textbf{87.08} \quad Posição: Partes e acessórios dos veículos automóveis das posições 87.01 a 87.05};
+        \node (item) [folha, below=of pos] {\textbf{8708.10.00} \quad Item: Para-choques e suas partes \hfill (único nível válido no cadastro)};
+    \end{tikzpicture}
+    \fonte{O autor (2026), com base na Tabela NCM vigente.}
+\end{figure}
+
+A tabela vigente utilizada neste trabalho possui 96 capítulos e 10.504 códigos de oito dígitos. Duas características dessa tabela são centrais para o problema estudado. A primeira é que a descrição própria de um item frequentemente só faz sentido junto com os níveis superiores: o item 4011.10.00 é descrito apenas como ``Do tipo utilizado em automóveis de passageiros'', e é o cabeçalho da posição 40.11 que informa tratar-se de pneumáticos novos de borracha. A segunda é que o texto oficial usa linguagem técnica, distante do nome comercial do produto: ``sabonete'' aparece como ``sabões'', ``cadeira'' como ``assentos'' e ``notebook'' como ``máquinas automáticas para processamento de dados''. Além disso, a classificação segue as Regras Gerais de Interpretação do Sistema Harmonizado (RGI), que integram o texto da Convenção do SH, promulgada no Brasil pelo Decreto nº 97.409/1988 \cite{brasil1988sh}, e são reproduzidas na NCM vigente, aprovada pela Resolução Gecex nº 272/2021 \cite{gecex2021}. Pela primeira regra, os títulos das seções e dos capítulos têm valor apenas indicativo, e a classificação é determinada pelos textos das posições e das notas de seção e de capítulo; pela sexta, a mesma lógica se aplica, dentro de uma posição, às subposições. As notas são, portanto, parte da classificação: a Nota 2 da Seção XVII, por exemplo, exclui das ``partes e acessórios'' de veículos as peças de uso geral, como parafusos, rolamentos e artigos de borracha, que têm posição própria mesmo quando destinadas a automóveis \cite{gecex2021}.
+
+A tabela também muda ao longo do tempo. A cada atualização, códigos são criados e outros são extintos, e um produto cadastrado com um código extinto passa a ter a nota rejeitada, ainda que o código tenha sido válido quando foi informado. Na atualização em vigor a partir de 1º de setembro de 2022, por exemplo, o código 3923.30.00 foi substituído por 3923.90.10 e 3923.90.90, e o 9403.20.00, por 9403.20.10 e 9403.20.90 \cite{encat2022nt}.
+
+Cabe observar que, no Lux Auto, o mesmo campo do cadastro guarda também códigos de serviços, que seguem outra classificação, a Nomenclatura Brasileira de Serviços (NBS). Por isso, a validação da NCM deve se restringir aos itens cadastrados como mercadoria, sob pena de apontar como erro um código de serviço legítimo.
+
+\section{Modelos de Linguagem de Grande Escala}
+
+Os Modelos de Linguagem de Grande Escala, conhecidos pela sigla LLM (do inglês \textit{Large Language Model}), são sistemas de inteligência artificial baseados na arquitetura \textit{Transformer}, proposta por \citeonline{vaswani2017attention}. Essa arquitetura utiliza mecanismos de autoatenção (\textit{self-attention}) que permitem ao modelo processar sequências de texto de forma paralela, identificando relações contextuais entre palavras independentemente de sua posição na sentença \cite{shao2024}. Os LLMs são treinados em volumes massivos de dados textuais, o que lhes confere a capacidade não apenas de gerar texto coerente, mas de interpretar contextos complexos e inferir intenções \cite{douglas2023}.
+
+No domínio tributário, essa capacidade tem sido investigada com resultados promissores, mas ainda limitados. Em um estudo sobre a aplicação do direito tributário dos Estados Unidos, \citeonline{Nay2023TaxAttorneys} observaram que o desempenho dos LLMs melhora a cada nova geração de modelos e, sobretudo, quando o modelo recebe os textos legais pertinentes e exemplos de perguntas e respostas junto com a pergunta, embora ainda sem atingir o nível de especialistas. Embora trate de outra legislação, o resultado indica dois recursos explorados neste trabalho: fornecer ao modelo o texto oficial relevante e orientá-lo com exemplos. A classificação de um produto pelo código NCM, por exemplo, exige a interpretação de descrições textuais e o cruzamento com tabelas regulatórias, tarefa na qual os LLMs têm demonstrado desempenho superior ao de sistemas baseados em regras estáticas \cite{gholamian2024llmclassification}.
+
+Entretanto, o uso de LLMs em ambientes de produção esbarra em uma limitação crítica: as alucinações, isto é, respostas incorretas geradas pelo modelo com alto grau de confiança \cite{huang2025hallucination}. No ambiente fiscal, uma classificação tributária equivocada pode resultar em recolhimento indevido de impostos e em penalidades. Por essa razão, a literatura recomenda que aplicações de LLMs em domínios sensíveis não busquem a autonomia total do modelo, mas o utilizem como ferramenta de análise e proposição, subordinada à validação humana \cite{Natarajan2024AI2L}.
+
+\subsection{Execução Local e Modelos Abertos}
+
+Modelos proprietários oferecidos via API cobram por volume de \textit{tokens} processados, e esse custo recorrente pode tornar a operação contínua inviável a partir de determinados volumes de uso \cite{pan2025costbenefit}. Uma alternativa é a execução local de modelos de código aberto por meio de ferramentas como o Ollama, que permite rodar LLMs diretamente na máquina, sem dependência de serviços externos \cite{ollama2023}. Técnicas de otimização de inferência permitem reduzir significativamente os requisitos computacionais desses modelos \cite{zhou2024efficientllm}; entre elas, destaca-se a quantização, que reduz a precisão numérica dos parâmetros (tipicamente de 16 para 4 ou 5 \textit{bits}), seja por treinamento com quantização nativa \cite{liu2024llmqat}, seja por quantização pós-treinamento, como nos formatos do padrão GGUF adotado pelo Ollama \cite{ollama2023}. Com essa técnica, modelos de 7 a 8 bilhões de parâmetros podem operar com menos de 6~GB de memória de vídeo (VRAM), o que viabiliza seu uso em computadores convencionais e mantém os dados da empresa no próprio ambiente.
+
+Três modelos abertos foram utilizados neste trabalho. O Llama 3.1, da Meta, com 8 bilhões de parâmetros, amplamente utilizado como referência em execução local \cite{grattafiori2024llama3}; o Qwen2.5, da Alibaba, com 7 bilhões de parâmetros, treinado com ênfase em suporte multilíngue e na geração de saídas estruturadas \cite{qwen2024qwen25}; e o Qwen3, sucessor do anterior, cuja versão de 8 bilhões de parâmetros reúne em um mesmo modelo um modo com raciocínio explícito (\textit{thinking}), que escreve etapas intermediárias antes da resposta, e um modo sem raciocínio, mais rápido \cite{yang2025qwen3}. Neste trabalho, o Qwen3 foi usado no modo sem raciocínio, para manter o tempo de resposta compatível com o uso diário.
+
+\subsection{Saídas Estruturadas e Decodificação Restrita}
+
+Um LLM gera texto escolhendo, a cada passo, o próximo \textit{token} a partir de uma distribuição de probabilidades sobre todo o vocabulário. Na decodificação restrita (\textit{constrained decoding} ou \textit{guided generation}), essa escolha é limitada aos \textit{tokens} que mantêm a saída válida segundo uma gramática formal, como uma expressão regular ou um esquema JSON \cite{willard2023guided}. Na prática, isso garante que a resposta do modelo possa ser lida por um programa e, quando o esquema enumera os valores permitidos para um campo, que o modelo só consiga responder com um desses valores. O Ollama oferece esse recurso ao aceitar um esquema JSON como formato obrigatório da resposta \cite{ollama2023}. Para a classificação fiscal, isso significa que o modelo pode ser impedido, por construção, de inventar um código NCM inexistente: ele só pode escolher entre os códigos apresentados.
+
+\subsection{Engenharia de \textit{Prompt} e Aprendizado com Poucos Exemplos}
+
+O comportamento de um LLM pode ser direcionado sem alterar seus parâmetros, apenas pela forma como a tarefa é descrita no texto de entrada, o \textit{prompt}. A engenharia de \textit{prompt} reúne as técnicas de redação dessas instruções, como definir o papel do modelo, explicitar regras e restringir o formato da resposta \cite{liu2023prompt}. Uma dessas técnicas é o aprendizado com poucos exemplos (\textit{few-shot}): em vez de treinar o modelo para a tarefa, incluem-se no próprio \textit{prompt} alguns pares de entrada e saída esperada, e o modelo passa a reproduzir o padrão demonstrado \cite{brown2020fewshot}. Os \textit{prompts} do protótipo, reproduzidos no Apêndice~\ref{ap:prompts}, usam as duas técnicas: um \textit{prompt} de sistema com regras de classificação e exemplos de produtos que não pertencem a nenhum conjunto de avaliação, para que os exemplos não ``entreguem'' respostas medidas.
+
+\section{Agentes e \textit{Human-in-the-Loop}}
+
+O avanço dos LLMs permitiu o surgimento de uma nova classe de sistemas: os agentes. Diferentemente de um LLM utilizado de forma isolada, que apenas recebe um texto e gera uma resposta, um agente é um sistema modular no qual o modelo de linguagem atua como motor de raciocínio, recebendo acesso a ferramentas externas para perceber o ambiente e interagir com ele \cite{Wang2023LLMAgentsSurvey}. Essas ferramentas podem incluir acesso a bancos de dados, APIs, mecanismos de busca e execução de código \cite{qu2024toollearning}.
+
+No contexto de correção de bases de dados, um agente é capaz de: (1) conectar-se a um banco de dados relacional; (2) identificar registros com anomalias com base em regras de domínio; (3) formular uma proposta de correção; e (4) apresentar essa proposta ao operador humano para validação \cite{Roychowdhury2025NLIDB}. Entretanto, em domínios críticos como o fiscal e o financeiro, a delegação total de decisões a uma inteligência artificial apresenta riscos sistêmicos inaceitáveis \cite{pohler2025}.
+
+Para mitigar esse risco, a literatura recomenda a adoção do paradigma \textit{Human-in-the-Loop} (HITL), no qual o fluxo de automação é intencionalmente interrompido antes de qualquer alteração permanente no banco de dados: o agente elabora o diagnóstico e formula a proposta de correção, mas aguarda a aprovação de um operador humano antes da execução \cite{Cheng2026DecoupledHITL}. Essa exigência se alinha a modelos mais amplos de segurança e responsabilização de agentes de IA, que defendem a validação progressiva da autonomia como condição para a confiabilidade do sistema \cite{cheng2025}. A abordagem também privilegia a acessibilidade, na medida em que a proposta pode ser apresentada em linguagem simples, sem expor termos técnicos ao usuário final \cite{Madicharla2025HITLllmops}.
+
+\section{Recuperação de Informação e Geração Aumentada por Recuperação}
+\label{sec:recuperacao}
+
+Um LLM não conhece de forma confiável o conteúdo atualizado de uma tabela regulatória com milhares de linhas, e a tabela inteira não cabe no contexto de um modelo pequeno. A Geração Aumentada por Recuperação (RAG, do inglês \textit{Retrieval-Augmented Generation}) contorna esse limite: antes de gerar a resposta, um componente de busca recupera de uma base externa apenas os trechos relevantes para a pergunta, que são então entregues ao modelo junto com a instrução \cite{lewis2020rag}. Essa capacidade é especialmente útil em domínios regulatórios, nos quais a resposta correta depende de documentos que não fazem parte do treinamento do modelo \cite{kim2025qarag}.
+
+\subsection{Busca Lexical e BM25}
+
+A forma mais tradicional de recuperação é a busca lexical, que localiza documentos que contêm as palavras da consulta por meio de um índice invertido. Para ordenar os resultados, a função de ranqueamento BM25 dá a cada documento uma pontuação que cresce com a quantidade de palavras da consulta presentes nele e com a raridade dessas palavras na coleção, compensando o tamanho do documento \cite{robertson2009bm25}. Assim, termos raros, como ``para-choques'', pesam mais do que termos comuns, como ``outros''. O SQLite implementa essa função em sua extensão de busca textual FTS5, que permite ainda atribuir pesos diferentes a cada coluna indexada e normalizar acentos \cite{sqlite2024fts5}.
+
+A principal limitação da busca lexical é depender de palavras em comum entre a consulta e o documento. Para reduzir esse problema, é possível expandir a consulta com sinônimos obtidos de uma base lexical como a WordNet, que organiza palavras em conjuntos de sinônimos \cite{miller1995wordnet}. Para o português, a OpenWordNet-PT oferece uma base desse tipo \cite{paiva2012openwordnetpt}, acessível em Python pela biblioteca NLTK \cite{bird2009nltk}.
+
+\subsection{Fusão de Rankings}
+
+Quando a mesma necessidade de informação é expressa de mais de uma forma, por exemplo pela descrição original de um produto e por uma reescrita em linguagem técnica, cada consulta produz uma lista ordenada diferente. A fusão por posição recíproca (RRF, do inglês \textit{Reciprocal Rank Fusion}) combina essas listas somando, para cada documento $d$, o inverso de sua posição em cada lista $r \in R$ \cite{cormack2009rrf}:
+
+\begin{equation}
+\label{eq:rrf}
+\mathrm{RRF}(d) = \sum_{r \in R} \frac{1}{k + r(d)}
+\end{equation}
+
+\noindent em que $r(d)$ é a posição de $d$ na lista $r$ e $k$ é uma constante (tipicamente 60) que atenua a diferença entre as primeiras posições. O método não exige que as pontuações das listas sejam comparáveis entre si e é simples de implementar.
+
+\subsection{Radicalização, Similaridade e Vizinhos Mais Próximos}
+\label{sec:knn}
+
+Palavras flexionadas, como ``pastilha'' e ``pastilhas'' ou ``freio'' e ``freios'', só coincidem em uma busca lexical se forem reduzidas a uma forma comum. A radicalização (\textit{stemming}) faz essa redução por regras de remoção de sufixos, sem consultar um dicionário; o projeto Snowball define algoritmos desse tipo para várias línguas, entre elas o português \cite{porter2001snowball}, disponíveis em Python pela biblioteca NLTK \cite{bird2009nltk}.
+
+Quando se comparam duas descrições curtas como conjuntos de palavras $A$ e $B$, uma medida simples de semelhança é o coeficiente de Jaccard, a razão entre o número de palavras em comum e o número total de palavras distintas dos dois conjuntos, $|A \cap B| / |A \cup B|$, que vale 1 para conjuntos iguais e 0 para conjuntos sem palavras em comum \cite{manning2008ir}.
+
+Essas medidas permitem classificar por analogia. Na classificação pelos vizinhos mais próximos (kNN, do inglês \textit{k-Nearest Neighbors}), um item novo recebe a classe mais frequente entre os $k$ exemplos já rotulados mais parecidos com ele, sem que nenhum modelo seja treinado: o ``conhecimento'' é a própria coleção de exemplos \cite{cover1967knn}. É comum ponderar o voto de cada vizinho pela sua proximidade, de modo que os mais parecidos pesem mais. No contexto deste trabalho, os exemplos rotulados são produtos cujo NCM já foi informado por empresas reais, e a semelhança é dada pela própria busca lexical.
+
+\section{Avaliação Experimental de Sistemas de Classificação}
+\label{sec:avaliacao}
+
+Um sistema ajustado a partir da observação de seus próprios erros tende a se adaptar às particularidades dos casos observados, e não apenas ao problema geral, fenômeno conhecido como superajuste (\textit{overfitting}). Por isso, o desempenho medido nos mesmos casos usados para os ajustes é uma estimativa otimista do desempenho em casos novos. A prática recomendada é separar os dados em um conjunto usado para treinar e escolher entre alternativas e um conjunto de teste, mantido à parte e utilizado somente para medir o sistema já escolhido; se o conjunto de teste for usado repetidamente para escolher entre alternativas, ele passa a fazer parte do ajuste e perde o papel de estimativa independente \cite{hastie2009elements}. O mesmo princípio vale quando o ``ajuste'' não é um treinamento de parâmetros, mas a modificação de \textit{prompts}, regras e da busca, como neste trabalho.
+
+Em problemas com muitas classes possíveis, como a NCM, é comum medir não apenas se a primeira resposta está correta, mas se a resposta correta aparece entre as $k$ primeiras (acerto \textit{top-k}), o que representa melhor um sistema que apresenta opções a um operador. Já em tarefas de detecção, a taxa de acerto sobre os casos com problema precisa ser acompanhada da taxa de alarmes falsos, isto é, da proporção de casos corretos indevidamente apontados, pois um detector que aponta tudo acerta todos os casos com problema, mas não tem utilidade prática \cite{manning2008ir}.
+
+\section{Integração de LLMs com Bancos de Dados Relacionais}
+
+Esta seção apresenta a forma mais difundida de integração entre LLMs e bancos de dados, que era a abordagem prevista no projeto deste trabalho. Ela é mantida aqui como contraste com a abordagem adotada, em que o modelo não gera consultas nem tem acesso ao banco (Capítulo~\ref{cap:desenvolvimento}).
+
+A integração entre LLMs e bancos de dados relacionais é uma das áreas mais ativas de pesquisa em sistemas inteligentes aplicados \cite{hong2024texttosql}. A abordagem mais difundida, conhecida como \textit{Text-to-SQL}, permite que o modelo interprete instruções em linguagem natural e as converta em consultas SQL executáveis. Tipicamente, o modelo recebe a estrutura do banco (DDL, do inglês \textit{Data Definition Language}) e, a partir dela, gera a consulta correspondente a uma pergunta do usuário \cite{silva2025}. Frameworks como o LangChain fornecem abstrações para essa integração, gerenciando a conexão entre o modelo, as fontes de dados e as ferramentas disponíveis ao agente \cite{langchain2022}.
+
+O Firebird é um sistema de gerenciamento de banco de dados relacional de código aberto que surgiu como \textit{fork} do InterBase 6.0 da Borland em 2000, mantendo forte integração com o ecossistema Delphi \cite{firebird2024about}; por isso, é o banco adotado por muitos ERPs desenvolvidos nessa linguagem, entre eles o Lux Auto. Por questões de segurança, recomenda-se que a camada de integração imponha restrições (\textit{guardrails}) que bloqueiem comandos destrutivos como \texttt{DROP} e \texttt{DELETE}, restringindo o agente a operações de leitura durante a fase de diagnóstico \cite{Roychowdhury2025NLIDB}.
+
+\section{Trabalhos Correlatos}
+
+Os trabalhos correlatos são apresentados em dois grupos: estudos de classificação automática de mercadorias na NCM e no Sistema Harmonizado, que tratam do mesmo problema de classificação, e estudos de integração de LLMs com dados empresariais e documentos regulatórios, que tratam do contexto de aplicação.
+
+\subsection{Classificação Automática de NCM e do Sistema Harmonizado}
+
+No Brasil, a classificação automática de NCM a partir da descrição do produto tem sido abordada com aprendizado de máquina supervisionado sobre grandes volumes de notas fiscais. \citeonline{batista2018ncm} desenvolveram um classificador Naïve Bayes treinado com descrições de itens de notas fiscais ao consumidor dos capítulos 22 e 90 da NCM, com acurácia de 98\% no conjunto mais simples e de 90\% e 83\% nos conjuntos de dificuldade média e alta. \citeonline{pinheiro2022ncm} utilizaram cerca de 340 mil descrições distintas de NF-e para treinar classificadores SVM e Naive Bayes em cascata, um para cada nível do código, obtendo 89\% de acurácia nos dois primeiros dígitos e 76\% no código completo de oito dígitos. Os autores observam que a atribuição manual do código é suscetível a erros pela diversidade de produtos e pela interpretação das regras.
+
+Para o Sistema Harmonizado, \citeonline{lee2021hs}, em parceria com o serviço aduaneiro da Coreia do Sul, propuseram um modelo baseado em um modelo de linguagem pré-treinado que sugere a posição e as subposições de uma mercadoria e recupera do manual do SH as sentenças que sustentam a sugestão, alcançando 95,5\% de acerto entre as três primeiras sugestões em 265 subposições, avaliado sobre 129.084 casos históricos. Com LLMs, \citeonline{yuvraj2025atlas} construíram um conjunto de avaliação a partir de decisões oficiais de classificação da aduana dos Estados Unidos e ajustaram um modelo de 70 bilhões de parâmetros, que acertou 40\% dos códigos completos de dez dígitos e 57,5\% dos códigos de seis dígitos, resultado superior ao de modelos comerciais de grande porte usados sem ajuste. Mais recentemente, \citeonline{zhang2026hs} propuseram um fluxo determinístico para a classificação no SH chinês, no qual o fluxo de controle é fixo e as chamadas ao LLM ficam restritas a etapas específicas, apoiadas em regras e textos da tarifa organizados previamente, com 75,0\% de acerto em primeiro lugar e 91,5\% entre os três primeiros no nível de quatro dígitos.
+
+Esses trabalhos mostram que o problema é difícil mesmo para modelos grandes e que os melhores resultados combinam o modelo com recuperação de textos oficiais ou com fluxos controlados pelo programa. Os classificadores supervisionados, por sua vez, dependem de centenas de milhares de exemplos rotulados, nem sempre disponíveis para uma empresa de software de pequeno porte.
+
+\subsection{LLMs e Dados Empresariais}
+
+\citeonline{silva2025} apresentam um agente LLM capaz de interagir com um sistema ERP industrial por meio de linguagem natural, traduzindo consultas em instruções SQL executáveis por meio de uma arquitetura com dois agentes. O trabalho demonstra a viabilidade técnica da integração entre LLMs e sistemas ERP complexos, utilizando o LangChain como camada de orquestração, e comprova que a abordagem consegue operar sobre bases de dados reais de produção.
+
+\citeonline{bendinelli2025} investigam o uso de agentes LLM para limpeza de \textit{datasets} tabulares, demonstrando que esses modelos são capazes de identificar e corrigir entradas incorretas ao explorar informações contextuais de outras colunas do mesmo registro, com taxas de acerto superiores às de métodos heurísticos tradicionais.
+
+\citeonline{gholamian2024llmclassification} investigam a classificação de produtos com LLMs em cenários de comércio e de conformidade regulatória, com atenção à robustez dos modelos diante de descrições de produtos incompletas ou ruidosas, característica também presente nos cadastros de ERP.
+
+Por fim, \citeonline{kim2025qarag} propõem o QA-RAG, um sistema que integra IA generativa e recuperação de documentos para automação de processos de conformidade regulatória farmacêutica. O trabalho demonstra que a recuperação de trechos relevantes de documentos regulatórios, entregues ao modelo no momento da resposta, permite tratar requisitos complexos de forma estruturada, mesmo princípio que este trabalho aplica à tabela NCM.
+
+\subsection{Síntese}
+
+O Quadro~\ref{qua:correlatos} compara os trabalhos correlatos com a proposta deste TCC. Em conjunto, eles demonstram que a classificação automática de mercadorias e a integração de LLMs com dados empresariais e documentos regulatórios são tecnicamente viáveis. Entretanto, os estudos de NCM não utilizam LLMs nem tratam da detecção de códigos válidos, porém incorretos, já cadastrados; os estudos com LLMs no SH usam modelos grandes ou serviços remotos; e nenhum deles opera integrado a um ERP brasileiro com aprovação humana obrigatória. Esta proposta se diferencia por quatro aspectos: o recorte na NCM do cadastro de produtos, incluindo a detecção de códigos incorretos; a integração direta com um sistema ERP real do setor automotivo nacional; a execução inteiramente local, com um modelo pequeno, em hardware convencional; e a medição explícita da contribuição do modelo de linguagem em relação à busca sem ele.
+
+\begin{quadro}[H]
+\centering
+\caption{Comparação entre os trabalhos correlatos e este trabalho}
+\label{qua:correlatos}
+\small
+\begin{tabular}{|p{3.4cm}|p{4.2cm}|p{2.6cm}|p{1.6cm}|p{2.2cm}|}
+\hline
+\textbf{Trabalho} & \textbf{Técnica} & \textbf{Classificação} & \textbf{Usa LLM} & \textbf{Integrado a ERP} \\
+\hline
+\citeonline{batista2018ncm} & Naïve Bayes & NCM & Não & Não \\
+\hline
+\citeonline{pinheiro2022ncm} & SVM e Naive Bayes em cascata & NCM & Não & Não \\
+\hline
+\citeonline{lee2021hs} & Modelo de linguagem pré-treinado e recuperação de sentenças do manual & SH & Não & Não \\
+\hline
+\citeonline{yuvraj2025atlas} & LLM de 70 bilhões de parâmetros ajustado & HTS (EUA) & Sim & Não \\
+\hline
+\citeonline{zhang2026hs} & Fluxo determinístico com etapas restritas de LLM & SH (China) & Sim & Não \\
+\hline
+\citeonline{silva2025} & LLM e \textit{Text-to-SQL} & -- & Sim & Sim \\
+\hline
+\textbf{Este trabalho} & Busca, vizinhos mais próximos e escolha restrita por LLM pequeno local, com aprovação humana & NCM & Sim & Sim \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{quadro}

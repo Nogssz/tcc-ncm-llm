@@ -1,0 +1,906 @@
+{
+  "conjunto": "teste",
+  "modelo": "qwen2.5:7b",
+  "resumo": {
+    "capitulo_certo_entre_escolhidos": "26/33 = 78.8%",
+    "posicao_certa_entre_escolhidas": "23/33 = 69.7%",
+    "acerto_1o_lugar": "12/33 = 36.4%",
+    "acerto_top3": "18/33 = 54.5%",
+    "tempo_medio_s": 65.0,
+    "falhas_infra": 0
+  },
+  "casos": [
+    {
+      "descricao": "ARROZ BRANCO TIPO 1 5KG",
+      "grupo": "alimentos",
+      "esperados": [
+        "1006.30.21"
+      ],
+      "opcoes": [
+        "1006.30.19",
+        "1006.30.29",
+        "1006.10.92"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "10",
+        "07"
+      ],
+      "posicoes": [
+        "1006",
+        "1005",
+        "0713"
+      ],
+      "interpretacao": "arroz branco em grão",
+      "pergunta": null,
+      "segundos": 19.8
+    },
+    {
+      "descricao": "CAFE TORRADO E MOIDO 500G",
+      "grupo": "alimentos",
+      "esperados": [
+        "0901.21.00"
+      ],
+      "opcoes": [
+        "0901.21.00",
+        "0901.11.90",
+        "0901.11.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "09",
+        "11"
+      ],
+      "posicoes": [
+        "0901",
+        "0909",
+        "1107"
+      ],
+      "interpretacao": "café torrado e moído",
+      "pergunta": null,
+      "segundos": 19.7
+    },
+    {
+      "descricao": "REFRIGERANTE COLA 2L",
+      "grupo": "bebidas",
+      "esperados": [
+        "2202.10.00"
+      ],
+      "opcoes": [
+        "2201.90.00",
+        "8419.89.99",
+        "8419.90.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "22",
+        "84",
+        "33"
+      ],
+      "posicoes": [
+        "2201",
+        "2208",
+        "8419"
+      ],
+      "interpretacao": "bebida carbonatada pronta para beber",
+      "pergunta": null,
+      "segundos": 1468.7
+    },
+    {
+      "descricao": "CERVEJA LATA 350ML",
+      "grupo": "bebidas",
+      "esperados": [
+        "2203.00.00"
+      ],
+      "opcoes": [
+        "2203.00.00",
+        "2202.91.00",
+        "9022.90.99"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "22",
+        "90",
+        "33"
+      ],
+      "posicoes": [
+        "2203",
+        "2202",
+        "9022"
+      ],
+      "interpretacao": "bebida alcoólica em lata",
+      "pergunta": "Informação que falta: Tipo de cerveja (com ou sem álcool)",
+      "segundos": 20.6
+    },
+    {
+      "descricao": "LEITE UHT INTEGRAL 1L",
+      "grupo": "alimentos",
+      "esperados": [
+        "0401.20.10"
+      ],
+      "opcoes": [
+        "0401.10.10",
+        "0401.10.90",
+        "0402.99.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "04",
+        "19"
+      ],
+      "posicoes": [
+        "0401",
+        "0402",
+        "0403"
+      ],
+      "interpretacao": "leite pasteurizado integral",
+      "pergunta": null,
+      "segundos": 19.4
+    },
+    {
+      "descricao": "CHOCOLATE AO LEITE BARRA 90G",
+      "grupo": "alimentos",
+      "esperados": [
+        "1806.32.10"
+      ],
+      "opcoes": [
+        "1806.31.10",
+        "1806.32.10",
+        "1806.90.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "17",
+        "18",
+        "19"
+      ],
+      "posicoes": [
+        "1806",
+        "1704"
+      ],
+      "interpretacao": "barra de chocolate ao leite",
+      "pergunta": null,
+      "segundos": 20.5
+    },
+    {
+      "descricao": "DETERGENTE LIQUIDO LAVA LOUCAS 500ML",
+      "grupo": "limpeza",
+      "esperados": [
+        "3402.50.00"
+      ],
+      "opcoes": [
+        "3402.90.39",
+        "3402.90.29",
+        "3825.69.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "34",
+        "38"
+      ],
+      "posicoes": [
+        "3402",
+        "3825"
+      ],
+      "interpretacao": "detergente liquido para lavagem",
+      "pergunta": null,
+      "segundos": 20.8
+    },
+    {
+      "descricao": "SABONETE EM BARRA 90G",
+      "grupo": "higiene",
+      "esperados": [
+        "3401.11.90"
+      ],
+      "opcoes": [
+        "3306.90.00",
+        "3304.99.90",
+        "7505.22.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "33",
+        "75"
+      ],
+      "posicoes": [
+        "3306",
+        "3304",
+        "7505"
+      ],
+      "interpretacao": "sabonete em barra",
+      "pergunta": null,
+      "segundos": 20.8
+    },
+    {
+      "descricao": "SHAMPOO ANTICASPA 350ML",
+      "grupo": "higiene",
+      "esperados": [
+        "3305.10.00"
+      ],
+      "opcoes": [
+        "3305.10.00",
+        "3305.90.00",
+        "3304.99.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "33",
+        "84"
+      ],
+      "posicoes": [
+        "3305",
+        "3304",
+        "8421"
+      ],
+      "interpretacao": "limpante capilar",
+      "pergunta": null,
+      "segundos": 23.1
+    },
+    {
+      "descricao": "CREME DENTAL 90G",
+      "grupo": "higiene",
+      "esperados": [
+        "3306.10.00"
+      ],
+      "opcoes": [
+        "3306.10.00",
+        "3306.90.00",
+        "2106.90.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "21",
+        "33"
+      ],
+      "posicoes": [
+        "3306",
+        "2106"
+      ],
+      "interpretacao": "creme dental",
+      "pergunta": null,
+      "segundos": 17.7
+    },
+    {
+      "descricao": "PAPEL HIGIENICO FOLHA DUPLA 12 ROLOS",
+      "grupo": "higiene",
+      "esperados": [
+        "4818.10.00"
+      ],
+      "opcoes": [
+        "4818.10.00",
+        "4803.00.90",
+        "4818.90.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "48"
+      ],
+      "posicoes": [
+        "4803",
+        "4818",
+        "4801"
+      ],
+      "interpretacao": "papel higiênico",
+      "pergunta": null,
+      "segundos": 20.3
+    },
+    {
+      "descricao": "CAMISETA ALGODAO MASCULINA",
+      "grupo": "vestuario",
+      "esperados": [
+        "6109.10.00"
+      ],
+      "opcoes": [
+        "6105.10.00",
+        "6109.10.00",
+        "6114.20.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "61",
+        "52"
+      ],
+      "posicoes": [
+        "6105",
+        "6114",
+        "6109"
+      ],
+      "interpretacao": "camiseta de algodão masculina",
+      "pergunta": null,
+      "segundos": 20.8
+    },
+    {
+      "descricao": "CALCA JEANS FEMININA",
+      "grupo": "vestuario",
+      "esperados": [
+        "6204.62.00"
+      ],
+      "opcoes": [
+        "6103.43.00",
+        "6404.11.00",
+        "6404.20.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "61",
+        "64",
+        "62"
+      ],
+      "posicoes": [
+        "6103",
+        "6113",
+        "6404"
+      ],
+      "interpretacao": "calça jeans feminina",
+      "pergunta": null,
+      "segundos": 20.9
+    },
+    {
+      "descricao": "TENIS ESPORTIVO",
+      "grupo": "calcados",
+      "esperados": [
+        "6404.11.00",
+        "6402.19.00"
+      ],
+      "opcoes": [
+        "6404.11.00",
+        "6402.19.00",
+        "6401.99.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "64",
+        "34"
+      ],
+      "posicoes": [
+        "6401",
+        "6402",
+        "6404"
+      ],
+      "interpretacao": "calçado esportivo",
+      "pergunta": null,
+      "segundos": 20.3
+    },
+    {
+      "descricao": "TOALHA DE BANHO ALGODAO",
+      "grupo": "cama mesa banho",
+      "esperados": [
+        "6302.60.00"
+      ],
+      "opcoes": [
+        "5208.19.00",
+        "5208.29.00",
+        "5208.39.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "52",
+        "48",
+        "58"
+      ],
+      "posicoes": [
+        "5208",
+        "5212",
+        "4818"
+      ],
+      "interpretacao": "toalha de banho",
+      "pergunta": null,
+      "segundos": 19.4
+    },
+    {
+      "descricao": "CELULAR SMARTPHONE 128GB",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8517.13.00"
+      ],
+      "opcoes": [
+        "8517.14.32",
+        "8517.14.31",
+        "8517.13.00"
+      ],
+      "posicao_certo": 3,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8517",
+        "8523"
+      ],
+      "interpretacao": "aparelho celular inteligente",
+      "pergunta": null,
+      "segundos": 21.3
+    },
+    {
+      "descricao": "NOTEBOOK 15 POLEGADAS",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8471.30.12",
+        "8471.30.19"
+      ],
+      "opcoes": [
+        "8513.90.00",
+        "9031.80.99",
+        "9031.90.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85",
+        "90"
+      ],
+      "posicoes": [
+        "8513",
+        "8514",
+        "9031"
+      ],
+      "interpretacao": "aparelho receptor de computador",
+      "pergunta": null,
+      "segundos": 20.7
+    },
+    {
+      "descricao": "GELADERA FROST FREE DUPLEX",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8418.10.00"
+      ],
+      "opcoes": [
+        "8418.21.00",
+        "8418.99.00",
+        "8418.69.99"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85",
+        "84"
+      ],
+      "posicoes": [
+        "8513",
+        "8533",
+        "8418"
+      ],
+      "interpretacao": "aparelho refrigerador de alimentos",
+      "pergunta": null,
+      "segundos": 22.0
+    },
+    {
+      "descricao": "LAMPADA LED 9W",
+      "grupo": "eletricos",
+      "esperados": [
+        "8539.52.00"
+      ],
+      "opcoes": [
+        "8512.20.19",
+        "8539.29.90",
+        "8539.52.00"
+      ],
+      "posicao_certo": 3,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85",
+        "70"
+      ],
+      "posicoes": [
+        "8512",
+        "8539",
+        "7011"
+      ],
+      "interpretacao": "lâmpada de iluminação",
+      "pergunta": null,
+      "segundos": 25.3
+    },
+    {
+      "descricao": "PILHA ALCALINA AA",
+      "grupo": "eletricos",
+      "esperados": [
+        "8506.10.19"
+      ],
+      "opcoes": [
+        "8506.10.11",
+        "8506.10.12",
+        "8506.10.19"
+      ],
+      "posicao_certo": 3,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85",
+        "84"
+      ],
+      "posicoes": [
+        "8506",
+        "8501",
+        "8549"
+      ],
+      "interpretacao": "pilha eletricidade por reacao quimica",
+      "pergunta": null,
+      "segundos": 22.5
+    },
+    {
+      "descricao": "MARTELO DE UNHA CABO MADEIRA",
+      "grupo": "ferramentas",
+      "esperados": [
+        "8205.20.00"
+      ],
+      "opcoes": [
+        "4417.00.10",
+        "4415.10.00",
+        "4415.20.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "44"
+      ],
+      "posicoes": [
+        "4417",
+        "4415"
+      ],
+      "interpretacao": "ferramenta de jardim",
+      "pergunta": null,
+      "segundos": 19.8
+    },
+    {
+      "descricao": "FURADERA ELETRICA 500W",
+      "grupo": "ferramentas",
+      "esperados": [
+        "8467.21.00"
+      ],
+      "opcoes": [
+        "8205.10.00",
+        "8205.59.00",
+        "8205.60.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "82",
+        "91",
+        "27"
+      ],
+      "posicoes": [
+        "8205",
+        "8206",
+        "9103"
+      ],
+      "interpretacao": "ferramenta eletrica de furacao",
+      "pergunta": null,
+      "segundos": 22.2
+    },
+    {
+      "descricao": "CIMENTO PORTLAND 50KG",
+      "grupo": "construcao",
+      "esperados": [
+        "2523.29.10"
+      ],
+      "opcoes": [
+        "2523.29.10",
+        "2523.29.90",
+        "2523.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "25",
+        "38",
+        "68"
+      ],
+      "posicoes": [
+        "2523",
+        "2526",
+        "6810"
+      ],
+      "interpretacao": "cimento portland",
+      "pergunta": null,
+      "segundos": 22.0
+    },
+    {
+      "descricao": "TINTA ACRILICA PAREDE 18L",
+      "grupo": "construcao",
+      "esperados": [
+        "3209.10.10"
+      ],
+      "opcoes": [
+        "3208.20.11",
+        "3208.20.19",
+        "3208.90.10"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "32",
+        "70"
+      ],
+      "posicoes": [
+        "3208",
+        "3206",
+        "7008"
+      ],
+      "interpretacao": "tinta acrílica para pintura de paredes",
+      "pergunta": null,
+      "segundos": 23.5
+    },
+    {
+      "descricao": "PARAFUSO SEXTAVADO ACO M8",
+      "grupo": "ferragens",
+      "esperados": [
+        "7318.15.00"
+      ],
+      "opcoes": [
+        "7318.15.00",
+        "7217.10.90",
+        "7218.99.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "72",
+        "73"
+      ],
+      "posicoes": [
+        "7218",
+        "7217",
+        "7318"
+      ],
+      "interpretacao": "parafuso de aço",
+      "pergunta": null,
+      "segundos": 22.5
+    },
+    {
+      "descricao": "CADERNO ESPIRAL 96 FOLHAS",
+      "grupo": "papelaria",
+      "esperados": [
+        "4820.20.00"
+      ],
+      "opcoes": [
+        "4901.10.00",
+        "4820.20.00",
+        "4813.10.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "49",
+        "48"
+      ],
+      "posicoes": [
+        "4901",
+        "4820",
+        "4813"
+      ],
+      "interpretacao": "caderno espiralado",
+      "pergunta": null,
+      "segundos": 19.4
+    },
+    {
+      "descricao": "CANETA ESFEROGRAFICA AZUL",
+      "grupo": "papelaria",
+      "esperados": [
+        "9608.10.00"
+      ],
+      "opcoes": [
+        "9608.10.00",
+        "9608.99.90",
+        "9608.99.89"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "01",
+        "96",
+        "03"
+      ],
+      "posicoes": [
+        "9608",
+        "9611"
+      ],
+      "interpretacao": "caneta esferográfica",
+      "pergunta": "A caneta é esferográfica ou de outro tipo?",
+      "segundos": 20.0
+    },
+    {
+      "descricao": "CADEIRA DE ESCRITORIO GIRATORIA",
+      "grupo": "moveis",
+      "esperados": [
+        "9401.31.00",
+        "9401.39.00"
+      ],
+      "opcoes": [
+        "9401.39.00",
+        "9403.30.00",
+        "9402.90.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "94",
+        "39"
+      ],
+      "posicoes": [
+        "9401",
+        "9403",
+        "9402"
+      ],
+      "interpretacao": "cadeira para escritório",
+      "pergunta": null,
+      "segundos": 22.2
+    },
+    {
+      "descricao": "BOLA DE FUTEBOL",
+      "grupo": "esporte",
+      "esperados": [
+        "9506.62.00"
+      ],
+      "opcoes": [
+        "9506.62.00",
+        "9506.69.00",
+        "9506.11.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "95"
+      ],
+      "posicoes": [
+        "9506",
+        "9505"
+      ],
+      "interpretacao": "bola de esporte",
+      "pergunta": null,
+      "segundos": 18.9
+    },
+    {
+      "descricao": "FILTRO DE AR DO MOTOR",
+      "grupo": "automotivo",
+      "esperados": [
+        "8421.31.00"
+      ],
+      "opcoes": [
+        "8708.94.90",
+        "8708.94.13",
+        "8708.29.94"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87",
+        "84"
+      ],
+      "posicoes": [
+        "8708",
+        "8409",
+        "8421"
+      ],
+      "interpretacao": "peça de automóvel",
+      "pergunta": null,
+      "segundos": 21.4
+    },
+    {
+      "descricao": "OLEO MOTOR 5W30 1L",
+      "grupo": "automotivo",
+      "esperados": [
+        "2710.19.32"
+      ],
+      "opcoes": [
+        "2710.19.32",
+        "2710.19.31",
+        "2710.19.99"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "27",
+        "38",
+        "15"
+      ],
+      "posicoes": [
+        "2710",
+        "2707"
+      ],
+      "interpretacao": "oleo mineral para motor",
+      "pergunta": null,
+      "segundos": 22.9
+    },
+    {
+      "descricao": "LAMPADA FAROL H4 12V",
+      "grupo": "automotivo",
+      "esperados": [
+        "8539.21.10"
+      ],
+      "opcoes": [
+        "8708.29.14",
+        "8708.29.11",
+        "8708.29.94"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "87",
+        "84"
+      ],
+      "posicoes": [
+        "8708",
+        "8703",
+        "8475"
+      ],
+      "interpretacao": "lâmpada de automóvel",
+      "pergunta": null,
+      "segundos": 21.5
+    },
+    {
+      "descricao": "BATERIA 60AH 12V",
+      "grupo": "automotivo",
+      "esperados": [
+        "8507.10.90"
+      ],
+      "opcoes": [
+        "8479.89.40",
+        "8471.90.90",
+        "8479.89.99"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "27",
+        "84",
+        "39"
+      ],
+      "posicoes": [
+        "8479",
+        "8471",
+        "8470"
+      ],
+      "interpretacao": "bateria para sistema de armazenamento de energia",
+      "pergunta": null,
+      "segundos": 23.4
+    }
+  ]
+}

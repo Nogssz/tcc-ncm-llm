@@ -1,0 +1,557 @@
+codigo,descricao,data_inicio
+90.01,"Fibras ópticas e feixes de fibras ópticas; cabos de fibras ópticas, exceto os daposição 25.44; matéria",01/04/2028
+90.02,"Lentes, prismas, espelhos e outros elementos de óptica, de qualquer matéria, montados, para instru",01/04/2022
+90.03,"Armações para óculos e artigos semelhantes, e suas partes.",01/04/2022
+90.04,"Óculos para correção, proteção ou outros fins, e artigos semelhantes.",01/04/2022
+90.05,"Binóculos, lunetas, incluindo as astronômicas, telescópios ópticos, e suas armações; outros instrume",01/04/2022
+90.06,"Câmeras fotográficas; aparelhos e dispositivos, incluindo as lâmpadas e tubos, de luz relâmpago (fla",01/04/2022
+90.07,"Câmeras e projetores, cinematográficos, mesmo com aparelhos de gravaçãoou de reprodução de s",01/04/2022
+90.08,Aparelhos de projeção fixa; aparelhos fotográficos de ampliação ou de redução.,01/04/2022
+90.10,"Aparelhos e equipamentos para laboratórios fotográficos ou cinematográficos, não especificados ne",01/04/2022
+90.11,"Microscópios ópticos, incluindo os microscópios para fotomicrografia, cinefotomicrografia ou micropr",01/04/2022
+90.12,"Microscópios, exceto ópticos; difratógrafos.",01/04/2022
+90.13,"Lasers, exceto diodos laser; outros aparelhos e instrumentos de óptica, não especificados nem comp",01/04/2022
+90.14,"Bússolas, incluindo as agulhas de marear; outros instrumentos e aparelhos de navegação.",01/04/2022
+90.15,"Instrumentos e aparelhos de geodésia, topografia, agrimensura, nivelamento,fotogrametria, hidrogra",01/04/2022
+90.17,"Instrumentos de desenho, de traçado ou de cálculo (por exemplo, máquinasde desenhar, pantógrafo",01/04/2022
+90.18,"Instrumentos e aparelhos para medicina, cirurgia, odontologia e veterinária, incluindo os aparelhos p",01/04/2022
+90.19,Aparelhos de mecanoterapia; aparelhos de massagem; aparelhos de psicotécnica; aparelhos de ozo,01/04/2022
+90.21,"Artigos e aparelhos ortopédicos, incluindo as cintas e fundas médico-cirúrgicas e as muletas; talas, g",01/04/2022
+90.22,"Aparelhos de raios X e aparelhos que utilizem radiações alfa, beta, gama ououtras radiações ioniza",01/04/2022
+90.24,"Máquinas e aparelhos para ensaios de dureza, tração, compressão, elasticidade ou de outras propri",01/04/2022
+90.25,"Densímetros, areômetros, pesa-líquidos e instrumentos flutuantes semelhantes, termômetros, pirôm",01/04/2022
+90.26,"Instrumentos e aparelhos para medida ou controle da vazão (caudal), do nível, da pressão ou de out",01/04/2022
+90.27,"Instrumentos e aparelhos para análises físicas ou químicas (por exemplo, polarímetros, refratômetro",01/04/2022
+90.28,"Contadores de gases, de líquidos ou de eletricidade, incluindo os aparelhos para a sua aferição.",01/04/2022
+90.29,"Outros contadores (por exemplo, contadores de voltas, contadores de produção, taxímetros, totaliza",01/04/2022
+90.30,"Osciloscópios, analisadores de espectro e outros instrumentos e aparelhos para medida ou controle",01/04/2022
+90.31,"Instrumentos, aparelhos e máquinas de medida ou controle, não especificados nem compreendidos",01/04/2022
+90.32,"Instrumentos e aparelhos para regulação ou controle, automáticos.",01/04/2022
+9001.10,"- Fibras ópticas, feixes e cabos de fibras ópticas",01/04/2022
+9001.10.1,Fibras ópticas,01/04/2022
+9001.10.11,De diâmetro de núcleo inferior a 11 micrômetros (mícrons),01/04/2022
+9001.10.19,Outras,01/04/2022
+9001.10.20,Feixes e cabos de fibras ópticas,01/04/2022
+9001.20.00,- Matérias polarizantes em folhas ou em placas,01/04/2022
+9001.30.00,- Lentes de contato,01/04/2022
+9001.40.00,"- Lentes de vidro, para óculos",01/04/2022
+9001.50.00,"- Lentes de outras matérias, para óculos",01/04/2022
+9001.90,- Outros,01/04/2022
+9001.90.10,Lentes,01/04/2022
+9001.90.90,Outros,01/04/2022
+9002.1,- Objetivas:,01/04/2022
+9002.11,"-- Para câmeras, para projetores ou para aparelhos fotográficos ou cinematográficos, de ampliação o",01/04/2022
+9002.11.1,Para câmeras fotográficas ou cinematográficas ou para projetores,01/04/2022
+9002.11.11,Para câmeras fotográficas,01/04/2022
+9002.11.19,Outras,01/04/2022
+9002.11.20,"De aproximação (zoom) para câmeras de televisão, de 20 ou mais aumentos",01/04/2022
+9002.11.90,Outras,01/04/2022
+9002.19.00,-- Outras,01/04/2022
+9002.20,- Filtros,01/04/2022
+9002.20.10,Polarizantes,01/04/2022
+9002.20.90,Outros,01/04/2022
+9002.90,- Outros,01/04/2024
+9002.90.10,"Comutadores (switches) optomecânicos, do tipo utilizado em redes ópticas de transmissão de dados",01/04/2024
+9002.90.90,Outros,01/04/2024
+9003.1,- Armações:,01/04/2022
+9003.11.00,-- De plástico,01/04/2022
+9003.19,-- De outras matérias,01/04/2022
+9003.19.10,"De metais comuns, mesmo folheados ou chapeados de metais preciosos (plaquê)",01/04/2022
+9003.19.90,Outras,01/04/2022
+9003.90,- Partes,01/04/2022
+9003.90.10,Charneiras,01/04/2022
+9003.90.90,Outras,01/04/2022
+9004.10.00,- Óculos de sol,01/04/2022
+9004.90,- Outros,01/04/2022
+9004.90.10,Óculos para correção,01/04/2022
+9004.90.20,Óculos de segurança,01/04/2022
+9004.90.90,Outros,01/04/2022
+9005.10.00,- Binóculos,01/04/2022
+9005.80.00,- Outros instrumentos,01/04/2022
+9005.90,- Partes e acessórios (incluindo as armações),01/04/2022
+9005.90.10,De binóculos,01/04/2022
+9005.90.90,Outros,01/04/2022
+9006.30.00,"- Câmeras fotográficas especialmente concebidas para fotografia submarinaou aérea, para exame m",01/04/2022
+9006.40.00,- Câmeras fotográficas para filmes de revelação e cópia instantâneas,01/04/2022
+9006.5,- Outras câmeras fotográficas:,01/04/2022
+9006.53,-- Para filmes em rolos de 35 mm de largura,01/04/2022
+9006.53.10,De foco fixo,01/04/2022
+9006.53.20,De foco ajustável,01/04/2022
+9006.59,-- Outras,01/04/2022
+9006.59.30,Fotocompositoras a laser para preparação de clichês,01/04/2022
+9006.59.40,"Outras, de foco fixo",01/04/2022
+9006.59.5,"Outras, de foco ajustável",01/04/2022
+9006.59.51,Para obtenção de negativos de 45 mm x 60 mm ou de dimensões superiores,01/04/2022
+9006.59.59,Outras,01/04/2022
+9006.6,"- Aparelhos e dispositivos, incluindo as lâmpadas e tubos, de luz relâmpago (flash), para fotografia:",01/04/2022
+9006.61.00,"-- Aparelhos de tubo de descarga para produção de luz relâmpago (flash) (denominados ""flashes ele",01/04/2022
+9006.69.00,-- Outros,01/04/2022
+9006.9,- Partes e acessórios:,01/04/2022
+9006.91,-- De câmeras fotográficas,01/04/2022
+9006.91.10,Corpos,01/04/2022
+9006.91.90,Outros,01/04/2022
+9006.99.00,-- Outros,01/04/2022
+9007.10.00,- Câmeras,01/04/2022
+9007.20,- Projetores,01/04/2022
+9007.20.20,"Para filmes de largura igual ou superior a 35 mm, mas não superior a 70 mm",01/04/2022
+9007.20.90,Outros,01/04/2022
+9007.9,- Partes e acessórios:,01/04/2022
+9007.91.00,-- De câmeras,01/04/2022
+9007.92.00,-- De projetores,01/04/2022
+9008.50.00,- Projetores e aparelhos de ampliação ou de redução,01/04/2022
+9008.90.00,- Partes e acessórios,01/04/2022
+9010.10,"- Aparelhos e equipamentos para revelação automática de filmes fotográficos, de filmes cinematográ",01/04/2022
+9010.10.10,"Cubas e cubetas, de operação automática e programáveis",01/04/2022
+9010.10.20,"Ampliadoras-copiadoras automáticas para papel fotográfico, com capacidadesuperior a 1.000 cópias",01/04/2022
+9010.10.90,Outros,01/04/2022
+9010.50,- Outros aparelhos e equipamentos para laboratórios fotográficos ou cinematográficos; negatoscópio,01/04/2022
+9010.50.10,"Processadores fotográficos para o tratamento eletrônico de imagens, mesmocom saída digital",01/04/2022
+9010.50.20,Aparelhos para revelação automática de chapas de fotopolímeros com suporte metálico,01/04/2022
+9010.50.90,Outros,01/04/2022
+9010.60.00,- Telas para projeção,01/04/2022
+9010.90,- Partes e acessórios,01/04/2022
+9010.90.10,De aparelhos ou material da subposição 9010.10 ou do item 9010.50.10,01/04/2022
+9010.90.90,Outros,01/04/2022
+9011.10.00,- Microscópios estereoscópicos,01/04/2022
+9011.20,"- Outros microscópios, para fotomicrografia, cinefotomicrografia ou microprojeção",01/04/2022
+9011.20.10,Para fotomicrografia,01/04/2022
+9011.20.20,Para cinefotomicrografia,01/04/2022
+9011.20.30,Para microprojeção,01/04/2022
+9011.80,- Outros microscópios,01/04/2022
+9011.80.10,Binoculares de platina móvel,01/04/2022
+9011.80.90,Outros,01/04/2022
+9011.90,- Partes e acessórios,01/04/2022
+9011.90.10,Dos artigos da subposição 9011.20,01/04/2022
+9011.90.90,Outros,01/04/2022
+9012.10,"- Microscópios, exceto ópticos; difratógrafos",01/04/2022
+9012.10.10,Microscópios eletrônicos,01/04/2022
+9012.10.90,Outros,01/04/2022
+9012.90,- Partes e acessórios,01/04/2022
+9012.90.10,De microscópios eletrônicos,01/04/2022
+9012.90.90,Outros,01/04/2022
+9013.10,"- Miras telescópicas para armas; periscópios; lunetas para máquinas, aparelhos ou instrumentos do",01/04/2022
+9013.10.10,Miras telescópicas para armas,01/04/2022
+9013.10.90,Outros,01/04/2022
+9013.20.00,"- Lasers, exceto diodos laser",01/04/2022
+9013.80.00,"- Outros dispositivos, aparelhos e instrumentos",01/04/2022
+9013.90.00,- Partes e acessórios,01/04/2022
+9014.10.00,"- Bússolas, incluindo as agulhas de marear",01/04/2022
+9014.20,- Instrumentos e aparelhos para navegação aérea ou espacial (exceto bússolas),01/04/2022
+9014.20.10,Altímetros,01/04/2022
+9014.20.20,Pilotos automáticos,01/04/2022
+9014.20.30,Inclinômetros,01/04/2022
+9014.20.90,Outros,01/04/2022
+9014.80,- Outros aparelhos e instrumentos,01/04/2022
+9014.80.10,Sondas acústicas (ecobatímetros) ou de ultrassom (sonar e semelhantes),01/04/2022
+9014.80.90,Outros,01/04/2022
+9014.90.00,- Partes e acessórios,01/04/2022
+9015.10.00,- Telêmetros,01/04/2022
+9015.20,- Teodolitos e taqueômetros,01/04/2022
+9015.20.10,Com sistema de leitura por meio de prisma ou micrômetro óptico e precisão de leitura de 1 segundo,01/04/2022
+9015.20.90,Outros,01/04/2022
+9015.30.00,- Níveis,01/04/2022
+9015.40.00,- Instrumentos e aparelhos de fotogrametria,01/04/2022
+9015.80,- Outros instrumentos e aparelhos,01/04/2022
+9015.80.10,Molinetes hidrométricos,01/04/2022
+9015.80.90,Outros,01/04/2022
+9015.90,- Partes e acessórios,01/04/2022
+9015.90.10,De instrumentos ou aparelhos da subposição 9015.40,01/04/2022
+9015.90.90,Outros,01/04/2022
+9016.00,"Balanças sensíveis a pesos inferiores ou iguais a 5 cg, mesmo com pesos.",01/04/2022
+9016.00.10,"Sensíveis a pesos não superiores a 0,2 mg",01/04/2022
+9016.00.90,Outras,01/04/2022
+9017.10,"- Mesas e máquinas de desenhar, mesmo automáticas",01/04/2022
+9017.10.10,Automáticas,01/04/2022
+9017.10.90,Outras,01/04/2022
+9017.20.00,"- Outros instrumentos de desenho, de traçado ou de cálculo",01/04/2022
+9017.30,"- Micrômetros, paquímetros, calibres e semelhantes",01/04/2022
+9017.30.10,Micrômetros,01/04/2022
+9017.30.20,Paquímetros,01/04/2022
+9017.30.90,Outros,01/04/2022
+9017.80,- Outros instrumentos,01/04/2022
+9017.80.10,Metros,01/04/2022
+9017.80.90,Outros,01/04/2022
+9017.90,- Partes e acessórios,01/04/2022
+9017.90.10,"De mesas ou máquinas de desenhar, automáticas",01/04/2022
+9017.90.90,Outros,01/04/2022
+9018.1,- Aparelhos de eletrodiagnóstico (incluindo os aparelhos de exploração funcional e os de verificação,01/04/2022
+9018.11.00,-- Eletrocardiógrafos,01/04/2022
+9018.12,-- Aparelhos de diagnóstico por varredura ultrassônica (scanners),01/04/2022
+9018.12.10,Ecógrafos com análise espectral Doppler,01/04/2022
+9018.12.90,Outros,01/04/2022
+9018.13.00,-- Aparelhos de diagnóstico de imagem por ressonância magnética,01/04/2022
+9018.14,-- Aparelhos de cintilografia,01/04/2022
+9018.14.10,Scanner de tomografia por emissão de posítrons (PET - Positron Emission Tomography),01/04/2022
+9018.14.20,Câmaras gama,01/04/2022
+9018.14.90,Outros,01/04/2022
+9018.19,-- Outros,01/04/2022
+9018.19.10,Endoscópios,01/04/2022
+9018.19.20,Audiômetros,01/04/2022
+9018.19.80,Outros,01/04/2022
+9018.19.90,Partes,01/04/2022
+9018.20,- Aparelhos de raios ultravioleta ou infravermelhos,01/04/2022
+9018.20.10,"Para cirurgia, que operem por laser",01/04/2022
+9018.20.20,"Outros, para tratamento bucal, que operem por laser",01/04/2022
+9018.20.90,Outros,01/04/2022
+9018.3,"- Seringas, agulhas, cateteres, cânulas e instrumentos semelhantes:",01/04/2022
+9018.31,"-- Seringas, mesmo com agulhas",01/04/2022
+9018.31.1,De plástico,01/04/2022
+9018.31.11,De capacidade inferior ou igual a 2 cm3,01/04/2022
+9018.31.19,Outras,01/04/2022
+9018.31.90,Outras,01/04/2022
+9018.32,-- Agulhas tubulares de metal e agulhas para suturas,01/04/2022
+9018.32.1,Tubulares de metal,01/04/2022
+9018.32.11,Gengivais,01/04/2022
+9018.32.12,"De aço cromo-níquel, bisel trifacetado e diâmetro exterior igual ou superior a10, mm, do tipo utilizad",61/04/2022
+9018.32.13,"Agulhas ponta de lápis, do tipo utilizado em anestesia epidural ou raquidiana",01/04/2022
+9018.32.19,Outras,01/04/2022
+9018.32.20,Para suturas,01/04/2022
+9018.39,-- Outros,01/04/2022
+9018.39.10,Agulhas,01/04/2022
+9018.39.2,"Sondas, cateteres e cânulas",01/04/2022
+9018.39.21,De borracha,01/04/2022
+9018.39.22,"Cateteres de poli(cloreto de vinila), para embolectomia arterial",01/04/2022
+9018.39.23,"Cateteres de poli(cloreto de vinila), para termodiluição",01/04/2022
+9018.39.25,"Sondas vesicais estéreis de poliuretano, com revestimento hidrofílico, de usointermitente, apresenta",01/09/2022
+9018.39.26,"Cateteres intravenosos periféricos, de plástico",01/01/2023
+9018.39.29,Outros,01/04/2022
+9018.39.30,Lancetas para vacinação e cautérios,01/04/2022
+9018.39.9,Outros,01/04/2022
+9018.39.91,"Artigo para fístula arteriovenosa, composto de agulha, base de fixação tipo borboleta, tubo plástico c",01/04/2022
+9018.39.99,Outros,01/04/2022
+9018.4,- Outros instrumentos e aparelhos para odontologia:,01/04/2022
+9018.41.00,"-- Aparelhos dentários de brocar, mesmo combinados numa base comum com outros equipamentos",01/04/2022
+9018.49,-- Outros,01/04/2022
+9018.49.1,Brocas,01/04/2022
+9018.49.11,De carboneto de tungstênio (volfrâmio),01/04/2022
+9018.49.12,De aço-vanádio,01/04/2022
+9018.49.19,Outras,01/04/2022
+9018.49.20,Limas,01/04/2022
+9018.49.40,"Para tratamento bucal, que operem por projeção cinética de partículas",01/04/2022
+9018.49.9,Outros,01/04/2022
+9018.49.91,"Para desenho e construção de peças cerâmicas para restaurações dentárias,computadorizados",01/04/2022
+9018.49.99,Outros,01/04/2022
+9018.50,- Outros instrumentos e aparelhos para oftalmologia,01/04/2022
+9018.50.10,"Microscópios binoculares, do tipo utilizado em cirurgia oftalmológica",01/04/2022
+9018.50.90,Outros,01/04/2022
+9018.90,- Outros instrumentos e aparelhos,01/04/2022
+9018.90.10,Para transfusão de sangue ou infusão intravenosa,01/04/2022
+9018.90.2,Bisturis,01/04/2022
+9018.90.21,Elétricos,01/04/2022
+9018.90.29,Outros,01/04/2022
+9018.90.3,Litótomos e litotritores,01/04/2022
+9018.90.31,Litotritores por onda de choque,01/04/2022
+9018.90.39,Outros,01/04/2022
+9018.90.40,Rins artificiais,01/04/2022
+9018.90.50,Aparelhos de diatermia,01/04/2022
+9018.90.6,Aparelhos para medida da pressão arterial,01/04/2022
+9018.90.61,Que contenham mercúrio,01/04/2022
+9018.90.69,Outros,01/04/2022
+9018.90.9,Outros,01/04/2022
+9018.90.91,Incubadoras para bebês,01/04/2022
+9018.90.93,"Aparelhos para terapia intra-uretral por micro-ondas (TUMT), próprios para otratamento de afecções",01/04/2022
+9018.90.94,Endoscópios,01/04/2022
+9018.90.95,"Grampos e clipes, seus aplicadores e extratores",01/04/2022
+9018.90.96,Desfibriladores externos que operem unicamente em modo automático (AED- Automatic External De,01/04/2022
+9018.90.99,Outros,01/04/2022
+9019.10.00,- Aparelhos de mecanoterapia; aparelhos de massagem; aparelhos de psicotécnica,01/04/2022
+9019.20,"- Aparelhos de ozonoterapia, de oxigenoterapia, de aerossolterapia, aparelhos respiratórios de reani",01/04/2022
+9019.20.10,De oxigenoterapia,01/04/2022
+9019.20.20,De aerossolterapia,01/04/2022
+9019.20.30,Respiratórios de reanimação,01/04/2022
+9019.20.40,Respiradores automáticos (pulmões de aço),01/04/2022
+9019.20.90,Outros,01/04/2022
+9020.00,"Outros aparelhos respiratórios e máscaras contra gases, exceto as máscarasde proteção desprovid",01/04/2022
+9020.00.10,Máscaras contra gases,01/04/2022
+9020.00.90,Outros,01/04/2022
+9021.10,- Artigos e aparelhos ortopédicos ou para fraturas,01/04/2022
+9021.10.10,Artigos e aparelhos ortopédicos,01/04/2022
+9021.10.20,Artigos e aparelhos para fraturas,01/04/2022
+9021.10.9,Partes e acessórios,01/04/2022
+9021.10.91,"De artigos e aparelhos de ortopedia, articulados",01/04/2022
+9021.10.99,Outros,01/04/2022
+9021.2,- Artigos e aparelhos de prótese dentária:,01/04/2022
+9021.21,-- Dentes artificiais,01/04/2022
+9021.21.10,De acrílico,01/04/2022
+9021.21.90,Outros,01/04/2022
+9021.29.00,-- Outros,01/04/2022
+9021.3,- Outros artigos e aparelhos de prótese:,01/04/2022
+9021.31,-- Próteses articulares,01/04/2022
+9021.31.10,Femurais,01/04/2022
+9021.31.20,Mioelétricas,01/04/2022
+9021.31.90,Outras,01/04/2022
+9021.39,-- Outros,01/04/2022
+9021.39.1,Válvulas cardíacas,01/04/2022
+9021.39.11,Mecânicas,01/04/2022
+9021.39.19,Outras,01/04/2022
+9021.39.20,Lentes intraoculares,01/04/2022
+9021.39.30,Próteses de artérias vasculares revestidas,01/04/2022
+9021.39.40,Próteses mamárias não implantáveis,01/04/2022
+9021.39.80,Outros,01/04/2022
+9021.39.9,Partes e acessórios,01/04/2022
+9021.39.91,Partes de próteses modulares que substituem membros superiores ou inferiores,01/04/2022
+9021.39.99,Outros,01/04/2022
+9021.40.00,"- Aparelhos para facilitar a audição dos surdos, exceto as partes e acessórios",01/04/2022
+9021.50.00,"- Marca-passos cardíacos (Estimuladores cardíacos*), exceto as partes e acessórios",01/04/2022
+9021.90,- Outros,01/04/2022
+9021.90.1,Aparelhos que se implantam no organismo para compensar uma deficiênciaou uma incapacidade,01/04/2022
+9021.90.11,Cardiodesfibriladores automáticos,01/04/2022
+9021.90.12,"Implantes expansíveis (stents), mesmo montados sobre cateter do tipo balão",01/04/2022
+9021.90.13,Oclusores interauriculares constituídos por uma malha de fios de níquel e titânio preenchida com tec,01/04/2022
+9021.90.19,Outros,01/04/2022
+9021.90.80,Outros,01/04/2022
+9021.90.9,Partes e acessórios,01/04/2022
+9021.90.91,De marca-passos cardíacos,01/04/2022
+9021.90.92,De aparelhos para facilitar a audição dos surdos,01/04/2022
+9021.90.99,Outros,01/04/2022
+9022.1,"- Aparelhos de raios X, mesmo para usos médicos, cirúrgicos, odontológicosou veterinários, incluind",01/04/2022
+9022.12.00,-- Aparelhos de tomografia computadorizada,01/04/2022
+9022.13,"-- Outros, para odontologia",01/04/2022
+9022.13.1,De diagnóstico,01/04/2022
+9022.13.11,De tomadas maxilares panorâmicas,01/04/2022
+9022.13.19,Outros,01/04/2022
+9022.13.90,Outros,01/04/2022
+9022.14,"-- Outros, para usos médicos, cirúrgicos ou veterinários",01/04/2022
+9022.14.1,De diagnóstico,01/04/2022
+9022.14.11,Para mamografia,01/04/2022
+9022.14.12,Para angiografia,01/04/2022
+9022.14.13,"Para densitometria óssea, computadorizados",01/04/2022
+9022.14.19,Outros,01/04/2022
+9022.14.90,Outros,01/04/2022
+9022.19,-- Para outros usos,01/04/2022
+9022.19.10,Espectrômetros ou espectrógrafos de raios X,01/04/2022
+9022.19.9,Outros,01/04/2022
+9022.19.91,"Do tipo utilizado para inspeção de bagagens, com túnel de altura inferior ou i",
+9022.19.99,Outros,01/04/2022
+9022.2,"- Aparelhos que utilizem radiações alfa, beta, gama ou outras radiações ionizantes, mesmo para uso",01/04/2022
+9022.21,"-- Para usos médicos, cirúrgicos, odontológicos ou veterinários",01/04/2022
+9022.21.10,Aparelhos de radiocobalto (bombas de cobalto),01/04/2022
+9022.21.20,"Outros, para gamaterapia",01/04/2022
+9022.21.90,Outros,01/04/2022
+9022.29,-- Para outros usos,01/04/2022
+9022.29.10,"Para detecção do nível de enchimento ou tampas faltantes, em latas de bebidas, por meio de raios g",01/04/2022
+9022.29.90,Outros,01/04/2022
+9022.30.00,- Tubos de raios X,01/04/2022
+9022.90,"- Outros, incluindo as partes e acessórios",01/04/2022
+9022.90.10,Geradores de tensão,01/04/2022
+9022.90.20,Telas radiológicas,01/04/2022
+9022.90.80,"Outros, excluindo as partes e acessórios",01/04/2022
+9022.90.9,Partes e acessórios,01/04/2022
+9022.90.91,De aparelhos de raios X,01/04/2022
+9022.90.99,Outros,01/04/2022
+9023.00.00,"Instrumentos, aparelhos e modelos, concebidos para demonstração (por exemplo, no ensino e nas e",01/04/2022
+9024.10,- Máquinas e aparelhos para ensaios de metais,01/04/2022
+9024.10.10,Para ensaios de tração ou compressão,01/04/2022
+9024.10.20,Para ensaios de dureza,01/04/2022
+9024.10.90,Outros,01/04/2022
+9024.80,- Outras máquinas e aparelhos,01/04/2022
+9024.80.1,Máquinas e aparelhos para ensaios de têxteis,01/04/2022
+9024.80.11,"Automáticos, para fios",01/04/2022
+9024.80.19,Outros,01/04/2022
+9024.80.2,"Máquinas e aparelhos para ensaios de papel, cartão, linóleo e plástico ou borracha flexíveis",01/04/2022
+9024.80.21,Máquinas para ensaios de pneumáticos,01/04/2022
+9024.80.29,Outros,01/04/2022
+9024.80.90,Outros,01/04/2022
+9024.90.00,- Partes e acessórios,01/04/2022
+9025.1,"- Termômetros e pirômetros, não combinados com outros instrumentos:",01/04/2022
+9025.11,"-- De líquido, de leitura direta",01/04/2022
+9025.11.1,Termômetros clínicos,01/04/2022
+9025.11.11,Que contenham mercúrio,01/04/2022
+9025.11.19,Outros,01/04/2022
+9025.11.9,Outros,01/04/2022
+9025.11.91,Que contenham mercúrio,01/04/2022
+9025.11.99,Outros,01/04/2022
+9025.19,-- Outros,01/04/2022
+9025.19.10,Pirômetros ópticos,01/04/2022
+9025.19.90,Outros,01/04/2022
+9025.80.00,- Outros instrumentos,01/04/2022
+9025.90,- Partes e acessórios,01/04/2022
+9025.90.10,De termômetros,01/04/2022
+9025.90.90,Outros,01/04/2022
+9026.10,- Para medida ou controle da vazão (caudal) ou do nível dos líquidos,01/04/2022
+9026.10.1,Para medida ou controle da vazão (caudal),01/04/2022
+9026.10.11,"Medidores-transmissores eletrônicos, que funcionem pelo princípio de indução eletromagnética",01/04/2022
+9026.10.19,Outros,01/04/2022
+9026.10.2,Para medida ou controle do nível,01/04/2022
+9026.10.21,"De metais, mediante correntes parasitas",01/04/2022
+9026.10.29,Outros,01/04/2022
+9026.20,- Para medida ou controle da pressão,01/04/2022
+9026.20.10,Manômetros,01/04/2022
+9026.20.90,Outros,01/04/2022
+9026.80.00,- Outros instrumentos e aparelhos,01/04/2022
+9026.90,- Partes e acessórios,01/04/2022
+9026.90.10,De instrumentos e aparelhos para medida ou controle do nível,01/04/2022
+9026.90.20,De manômetros,01/04/2022
+9026.90.90,Outros,01/04/2022
+9027.10.00,- Analisadores de gás ou de fumaça (fumos),01/04/2022
+9027.20,- Cromatógrafos e aparelhos de eletroforese,01/04/2022
+9027.20.1,Cromatógrafos,01/04/2022
+9027.20.11,De fase gasosa,01/04/2022
+9027.20.12,De fase líquida,01/04/2022
+9027.20.19,Outros,01/04/2022
+9027.20.2,Aparelhos de eletroforese,01/04/2022
+9027.20.21,Sequenciadores automáticos de ADN mediante eletroforese capilar,01/04/2022
+9027.20.29,Outros,01/04/2022
+9027.30,"- Espectrômetros, espectrofotômetros e espectrógrafos que utilizem radiações ópticas (UV, visíveis, I",01/04/2022
+9027.30.1,Espectrômetros e espectrógrafos,01/04/2022
+9027.30.11,De emissão atômica,01/04/2022
+9027.30.19,Outros,01/04/2022
+9027.30.20,Espectrofotômetros,01/04/2022
+9027.50,"- Outros aparelhos e instrumentos que utilizem radiações ópticas (UV, visíveis, IV)",01/04/2022
+9027.50.10,Colorímetros,01/04/2022
+9027.50.20,Fotômetros,01/04/2022
+9027.50.30,Refratômetros,01/04/2022
+9027.50.40,Sacarímetros,01/04/2022
+9027.50.50,Citômetro de fluxo,01/04/2022
+9027.50.90,Outros,01/04/2022
+9027.8,- Outros instrumentos e aparelhos:,01/04/2022
+9027.81.00,-- Espectrômetros de massa,01/04/2022
+9027.89,-- Outros,01/04/2022
+9027.89.1,"Calorímetros, viscosímetros, densitômetros e aparelhos medidores de pH",01/04/2022
+9027.89.11,Calorímetros,01/04/2022
+9027.89.12,Viscosímetros,01/04/2022
+9027.89.13,Densitômetros,01/04/2022
+9027.89.14,Aparelhos medidores de pH,01/04/2022
+9027.89.20,Polarógrafos,01/04/2022
+9027.89.9,Outros,01/04/2022
+9027.89.91,Exposímetros,01/04/2022
+9027.89.99,Outros,01/04/2022
+9027.90,- Micrótomos; partes e acessórios,01/04/2022
+9027.90.10,Micrótomos,01/04/2022
+9027.90.9,Partes e acessórios,01/04/2022
+9027.90.91,"De espectrômetros e espectrógrafos, de emissão atômica",01/04/2022
+9027.90.93,De polarógrafos,01/04/2022
+9027.90.99,Outros,01/04/2022
+9028.10,- Contadores de gases,01/04/2022
+9028.10.1,"De gás natural comprimido, eletrônicos",01/04/2022
+9028.10.11,Do tipo utilizado em postos (estações) de serviço ou garagens,01/04/2022
+9028.10.19,Outros,01/04/2022
+9028.10.90,Outros,01/04/2022
+9028.20,- Contadores de líquidos,01/04/2022
+9028.20.10,De peso inferior ou igual a 50 kg,01/04/2022
+9028.20.20,De peso superior a 50 kg,01/04/2022
+9028.30,- Contadores de eletricidade,01/04/2022
+9028.30.1,"Monofásicos, para corrente alternada",01/04/2022
+9028.30.11,Digitais,01/04/2022
+9028.30.19,Outros,01/04/2022
+9028.30.2,Bifásicos,01/04/2022
+9028.30.21,Digitais,01/04/2022
+9028.30.29,Outros,01/04/2022
+9028.30.3,Trifásicos,01/04/2022
+9028.30.31,Digitais,01/04/2022
+9028.30.39,Outros,01/04/2022
+9028.30.90,Outros,01/04/2022
+9028.90,- Partes e acessórios,01/04/2022
+9028.90.10,De contadores de eletricidade,01/04/2022
+9028.90.90,Outros,01/04/2022
+9029.10,"- Contadores de voltas, contadores de produção, taxímetros, totalizadores decaminho percorrido, po",01/04/2022
+9029.10.10,"Contadores de voltas, contadores de produção ou de horas de trabalho",01/04/2022
+9029.10.90,Outros,01/04/2022
+9029.20,- Indicadores de velocidade e tacômetros; estroboscópios,01/04/2022
+9029.20.10,Indicadores de velocidade e tacômetros,01/04/2022
+9029.20.20,Estroboscópios,01/04/2022
+9029.90,- Partes e acessórios,01/04/2022
+9029.90.10,De indicadores de velocidade e tacômetros,01/04/2022
+9029.90.90,Outros,01/04/2022
+9030.10,- Instrumentos e aparelhos para medida ou detecção de radiações ionizantes,01/04/2022
+9030.10.10,Medidores de radioatividade,01/04/2022
+9030.10.90,Outros,01/04/2022
+9030.20,- Osciloscópios e oscilógrafos,01/04/2022
+9030.20.10,Osciloscópios digitais,01/04/2022
+9030.20.2,Osciloscópios analógicos,01/04/2022
+9030.20.21,De frequência igual ou superior a 60 MHz,01/04/2022
+9030.20.22,Vetorscópios,01/04/2022
+9030.20.29,Outros,01/04/2022
+9030.20.30,Oscilógrafos,01/04/2022
+9030.3,"- Outros aparelhos e instrumentos para medida ou controle da tensão, intensidade, resistência ou da",01/04/2022
+9030.31.00,"-- Multímetros, sem dispositivo registrador",01/04/2022
+9030.32.00,"-- Multímetros, com dispositivo registrador",01/04/2022
+9030.33,"-- Outros, sem dispositivo registrador",01/04/2022
+9030.33.1,Voltímetros,01/04/2022
+9030.33.11,Digitais,01/04/2022
+9030.33.19,Outros,01/04/2022
+9030.33.2,Amperímetros,01/04/2022
+9030.33.21,Do tipo utilizado em veículos automóveis,01/04/2022
+9030.33.29,Outros,01/04/2022
+9030.33.90,Outros,01/04/2022
+9030.39,"-- Outros, com dispositivo registrador",01/04/2022
+9030.39.10,De teste de continuidade em circuitos impressos,01/04/2022
+9030.39.90,Outros,01/04/2022
+9030.40,"- Outros instrumentos e aparelhos, especialmente concebidos para telecomunicações (por exemplo,",01/04/2022
+9030.40.10,Analisadores de protocolo,01/04/2022
+9030.40.20,Analisadores de nível seletivo,01/04/2022
+9030.40.30,Analisadores digitais de transmissão,01/04/2022
+9030.40.90,Outros,01/04/2022
+9030.8,- Outros instrumentos e aparelhos:,01/04/2022
+9030.82,"-- Para medida ou controle de wafers ou de dispositivos, semicondutores (incluindo os circuitos integ",01/04/2022
+9030.82.10,De testes de circuitos integrados,01/04/2022
+9030.82.90,Outros,01/04/2022
+9030.84,"-- Outros, com dispositivo registrador",01/04/2022
+9030.84.10,De teste automático de circuito impresso montado (ATE),01/04/2022
+9030.84.20,De medidas de parâmetros característicos de sinais de televisão ou de vídeo,01/04/2022
+9030.84.90,Outros,01/04/2022
+9030.89,-- Outros,01/04/2022
+9030.89.10,Analisadores lógicos de circuitos digitais,01/04/2022
+9030.89.20,Analisadores de espectro de frequência,01/04/2022
+9030.89.30,Frequencímetros,01/04/2022
+9030.89.40,Fasímetros,01/04/2022
+9030.89.90,Outros,01/04/2022
+9030.90,- Partes e acessórios,01/04/2022
+9030.90.10,De instrumentos e aparelhos da subposição 9030.10,01/04/2022
+9030.90.90,Outros,01/04/2022
+9031.10.00,- Máquinas de balancear (equilibrar) peças mecânicas,01/04/2022
+9031.20,- Bancos de ensaio,01/04/2022
+9031.20.10,Para motores,01/04/2022
+9031.20.90,Outros,01/04/2022
+9031.4,- Outros instrumentos e aparelhos ópticos:,01/04/2022
+9031.41.00,"-- Para controle de wafers ou de dispositivos, semicondutores (incluindo os circuitos integrados), ou",01/04/2022
+9031.49,-- Outros,01/04/2022
+9031.49.10,"Para medida de parâmetros dimensionais de fibras de celulose, por meio de raios laser",01/04/2022
+9031.49.20,"Para medida da espessura de pneumáticos de veículos automóveis, por meiode raios laser",01/04/2022
+9031.49.90,Outros,01/04/2022
+9031.80,"- Outros instrumentos, aparelhos e máquinas",01/04/2022
+9031.80.1,Dinamômetros e rugosímetros,01/04/2022
+9031.80.11,Dinamômetros,01/04/2022
+9031.80.12,Rugosímetros,01/04/2022
+9031.80.20,Máquinas para medição tridimensional,01/04/2022
+9031.80.30,Metros padrões,01/04/2022
+9031.80.40,"Aparelhos digitais, de uso em veículos automóveis, para medida e indicaçãode múltiplas grandezas",01/04/2022
+9031.80.50,"Aparelhos para análise de têxteis, computadorizados",01/04/2022
+9031.80.60,Células de carga,01/04/2022
+9031.80.9,Outros,01/04/2022
+9031.80.91,"Para controle dimensional de pneumáticos, em condições de carga",01/04/2022
+9031.80.99,Outros,01/04/2022
+9031.90,- Partes e acessórios,01/04/2022
+9031.90.10,De bancos de ensaio,01/04/2022
+9031.90.90,Outros,01/04/2022
+9032.10,- Termostatos,01/04/2022
+9032.10.10,De expansão de fluidos,01/04/2022
+9032.10.90,Outros,01/04/2022
+9032.20.00,- Manostatos (pressostatos),01/04/2022
+9032.8,- Outros instrumentos e aparelhos:,01/04/2022
+9032.81.00,-- Hidráulicos ou pneumáticos,01/04/2022
+9032.89,-- Outros,01/04/2022
+9032.89.1,Reguladores de voltagem,01/04/2022
+9032.89.11,Eletrônicos,01/04/2022
+9032.89.19,Outros,01/04/2022
+9032.89.2,Controladores eletrônicos do tipo utilizado em veículos automóveis,01/04/2022
+9032.89.21,De sistemas antibloqueantes de freio (travão) (ABS),01/04/2022
+9032.89.22,De sistemas de suspensão,01/04/2022
+9032.89.23,De sistemas de transmissão,01/04/2022
+9032.89.24,De sistemas de ignição,01/04/2022
+9032.89.25,De sistemas de injeção,01/04/2022
+9032.89.29,Outros,01/04/2022
+9032.89.30,Equipamentos digitais para controle de veículos ferroviários,01/04/2022
+9032.89.8,"Outros, para regulação ou controle de grandezas não elétricas",01/04/2022
+9032.89.81,De pressão,01/04/2022
+9032.89.82,De temperatura,01/04/2022
+9032.89.83,De umidade,01/04/2022
+9032.89.84,De velocidade de motores elétricos por variação de frequência,01/04/2022
+9032.89.89,Outros,01/04/2022
+9032.89.90,Outros,01/04/2022
+9032.90,- Partes e acessórios,01/04/2022
+9032.90.10,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",01/04/2022
+9032.90.9,Outros,01/04/2022
+9032.90.91,De termostatos,01/04/2022
+9032.90.99,Outros,01/04/2022
+9033.00.00,"Partes e acessórios não especificados nem compreendidos noutras posiçõesdo presente Capítulo, p",01/04/2022

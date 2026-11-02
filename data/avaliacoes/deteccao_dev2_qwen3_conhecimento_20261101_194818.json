@@ -1,0 +1,2560 @@
+{
+  "conjunto": "dev2",
+  "modelo": "qwen3:8b",
+  "rotulo": "qwen3_conhecimento",
+  "config": {
+    "abreviacoes": true,
+    "regra_secao17": true,
+    "contexto_negocio": false,
+    "hipoteses": false,
+    "dicas_posicao": false,
+    "irmaos": 0,
+    "max_itens_etapa2": 30,
+    "conhecimento": "loja_a",
+    "conhecimento_primeiro": true
+  },
+  "regras": {
+    "fora_top3": {
+      "acuracia": 84.5,
+      "alarme_falso": 30.6,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "13/13"
+    },
+    "fora_posicao": {
+      "acuracia": 78.4,
+      "alarme_falso": 22.4,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "3/13"
+    },
+    "fora_capitulo": {
+      "acuracia": 68.0,
+      "alarme_falso": 12.2,
+      "det_capitulo": "3/16",
+      "det_troca": "19/19",
+      "det_vizinho": "1/13"
+    },
+    "abs_incompativel": {
+      "acuracia": 85.6,
+      "alarme_falso": 18.4,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "8/13"
+    },
+    "abs_nao_compativel": {
+      "acuracia": 83.5,
+      "alarme_falso": 22.4,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "8/13"
+    },
+    "comparacao_contra": {
+      "acuracia": 80.4,
+      "alarme_falso": 28.6,
+      "det_capitulo": "14/16",
+      "det_troca": "18/19",
+      "det_vizinho": "11/13"
+    },
+    "fora_top3_e_comp": {
+      "acuracia": 87.6,
+      "alarme_falso": 14.3,
+      "det_capitulo": "14/16",
+      "det_troca": "18/19",
+      "det_vizinho": "11/13"
+    },
+    "fora_top3_e_abs": {
+      "acuracia": 86.6,
+      "alarme_falso": 16.3,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "8/13"
+    },
+    "fora_top3_e_(abs_ou_comp)": {
+      "acuracia": 88.7,
+      "alarme_falso": 20.4,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "12/13"
+    },
+    "fora_posicao_ou_(fora_top3_e_abs)": {
+      "acuracia": 83.5,
+      "alarme_falso": 24.5,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "9/13"
+    },
+    "conhec_contra": {
+      "acuracia": 58.8,
+      "alarme_falso": 12.2,
+      "det_capitulo": "6/16",
+      "det_troca": "6/19",
+      "det_vizinho": "2/13"
+    },
+    "fora_top3_e_conhec_contra": {
+      "acuracia": 73.2,
+      "alarme_falso": 28.6,
+      "det_capitulo": "15/16",
+      "det_troca": "13/19",
+      "det_vizinho": "8/13"
+    },
+    "fora_top3_e_(abs_ou_conhec)": {
+      "acuracia": 86.6,
+      "alarme_falso": 16.3,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "8/13"
+    },
+    "fora_top3_e_(abs_ou_comp_ou_conhec)": {
+      "acuracia": 88.7,
+      "alarme_falso": 20.4,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "12/13"
+    },
+    "decidir_atual": {
+      "acuracia": 85.6,
+      "alarme_falso": 18.4,
+      "det_capitulo": "16/16",
+      "det_troca": "19/19",
+      "det_vizinho": "8/13"
+    }
+  },
+  "casos": [
+    {
+      "descricao": "PORCA SEXTAVADA M10",
+      "ncm_cadastrado": "7318.16.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "7318.16.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "7318.15.00",
+      "opcoes": [
+        "7318.16.00",
+        "7318.15.00",
+        "7318.14.00"
+      ],
+      "segundos": 32.8,
+      "conhecimento_top": "7318.16.00",
+      "conhecimento_peso_top": 1.77,
+      "conhecimento_peso_cadastrado": 1.77,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PORCA SEXTAVADA M10",
+      "ncm_cadastrado": "8482.10.10",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "7318.16.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "7318.16.00",
+      "opcoes": [
+        "7318.16.00",
+        "7318.15.00",
+        "7318.14.00"
+      ],
+      "segundos": 9.0,
+      "conhecimento_top": "7318.16.00",
+      "conhecimento_peso_top": 1.77,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FUSIVEL LAMINA 10A",
+      "ncm_cadastrado": "8536.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8536.10.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8536.10.00",
+      "opcoes": [
+        "8536.10.00",
+        "8544.42.00",
+        "8531.10.90"
+      ],
+      "segundos": 26.6,
+      "conhecimento_top": "8536.10.00",
+      "conhecimento_peso_top": 2.08,
+      "conhecimento_peso_cadastrado": 2.08,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FUSIVEL LAMINA 10A",
+      "ncm_cadastrado": "8202.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8536.10.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8536.10.00",
+      "opcoes": [
+        "8536.10.00",
+        "8544.42.00",
+        "8531.10.90"
+      ],
+      "segundos": 10.6,
+      "conhecimento_top": "8536.10.00",
+      "conhecimento_peso_top": 2.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "MANG SUP RADIADOR",
+      "ncm_cadastrado": "4009.31.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4009.31.00",
+        "4009.32.10",
+        "4009.32.90",
+        "8708.91.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "4009.31.00",
+      "opcoes": [
+        "4009.31.00",
+        "4011.90.10"
+      ],
+      "segundos": 25.5,
+      "conhecimento_top": "4009.31.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 2.93,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MANG SUP RADIADOR",
+      "ncm_cadastrado": "4004.00.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "4009.31.00",
+        "4009.32.10",
+        "4009.32.90",
+        "8708.91.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4009.31.00",
+      "opcoes": [
+        "4009.31.00",
+        "4011.90.10"
+      ],
+      "segundos": 9.2,
+      "conhecimento_top": "4009.31.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SILENCIOSO TRASEIRO ESCAPAMENTO",
+      "ncm_cadastrado": "8708.92.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.92.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8708.92.00",
+      "opcoes": [
+        "8708.92.00",
+        "8708.95.22",
+        "8708.80.00"
+      ],
+      "segundos": 25.2,
+      "conhecimento_top": "4016.99.90",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 1.43,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "SILENCIOSO TRASEIRO ESCAPAMENTO",
+      "ncm_cadastrado": "8716.90.10",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8708.92.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8708.92.00",
+      "opcoes": [
+        "8708.92.00",
+        "8708.95.22",
+        "8708.80.00"
+      ],
+      "segundos": 9.2,
+      "conhecimento_top": "4016.99.90",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BOBINA DE IGNICAO",
+      "ncm_cadastrado": "8511.30.20",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8511.30.20"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8511.30.20",
+      "opcoes": [
+        "8511.30.20",
+        "8544.42.00",
+        "8511.10.00"
+      ],
+      "segundos": 25.5,
+      "conhecimento_top": "8511.30.20",
+      "conhecimento_peso_top": 2.73,
+      "conhecimento_peso_cadastrado": 2.73,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MACACO HIDRAULICO GARRAFA 2T",
+      "ncm_cadastrado": "8425.42.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8425.42.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8425.42.00",
+      "opcoes": [
+        "8425.42.00",
+        "8425.41.00",
+        "8412.29.00"
+      ],
+      "segundos": 32.2,
+      "conhecimento_top": "8425.49.10",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MACACO HIDRAULICO GARRAFA 2T",
+      "ncm_cadastrado": "8425.49.10",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8425.42.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8425.42.00",
+      "opcoes": [
+        "8425.42.00",
+        "8425.41.00",
+        "8412.29.00"
+      ],
+      "segundos": 11.7,
+      "conhecimento_top": "8425.49.10",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 1.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "RELE AUXILIAR 12V 4 TERMINAIS",
+      "ncm_cadastrado": "8536.41.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8536.41.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8536.41.00",
+      "opcoes": [
+        "8536.41.00",
+        "8539.21.10",
+        "8536.90.50"
+      ],
+      "segundos": 27.6,
+      "conhecimento_top": "8536.41.00",
+      "conhecimento_peso_top": 2.08,
+      "conhecimento_peso_cadastrado": 2.08,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "RELE AUXILIAR 12V 4 TERMINAIS",
+      "ncm_cadastrado": "0405.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8536.41.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8536.41.00",
+      "opcoes": [
+        "8536.41.00",
+        "8539.21.10",
+        "8536.90.50"
+      ],
+      "segundos": 10.2,
+      "conhecimento_top": "8536.41.00",
+      "conhecimento_peso_top": 2.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "JOGO DE ANEIS DE SEGMENTO",
+      "ncm_cadastrado": "8409.91.16",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8409.91.16"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8409.91.16",
+      "opcoes": [
+        "8409.91.16",
+        "8414.90.32",
+        "8409.91.90"
+      ],
+      "segundos": 28.4,
+      "conhecimento_top": "6804.21.19",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.31,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "JOGO DE ANEIS DE SEGMENTO",
+      "ncm_cadastrado": "8478.10.90",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8409.91.16"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8409.91.16",
+      "opcoes": [
+        "8409.91.16",
+        "8414.90.32",
+        "8409.91.90"
+      ],
+      "segundos": 10.2,
+      "conhecimento_top": "6804.21.19",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ROLAM RODA DIANT",
+      "ncm_cadastrado": "8482.10.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8482.10.10",
+        "8482.10.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8482.10.90",
+      "opcoes": [
+        "8482.10.10",
+        "8482.10.90",
+        "8482.99.90"
+      ],
+      "segundos": 26.2,
+      "conhecimento_top": "8708.70.90",
+      "conhecimento_peso_top": 1.25,
+      "conhecimento_peso_cadastrado": 0.37,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ROLAM RODA DIANT",
+      "ncm_cadastrado": "8482.40.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8482.10.10",
+        "8482.10.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8482.10.10",
+      "opcoes": [
+        "8482.10.10",
+        "8482.10.90",
+        "8482.99.90"
+      ],
+      "segundos": 9.5,
+      "conhecimento_top": "8708.70.90",
+      "conhecimento_peso_top": 1.25,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PALHETA LIMPADOR PARABRISA 20 POL",
+      "ncm_cadastrado": "8512.90.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8512.90.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8512.40.10",
+      "opcoes": [
+        "8512.90.00",
+        "8512.40.10",
+        "8512.40.20"
+      ],
+      "segundos": 27.3,
+      "conhecimento_top": "8512.90.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 2.93,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PALHETA LIMPADOR PARABRISA 20 POL",
+      "ncm_cadastrado": "7318.16.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8512.90.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8512.40.10",
+      "opcoes": [
+        "8512.90.00",
+        "8512.40.10",
+        "8512.40.20"
+      ],
+      "segundos": 10.0,
+      "conhecimento_top": "8512.90.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PISTAO MOTOR STD",
+      "ncm_cadastrado": "8409.91.20",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8409.91.20"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8409.91.20",
+      "opcoes": [
+        "8409.91.20",
+        "8409.99.99",
+        "8483.30.29"
+      ],
+      "segundos": 25.5,
+      "conhecimento_top": "8483.30.29",
+      "conhecimento_peso_top": 1.02,
+      "conhecimento_peso_cadastrado": 0.5,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PISTAO MOTOR STD",
+      "ncm_cadastrado": "2208.60.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8409.91.20"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8409.91.20",
+      "opcoes": [
+        "8409.91.20",
+        "8409.99.99",
+        "8483.30.29"
+      ],
+      "segundos": 9.5,
+      "conhecimento_top": "8483.30.29",
+      "conhecimento_peso_top": 1.02,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ALICATE DE PRESSAO",
+      "ncm_cadastrado": "8203.20.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8203.20.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "duvida",
+      "preferido_comparacao": "9026.20.10",
+      "opcoes": [
+        "9026.20.10",
+        "9026.20.90",
+        "9018.90.69"
+      ],
+      "segundos": 28.9,
+      "conhecimento_top": "8203.20.10",
+      "conhecimento_peso_top": 1.83,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ALICATE DE PRESSAO",
+      "ncm_cadastrado": "8425.42.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8203.20.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8425.42.00",
+      "opcoes": [
+        "9026.20.10",
+        "9026.20.90",
+        "9018.90.69"
+      ],
+      "segundos": 10.8,
+      "conhecimento_top": "8203.20.10",
+      "conhecimento_peso_top": 1.83,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CIL MESTRE FREIO",
+      "ncm_cadastrado": "8708.30.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.30.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8708.30.90",
+      "opcoes": [
+        "8708.30.90",
+        "8708.99.10",
+        "8714.94.90"
+      ],
+      "segundos": 30.1,
+      "conhecimento_top": "8708.30.90",
+      "conhecimento_peso_top": 1.72,
+      "conhecimento_peso_cadastrado": 1.72,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CIL MESTRE FREIO",
+      "ncm_cadastrado": "8702.30.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8708.30.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8708.30.90",
+      "opcoes": [
+        "8708.30.90",
+        "8708.99.10",
+        "8714.94.90"
+      ],
+      "segundos": 9.9,
+      "conhecimento_top": "8708.30.90",
+      "conhecimento_peso_top": 1.72,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CORREIA DO ALTERNADOR",
+      "ncm_cadastrado": "4010.31.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4010.31.00",
+        "4010.32.00",
+        "4010.33.00",
+        "4010.34.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "4010.32.00",
+      "opcoes": [
+        "4010.31.00",
+        "4010.32.00",
+        "4010.39.00"
+      ],
+      "segundos": 29.7,
+      "conhecimento_top": "4010.31.00",
+      "conhecimento_peso_top": 1.35,
+      "conhecimento_peso_cadastrado": 1.35,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CORREIA DO ALTERNADOR",
+      "ncm_cadastrado": "4004.00.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "4010.31.00",
+        "4010.32.00",
+        "4010.33.00",
+        "4010.34.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4010.32.00",
+      "opcoes": [
+        "4010.31.00",
+        "4010.32.00",
+        "4010.39.00"
+      ],
+      "segundos": 9.8,
+      "conhecimento_top": "4010.31.00",
+      "conhecimento_peso_top": 1.35,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PIVO SUSP INF",
+      "ncm_cadastrado": "8708.80.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.80.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8708.80.00",
+      "opcoes": [
+        "8708.80.00",
+        "8703.10.00",
+        "8715.00.00"
+      ],
+      "segundos": 25.9,
+      "conhecimento_top": "8708.80.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 2.93,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PIVO SUSP INF",
+      "ncm_cadastrado": "8708.10.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8708.80.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8708.80.00",
+      "opcoes": [
+        "8708.80.00",
+        "8703.10.00",
+        "8715.00.00"
+      ],
+      "segundos": 8.2,
+      "conhecimento_top": "8708.80.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BIELETA BARRA ESTABILIZADORA",
+      "ncm_cadastrado": "8708.80.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.80.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8708.80.00",
+      "opcoes": [
+        "8708.80.00",
+        "8708.70.90",
+        "8708.99.90"
+      ],
+      "segundos": 26.5,
+      "conhecimento_top": "8708.80.00",
+      "conhecimento_peso_top": 2.47,
+      "conhecimento_peso_cadastrado": 2.47,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BIELETA BARRA ESTABILIZADORA",
+      "ncm_cadastrado": "8708.99.10",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8708.80.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8708.80.00",
+      "opcoes": [
+        "8708.80.00",
+        "8708.70.90",
+        "8708.99.90"
+      ],
+      "segundos": 10.0,
+      "conhecimento_top": "8708.80.00",
+      "conhecimento_peso_top": 2.47,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TERMINAL DE DIRECAO LD",
+      "ncm_cadastrado": "8708.94.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.94.90",
+        "8708.80.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8708.94.90",
+      "opcoes": [
+        "8708.94.90",
+        "8708.94.11",
+        "8708.94.81"
+      ],
+      "segundos": 27.3,
+      "conhecimento_top": "8708.94.90",
+      "conhecimento_peso_top": 2.4,
+      "conhecimento_peso_cadastrado": 2.4,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TERMINAL DE DIRECAO LD",
+      "ncm_cadastrado": "4016.92.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8708.94.90",
+        "8708.80.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8708.94.90",
+      "opcoes": [
+        "8708.94.90",
+        "8708.94.11",
+        "8708.94.81"
+      ],
+      "segundos": 10.3,
+      "conhecimento_top": "8708.94.90",
+      "conhecimento_peso_top": 2.4,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PASTILHA DE FREIO DIANTEIRA CERAMICA",
+      "ncm_cadastrado": "8708.30.19",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.30.19"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8708.30.19",
+      "opcoes": [
+        "8708.30.19",
+        "8708.30.90",
+        "8714.94.10"
+      ],
+      "segundos": 27.4,
+      "conhecimento_top": "8708.30.19",
+      "conhecimento_peso_top": 2.6,
+      "conhecimento_peso_cadastrado": 2.6,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PASTILHA DE FREIO DIANTEIRA CERAMICA",
+      "ncm_cadastrado": "8712.00.90",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8708.30.19"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8708.30.19",
+      "opcoes": [
+        "8708.30.19",
+        "8708.30.90",
+        "8714.94.10"
+      ],
+      "segundos": 9.7,
+      "conhecimento_top": "8708.30.19",
+      "conhecimento_peso_top": 2.6,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ABSORVENTE HIGIENICO",
+      "ncm_cadastrado": "9619.00.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9619.00.00"
+      ],
+      "setor": "higiene",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9619.00.00",
+      "opcoes": [
+        "9619.00.00"
+      ],
+      "segundos": 21.8,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ABSORVENTE HIGIENICO",
+      "ncm_cadastrado": "9607.19.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "9619.00.00"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9619.00.00",
+      "opcoes": [
+        "9619.00.00"
+      ],
+      "segundos": 8.3,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "OVOS BRANCOS DUZIA",
+      "ncm_cadastrado": "0407.21.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0407.21.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "0407.21.00",
+      "opcoes": [
+        "0407.29.00",
+        "0407.19.00",
+        "0407.90.00"
+      ],
+      "segundos": 26.6,
+      "conhecimento_top": "8543.70.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "OVOS BRANCOS DUZIA",
+      "ncm_cadastrado": "8708.94.90",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "0407.21.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "0407.90.00",
+      "opcoes": [
+        "0407.29.00",
+        "0407.19.00",
+        "0407.90.00"
+      ],
+      "segundos": 9.7,
+      "conhecimento_top": "8543.70.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "KETCHUP 400G",
+      "ncm_cadastrado": "2103.20.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "2103.20.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2103.20.10",
+      "opcoes": [
+        "2103.20.10",
+        "2103.90.21",
+        "2103.20.90"
+      ],
+      "segundos": 25.2,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "KETCHUP 400G",
+      "ncm_cadastrado": "2828.90.11",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "2103.20.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "2103.20.10",
+      "opcoes": [
+        "2103.20.10",
+        "2103.90.21",
+        "2103.20.90"
+      ],
+      "segundos": 9.1,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BATEDEIRA",
+      "ncm_cadastrado": "8509.40.20",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8509.40.20"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8509.40.20",
+      "opcoes": [
+        "8509.40.20",
+        "8549.19.00",
+        "8506.80.90"
+      ],
+      "segundos": 24.8,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BATEDEIRA",
+      "ncm_cadastrado": "1806.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8509.40.20"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8509.40.20",
+      "opcoes": [
+        "8509.40.20",
+        "8549.19.00",
+        "8506.80.90"
+      ],
+      "segundos": 8.2,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FARINHA DE TRIGO 1KG",
+      "ncm_cadastrado": "1101.00.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "1101.00.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "1101.00.10",
+      "opcoes": [
+        "1101.00.10",
+        "1102.20.00",
+        "1102.90.00"
+      ],
+      "segundos": 25.1,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FARINHA DE TRIGO 1KG",
+      "ncm_cadastrado": "1108.20.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "1101.00.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "1101.00.10",
+      "opcoes": [
+        "1101.00.10",
+        "1102.20.00",
+        "1102.90.00"
+      ],
+      "segundos": 8.6,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "AGUA SANITARIA 1L",
+      "ncm_cadastrado": "2828.90.11",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "2828.90.11"
+      ],
+      "setor": "limpeza",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "2828.90.11",
+      "opcoes": [
+        "2853.90.90",
+        "2847.00.00",
+        "2844.43.10"
+      ],
+      "segundos": 24.3,
+      "conhecimento_top": "2853.90.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "AGUA SANITARIA 1L",
+      "ncm_cadastrado": "2834.10.90",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "2828.90.11"
+      ],
+      "setor": "limpeza",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "2847.00.00",
+      "opcoes": [
+        "2853.90.90",
+        "2847.00.00",
+        "2844.43.10"
+      ],
+      "segundos": 9.5,
+      "conhecimento_top": "2853.90.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "LIXA DAGUA 220",
+      "ncm_cadastrado": "6805.20.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "6805.20.00"
+      ],
+      "setor": "construcao",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "6804.30.00",
+      "opcoes": [
+        "6805.20.00",
+        "6805.10.00",
+        "6804.30.00"
+      ],
+      "segundos": 27.1,
+      "conhecimento_top": "6805.20.00",
+      "conhecimento_peso_top": 1.43,
+      "conhecimento_peso_cadastrado": 1.43,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "LIXA DAGUA 220",
+      "ncm_cadastrado": "6805.30.20",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "6805.20.00"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "6805.20.00",
+      "opcoes": [
+        "6805.20.00",
+        "6805.10.00",
+        "6804.30.00"
+      ],
+      "segundos": 9.9,
+      "conhecimento_top": "6805.20.00",
+      "conhecimento_peso_top": 1.43,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SERROTE",
+      "ncm_cadastrado": "8202.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8202.10.00"
+      ],
+      "setor": "ferramentas",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8202.10.00",
+      "opcoes": [
+        "8202.10.00",
+        "8201.90.00",
+        "8205.59.00"
+      ],
+      "segundos": 24.7,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "SERROTE",
+      "ncm_cadastrado": "8202.20.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8202.10.00"
+      ],
+      "setor": "ferramentas",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8202.10.00",
+      "opcoes": [
+        "8202.10.00",
+        "8201.90.00",
+        "8205.59.00"
+      ],
+      "segundos": 10.8,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PATINHO BOVINO KG",
+      "ncm_cadastrado": "0201.30.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0201.30.00",
+        "0202.30.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4104.19.90",
+      "opcoes": [
+        "4104.49.90",
+        "4104.19.90",
+        "4101.50.30"
+      ],
+      "segundos": 27.7,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PATINHO BOVINO KG",
+      "ncm_cadastrado": "0405.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "0201.30.00",
+        "0202.30.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4104.49.90",
+      "opcoes": [
+        "4104.49.90",
+        "4104.19.90",
+        "4101.50.30"
+      ],
+      "segundos": 9.9,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ACHOCOLATADO EM PO 400G",
+      "ncm_cadastrado": "1806.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "1806.10.00",
+        "1806.90.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "1806.10.00",
+      "opcoes": [
+        "2106.90.10"
+      ],
+      "segundos": 21.4,
+      "conhecimento_top": "8708.94.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ACHOCOLATADO EM PO 400G",
+      "ncm_cadastrado": "1805.00.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "1806.10.00",
+        "1806.90.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "2106.90.10",
+      "opcoes": [
+        "2106.90.10"
+      ],
+      "segundos": 9.6,
+      "conhecimento_top": "8708.94.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CAFE SOLUVEL 100G",
+      "ncm_cadastrado": "2101.11.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "2101.11.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2101.11.10",
+      "opcoes": [
+        "0901.11.10",
+        "0901.11.90",
+        "0901.90.00"
+      ],
+      "segundos": 25.8,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CAFE SOLUVEL 100G",
+      "ncm_cadastrado": "2101.20.10",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "2101.11.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2101.20.10",
+      "opcoes": [
+        "0901.11.10",
+        "0901.11.90",
+        "0901.90.00"
+      ],
+      "segundos": 10.5,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "SARDINHA EM LATA 125G",
+      "ncm_cadastrado": "1604.13.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "1604.13.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "1604.20.30",
+      "opcoes": [
+        "2202.10.00",
+        "1604.20.30",
+        "1604.20.90"
+      ],
+      "segundos": 23.7,
+      "conhecimento_top": "2202.10.00",
+      "conhecimento_peso_top": 2.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SARDINHA EM LATA 125G",
+      "ncm_cadastrado": "3402.50.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "1604.13.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "1604.20.30",
+      "opcoes": [
+        "2202.10.00",
+        "1604.20.30",
+        "1604.20.90"
+      ],
+      "segundos": 9.3,
+      "conhecimento_top": "2202.10.00",
+      "conhecimento_peso_top": 2.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SABAO EM PO 1KG",
+      "ncm_cadastrado": "3402.50.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3402.50.00"
+      ],
+      "setor": "limpeza",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3401.20.90",
+      "opcoes": [
+        "3401.20.90",
+        "3401.11.10",
+        "3401.11.90"
+      ],
+      "segundos": 24.7,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SABAO EM PO 1KG",
+      "ncm_cadastrado": "8512.90.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "3402.50.00"
+      ],
+      "setor": "limpeza",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3401.20.90",
+      "opcoes": [
+        "3401.20.90",
+        "3401.11.10",
+        "3401.11.90"
+      ],
+      "segundos": 9.5,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SERRA CIRCULAR",
+      "ncm_cadastrado": "8467.22.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8467.22.00"
+      ],
+      "setor": "ferramentas",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8465.91.20",
+      "opcoes": [
+        "8461.50.20",
+        "8465.91.20",
+        "8464.10.00"
+      ],
+      "segundos": 23.7,
+      "conhecimento_top": "9603.50.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SERRA CIRCULAR",
+      "ncm_cadastrado": "8536.20.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8467.22.00"
+      ],
+      "setor": "ferramentas",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8461.50.20",
+      "opcoes": [
+        "8461.50.20",
+        "8465.91.20",
+        "8464.10.00"
+      ],
+      "segundos": 8.6,
+      "conhecimento_top": "9603.50.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PROTETOR SOLAR FPS 50",
+      "ncm_cadastrado": "3304.99.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3304.99.90"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3304.99.90",
+      "opcoes": [
+        "8708.30.90",
+        "4805.40.90",
+        "4823.20.99"
+      ],
+      "segundos": 26.0,
+      "conhecimento_top": "8708.30.90",
+      "conhecimento_peso_top": 2.1,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PROTETOR SOLAR FPS 50",
+      "ncm_cadastrado": "3307.49.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "3304.99.90"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "empate",
+      "opcoes": [
+        "8708.30.90",
+        "4805.40.90",
+        "4823.20.99"
+      ],
+      "segundos": 10.6,
+      "conhecimento_top": "8708.30.90",
+      "conhecimento_peso_top": 2.1,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "VARA DE PESCA",
+      "ncm_cadastrado": "9507.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9507.10.00"
+      ],
+      "setor": "esporte",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9507.10.00",
+      "opcoes": [
+        "9507.10.00",
+        "9507.90.00",
+        "9507.20.00"
+      ],
+      "segundos": 20.4,
+      "conhecimento_top": "8708.92.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "VARA DE PESCA",
+      "ncm_cadastrado": "9508.22.10",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "9507.10.00"
+      ],
+      "setor": "esporte",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9507.10.00",
+      "opcoes": [
+        "9507.10.00",
+        "9507.90.00",
+        "9507.20.00"
+      ],
+      "segundos": 8.8,
+      "conhecimento_top": "8708.92.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BOTA DE SEGURANCA BICO DE ACO",
+      "ncm_cadastrado": "6403.40.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "6403.40.00"
+      ],
+      "setor": "calcados",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "6403.40.00",
+      "opcoes": [
+        "6401.92.00",
+        "6406.10.00"
+      ],
+      "segundos": 24.6,
+      "conhecimento_top": "6401.92.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BOTA DE SEGURANCA BICO DE ACO",
+      "ncm_cadastrado": "6403.12.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "6403.40.00"
+      ],
+      "setor": "calcados",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "6401.92.00",
+      "opcoes": [
+        "6401.92.00",
+        "6406.10.00"
+      ],
+      "segundos": 13.5,
+      "conhecimento_top": "6401.92.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "MAIONESE 500G",
+      "ncm_cadastrado": "2103.90.11",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "2103.90.11"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2103.90.11",
+      "opcoes": [
+        "2103.90.11",
+        "2103.90.19"
+      ],
+      "segundos": 22.4,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MAIONESE 500G",
+      "ncm_cadastrado": "2103.90.99",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "2103.90.11"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2103.90.11",
+      "opcoes": [
+        "2103.90.11",
+        "2103.90.19"
+      ],
+      "segundos": 10.1,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MANTEIGA COM SAL 200G",
+      "ncm_cadastrado": "0405.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0405.10.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "0405.10.00",
+      "opcoes": [
+        "0405.10.00",
+        "0405.90.90",
+        "0405.20.00"
+      ],
+      "segundos": 24.2,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MANTEIGA COM SAL 200G",
+      "ncm_cadastrado": "6805.20.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "0405.10.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "0405.90.90",
+      "opcoes": [
+        "0405.10.00",
+        "0405.90.90",
+        "0405.20.00"
+      ],
+      "segundos": 9.7,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BORRACHA ESCOLAR",
+      "ncm_cadastrado": "4016.92.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4016.92.00"
+      ],
+      "setor": "papelaria",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4016.92.00",
+      "opcoes": [
+        "4016.92.00",
+        "4016.99.90",
+        "4002.99.30"
+      ],
+      "segundos": 24.7,
+      "conhecimento_top": "4016.99.90",
+      "conhecimento_peso_top": 2.57,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BORRACHA ESCOLAR",
+      "ncm_cadastrado": "4012.19.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "4016.92.00"
+      ],
+      "setor": "papelaria",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4016.92.00",
+      "opcoes": [
+        "4016.92.00",
+        "4016.99.90",
+        "4002.99.30"
+      ],
+      "segundos": 9.5,
+      "conhecimento_top": "4016.99.90",
+      "conhecimento_peso_top": 2.57,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CHAVE INGLESA",
+      "ncm_cadastrado": "8204.12.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8204.12.00"
+      ],
+      "setor": "ferramentas",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8204.12.00",
+      "opcoes": [
+        "8204.11.00",
+        "8205.40.00",
+        "8205.10.00"
+      ],
+      "segundos": 26.2,
+      "conhecimento_top": "8536.41.00",
+      "conhecimento_peso_top": 1.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CHAVE INGLESA",
+      "ncm_cadastrado": "8204.20.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8204.12.00"
+      ],
+      "setor": "ferramentas",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8204.11.00",
+      "opcoes": [
+        "8204.11.00",
+        "8205.40.00",
+        "8205.10.00"
+      ],
+      "segundos": 11.8,
+      "conhecimento_top": "8536.41.00",
+      "conhecimento_peso_top": 1.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "IOGURTE NATURAL 170G",
+      "ncm_cadastrado": "0403.20.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0403.20.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "0403.20.00",
+      "opcoes": [
+        "0403.20.00",
+        "0403.90.00",
+        "0409.00.00"
+      ],
+      "segundos": 25.4,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "IOGURTE NATURAL 170G",
+      "ncm_cadastrado": "8425.42.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "0403.20.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "0403.20.00",
+      "opcoes": [
+        "0403.20.00",
+        "0403.90.00",
+        "0409.00.00"
+      ],
+      "segundos": 8.0,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "AR CONDICIONADO SPLIT 12000 BTUS",
+      "ncm_cadastrado": "8415.10.11",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8415.10.11"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8415.90.10",
+      "opcoes": [
+        "8421.39.90",
+        "8415.10.11",
+        "8415.90.10"
+      ],
+      "segundos": 26.0,
+      "conhecimento_top": "8421.39.90",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "AR CONDICIONADO SPLIT 12000 BTUS",
+      "ncm_cadastrado": "1604.13.10",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8415.10.11"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8415.90.10",
+      "opcoes": [
+        "8421.39.90",
+        "8415.10.11",
+        "8415.90.10"
+      ],
+      "segundos": 11.3,
+      "conhecimento_top": "8421.39.90",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TRAVESSEIRO",
+      "ncm_cadastrado": "9404.90.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9404.90.00"
+      ],
+      "setor": "cama mesa banho",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9404.90.00",
+      "opcoes": [
+        "9404.10.00",
+        "9404.90.00",
+        "9404.30.00"
+      ],
+      "segundos": 24.5,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TRAVESSEIRO",
+      "ncm_cadastrado": "4016.92.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "9404.90.00"
+      ],
+      "setor": "cama mesa banho",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9404.90.00",
+      "opcoes": [
+        "9404.10.00",
+        "9404.90.00",
+        "9404.30.00"
+      ],
+      "segundos": 9.3,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FEIJAO CARIOCA 1KG",
+      "ncm_cadastrado": "0713.33.99",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0713.33.99"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "0713.33.99",
+      "opcoes": [
+        "0713.33.99",
+        "0713.60.90",
+        "0713.60.10"
+      ],
+      "segundos": 30.5,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FEIJAO CARIOCA 1KG",
+      "ncm_cadastrado": "0709.99.11",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "0713.33.99"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "0713.33.99",
+      "opcoes": [
+        "0713.33.99",
+        "0713.60.90",
+        "0713.60.10"
+      ],
+      "segundos": 9.6,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ARMARIO DE ACO 2 PORTAS",
+      "ncm_cadastrado": "9403.20.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9403.20.90",
+        "9403.10.00"
+      ],
+      "setor": "moveis",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9403.20.90",
+      "opcoes": [
+        "7325.99.90",
+        "7308.30.00",
+        "7309.00.10"
+      ],
+      "segundos": 22.9,
+      "conhecimento_top": "8207.50.11",
+      "conhecimento_peso_top": 2.45,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ARMARIO DE ACO 2 PORTAS",
+      "ncm_cadastrado": "9401.79.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "9403.20.90",
+        "9403.10.00"
+      ],
+      "setor": "moveis",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9401.79.00",
+      "opcoes": [
+        "7325.99.90",
+        "7308.30.00",
+        "7309.00.10"
+      ],
+      "segundos": 9.4,
+      "conhecimento_top": "8207.50.11",
+      "conhecimento_peso_top": 2.45,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TORNEIRA DE PIA",
+      "ncm_cadastrado": "8481.80.19",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8481.80.19"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8481.80.11",
+      "opcoes": [
+        "8481.80.11",
+        "8481.80.95",
+        "8481.80.93"
+      ],
+      "segundos": 26.3,
+      "conhecimento_top": "8481.80.95",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TORNEIRA DE PIA",
+      "ncm_cadastrado": "8481.80.96",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8481.80.19"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8481.80.95",
+      "opcoes": [
+        "8481.80.11",
+        "8481.80.95",
+        "8481.80.93"
+      ],
+      "segundos": 12.3,
+      "conhecimento_top": "8481.80.95",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CAIXA DE SOM BLUETOOTH",
+      "ncm_cadastrado": "8518.22.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8518.22.00",
+        "8518.21.00"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8527.13.00",
+      "opcoes": [
+        "8527.13.00",
+        "8527.91.00",
+        "8519.81.20"
+      ],
+      "segundos": 26.9,
+      "conhecimento_top": "8507.10.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CAIXA DE SOM BLUETOOTH",
+      "ncm_cadastrado": "8518.90.10",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8518.22.00",
+        "8518.21.00"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "empate",
+      "opcoes": [
+        "8527.13.00",
+        "8527.91.00",
+        "8519.81.20"
+      ],
+      "segundos": 13.4,
+      "conhecimento_top": "8507.10.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "VODKA 1L",
+      "ncm_cadastrado": "2208.60.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "2208.60.00"
+      ],
+      "setor": "bebidas",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "duvida",
+      "preferido_comparacao": "2208.60.00",
+      "opcoes": [
+        "2208.60.00",
+        "2208.70.00",
+        "2208.90.00"
+      ],
+      "segundos": 25.0,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "VODKA 1L",
+      "ncm_cadastrado": "8202.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "2208.60.00"
+      ],
+      "setor": "bebidas",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "2208.60.00",
+      "opcoes": [
+        "2208.60.00",
+        "2208.70.00",
+        "2208.90.00"
+      ],
+      "segundos": 8.8,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CHUVEIRO ELETRICO",
+      "ncm_cadastrado": "8516.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8516.10.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8516.10.00",
+      "opcoes": [
+        "8516.10.00",
+        "8507.10.90",
+        "8516.33.00"
+      ],
+      "segundos": 25.6,
+      "conhecimento_top": "8507.10.90",
+      "conhecimento_peso_top": 2.8,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CHUVEIRO ELETRICO",
+      "ncm_cadastrado": "8536.50.30",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8516.10.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8516.10.00",
+      "opcoes": [
+        "8516.10.00",
+        "8507.10.90",
+        "8516.33.00"
+      ],
+      "segundos": 9.3,
+      "conhecimento_top": "8507.10.90",
+      "conhecimento_peso_top": 2.8,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "DISJUNTOR 20A",
+      "ncm_cadastrado": "8536.20.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8536.20.00"
+      ],
+      "setor": "construcao",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8535.21.00",
+      "opcoes": [
+        "8535.21.00",
+        "8536.20.00",
+        "8535.29.00"
+      ],
+      "segundos": 26.8,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "DISJUNTOR 20A",
+      "ncm_cadastrado": "8536.90.10",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8536.20.00"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8535.21.00",
+      "opcoes": [
+        "8535.21.00",
+        "8536.20.00",
+        "8535.29.00"
+      ],
+      "segundos": 12.2,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    }
+  ]
+}

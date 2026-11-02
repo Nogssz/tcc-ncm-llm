@@ -1,0 +1,46 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.crdownload
+.claude/
+data/sugestoes.db
+
+# bases de clientes (dados reais, nunca versionar)
+basesProduto/
+*.fdb
+*.FDB
+data/conhecimento.db
+# avaliações que contêm descrições de produtos de clientes
+data/avaliacoes/deteccao_loja_b_*.json
+
+# base da tabela NCM gerada a partir do PDF oficial (ver README)
+data/ncm.db
+
+# cliente Firebird (instalar a partir do Firebird) e logs
+lib/
+
+# modelos e arquivos de trabalho que não fazem parte do protótipo
+*.zip
+modelo_latex_ifc_PTC/
+Captura de tela*.png
+
+# artefatos de compilação do LaTeX
+tcc_latex/*.aux
+tcc_latex/**/*.aux
+tcc_latex/*.log
+tcc_latex/*.toc
+tcc_latex/*.bbl
+tcc_latex/*.blg
+tcc_latex/*.brf
+tcc_latex/*.idx
+tcc_latex/*.lof
+tcc_latex/*.lot
+tcc_latex/*.loq
+tcc_latex/*.fls
+tcc_latex/*.fdb_latexmk
+tcc_latex/*.out
+tcc_latex/*.synctex.gz
+tcc_latex/main.pdf
+tcc_latex/*.ilg
+tcc_latex/*.ind

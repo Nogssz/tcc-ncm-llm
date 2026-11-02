@@ -1,0 +1,605 @@
+codigo,descricao,data_inicio
+28.01,"Flúor, cloro, bromo e iodo.",01/04/2022
+28.04,"Hidrogênio, gases raros e outros elementos não metálicos.",01/04/2022
+28.05,"Metais alcalinos ou alcalinoterrosos; metais de terras raras, escândio e ítrio,mesmo misturados ou li",01/04/2022
+28.06,Cloreto de hidrogênio (ácido clorídrico); ácido clorossulfúrico.,01/04/2022
+28.09,"Pentóxido de difósforo; ácido fosfórico; ácidos polifosfóricos, de constituiçãoquímica definida ou não",01/04/2022
+28.11,Outros ácidos inorgânicos e outros compostos oxigenados inorgânicos dos elementos não metálicos,01/04/2022
+28.12,Halogenetos e oxialogenetos dos elementos não metálicos.,01/04/2022
+28.13,Sulfetos dos elementos não metálicos; trissulfeto de fósforo comercial.,01/04/2022
+28.14,Amoníaco anidro ou em solução aquosa (amônia).,01/04/2022
+28.15,Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica);peróxidos de sódio ou d,01/04/2022
+28.16,"Hidróxido e peróxido de magnésio; óxidos, hidróxidos e peróxidos, de estrôncio ou de bário.",01/04/2022
+28.18,"Corindo artificial, de constituição química definida ou não; óxido de alumínio;hidróxido de alumínio.",01/04/2022
+28.19,Óxidos e hidróxidos de cromo.,01/04/2022
+28.20,Óxidos de manganês.,01/04/2022
+28.21,"Óxidos e hidróxidos de ferro; terras corantes que contenham, em peso, 70 %ou mais de ferro combi",01/04/2022
+28.24,Óxidos de chumbo; mínio (zarcão) e mínio-laranja (mine-orange).,01/04/2022
+28.25,"Hidrazina e hidroxilamina, e seus sais inorgânicos; outras bases inorgânicas;outros óxidos, hidróxid",01/04/2022
+28.26,"Fluoretos; fluorossilicatos, fluoraluminatos e outros sais complexos de flúor.",01/04/2022
+28.27,"Cloretos, oxicloretos e hidroxicloretos; brometos e oxibrometos; iodetos e oxiodetos.",01/04/2022
+28.28,Hipocloritos; hipoclorito de cálcio comercial; cloritos; hipobromitos.,01/04/2022
+28.29,Cloratos e percloratos; bromatos e perbromatos; iodatos e periodatos.,01/04/2022
+28.30,"Sulfetos; polissulfetos, de constituição química definida ou não.",01/04/2022
+28.31,Ditionitos e sulfoxilatos.,01/04/2022
+28.32,Sulfitos; tiossulfatos.,01/04/2022
+28.33,Sulfatos; alumes; peroxossulfatos (persulfatos).,01/04/2022
+28.34,Nitritos; nitratos.,01/04/2022
+28.35,"Fosfinatos (hipofosfitos), fosfonatos (fosfitos) e fosfatos; polifosfatos de constituição química definida",01/04/2022
+28.36,Carbonatos; peroxocarbonatos (percarbonatos); carbonato de amônio comercial que contenha carba,01/04/2022
+28.37,"Cianetos, oxicianetos e cianetos complexos.",01/04/2022
+28.39,Silicatos; silicatos dos metais alcalinos comerciais.,01/04/2022
+28.40,Boratos; peroxoboratos (perboratos).,01/04/2022
+28.41,Sais dos ácidos oxometálicos ou peroxometálicos.,01/04/2022
+28.42,Outros sais dos ácidos ou peroxoácidos inorgânicos (incluindo os aluminossilicatos de constituição q,01/04/2022
+28.43,"Metais preciosos no estado coloidal; compostos inorgânicos ou orgânicos demetais preciosos, de co",01/04/2022
+28.44,Elementos químicos radioativos e isótopos radioativos (incluindo os elementos químicos e isótopos fí,01/04/2022
+28.45,"Isótopos não incluídos na posição 28.44; seus compostos, inorgânicos ou orgânicos, de constituição",01/04/2022
+28.46,"Compostos, inorgânicos ou orgânicos, dos metais das terras raras, de ítrio oude escândio ou das mi",01/04/2022
+28.49,Carbonetos de constituição química definida ou não.,01/04/2022
+28.52,"Compostos, inorgânicos ou orgânicos, de mercúrio, de constituição química definida ou não, exceto",01/04/2022
+28.53,"Fosfetos, de constituição química definida ou não, exceto ferrofósforos; outros compostos inorgânico",01/04/2022
+2801.10.00,- Cloro,01/04/2022
+2801.20,- Iodo,01/04/2022
+2801.20.10,Sublimado,01/04/2022
+2801.20.90,Outros,01/04/2022
+2801.30.00,- Flúor; bromo,01/04/2022
+2802.00.00,Enxofre sublimado ou precipitado; enxofre coloidal.,01/04/2022
+2803.00,Carbono (negros de fumo e outras formas de carbono não especificadas nemcompreendidas noutra,01/04/2022
+2803.00.1,Negros de fumo,01/04/2022
+2803.00.11,Negro de acetileno,01/04/2022
+2803.00.19,Outros,01/04/2022
+2803.00.90,Outros,01/04/2022
+2804.10.00,- Hidrogênio,01/04/2022
+2804.2,- Gases raros:,01/04/2022
+2804.21.00,-- Argônio (árgon),01/04/2022
+2804.29,-- Outros,01/04/2022
+2804.29.10,Hélio líquido,01/04/2022
+2804.29.90,Outros,01/04/2022
+2804.30.00,- Nitrogênio (azoto),01/04/2022
+2804.40.00,- Oxigênio,01/04/2022
+2804.50.00,- Boro; telúrio,01/04/2022
+2804.6,- Silício:,01/04/2022
+2804.61.00,"-- Que contenha, em peso, pelo menos 99,99 % de silício",01/04/2022
+2804.69.00,-- Outro,01/04/2022
+2804.70,- Fósforo,01/04/2022
+2804.70.10,Branco,01/04/2022
+2804.70.20,Vermelho ou amorfo,01/04/2022
+2804.70.30,Negro,01/04/2022
+2804.80.00,- Arsênio,01/04/2022
+2804.90.00,- Selênio,01/04/2022
+2805.1,- Metais alcalinos ou alcalinoterrosos:,01/04/2022
+2805.11.00,-- Sódio,01/04/2022
+2805.12.00,-- Cálcio,01/04/2022
+2805.19,-- Outros,01/04/2022
+2805.19.10,Estrôncio,01/04/2022
+2805.19.20,Bário,01/04/2022
+2805.19.90,Outros,01/04/2022
+2805.30,"- Metais de terras raras, escândio e ítrio, mesmo misturados ou ligados entresi",01/04/2022
+2805.30.10,"Liga de cério, com um teor de ferro inferior ou igual a 5 %, em peso (Mischmetal)",01/04/2022
+2805.30.90,Outros,01/04/2022
+2805.40.00,- Mercúrio,01/04/2022
+2806.10,- Cloreto de hidrogênio (ácido clorídrico),01/04/2022
+2806.10.10,Em estado gasoso ou liquefeito,01/04/2022
+2806.10.20,Em solução aquosa,01/04/2022
+2806.20.00,- Ácido clorossulfúrico,01/04/2022
+2807.00,Ácido sulfúrico; ácido sulfúrico fumante (óleum).,01/04/2022
+2807.00.10,Ácido sulfúrico,01/04/2022
+2807.00.20,Ácido sulfúrico fumante (óleum),01/04/2022
+2808.00,Ácido nítrico; ácidos sulfonítricos.,01/04/2022
+2808.00.10,Ácido nítrico,01/04/2022
+2808.00.20,Ácidos sulfonítricos,01/04/2022
+2809.10.00,- Pentóxido de difósforo,01/04/2022
+2809.20,- Ácido fosfórico e ácidos polifosfóricos,01/04/2022
+2809.20.1,Ácido fosfórico,01/04/2022
+2809.20.11,Com um teor de ferro inferior a 750 ppm,01/04/2022
+2809.20.19,Outros,01/04/2022
+2809.20.20,Ácidos metafosfóricos,01/04/2022
+2809.20.30,Ácido pirofosfórico,01/04/2022
+2809.20.90,Outros,01/04/2022
+2810.00,Óxidos de boro; ácidos bóricos.,01/04/2022
+2810.00.10,Ácido ortobórico,01/04/2022
+2810.00.90,Outros,01/04/2022
+2811.1,- Outros ácidos inorgânicos:,01/04/2022
+2811.11.00,-- Fluoreto de hidrogênio (ácido fluorídrico),01/04/2022
+2811.12.00,-- Cianeto de hidrogênio (ácido cianídrico ou ácido hidrociânico),01/04/2022
+2811.19,-- Outros,01/04/2022
+2811.19.10,Ácido aminossulfônico (ácido sulfâmico),01/04/2022
+2811.19.20,Ácido fosfônico (ácido fosforoso),01/04/2022
+2811.19.30,Ácido perclórico,01/04/2022
+2811.19.40,Fluorácidos e outros compostos de flúor,01/04/2022
+2811.19.90,Outros,01/04/2022
+2811.2,- Outros compostos oxigenados inorgânicos dos elementos não metálicos:,01/04/2022
+2811.21.00,-- Dióxido de carbono,01/04/2022
+2811.22,-- Dióxido de silício,01/04/2022
+2811.22.10,Obtido por precipitação química,01/04/2022
+2811.22.20,Tipo aerogel,01/04/2022
+2811.22.30,Gel de sílica,01/04/2022
+2811.22.90,Outros,01/04/2022
+2811.29,-- Outros,01/04/2022
+2811.29.10,Dióxido de enxofre,01/04/2022
+2811.29.90,Outros,01/04/2022
+2812.1,- Cloretos e oxicloretos:,01/04/2022
+2812.11.00,-- Dicloreto de carbonila (fosgênio),01/04/2022
+2812.12.00,-- Oxicloreto de fósforo,01/04/2022
+2812.13.00,-- Tricloreto de fósforo,01/04/2022
+2812.14.00,-- Pentacloreto de fósforo,01/04/2022
+2812.15.00,-- Monocloreto de enxofre,01/04/2022
+2812.16.00,-- Dicloreto de enxofre,01/04/2022
+2812.17.00,-- Cloreto de tionila,01/04/2022
+2812.19,-- Outros,01/04/2022
+2812.19.1,Cloretos,01/04/2022
+2812.19.11,Tricloreto de arsênio,01/04/2022
+2812.19.19,Outros,01/04/2022
+2812.19.20,Oxicloretos,01/04/2022
+2812.90.00,- Outros,01/04/2022
+2813.10.00,- Dissulfeto de carbono,01/04/2022
+2813.90,- Outros,01/04/2022
+2813.90.10,Pentassulfeto de difósforo,01/04/2022
+2813.90.90,Outros,01/04/2022
+2814.10.00,- Amoníaco anidro,01/04/2022
+2814.20.00,- Amoníaco em solução aquosa (amônia),01/04/2022
+2815.1,- Hidróxido de sódio (soda cáustica):,01/04/2022
+2815.11.00,-- Sólido,01/04/2022
+2815.12.00,-- Em solução aquosa (lixívia de soda cáustica),01/04/2022
+2815.20.00,- Hidróxido de potássio (potassa cáustica),01/04/2022
+2815.30.00,- Peróxidos de sódio ou de potássio,01/04/2022
+2816.10,- Hidróxido e peróxido de magnésio,01/04/2022
+2816.10.10,Hidróxido,01/04/2022
+2816.10.20,Peróxido,01/04/2022
+2816.40,"- Óxidos, hidróxidos e peróxidos, de estrôncio ou de bário",01/04/2022
+2816.40.10,Hidróxido de bário,01/04/2022
+2816.40.90,Outros,01/04/2022
+2817.00,Óxido de zinco; peróxido de zinco.,01/04/2022
+2817.00.10,Óxido de zinco (branco de zinco),01/04/2022
+2817.00.20,Peróxido de zinco,01/04/2022
+2818.10,"- Corindo artificial, de constituição química definida ou não",01/04/2022
+2818.10.10,"Branco, que passe através de uma peneira com abertura de malha de 63 micrômetros (mícrons) em",01/04/2022
+2818.10.90,Outros,01/04/2022
+2818.20,"- Óxido de alumínio, exceto o corindo artificial",01/04/2022
+2818.20.10,Alumina calcinada,01/04/2022
+2818.20.90,Outros,01/04/2022
+2818.30.00,- Hidróxido de alumínio,01/04/2022
+2819.10.00,- Trióxido de cromo,01/04/2022
+2819.90,- Outros,01/04/2022
+2819.90.10,Óxidos,01/04/2022
+2819.90.20,Hidróxidos,01/04/2022
+2820.10,- Dióxido de manganês,01/04/2024
+2820.10.10,"Com um teor de MnO2 igual ou superior a 91 %, em peso (manganês eletrolítico)",01/04/2024
+2820.10.90,Outros,01/04/2024
+2820.90,- Outros,01/04/2022
+2820.90.10,Óxido manganoso,01/04/2022
+2820.90.20,Trióxido de dimanganês (sesquióxido de manganês),01/04/2022
+2820.90.30,Tetraóxido de trimanganês (óxido salino de manganês),01/04/2022
+2820.90.40,Heptaóxido de dimanganês (anidrido permangânico),01/04/2022
+2821.10,- Óxidos e hidróxidos de ferro,01/04/2022
+2821.10.1,Óxido férrico,01/04/2022
+2821.10.11,"Com um teor de Fe2O3 igual ou superior a 85 %, em peso",01/04/2022
+2821.10.19,Outros,01/04/2022
+2821.10.20,"Óxido ferroso-férrico (óxido magnético de ferro), com um teor de Fe3O4 igualou superior a 93 %, em",01/04/2022
+2821.10.30,Hidróxidos de ferro,01/04/2022
+2821.10.90,Outros,01/04/2022
+2821.20.00,- Terras corantes,01/04/2022
+2822.00,Óxidos e hidróxidos de cobalto; óxidos de cobalto comerciais.,01/04/2022
+2822.00.10,Tetraóxido de tricobalto (óxido salino de cobalto),01/04/2022
+2822.00.90,Outros,01/04/2022
+2823.00,Óxidos de titânio.,01/04/2022
+2823.00.10,Tipo anátase,01/04/2022
+2823.00.90,Outros,01/04/2022
+2824.10.00,"- Monóxido de chumbo (litargírio, massicote)",01/04/2022
+2824.90,- Outros,01/04/2022
+2824.90.10,Mínio (zarcão) e mínio-laranja (mine-orange),01/04/2022
+2824.90.90,Outros,01/04/2022
+2825.10,"- Hidrazina e hidroxilamina, e seus sais inorgânicos",01/04/2022
+2825.10.10,Hidrazina e seus sais inorgânicos,01/04/2022
+2825.10.20,Hidroxilamina e seus sais inorgânicos,01/04/2022
+2825.20,- Óxido e hidróxido de lítio,01/04/2022
+2825.20.10,Óxido,01/04/2022
+2825.20.20,Hidróxido,01/04/2022
+2825.30,- Óxidos e hidróxidos de vanádio,01/04/2022
+2825.30.10,Pentóxido de divanádio,01/04/2022
+2825.30.90,Outros,01/04/2022
+2825.40,- Óxidos e hidróxidos de níquel,01/04/2022
+2825.40.10,Óxido niqueloso,01/04/2022
+2825.40.90,Outros,01/04/2022
+2825.50,- Óxidos e hidróxidos de cobre,01/04/2022
+2825.50.10,"Óxido cúprico, com um teor de CuO igual ou superior a 98 %, em peso",01/04/2022
+2825.50.90,Outros,01/04/2022
+2825.60,- Óxidos de germânio e dióxido de zircônio,01/04/2022
+2825.60.10,Óxidos de germânio,01/04/2022
+2825.60.20,Dióxido de zircônio,01/04/2022
+2825.70,- Óxidos e hidróxidos de molibdênio,01/04/2022
+2825.70.10,Trióxido de molibdênio,01/04/2022
+2825.70.90,Outros,01/04/2022
+2825.80,- Óxidos de antimônio,01/04/2022
+2825.80.10,Trióxido de antimônio,01/04/2022
+2825.80.90,Outros,01/04/2022
+2825.90,- Outros,01/04/2022
+2825.90.10,Óxido de cádmio,01/04/2022
+2825.90.20,Trióxido de tungstênio (volfrâmio),01/04/2022
+2825.90.90,Outros,01/04/2022
+2826.1,- Fluoretos:,01/04/2022
+2826.12.00,-- De alumínio,01/04/2022
+2826.19,-- Outros,01/04/2022
+2826.19.10,Trifluoreto de cromo,01/04/2022
+2826.19.20,Fluoreto ácido de amônio,01/04/2022
+2826.19.90,Outros,01/04/2022
+2826.30.00,- Hexafluoraluminato de sódio (criolita sintética),01/04/2022
+2826.90,- Outros,01/04/2022
+2826.90.10,Fluoroaluminato de potássio,01/04/2022
+2826.90.20,Fluorossilicatos de sódio ou de potássio,01/04/2022
+2826.90.90,Outros,01/04/2022
+2827.10.00,- Cloreto de amônio,01/04/2022
+2827.20,- Cloreto de cálcio,01/04/2022
+2827.20.10,"Com um teor de CaCl2 igual ou superior a 98 %, em peso, em base seca",01/04/2022
+2827.20.90,Outros,01/04/2022
+2827.3,- Outros cloretos:,01/04/2022
+2827.31,-- De magnésio,01/04/2022
+2827.31.10,"Com um teor de MgCl2 inferior a 98 %, em peso, e de cálcio (Ca) inferior ou igual a ,2 %2, em peso",01/04/0205
+2827.31.90,Outros,01/04/2022
+2827.32.00,-- De alumínio,01/04/2022
+2827.35.00,-- De níquel,01/04/2022
+2827.39,-- Outros,01/04/2022
+2827.39.10,De cobre I (cloreto cuproso ou monocloreto de cobre),01/04/2022
+2827.39.20,De titânio,01/04/2022
+2827.39.3,De zinco,01/04/2024
+2827.39.31,"Anidro, com um teor de ZnCl2 igual ou superior a 98 %, em peso",01/04/2024
+2827.39.39,Outros,01/04/2024
+2827.39.40,De zircônio,01/04/2022
+2827.39.50,De antimônio,01/04/2022
+2827.39.60,De lítio,01/04/2022
+2827.39.70,De bismuto,01/04/2022
+2827.39.9,Outros,01/04/2022
+2827.39.91,De cádmio,01/04/2022
+2827.39.92,De césio,01/04/2022
+2827.39.93,De cromo,01/04/2022
+2827.39.94,De estrôncio,01/04/2022
+2827.39.95,De manganês,01/04/2022
+2827.39.96,De ferro,01/04/2022
+2827.39.97,De cobalto,01/04/2022
+2827.39.99,Outros,01/04/2022
+2827.4,- Oxicloretos e hidroxicloretos:,01/04/2022
+2827.41,-- De cobre,01/04/2022
+2827.41.10,Oxicloretos,01/04/2022
+2827.41.20,Hidroxicloretos,01/04/2022
+2827.49,-- Outros,01/04/2022
+2827.49.1,Oxicloretos,01/04/2022
+2827.49.11,De bismuto,01/04/2022
+2827.49.12,De zircônio,01/04/2022
+2827.49.19,Outros,01/04/2022
+2827.49.2,Hidroxicloretos,01/04/2022
+2827.49.21,De alumínio,01/04/2022
+2827.49.29,Outros,01/04/2022
+2827.5,- Brometos e oxibrometos:,01/04/2022
+2827.51.00,-- Brometos de sódio ou de potássio,01/04/2022
+2827.59.00,-- Outros,01/04/2022
+2827.60,- Iodetos e oxiodetos,01/04/2022
+2827.60.1,Iodetos,01/04/2022
+2827.60.11,De sódio,01/04/2022
+2827.60.12,De potássio,01/04/2022
+2827.60.19,Outros,01/04/2022
+2827.60.2,Oxiodetos,01/04/2022
+2827.60.21,De potássio,01/04/2022
+2827.60.29,Outros,01/04/2022
+2828.10.00,- Hipoclorito de cálcio comercial e outros hipocloritos de cálcio,01/04/2022
+2828.90,- Outros,01/04/2022
+2828.90.1,Hipocloritos,01/04/2022
+2828.90.11,De sódio,01/04/2022
+2828.90.19,Outros,01/04/2022
+2828.90.20,Clorito de sódio,01/04/2022
+2828.90.90,Outros,01/04/2022
+2829.1,- Cloratos:,01/04/2022
+2829.11.00,-- De sódio,01/04/2022
+2829.19,-- Outros,01/04/2022
+2829.19.10,De cálcio,01/04/2022
+2829.19.20,De potássio,01/04/2022
+2829.19.90,Outros,01/04/2022
+2829.90,- Outros,01/04/2022
+2829.90.1,Bromatos,01/04/2022
+2829.90.11,De sódio,01/04/2022
+2829.90.12,De potássio,01/04/2022
+2829.90.19,Outros,01/04/2022
+2829.90.2,Perbromatos,01/04/2022
+2829.90.21,De sódio,01/04/2022
+2829.90.22,De potássio,01/04/2022
+2829.90.29,Outros,01/04/2022
+2829.90.3,Iodatos,01/04/2022
+2829.90.31,De potássio,01/04/2022
+2829.90.32,De cálcio,01/04/2022
+2829.90.39,Outros,01/04/2022
+2829.90.40,Periodatos,01/04/2022
+2829.90.50,Percloratos,01/04/2022
+2830.10,- Sulfetos de sódio,01/04/2022
+2830.10.10,De dissódio,01/04/2022
+2830.10.20,De monossódio (hidrogenossulfeto de sódio),01/04/2022
+2830.90,- Outros,01/04/2022
+2830.90.1,Sulfetos,01/04/2022
+2830.90.11,De molibdênio IV (dissulfeto de molibdênio),01/04/2022
+2830.90.12,De bário,01/04/2022
+2830.90.13,De potássio,01/04/2022
+2830.90.14,De chumbo,01/04/2022
+2830.90.15,De estrôncio,01/04/2022
+2830.90.16,De zinco,01/04/2022
+2830.90.19,Outros,01/04/2022
+2830.90.20,Polissulfetos,01/04/2022
+2831.10,- De sódio,01/04/2022
+2831.10.1,Ditionitos (hidrossulfitos),01/04/2022
+2831.10.11,Estabilizados,01/04/2022
+2831.10.19,Outros,01/04/2022
+2831.10.2,Sulfoxilatos,01/04/2022
+2831.10.21,Estabilizados com formaldeído,01/04/2022
+2831.10.29,Outros,01/04/2022
+2831.90,- Outros,01/04/2022
+2831.90.10,Ditionito de zinco,01/04/2022
+2831.90.90,Outros,01/04/2022
+2832.10,- Sulfitos de sódio,01/04/2022
+2832.10.10,De dissódio,01/04/2022
+2832.10.90,Outros,01/04/2022
+2832.20.00,- Outros sulfitos,01/04/2022
+2832.30,- Tiossulfatos,01/04/2022
+2832.30.10,De amônio,01/04/2022
+2832.30.20,De sódio,01/04/2022
+2832.30.90,Outros,01/04/2022
+2833.1,- Sulfatos de sódio:,01/04/2022
+2833.11,-- Sulfato dissódico,01/04/2022
+2833.11.10,Anidro,01/04/2022
+2833.11.90,Outros,01/04/2022
+2833.19.00,-- Outros,01/04/2022
+2833.2,- Outros sulfatos:,01/04/2022
+2833.21.00,-- De magnésio,01/04/2022
+2833.22.00,-- De alumínio,01/04/2022
+2833.24.00,-- De níquel,01/04/2022
+2833.25,-- De cobre,01/04/2022
+2833.25.10,Cuproso,01/04/2022
+2833.25.20,Cúprico,01/04/2022
+2833.27,-- De bário,01/04/2022
+2833.27.10,"Com um teor de BaSO4 igual ou superior a 97,5 %, em peso",01/04/2022
+2833.27.90,Outros,01/04/2022
+2833.29,-- Outros,01/04/2022
+2833.29.10,De antimônio,01/04/2022
+2833.29.20,De lítio,01/04/2022
+2833.29.30,De estrôncio,01/04/2022
+2833.29.40,Sulfato ferroso,01/04/2022
+2833.29.50,Neutro de chumbo,01/04/2022
+2833.29.60,De cromo,01/04/2022
+2833.29.70,De zinco,01/04/2022
+2833.29.90,Outros,01/04/2022
+2833.30.00,- Alumes,01/04/2022
+2833.40,- Peroxossulfatos (persulfatos),01/04/2022
+2833.40.10,De sódio,01/04/2022
+2833.40.20,De amônio,01/04/2022
+2833.40.90,Outros,01/04/2022
+2834.10,- Nitritos,01/04/2022
+2834.10.10,De sódio,01/04/2022
+2834.10.90,Outros,01/04/2022
+2834.2,- Nitratos:,01/04/2022
+2834.21,-- De potássio,01/04/2022
+2834.21.10,"Com um teor de KNO3 inferior ou igual a 98 %, em peso",01/04/2022
+2834.21.90,Outros,01/04/2022
+2834.29,-- Outros,01/04/2022
+2834.29.10,"De cálcio, com um teor de nitrogênio (azoto) inferior ou igual a 16 %, em peso",01/04/2022
+2834.29.30,De alumínio,01/04/2022
+2834.29.40,De lítio,01/04/2022
+2834.29.90,Outros,01/04/2022
+2835.10,- Fosfinatos (hipofosfitos) e fosfonatos (fosfitos),01/04/2022
+2835.10.1,Fosfinatos (hipofosfitos),01/04/2022
+2835.10.11,De sódio,01/04/2022
+2835.10.19,Outros,01/04/2022
+2835.10.2,Fosfonatos (fosfitos),01/04/2022
+2835.10.21,Dibásico de chumbo,01/04/2022
+2835.10.29,Outros,01/04/2022
+2835.2,- Fosfatos:,01/04/2022
+2835.22.00,-- Mono ou dissódico,01/04/2022
+2835.24.00,-- De potássio,01/04/2022
+2835.25.00,-- Hidrogeno-ortofosfato de cálcio (fosfato dicálcico),01/04/2022
+2835.26.00,-- Outros fosfatos de cálcio,01/04/2022
+2835.29,-- Outros,01/04/2022
+2835.29.10,De ferro,01/04/2022
+2835.29.20,De cobalto,01/04/2022
+2835.29.30,De cobre,01/04/2022
+2835.29.40,De cromo,01/04/2022
+2835.29.50,De estrôncio,01/04/2022
+2835.29.60,De manganês,01/04/2022
+2835.29.70,De triamônio,01/04/2022
+2835.29.80,De trissódio,01/04/2022
+2835.29.90,Outros,01/04/2022
+2835.3,- Polifosfatos:,01/04/2022
+2835.31,-- Trifosfato de sódio (tripolifosfato de sódio),01/04/2022
+2835.31.10,"Grau alimentício, de acordo com o estabelecido pela Food and Agriculture Organization - Organizaçã",01/04/2022
+2835.31.90,Outros,01/04/2022
+2835.39,-- Outros,01/04/2022
+2835.39.10,Metafosfatos de sódio,01/04/2022
+2835.39.20,Pirofosfatos de sódio,01/04/2022
+2835.39.30,Pirofosfato de zinco,01/04/2022
+2835.39.90,Outros,01/04/2022
+2836.20,- Carbonato dissódico,01/04/2022
+2836.20.10,Anidro,01/04/2022
+2836.20.90,Outros,01/04/2022
+2836.30.00,- Hidrogenocarbonato (bicarbonato) de sódio,01/04/2022
+2836.40.00,- Carbonatos de potássio,01/04/2022
+2836.50.00,- Carbonato de cálcio,01/04/2022
+2836.60,- Carbonato de bário,01/04/2022
+2836.60.10,"Com um teor de BaCO3 igual ou superior a 98 %, em peso",01/04/2022
+2836.60.90,Outros,01/04/2022
+2836.9,- Outros:,01/04/2022
+2836.91.00,-- Carbonatos de lítio,01/04/2022
+2836.92.00,-- Carbonato de estrôncio,01/04/2022
+2836.99,-- Outros,01/04/2022
+2836.99.1,Carbonatos,01/04/2022
+2836.99.11,"De magnésio, de densidade aparente inferior a 200 kg/m3",01/04/2022
+2836.99.12,De zircônio,01/04/2022
+2836.99.13,De amônio comercial e outros carbonatos de amônio,01/04/2022
+2836.99.19,Outros,01/04/2022
+2836.99.20,Peroxocarbonatos (percarbonatos),01/04/2022
+2837.1,- Cianetos e oxicianetos:,01/04/2022
+2837.11.00,-- De sódio,01/04/2022
+2837.19,-- Outros,01/04/2022
+2837.19.1,Cianetos,01/04/2022
+2837.19.11,De potássio,01/04/2022
+2837.19.12,De zinco,01/04/2022
+2837.19.14,De cobre I (cianeto cuproso),01/04/2022
+2837.19.15,De cobre II (cianeto cúprico),01/04/2022
+2837.19.19,Outros,01/04/2022
+2837.19.20,Oxicianetos,01/04/2022
+2837.20,- Cianetos complexos,01/04/2022
+2837.20.1,Ferrocianetos,01/04/2022
+2837.20.11,De sódio,01/04/2022
+2837.20.12,De ferro II (ferrocianeto ferroso),01/04/2022
+2837.20.19,Outros,01/04/2022
+2837.20.2,Ferricianetos,01/04/2022
+2837.20.21,De potássio,01/04/2022
+2837.20.22,De ferro II (ferricianeto ferroso),01/04/2022
+2837.20.23,De ferro III (ferricianeto férrico),01/04/2022
+2837.20.29,Outros,01/04/2022
+2837.20.90,Outros,01/04/2022
+2839.1,- De sódio:,01/04/2022
+2839.11.00,-- Metassilicatos,01/04/2022
+2839.19.00,-- Outros,01/04/2022
+2839.90,- Outros,01/04/2022
+2839.90.10,De magnésio,01/04/2022
+2839.90.20,De alumínio,01/04/2022
+2839.90.30,De zircônio,01/04/2022
+2839.90.40,De chumbo,01/04/2022
+2839.90.50,De potássio,01/04/2022
+2839.90.90,Outros,01/04/2022
+2840.1,- Tetraborato dissódico (bórax refinado):,01/04/2022
+2840.11.00,-- Anidro,01/04/2022
+2840.19.00,-- Outro,01/04/2022
+2840.20.00,- Outros boratos,01/04/2022
+2840.30.00,- Peroxoboratos (perboratos),01/04/2022
+2841.30.00,- Dicromato de sódio,01/04/2022
+2841.50,- Outros cromatos e dicromatos; peroxocromatos,01/04/2022
+2841.50.1,Cromatos e dicromatos,01/04/2022
+2841.50.11,Cromato de amônio; dicromato de amônio,01/04/2022
+2841.50.12,Cromato de potássio,01/04/2022
+2841.50.13,Cromato de sódio,01/04/2022
+2841.50.14,Dicromato de potássio,01/04/2022
+2841.50.15,Cromato de zinco,01/04/2022
+2841.50.16,Cromato de chumbo,01/04/2022
+2841.50.19,Outros,01/04/2022
+2841.50.20,Peroxocromatos,01/04/2022
+2841.6,"- Manganitos, manganatos e permanganatos:",01/04/2022
+2841.61.00,-- Permanganato de potássio,01/04/2022
+2841.69,-- Outros,01/04/2022
+2841.69.10,Manganitos,01/04/2022
+2841.69.20,Manganatos,01/04/2022
+2841.69.30,Permanganatos,01/04/2022
+2841.70,- Molibdatos,01/04/2022
+2841.70.10,De amônio,01/04/2022
+2841.70.20,De sódio,01/04/2022
+2841.70.90,Outros,01/04/2022
+2841.80,- Tungstatos (volframatos),01/04/2022
+2841.80.10,De amônio,01/04/2022
+2841.80.20,De chumbo,01/04/2022
+2841.80.90,Outros,01/04/2022
+2841.90,- Outros,01/04/2022
+2841.90.1,Titanatos,01/04/2022
+2841.90.11,De chumbo,01/04/2022
+2841.90.12,De bário ou de bismuto,01/04/2022
+2841.90.13,De cálcio ou de estrôncio,01/04/2022
+2841.90.14,De magnésio,01/04/2022
+2841.90.15,De lantânio ou de neodímio,01/04/2022
+2841.90.19,Outros,01/04/2022
+2841.90.2,Ferritos e ferratos,01/04/2022
+2841.90.21,Ferrito de bário,01/04/2022
+2841.90.22,Ferrito de estrôncio,01/04/2022
+2841.90.29,Outros,01/04/2022
+2841.90.30,Vanadatos,01/04/2022
+2841.90.4,Estanatos,01/04/2022
+2841.90.41,De bário,01/04/2022
+2841.90.42,De bismuto,01/04/2022
+2841.90.43,De cálcio,01/04/2022
+2841.90.49,Outros,01/04/2022
+2841.90.50,Plumbatos,01/04/2022
+2841.90.60,Antimoniatos,01/04/2022
+2841.90.70,Zincatos,01/04/2022
+2841.90.8,Aluminatos,01/04/2022
+2841.90.81,De sódio,01/04/2022
+2841.90.82,De magnésio,01/04/2022
+2841.90.83,De bismuto,01/04/2022
+2841.90.89,Outros,01/04/2022
+2841.90.90,Outros,01/04/2022
+2842.10,"- Silicatos duplos ou complexos, incluindo os aluminossilicatos de constituição química definida ou n",01/04/2022
+2842.10.10,Zeólitas do tipo utilizado como trocadores de íons para o tratamento de águas,01/04/2022
+2842.10.90,Outros,01/04/2022
+2842.90.00,- Outros,01/04/2022
+2843.10.00,- Metais preciosos no estado coloidal,01/04/2022
+2843.2,- Compostos de prata:,01/04/2022
+2843.21.00,-- Nitrato de prata,01/04/2022
+2843.29,-- Outros,01/04/2022
+2843.29.10,Vitelinato de prata,01/04/2022
+2843.29.90,Outros,01/04/2022
+2843.30,- Compostos de ouro,01/04/2022
+2843.30.10,Sulfeto de ouro em dispersão de gelatina,01/04/2022
+2843.30.90,Outros,01/04/2022
+2843.90,- Outros compostos; amálgamas,01/04/2022
+2843.90.1,Dexormaplatina; enloplatina; iproplatina; lobaplatina; miboplatina; ormaplatina; sebriplatina e zeniplat,01/04/2022
+2843.90.11,Apresentados como medicamentos,01/04/2022
+2843.90.19,Outros,01/04/2022
+2843.90.20,"Tricloreto de rutênio em solução aquosa com uma concentração igual ou superior a  2%2, mas inferi",01/04/1270
+2843.90.30,"Ácido hexacloroirídico em solução aquosa com uma concentração igual ou superior a 72 %, mas infe",01/04/2012
+2843.90.40,"Tricloreto de rutênio, em pó",01/04/2024
+2843.90.90,Outros,01/04/2022
+2844.10.00,"- Urânio natural e seus compostos; ligas, dispersões (incluindo os cermets), produtos cerâmicos e mi",01/04/2022
+2844.20.00,"- Urânio enriquecido em U 235 e seus compostos; plutônio e seus compostos; ligas, dispersões (incl",01/04/2022
+2844.30.00,"- Urânio empobrecido em U 235 e seus compostos; tório e seus compostos; ligas, dispersões (incluin",01/04/2022
+2844.4,"- Elementos, isótopos e compostos, radioativos, exceto os das subposições 2",
+2844.41.00,"-- Trítio e seus compostos; ligas, dispersões (incluindo os cermets), produtoscerâmicos e misturas q",01/04/2022
+2844.42.00,"-- Actínio-225, actínio-227, califórnio-253, cúrio-240, cúrio-241, cúrio-242, cúri",
+2844.43,"-- Outros elementos, isótopos e compostos, radioativos; ligas, dispersões (incluindo os cermets), pro",01/04/2022
+2844.43.10,"Molibdênio-99 absorvido em alumina, apto para a obtenção de tecnécio-99 (reativo de diagnóstico pa",01/04/2022
+2844.43.20,Cobalto-60,01/04/2022
+2844.43.30,Iodo-131,01/04/2022
+2844.43.90,Outros,01/04/2022
+2844.44.00,-- Resíduos radioativos,01/04/2022
+2844.50.00,- Elementos combustíveis (cartuchos) usados (irradiados) de reatores nucleares,01/04/2022
+2845.10.00,- Água pesada (óxido de deutério),01/04/2022
+2845.20.00,- Boro enriquecido em boro-10 e seus compostos,01/04/2022
+2845.30.00,- Lítio enriquecido em lítio-6 e seus compostos,01/04/2022
+2845.40.00,- Hélio-3,01/04/2022
+2845.90.00,- Outros,01/04/2022
+2846.10,- Compostos de cério,01/04/2022
+2846.10.10,Óxido cérico,01/04/2022
+2846.10.90,Outros,01/04/2022
+2846.90,- Outros,01/04/2022
+2846.90.10,Óxido de praseodímio,01/04/2022
+2846.90.20,Cloretos dos demais metais das terras raras,01/04/2022
+2846.90.30,Gadopentetato de dimeglumina,01/04/2022
+2846.90.90,Outros,01/04/2022
+2847.00.00,"Peróxido de hidrogênio (água oxigenada), mesmo solidificado com ureia.",01/04/2022
+2849.10.00,- De cálcio,01/04/2022
+2849.20.00,- De silício,01/04/2022
+2849.90,- Outros,01/04/2022
+2849.90.10,De boro,01/04/2022
+2849.90.20,De tântalo,01/04/2022
+2849.90.30,De tungstênio (volfrâmio),01/04/2022
+2849.90.90,Outros,01/04/2022
+2850.00,"Hidretos, nitretos, azidas, silicietos e boretos, de constituição química definida ou não, exceto os com",01/04/2022
+2850.00.10,Nitreto de boro,01/04/2022
+2850.00.20,Silicieto de cálcio,01/04/2022
+2850.00.90,Outros,01/04/2022
+2852.10,- De constituição química definida,01/04/2022
+2852.10.1,Compostos inorgânicos,01/04/2022
+2852.10.11,Óxidos,01/04/2022
+2852.10.12,Cloreto de mercúrio I (cloreto mercuroso),01/04/2022
+2852.10.13,"Cloreto de mercúrio II (cloreto mercúrico), para uso fotográfico, acondicionado para venda a retalho,",01/04/2022
+2852.10.14,"Cloreto de mercúrio II (cloreto mercúrico), apresentado de outro modo",01/04/2022
+2852.10.19,Outros,01/04/2022
+2852.10.2,Compostos orgânicos,01/04/2022
+2852.10.21,Acetato de mercúrio,01/04/2022
+2852.10.22,Timerosal,01/04/2022
+2852.10.23,Estearato de mercúrio,01/04/2022
+2852.10.24,Lactato de mercúrio,01/04/2022
+2852.10.25,Salicilato de mercúrio,01/04/2022
+2852.10.29,Outros,01/04/2022
+2852.90.00,- Outros,01/04/2022
+2853.10.00,- Cloreto de cianogênio (clorociano),01/04/2022
+2853.90,- Outros,01/04/2022
+2853.90.1,"Fosfetos, de constituição química definida ou não",01/04/2022
+2853.90.11,De alumínio,01/04/2022
+2853.90.12,De magnésio,01/04/2022
+2853.90.13,"De cobre (fosfetos de cobre), que contenham mais de 15 %, em peso, de fósforo",01/04/2022
+2853.90.19,Outros,01/04/2022
+2853.90.20,Cianamida e seus derivados metálicos,01/04/2022
+2853.90.30,Sulfocloretos de fósforo,01/04/2022
+2853.90.90,Outros,01/04/2022

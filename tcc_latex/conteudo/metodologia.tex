@@ -1,0 +1,128 @@
+\chapter{METODOLOGIA}
+\label{cap:metodologia}
+
+Quanto à natureza, este trabalho caracteriza-se como uma pesquisa aplicada, pois busca gerar conhecimento para a solução de um problema prático e delimitado; quanto à abordagem, é quantitativa, pois os resultados são expressos por métricas numéricas; e, quanto aos procedimentos, combina a pesquisa experimental, na qual se definem as variáveis capazes de influenciar o objeto de estudo e se observam, de forma controlada, os efeitos de cada uma, com o estudo de caso, por se concentrar em um único sistema, o ERP Lux Auto \cite{gil2022}. As variáveis manipuladas são o modelo de linguagem, a arquitetura do processo de sugestão e os recursos auxiliares ativados; as variáveis observadas são o acerto das sugestões, o acerto das detecções e o tempo de resposta. Seguindo a recomendação de \citeonline{wazlawick2014} para a pesquisa em Ciência da Computação, a contribuição do protótipo não é apenas apresentada, mas medida por comparação objetiva com alternativas, incluindo uma linha de base sem modelo de linguagem.
+
+O conhecimento prévio sobre o sistema e suas regras de negócio relatado neste trabalho origina-se da experiência profissional do autor no suporte técnico e no desenvolvimento do software. O código-fonte do protótipo, os conjuntos de avaliação, os \textit{scripts} de avaliação e os arquivos com os resultados de cada execução estão disponíveis em um repositório público\footnote{Disponível em: \url{https://github.com/Nogssz/tcc-ncm-llm}.}, exceto as bases de clientes, que não podem ser publicadas.
+
+\section{Etapas da Pesquisa}
+
+O trabalho foi conduzido em quatro etapas, sintetizadas na Figura~\ref{fig:etapas-metodologia}. A primeira consistiu na delimitação, a partir da experiência do autor no suporte técnico do Lux Auto, das inconsistências fiscais do cadastro que levam à rejeição de NF-e. Foram consideradas quatro categorias: divergência entre Inscrição Estadual e Indicador de Contribuinte, classificação incorreta de NCM, aplicação equivocada de CST e preenchimento incorreto de CFOP. Essa delimitação não se baseou em um levantamento quantitativo dos chamados, que não foi realizado. Dentre as categorias, a classificação NCM foi escolhida como foco da implementação por ser a que mais depende de interpretação de texto e, portanto, a que melhor permite avaliar a contribuição de um LLM; as demais são discutidas como trabalhos futuros.
+
+A segunda etapa compreendeu a construção de uma base local com a tabela NCM vigente, a partir do arquivo oficial em PDF, de forma que a validação de códigos e a busca de candidatos não dependessem do modelo de linguagem. A terceira etapa consistiu no projeto e na implementação do protótipo, conduzidos de forma iterativa: cada versão foi avaliada nos conjuntos de desenvolvimento, e os erros observados orientaram a versão seguinte. A quarta etapa foi a avaliação da versão final em um conjunto de teste reservado, medido uma única vez.
+
+\begin{figure}[H]
+    \centering
+    \caption{Etapas do desenvolvimento do trabalho}
+    \label{fig:etapas-metodologia}
+    \begin{tikzpicture}[
+        node distance=0.5cm,
+        every node/.style={font=\small},
+        box/.style={rectangle, draw, rounded corners=4pt, minimum height=1.7cm, align=center, fill=blue!8, text width=2.8cm},
+        arrow/.style={-{Stealth[scale=1]}, thick}
+    ]
+        \node (etapa1) [box] {1. Delimitação das inconsistências fiscais};
+        \node (etapa2) [box, right=of etapa1] {2. Base local da tabela NCM};
+        \node (etapa3) [box, right=of etapa2] {3. Implementação iterativa (conjuntos dev)};
+        \node (etapa4) [box, right=of etapa3] {4. Avaliação final (conjunto de teste)};
+
+        \draw [arrow] (etapa1) -- (etapa2);
+        \draw [arrow] (etapa2) -- (etapa3);
+        \draw [arrow] (etapa3) -- (etapa4);
+        \draw [arrow] ([xshift=8mm]etapa3.south) to[out=-90, in=-90, looseness=1.6] node[below, font=\footnotesize] {análise de erros e nova versão} ([xshift=-8mm]etapa3.south);
+    \end{tikzpicture}
+    \fonte{O autor (2026).}
+\end{figure}
+
+\section{Ambiente Experimental}
+
+Todos os experimentos foram executados localmente, em um notebook com processador AMD Ryzen AI 7 350, 31~GB de memória RAM e placa de vídeo NVIDIA GeForce RTX 5060 Laptop com 8~GB de VRAM, sob o sistema operacional Windows 11. O protótipo foi desenvolvido em Python 3.13, e os modelos de linguagem foram servidos pelo Ollama, com quantização de 4 \textit{bits} (formato Q4\_K\_M), temperatura zero e janela de contexto de 8.192 \textit{tokens}. O Quadro~\ref{qua:ferramentas} resume as ferramentas utilizadas.
+
+\begin{quadro}[H]
+\centering
+\caption{Ferramentas e versões utilizadas}
+\label{qua:ferramentas}
+\begin{tabular}{|p{4.2cm}|p{2.6cm}|p{7.4cm}|}
+\hline
+\textbf{Ferramenta} & \textbf{Versão} & \textbf{Uso no trabalho} \\
+\hline
+Python & 3.13 & Linguagem do protótipo \\
+\hline
+Ollama & 0.34.2 & Execução local dos modelos de linguagem \\
+\hline
+Qwen3 8B & Q4\_K\_M & Modelo de linguagem da versão final, sem raciocínio explícito \\
+\hline
+Qwen2.5 7B e Llama 3.1 8B & Q4\_K\_M & Modelos de linguagem comparados \\
+\hline
+LangChain (langchain-ollama) & 1.1.0 & Comunicação com o Ollama e saída estruturada \\
+\hline
+Firebird / firebird-driver & 3.0 / 2.0.3 & Banco de dados do ERP e acesso via Python \\
+\hline
+SQLite (FTS5) & 3.50.4 & Base local da tabela NCM, base de conhecimento e busca textual \\
+\hline
+NLTK & 3.9.4 & Sinônimos (OpenWordNet-PT) e radicais (Snowball) em português \\
+\hline
+pdfplumber & 0.11.10 & Extração da tabela NCM do PDF oficial \\
+\hline
+Streamlit & 1.64.0 & Interface de supervisão humana \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{quadro}
+
+A interface de supervisão foi construída com o Streamlit, um \textit{framework} de código aberto em Python para a criação de aplicações web interativas sem necessidade de HTML, CSS ou JavaScript \cite{streamlit2024}. Ele foi escolhido por permitir uma aplicação independente, que se conecta ao banco de dados do ERP sem exigir alterações no código-fonte do sistema principal, característica adequada a camadas de supervisão desacopladas de sistemas legados \cite{Madicharla2025HITLllmops,silva2025}.
+
+\section{Fontes de Dados}
+
+Foram utilizadas três fontes de dados. A primeira é uma instalação de desenvolvimento do Lux Auto, com a mesma estrutura das instalações dos clientes, na qual foram cadastrados os produtos dos primeiros conjuntos de teste com o NCM ``00000000'', simulando o operador que salva o cadastro sem saber a classificação. A segunda é a tabela NCM oficial vigente, extraída para uma base local (Capítulo~\ref{cap:desenvolvimento}).
+
+A terceira fonte são as bases de produtos de duas empresas do setor de autopeças que utilizam o Lux Auto, cedidas para este trabalho e identificadas aqui apenas como Loja A e Loja B. Delas foram lidos, somente para leitura, a descrição, o NCM e o indicador de serviço da tabela de produtos; nenhum dado de clientes, fornecedores, notas ou valores foi acessado, e nenhum dado pessoal foi tratado. A Loja A possui 5.177 mercadorias com NCM válido, e a Loja B, 36.429. Essas bases não fazem parte do repositório público. Elas foram usadas de duas formas: como base de conhecimento, isto é, exemplos de produtos já classificados por empresas reais (Capítulo~\ref{cap:desenvolvimento}); e como fonte de erros reais de classificação, pois a Loja B utiliza o código 8708.10.00 (para-choques) em 3.407 produtos, dos quais apenas 104 são para-choques.
+
+\section{Conjuntos de Avaliação}
+
+Para medir o desempenho sem superestimá-lo, os casos foram divididos em conjuntos com papéis diferentes, seguindo a separação entre desenvolvimento e teste descrita na seção~\ref{sec:avaliacao}. Os conjuntos de desenvolvimento são usados durante a construção do sistema, e os erros observados neles orientam ajustes de \textit{prompt}, de busca e de arquitetura; por isso, o resultado medido neles tende a ser otimista. O conjunto de teste é reservado para a medição final e não orienta nenhum ajuste. A Tabela~\ref{tab:conjuntos} apresenta os conjuntos da avaliação da sugestão, e o Apêndice~\ref{ap:conjuntos} lista os produtos de cada um.
+
+\begin{table}[H]
+\centering
+\caption{Conjuntos de casos utilizados na avaliação da sugestão}
+\label{tab:conjuntos}
+\begin{tabular}{p{1.8cm} c p{4.6cm} p{6.1cm}}
+\hline
+\textbf{Conjunto} & \textbf{Produtos} & \textbf{Composição} & \textbf{Papel na pesquisa} \\
+\hline
+dev15 & 15 & Peças automotivas e um azulejo & Primeiros ajustes e comparação entre modelos \\
+dev & 41 & 14 setores, 13 produtos automotivos & Desenvolvimento da primeira fase \\
+teste & 33 & 17 setores, 4 produtos automotivos & Comparação das arquiteturas da primeira fase \\
+DEV2 & 49 & Sorteados de 99 produtos novos & Desenvolvimento da segunda fase, junto com o dev \\
+TESTE2 & 50 & Sorteados dos mesmos 99 produtos; 18 automotivos & Teste final, medido uma única vez \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{table}
+
+Os conjuntos foram construídos em duas fases. Na primeira, o conjunto teste foi medido uma vez para cada arquitetura candidata e usado para escolher entre elas, o que o tornou parte do ajuste. Por isso, na segunda fase, foram criados 99 produtos novos, sem repetição em relação aos conjuntos anteriores e com cerca de um terço de produtos automotivos, divididos por sorteio estratificado por setor, com semente fixa, em DEV2 (49 produtos) e TESTE2 (50 produtos). O TESTE2 foi congelado antes de qualquer alteração no sistema, com o registro de um \textit{hash} do seu conteúdo, e o \textit{script} de avaliação só aceita medi-lo com uma opção explícita de execução final. Durante o desenvolvimento, apenas o resultado agregado de uma medição de referência do sistema antigo foi observado nele. As decisões da segunda fase foram tomadas sobre a união dos conjuntos dev e DEV2 (90 produtos), para reduzir o efeito de casos isolados.
+
+Para cada produto, a classificação correta foi conferida pelo autor na tabela NCM oficial. Quando a descrição admite mais de um código (por exemplo, um tênis pode ser de borracha ou de outro material, ou um suco de uva pode ter valor Brix diferente), todos os códigos plausíveis foram aceitos como corretos. As descrições foram escritas como um operador as digitaria no ERP, em letras maiúsculas, com abreviações, unidades e, em alguns casos, erros de digitação reais (``GELADERA'', ``FURADERA'', ``AZULEIJO'').
+
+A detecção foi avaliada em três tipos de casos. Para os códigos inválidos, foram construídos casos rotulados de cinco categorias, no formato em que o ERP armazena o código: vazio, composto só de zeros, malformado (com sete ou nove dígitos, letras ou separadores), bem formado mas inexistente na tabela, e extinto em atualização da tabela (3923.30.00 e 9403.20.00, Seção~\ref{sec:ncm}). Os falsos positivos foram medidos nos 158 códigos válidos distintos dos conjuntos de avaliação, dez deles também com espaços em volta, como às vezes vêm do banco, e em todas as mercadorias das duas bases de clientes. Para os códigos válidos, porém incorretos, cada produto do DEV2 e do TESTE2 foi apresentado duas vezes: uma com o NCM correto e outra com um NCM errado de um de três tipos, sorteado com semente fixa: o código de outro produto do conjunto (troca), outro código do mesmo capítulo (capítulo) e outro item da mesma posição (vizinho), este o mais difícil de perceber. Por fim, para os erros reais, foram sorteados 40 produtos da Loja B cadastrados com 8708.10.00 sem serem para-choques e 40 produtos da mesma loja com outros códigos, presumidos corretos; nesse caso, a base de conhecimento consultada foi apenas a da Loja A, para que a resposta não viesse da própria loja.
+
+\section{Métricas}
+
+A avaliação considera duas dimensões principais, detecção e sugestão, complementadas por métricas que ajudam a localizar a origem dos erros:
+
+\begin{itemize}
+    \item \textbf{Taxa de detecção}: proporção dos produtos com NCM inválido ou incorreto que foram apontados pelo sistema;
+    \item \textbf{Taxa de alarme falso}: proporção dos produtos com NCM correto que foram apontados indevidamente;
+    \item \textbf{Acurácia da detecção}: proporção de casos, com e sem erro, em que o sistema decidiu corretamente;
+    \item \textbf{Acerto em 1º lugar}: proporção dos produtos em que a primeira opção sugerida é um código correto;
+    \item \textbf{Acerto entre as 3 opções} (\textit{top-3}): proporção dos produtos em que um código correto aparece entre as três opções apresentadas ao operador. Como a decisão final é humana, essa é a métrica que melhor representa a utilidade prática do sistema;
+    \item \textbf{Capítulo correto}: proporção dos produtos em que o capítulo escolhido pelo modelo contém a resposta, o que permite separar erros de ``que tipo de produto é este'' de erros de escolha do item;
+    \item \textbf{Cobertura da busca}: proporção dos produtos em que o código correto está entre os candidatos entregues ao modelo, o que separa erros de recuperação de erros de escolha;
+    \item \textbf{Tempo médio por produto}: tempo de ponta a ponta para gerar as sugestões de um produto.
+\end{itemize}
+
+O projeto definiu como critérios de sucesso uma taxa de detecção de pelo menos 85\% e uma taxa de acerto das correções de pelo menos 75\%, mas não definiu uma meta de tempo. Para avaliar a eficiência mencionada na pergunta de pesquisa, adotou-se um limite de 30 segundos por produto. O valor decorre do modo de uso do protótipo: as sugestões são geradas em segundo plano, e, com 30 segundos por produto, um computador convencional processa cerca de mil produtos em uma noite de oito horas, volume compatível com a revisão inicial do cadastro de uma loja ou com os cadastros novos de vários dias. Como esse limite foi definido após as medições, ele deve ser lido como critério de viabilidade de uso, e não como hipótese testada. Cada execução da avaliação registra, para cada produto, as opções sugeridas, a resposta esperada, o capítulo escolhido, a interpretação feita pelo modelo e o tempo gasto, em arquivos disponíveis no repositório, de forma que os resultados possam ser auditados e reproduzidos.
+
+\section{Protocolo de Avaliação}
+
+Na avaliação, o sistema recebe somente a descrição do produto, exatamente como cadastrada, e, na detecção, também o NCM cadastrado. A memória de produtos parecidos do próprio ERP, descrita no Capítulo~\ref{cap:desenvolvimento}, permanece ativa, mas é configurada para ignorar cadastros com descrição idêntica à do produto avaliado, evitando que um produto já corrigido ``entregue'' a própria resposta. Os modelos são executados com temperatura zero, o que torna as respostas praticamente determinísticas. Todas as versões comparadas foram medidas nos mesmos conjuntos, na mesma máquina. Para isolar a contribuição do modelo de linguagem, as mesmas medições foram repetidas sem nenhuma chamada ao modelo, com a busca lexical sozinha e com a base de conhecimento sozinha.

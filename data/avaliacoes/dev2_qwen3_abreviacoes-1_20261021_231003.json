@@ -1,0 +1,1249 @@
+{
+  "conjunto": "dev2",
+  "modelo": "qwen3:8b",
+  "rotulo": "qwen3_abreviacoes-1",
+  "config": {
+    "abreviacoes": true,
+    "contexto_negocio": false,
+    "hipoteses": false,
+    "dicas_posicao": false,
+    "irmaos": 0,
+    "max_itens_etapa2": 30
+  },
+  "resumo": {
+    "capitulo_certo_entre_escolhidos": "38/49 = 77.6%",
+    "posicao_certa_entre_escolhidas": "31/49 = 63.3%",
+    "acerto_1o_lugar": "25/49 = 51.0%",
+    "acerto_top3": "31/49 = 63.3%",
+    "tempo_medio_s": 14.4,
+    "falhas_infra": 0,
+    "busca_tem_certo": "37/49 = 75.5%"
+  },
+  "casos": [
+    {
+      "descricao": "PORCA SEXTAVADA M10",
+      "grupo": "automotivo",
+      "esperados": [
+        "7318.16.00"
+      ],
+      "opcoes": [
+        "7318.16.00",
+        "7318.19.00",
+        "7318.15.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "73"
+      ],
+      "posicoes": [
+        "7318"
+      ],
+      "interpretacao": "parafuso sextavado para fixacao",
+      "pergunta": "A porca é roscada ou não roscada?",
+      "busca_tem_certo": true,
+      "segundos": 17.8
+    },
+    {
+      "descricao": "FUSIVEL LAMINA 10A",
+      "grupo": "automotivo",
+      "esperados": [
+        "8536.10.00"
+      ],
+      "opcoes": [
+        "8535.10.00",
+        "8536.10.00",
+        "8535.30.18"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8535"
+      ],
+      "interpretacao": "dispositivo de protecao contra sobrecarga",
+      "pergunta": "Qual é a corrente nominal do fusível?",
+      "busca_tem_certo": true,
+      "segundos": 14.3
+    },
+    {
+      "descricao": "MANG SUP RADIADOR",
+      "grupo": "automotivo",
+      "esperados": [
+        "4009.31.00",
+        "4009.32.10",
+        "4009.32.90",
+        "8708.91.00"
+      ],
+      "opcoes": [
+        "8708.91.00",
+        "8708.29.92",
+        "8708.29.12"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "mangueira de refrigeração para radiador",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.4
+    },
+    {
+      "descricao": "SILENCIOSO TRASEIRO ESCAPAMENTO",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.92.00"
+      ],
+      "opcoes": [
+        "8708.92.00",
+        "8708.80.00",
+        "8708.95.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "sistema de escapamento automotivo",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.9
+    },
+    {
+      "descricao": "BOBINA DE IGNICAO",
+      "grupo": "automotivo",
+      "esperados": [
+        "8511.30.20"
+      ],
+      "opcoes": [
+        "8511.30.20",
+        "8511.40.00",
+        "8540.91.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8511"
+      ],
+      "interpretacao": "bobina de ignicao para motor",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.5
+    },
+    {
+      "descricao": "MACACO HIDRAULICO GARRAFA 2T",
+      "grupo": "automotivo",
+      "esperados": [
+        "8425.42.00"
+      ],
+      "opcoes": [
+        "8425.42.00",
+        "8425.49.90",
+        "8425.41.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8425"
+      ],
+      "interpretacao": "macaco hidraulico para elevacao",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.3
+    },
+    {
+      "descricao": "RELE AUXILIAR 12V 4 TERMINAIS",
+      "grupo": "automotivo",
+      "esperados": [
+        "8536.41.00"
+      ],
+      "opcoes": [
+        "8536.41.00",
+        "8536.49.00",
+        "8536.90.50"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8536"
+      ],
+      "interpretacao": "rele eletrônico auxiliar",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.6
+    },
+    {
+      "descricao": "JOGO DE ANEIS DE SEGMENTO",
+      "grupo": "automotivo",
+      "esperados": [
+        "8409.91.16"
+      ],
+      "opcoes": [
+        "8409.91.16",
+        "8484.90.00",
+        "8448.33.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8409"
+      ],
+      "interpretacao": "conjunto de aneis de segmento",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.2
+    },
+    {
+      "descricao": "ROLAM RODA DIANT",
+      "grupo": "automotivo",
+      "esperados": [
+        "8482.10.10",
+        "8482.10.90"
+      ],
+      "opcoes": [
+        "8482.10.10",
+        "8482.50.10",
+        "8482.80.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8482"
+      ],
+      "interpretacao": "rolamento para roda dianteira",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.5
+    },
+    {
+      "descricao": "PALHETA LIMPADOR PARABRISA 20 POL",
+      "grupo": "automotivo",
+      "esperados": [
+        "8512.90.00"
+      ],
+      "opcoes": [
+        "8708.22.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "palheta limpador de parabrisa",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 11.9
+    },
+    {
+      "descricao": "PISTAO MOTOR STD",
+      "grupo": "automotivo",
+      "esperados": [
+        "8409.91.20"
+      ],
+      "opcoes": [
+        "8407.34.90",
+        "8407.31.90",
+        "8407.32.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8407"
+      ],
+      "interpretacao": "peca de motor para veiculo automotor",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 13.9
+    },
+    {
+      "descricao": "ALICATE DE PRESSAO",
+      "grupo": "automotivo",
+      "esperados": [
+        "8203.20.90"
+      ],
+      "opcoes": [
+        "9026.20.10",
+        "9026.20.90",
+        "9026.90.20"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "90"
+      ],
+      "posicoes": [
+        "9026"
+      ],
+      "interpretacao": "instrumento de medida de pressao",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.5
+    },
+    {
+      "descricao": "CIL MESTRE FREIO",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.30.90"
+      ],
+      "opcoes": [
+        "8708.30.90",
+        "8708.99.10",
+        "8714.94.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "cilindro de freio para veiculo automotor",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.0
+    },
+    {
+      "descricao": "CORREIA DO ALTERNADOR",
+      "grupo": "automotivo",
+      "esperados": [
+        "4010.31.00",
+        "4010.32.00",
+        "4010.33.00",
+        "4010.34.00"
+      ],
+      "opcoes": [
+        "4010.35.00",
+        "4010.36.00",
+        "4010.39.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "40"
+      ],
+      "posicoes": [
+        "4010"
+      ],
+      "interpretacao": "correia de transmissao para alternador",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.4
+    },
+    {
+      "descricao": "PIVO SUSP INF",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.80.00"
+      ],
+      "opcoes": [
+        "8708.80.00",
+        "8705.20.00",
+        "8703.10.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "suspensao para pivo de automovel",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.2
+    },
+    {
+      "descricao": "BIELETA BARRA ESTABILIZADORA",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.80.00"
+      ],
+      "opcoes": [
+        "8707.10.00",
+        "8703.80.00",
+        "8703.10.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8707"
+      ],
+      "interpretacao": "barra de estabilizacao para veiculo",
+      "pergunta": "A barra de estabilização é parte de automóvel, trator, motocicleta ou outro veículo?",
+      "busca_tem_certo": false,
+      "segundos": 14.3
+    },
+    {
+      "descricao": "TERMINAL DE DIRECAO LD",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.94.90",
+        "8708.80.00"
+      ],
+      "opcoes": [
+        "8708.94.83",
+        "8708.94.90",
+        "8708.99.10"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "terminal de direcao para veiculo",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.2
+    },
+    {
+      "descricao": "PASTILHA DE FREIO DIANTEIRA CERAMICA",
+      "grupo": "automotivo",
+      "esperados": [
+        "8708.30.19"
+      ],
+      "opcoes": [
+        "8708.30.19",
+        "8708.99.10",
+        "8714.94.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "peca de freio dianteira ceramica",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.1
+    },
+    {
+      "descricao": "ABSORVENTE HIGIENICO",
+      "grupo": "higiene",
+      "esperados": [
+        "9619.00.00"
+      ],
+      "opcoes": [
+        "9619.00.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "96"
+      ],
+      "posicoes": [
+        "9619"
+      ],
+      "interpretacao": "produto higienico absorvente",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 11.3
+    },
+    {
+      "descricao": "OVOS BRANCOS DUZIA",
+      "grupo": "alimentos",
+      "esperados": [
+        "0407.21.00"
+      ],
+      "opcoes": [
+        "0407.21.00",
+        "0407.29.00",
+        "0408.99.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "04"
+      ],
+      "posicoes": [
+        "0407"
+      ],
+      "interpretacao": "ovo de galinha em duzia",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.1
+    },
+    {
+      "descricao": "KETCHUP 400G",
+      "grupo": "alimentos",
+      "esperados": [
+        "2103.20.10"
+      ],
+      "opcoes": [
+        "2103.20.10",
+        "2103.20.90",
+        "2103.90.29"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "21"
+      ],
+      "posicoes": [
+        "2103"
+      ],
+      "interpretacao": "condimento a base de tomate",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.0
+    },
+    {
+      "descricao": "BATEDEIRA",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8509.40.20"
+      ],
+      "opcoes": [
+        "8509.40.20",
+        "8506.80.90",
+        "8549.19.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8509"
+      ],
+      "interpretacao": "aparelho eletrico para bater massas",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.1
+    },
+    {
+      "descricao": "FARINHA DE TRIGO 1KG",
+      "grupo": "alimentos",
+      "esperados": [
+        "1101.00.10"
+      ],
+      "opcoes": [
+        "1101.00.10",
+        "1101.00.20",
+        "1102.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "11"
+      ],
+      "posicoes": [
+        "1101"
+      ],
+      "interpretacao": "farinha de trigo para uso alimentar",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.5
+    },
+    {
+      "descricao": "AGUA SANITARIA 1L",
+      "grupo": "limpeza",
+      "esperados": [
+        "2828.90.11"
+      ],
+      "opcoes": [
+        "2920.11.20",
+        "2920.11.10",
+        "2912.50.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "29"
+      ],
+      "posicoes": [
+        "2920"
+      ],
+      "interpretacao": "produto quimico para desinfeccao",
+      "pergunta": "Qual é a concentração de cloro da água sanitária?",
+      "busca_tem_certo": false,
+      "segundos": 15.7
+    },
+    {
+      "descricao": "LIXA DAGUA 220",
+      "grupo": "construcao",
+      "esperados": [
+        "6805.20.00"
+      ],
+      "opcoes": [
+        "8205.59.00",
+        "8205.10.00",
+        "8201.90.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8205"
+      ],
+      "interpretacao": "ferramenta manual para lixar superficies",
+      "pergunta": "Qual é o material da superfície que a lixa de água é usada? (metal, madeira, plástico, etc.)",
+      "busca_tem_certo": false,
+      "segundos": 18.3
+    },
+    {
+      "descricao": "SERROTE",
+      "grupo": "ferramentas",
+      "esperados": [
+        "8202.10.00"
+      ],
+      "opcoes": [
+        "8202.10.00",
+        "8205.59.00",
+        "8207.80.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8202"
+      ],
+      "interpretacao": "ferramenta de corte manual",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.2
+    },
+    {
+      "descricao": "PATINHO BOVINO KG",
+      "grupo": "alimentos",
+      "esperados": [
+        "0201.30.00",
+        "0202.30.00"
+      ],
+      "opcoes": [
+        "4104.49.20",
+        "4104.49.90",
+        "4104.19.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "41"
+      ],
+      "posicoes": [
+        "4104"
+      ],
+      "interpretacao": "pele de bovino para uso em calçado",
+      "pergunta": "O produto é curtido ou não? Qual é o estado da pele (úmido ou seco)?",
+      "busca_tem_certo": false,
+      "segundos": 16.1
+    },
+    {
+      "descricao": "ACHOCOLATADO EM PO 400G",
+      "grupo": "alimentos",
+      "esperados": [
+        "1806.10.00",
+        "1806.90.00"
+      ],
+      "opcoes": [
+        "2106.90.10"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "21"
+      ],
+      "posicoes": [
+        "2106"
+      ],
+      "interpretacao": "achocolatado em po para preparo de bebida",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 10.8
+    },
+    {
+      "descricao": "CAFE SOLUVEL 100G",
+      "grupo": "alimentos",
+      "esperados": [
+        "2101.11.10"
+      ],
+      "opcoes": [
+        "0901.11.10",
+        "0901.90.00",
+        "0901.22.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "09"
+      ],
+      "posicoes": [
+        "0901"
+      ],
+      "interpretacao": "cafe soluvel em agua",
+      "pergunta": "O produto é torrado ou não torrado?",
+      "busca_tem_certo": true,
+      "segundos": 15.3
+    },
+    {
+      "descricao": "SARDINHA EM LATA 125G",
+      "grupo": "alimentos",
+      "esperados": [
+        "1604.13.10"
+      ],
+      "opcoes": [
+        "1604.20.30",
+        "1604.13.10",
+        "1604.20.90"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "16"
+      ],
+      "posicoes": [
+        "1604"
+      ],
+      "interpretacao": "peixe em conserva em lata",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 18.3
+    },
+    {
+      "descricao": "SABAO EM PO 1KG",
+      "grupo": "limpeza",
+      "esperados": [
+        "3402.50.00"
+      ],
+      "opcoes": [
+        "3401.20.90",
+        "3401.19.00",
+        "3401.11.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "34"
+      ],
+      "posicoes": [
+        "3401"
+      ],
+      "interpretacao": "sabao em po para uso domestico",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 14.2
+    },
+    {
+      "descricao": "SERRA CIRCULAR",
+      "grupo": "ferramentas",
+      "esperados": [
+        "8467.22.00"
+      ],
+      "opcoes": [
+        "8202.31.00",
+        "8207.70.10",
+        "8207.80.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8202"
+      ],
+      "interpretacao": "ferramenta de corte mecanica",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 16.7
+    },
+    {
+      "descricao": "PROTETOR SOLAR FPS 50",
+      "grupo": "higiene",
+      "esperados": [
+        "3304.99.90"
+      ],
+      "opcoes": [
+        "3822.13.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "38"
+      ],
+      "posicoes": [
+        "3822"
+      ],
+      "interpretacao": "protegente solar com fator de protecao 50",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 12.1
+    },
+    {
+      "descricao": "VARA DE PESCA",
+      "grupo": "esporte",
+      "esperados": [
+        "9507.10.00"
+      ],
+      "opcoes": [
+        "9507.10.00",
+        "9507.90.00",
+        "9507.20.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "95"
+      ],
+      "posicoes": [
+        "9507"
+      ],
+      "interpretacao": "vara de pesca",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.5
+    },
+    {
+      "descricao": "BOTA DE SEGURANCA BICO DE ACO",
+      "grupo": "calcados",
+      "esperados": [
+        "6403.40.00"
+      ],
+      "opcoes": [
+        "6406.10.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "64"
+      ],
+      "posicoes": [
+        "6406"
+      ],
+      "interpretacao": "calcao de protecao contra quedas",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 12.3
+    },
+    {
+      "descricao": "MAIONESE 500G",
+      "grupo": "alimentos",
+      "esperados": [
+        "2103.90.11"
+      ],
+      "opcoes": [
+        "2103.90.11",
+        "2103.90.19"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "21"
+      ],
+      "posicoes": [
+        "2103"
+      ],
+      "interpretacao": "maionese em embalagem",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 9.6
+    },
+    {
+      "descricao": "MANTEIGA COM SAL 200G",
+      "grupo": "alimentos",
+      "esperados": [
+        "0405.10.00"
+      ],
+      "opcoes": [
+        "0405.10.00",
+        "0405.90.90",
+        "0405.20.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "04"
+      ],
+      "posicoes": [
+        "0405"
+      ],
+      "interpretacao": "manteiga salgada para consumo",
+      "pergunta": "A manteiga salgada é considerada 'manteiga' ou 'outra manteiga'? Se for pasta de espalhar, qual é a origem (leite, carne, etc.)?",
+      "busca_tem_certo": true,
+      "segundos": 15.8
+    },
+    {
+      "descricao": "BORRACHA ESCOLAR",
+      "grupo": "papelaria",
+      "esperados": [
+        "4016.92.00"
+      ],
+      "opcoes": [
+        "3926.10.00",
+        "3913.90.12"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "39"
+      ],
+      "posicoes": [
+        "3926"
+      ],
+      "interpretacao": "material de escrita em borracha",
+      "pergunta": "A borracha é clorada ou não?",
+      "busca_tem_certo": true,
+      "segundos": 12.9
+    },
+    {
+      "descricao": "CHAVE INGLESA",
+      "grupo": "ferramentas",
+      "esperados": [
+        "8204.12.00"
+      ],
+      "opcoes": [
+        "8204.11.00",
+        "8204.12.00",
+        "8205.10.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8204"
+      ],
+      "interpretacao": "ferramenta de chave inglesa",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.0
+    },
+    {
+      "descricao": "IOGURTE NATURAL 170G",
+      "grupo": "alimentos",
+      "esperados": [
+        "0403.20.00"
+      ],
+      "opcoes": [
+        "0403.20.00",
+        "0403.90.00",
+        "0409.00.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "04"
+      ],
+      "posicoes": [
+        "0403"
+      ],
+      "interpretacao": "produto lacteo fermentado",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.8
+    },
+    {
+      "descricao": "AR CONDICIONADO SPLIT 12000 BTUS",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8415.10.11"
+      ],
+      "opcoes": [
+        "8415.90.10",
+        "8415.90.20",
+        "8415.10.11"
+      ],
+      "posicao_certo": 3,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8415"
+      ],
+      "interpretacao": "unidade de ar condicionado split",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.5
+    },
+    {
+      "descricao": "TRAVESSEIRO",
+      "grupo": "cama mesa banho",
+      "esperados": [
+        "9404.90.00"
+      ],
+      "opcoes": [
+        "9404.90.00",
+        "9404.30.00",
+        "9404.10.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "94"
+      ],
+      "posicoes": [
+        "9404"
+      ],
+      "interpretacao": "travesseiro de enchimento sintetico",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 13.5
+    },
+    {
+      "descricao": "FEIJAO CARIOCA 1KG",
+      "grupo": "alimentos",
+      "esperados": [
+        "0713.33.99"
+      ],
+      "opcoes": [
+        "0713.33.99",
+        "0713.60.90",
+        "0713.60.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "07"
+      ],
+      "posicoes": [
+        "0713"
+      ],
+      "interpretacao": "graino de feijao carioca em grano",
+      "pergunta": "A cor do feijão carioca?",
+      "busca_tem_certo": true,
+      "segundos": 10.5
+    },
+    {
+      "descricao": "ARMARIO DE ACO 2 PORTAS",
+      "grupo": "moveis",
+      "esperados": [
+        "9403.20.90",
+        "9403.10.00"
+      ],
+      "opcoes": [
+        "8418.50.90",
+        "8418.50.10",
+        "8418.10.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8418"
+      ],
+      "interpretacao": "armario de aco para armazenamento",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 13.8
+    },
+    {
+      "descricao": "TORNEIRA DE PIA",
+      "grupo": "construcao",
+      "esperados": [
+        "8481.80.19"
+      ],
+      "opcoes": [
+        "8481.80.11",
+        "8481.80.19",
+        "8481.80.99"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8481"
+      ],
+      "interpretacao": "torneira para pia de cozinha",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 15.3
+    },
+    {
+      "descricao": "CAIXA DE SOM BLUETOOTH",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8518.22.00",
+        "8518.21.00"
+      ],
+      "opcoes": [
+        "8519.81.20",
+        "8527.13.00",
+        "8518.50.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8519"
+      ],
+      "interpretacao": "aparelho de audio com conexao bluetooth",
+      "pergunta": null,
+      "busca_tem_certo": false,
+      "segundos": 14.5
+    },
+    {
+      "descricao": "VODKA 1L",
+      "grupo": "bebidas",
+      "esperados": [
+        "2208.60.00"
+      ],
+      "opcoes": [
+        "2208.60.00",
+        "2208.90.00",
+        "2208.70.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "22"
+      ],
+      "posicoes": [
+        "2208"
+      ],
+      "interpretacao": "bebida alcoolica de uva",
+      "pergunta": "Qual é o teor alcoólico da vodka?",
+      "busca_tem_certo": true,
+      "segundos": 15.6
+    },
+    {
+      "descricao": "CHUVEIRO ELETRICO",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8516.10.00"
+      ],
+      "opcoes": [
+        "8516.10.00",
+        "8516.21.00",
+        "8516.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8516"
+      ],
+      "interpretacao": "aparelho eletrico para aquecimento da agua",
+      "pergunta": null,
+      "busca_tem_certo": true,
+      "segundos": 14.9
+    },
+    {
+      "descricao": "DISJUNTOR 20A",
+      "grupo": "construcao",
+      "esperados": [
+        "8536.20.00"
+      ],
+      "opcoes": [
+        "8535.21.00",
+        "8535.29.00",
+        "8511.80.20"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8535"
+      ],
+      "interpretacao": "disjuntor de corrente alternada",
+      "pergunta": "Qual é a tensão nominal do disjuntor?",
+      "busca_tem_certo": true,
+      "segundos": 17.1
+    }
+  ]
+}

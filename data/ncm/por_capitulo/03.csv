@@ -1,0 +1,431 @@
+codigo,descricao,data_inicio
+03.01,Peixes vivos.,01/04/2022
+03.02,"Peixes frescos ou refrigerados, exceto os filés (filetes) de peixes e outra carne de peixes da posição",01/04/2022
+03.03,"Peixes congelados, exceto os filés (filetes) de peixes e outra carne de peixesda posição 03.04.",01/04/2022
+03.04,"Filés (filetes) de peixes e outra carne de peixes (mesmo picada), frescos, refrigerados ou congelados",01/04/2022
+03.05,"Peixes secos, salgados ou em salmoura; peixes defumados (fumados), mesmo cozidos antes ou dur",01/04/2022
+03.06,"Crustáceos, mesmo com casca, vivos, frescos, refrigerados, congelados, secos, salgados ou em sal",01/04/2022
+03.07,"Moluscos, mesmo com concha, vivos, frescos, refrigerados, congelados, secos, salgados ou em salm",01/04/2022
+03.08,"Invertebrados aquáticos, exceto crustáceos e moluscos, vivos, frescos, refrigerados, congelados, sec",01/04/2022
+03.09,"Farinhas, pós e pellets, de peixe, crustáceos, moluscos e de outros invertebrados aquáticos, próprios",01/04/2022
+0301.1,- Peixes ornamentais:,01/04/2022
+0301.11,-- De água doce,01/04/2022
+0301.11.10,Aruanã (Osteoglossum bicirrhosum),01/04/2022
+0301.11.90,Outros,01/04/2022
+0301.19.00,-- Outros,01/04/2022
+0301.9,- Outros peixes vivos:,01/04/2022
+0301.91,"-- Trutas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Onco",01/04/2022
+0301.91.10,Para reprodução,01/04/2022
+0301.91.90,Outras,01/04/2022
+0301.92,-- Enguias (Anguilla spp.),01/04/2022
+0301.92.10,Para reprodução,01/04/2022
+0301.92.90,Outras,01/04/2022
+0301.93,"-- Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrh",01/04/2022
+0301.93.10,Para reprodução,01/04/2022
+0301.93.90,Outras,01/04/2022
+0301.94,"-- Atuns-azuis (atuns) (Thunnus thynnus, Thunnus orientalis)",01/04/2022
+0301.94.10,Para reprodução,01/04/2022
+0301.94.90,Outras,01/04/2022
+0301.95,-- Atum-azul do sul (atum) (Thunnus maccoyii),01/04/2022
+0301.95.10,Para reprodução,01/04/2022
+0301.95.90,Outros,01/04/2022
+0301.99,-- Outros,01/04/2022
+0301.99.1,Para reprodução,01/04/2022
+0301.99.11,"Tilápias (Tilapia spp., Oreochromis spp., Sarotherodon spp., Danakilia spp.; seus híbridos)",01/04/2022
+0301.99.12,"Esturjões (Acipenser baerii, Acipenser gueldenstaedtii, Acipenser persicus, Acipenser stellatus)",01/04/2022
+0301.99.19,Outros,01/04/2022
+0301.99.9,Outros,01/04/2022
+0301.99.91,"Tilápias (Tilapia spp., Oreochromis spp., Sarotherodon spp., Danakilia spp.; seus híbridos)",01/04/2022
+0301.99.92,"Esturjões (Acipenser baerii, Acipenser gueldenstaedtii, Acipenser persicus, Acipenser stellatus)",01/04/2022
+0301.99.99,Outros,01/04/2022
+0302.1,"- Salmonídeos, exceto subprodutos comestíveis de peixes das subposições 0",
+0302.11.00,"-- Trutas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Onco",01/04/2022
+0302.13.00,"-- Salmões-do-pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorh",01/04/2022
+0302.14.00,-- Salmão-do-atlântico (Salmo salar) e salmão-do-danúbio (Hucho hucho),01/04/2022
+0302.19.00,-- Outros,01/04/2022
+0302.2,"- Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae),",01/04/2022
+0302.21.00,"-- Linguados-gigantes (Alabotes*) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippo",01/04/2022
+0302.22.00,-- Solha (Pleuronectes platessa),01/04/2022
+0302.23.00,-- Linguados (Solea spp.),01/04/2022
+0302.24.00,-- Pregado (Psetta maxima),01/04/2022
+0302.29.00,-- Outros,01/04/2022
+0302.3,"- Atuns (do gênero Thunnus), bonito-listrado (gaiado*) (Katsuwonus pelamis),exceto subprodutos co",01/04/2022
+0302.31.00,-- Albacora-branca (atum) (Thunnus alalunga),01/04/2022
+0302.32.00,-- Albacora-laje (atum) (Thunnus albacares),01/04/2022
+0302.33.00,-- Bonito-listrado (Gaiado*) (Katsuwonus pelamis),01/04/2022
+0302.34.00,-- Albacora-bandolim (atum) (Thunnus obesus),01/04/2022
+0302.35.00,"-- Atuns-azuis (atuns) (Thunnus thynnus, Thunnus orientalis)",01/04/2022
+0302.36.00,-- Atum-azul do sul (atum) (Thunnus maccoyii),01/04/2022
+0302.39.00,-- Outros,01/04/2022
+0302.4,"- Arenques (Clupea harengus, Clupea pallasii), anchovas (biqueirões*) (Engraulis spp.), sardinhas (S",01/04/2022
+0302.41.00,"-- Arenques (Clupea harengus, Clupea pallasii)",01/04/2022
+0302.42,-- Anchovas (Biqueirões*) (Engraulis spp.),01/04/2022
+0302.42.10,Anchoita (Engraulis anchoita),01/04/2022
+0302.42.90,Outros,01/04/2022
+0302.43.00,"-- Sardinhas (Sardina pilchardus, Sardinops spp., Sardinella spp.) (Sardinha (Sardina pilchardus) e s",01/04/2022
+0302.44.00,"-- Cavalinhas (Sardas e cavalas*) (Scomber scombrus, Scomber australasicus, Scomber japonicus)",01/04/2022
+0302.45.00,-- Carapaus (Trachurus spp.),01/04/2022
+0302.46.00,-- Bijupirá (Cobia*) (Rachycentron canadum),01/04/2022
+0302.47.00,-- Espadarte (Xiphias gladius),01/04/2022
+0302.49,-- Outros,01/04/2022
+0302.49.10,"Espadins, marlins, veleiros (Istiophoridae)",01/04/2022
+0302.49.90,Outros,01/04/2022
+0302.5,"- Peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucc",01/04/2022
+0302.51.00,"-- Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-groelândia (Gadus ogac) e bacalhau-do-pacíf",01/04/2022
+0302.52.00,-- Hadoque (Arinca*) (Melanogrammus aeglefinus),01/04/2022
+0302.53.00,-- Saithe (Escamudo*) (Pollachius virens),01/04/2022
+0302.54.00,"-- Merluzas (Pescadas*) e abróteas (Merluccius spp., Urophycis spp.)",01/04/2022
+0302.55.00,-- Polaca-do-alasca (Escamudo-do-alasca*) (Theragra chalcogramma),01/04/2022
+0302.56.00,"-- Verdinhos (Micromesistius poutassou, Micromesistius australis)",01/04/2022
+0302.59.00,-- Outros,01/04/2022
+0302.7,"- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0302.71.00,-- Tilápias (Oreochromis spp.),01/04/2022
+0302.72,"-- Bagres (Peixes-gato*) (Pangasius spp., Silurus spp., Clarias spp., Ictalurusspp.)",01/04/2022
+0302.72.10,Bagre americano (Ictalurus punctatus),01/04/2022
+0302.72.90,Outros,01/04/2022
+0302.73.00,"-- Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrh",01/04/2022
+0302.74.00,-- Enguias (Anguilla spp.),01/04/2022
+0302.79.00,-- Outros,01/04/2022
+0302.8,"- Outros peixes, exceto subprodutos comestíveis de peixes das subposições",
+0302.81.00,-- Cação e outros tubarões,01/04/2022
+0302.82.00,-- Raias (Rajidae),01/04/2022
+0302.83,-- Merluza negra e merluza antártica (Marlongas*) (Dissostichus spp.),01/04/2022
+0302.83.10,Merluza negra (Dissostichus eleginoides),01/04/2022
+0302.83.20,Merluza antártica (Dissostichus mawsoni),01/04/2022
+0302.84.00,-- Robalos (Dicentrarchus spp.),01/04/2022
+0302.85.00,-- Esparídeos (Sparidae),01/04/2022
+0302.89,-- Outros,01/04/2022
+0302.89.10,Pargo (Lutjanus purpureus),01/04/2022
+0302.89.2,"Cherne-poveiro (Polyprion americanus), garoupas (Acanthistius spp.), esturjão (Acipenser baerii) e p",01/04/2022
+0302.89.21,Cherne-poveiro (Polyprion americanus),01/04/2022
+0302.89.22,Garoupas (Acanthistius spp.),01/04/2022
+0302.89.23,Esturjão (Acipenser baerii),01/04/2022
+0302.89.24,Peixes-rei (Atherina spp.),01/04/2022
+0302.89.3,"Curimatãs (Prochilodus spp.), tilápias (Tilapia spp., Sarotherodon spp., Danakilia spp.; seus híbridos)",01/04/2022
+0302.89.31,Curimatãs (Prochilodus spp.),01/04/2022
+0302.89.32,"Tilápias (Tilapia spp., Sarotherodon spp., Danakilia spp.; seus híbridos)",01/04/2022
+0302.89.33,Surubins (Pseudoplatystoma spp.),01/04/2022
+0302.89.34,Traíra (Hoplias malabaricus & H. cf. lacerdae),01/04/2022
+0302.89.35,Piaus (Leporinus spp.),01/04/2022
+0302.89.36,Tainhas (Mugil spp.),01/04/2022
+0302.89.37,Pirarucu (Arapaima gigas),01/04/2022
+0302.89.38,Pescadas (Cynoscion spp.),01/04/2022
+0302.89.4,"Piramutaba (Brachyplatystoma vaillantii), dourada (Brachyplatystoma flavicans), pacu (Piaractus mes",01/04/2022
+0302.89.41,Piramutaba (Brachyplatystoma vaillantii),01/04/2022
+0302.89.42,Dourada (Brachyplatystoma flavicans),01/04/2022
+0302.89.43,Pacu (Piaractus mesopotamicus),01/04/2022
+0302.89.44,Tambaqui (Colossoma macropomum),01/04/2022
+0302.89.45,Tambacu (híbrido de tambaqui e pacu),01/04/2022
+0302.89.90,Outros,01/04/2022
+0302.9,"- Fígados, ovas, gônadas masculinas, barbatanas, cabeças, caudas, bexigas-natatórias e outros sub",01/04/2022
+0302.91,"-- Fígados, ovas e gônadas masculinas",01/04/2023
+0302.91.10,Ovas de tainhas (Mugil spp.),01/04/2023
+0302.91.90,Outros,01/04/2023
+0302.92.00,-- Barbatanas de tubarão,01/04/2022
+0302.99.00,-- Outros,01/04/2022
+0303.1,"- Salmonídeos, exceto subprodutos comestíveis de peixes das subposições 0",
+0303.11.00,-- Salmão-do-pacífico (salmão-vermelho) (Oncorhynchus nerka),01/04/2022
+0303.12.00,"-- Outros salmões-do-pacífico (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschaw",01/04/2022
+0303.13.00,-- Salmão-do-atlântico (Salmo salar) e salmão-do-danúbio (Hucho hucho),01/04/2022
+0303.14.00,"-- Trutas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Onco",01/04/2022
+0303.19.00,-- Outros,01/04/2022
+0303.2,"- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0303.23.00,-- Tilápias (Oreochromis spp.),01/04/2022
+0303.24,"-- Bagres (Peixes-gato*) (Pangasius spp., Silurus spp., Clarias spp., Ictalurusspp.)",01/04/2022
+0303.24.10,Bagre americano (Ictalurus punctatus),01/04/2022
+0303.24.90,Outros,01/04/2022
+0303.25.00,"-- Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrh",01/04/2022
+0303.26.00,-- Enguias (Anguilla spp.),01/04/2022
+0303.29.00,-- Outros,01/04/2022
+0303.3,"- Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae),",01/04/2022
+0303.31.00,"-- Linguados-gigantes (Alabotes*) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippo",01/04/2022
+0303.32.00,-- Solha (Pleuronectes platessa),01/04/2022
+0303.33.00,-- Linguados (Solea spp.),01/04/2022
+0303.34.00,-- Pregado (Psetta maxima),01/04/2022
+0303.39.00,-- Outros,01/04/2022
+0303.4,"- Atuns (do gênero Thunnus), bonito-listrado (gaiado*) (Katsuwonus pelamis),exceto subprodutos co",01/04/2022
+0303.41.00,-- Albacora-branca (atum) (Thunnus alalunga),01/04/2022
+0303.42.00,-- Albacora-laje (atum) (Thunnus albacares),01/04/2022
+0303.43.00,-- Bonito-listrado (Gaiado*) (Katsuwonus pelamis),01/04/2022
+0303.44.00,-- Albacora-bandolim (atum) (Thunnus obesus),01/04/2022
+0303.45.00,"-- Atuns-azuis (atuns) (Thunnus thynnus, Thunnus orientalis)",01/04/2022
+0303.46.00,-- Atum-azul do sul (atum) (Thunnus maccoyii),01/04/2022
+0303.49.00,-- Outros,01/04/2022
+0303.5,"- Arenques (Clupea harengus, Clupea pallasii), anchovas (biqueirões*) (Engraulis spp.), sardinhas (S",01/04/2022
+0303.51.00,"-- Arenques (Clupea harengus, Clupea pallasii)",01/04/2022
+0303.53.00,"-- Sardinhas (Sardina pilchardus, Sardinops spp., Sardinella spp.) (Sardinha (Sardina pilchardus) e s",01/04/2022
+0303.54.00,"-- Cavalinhas (Sardas e cavalas*) (Scomber scombrus, Scomber australasicus, Scomber japonicus)",01/04/2022
+0303.55.00,-- Carapaus (Trachurus spp.),01/04/2022
+0303.56.00,-- Bijupirá (Cobia*) (Rachycentron canadum),01/04/2022
+0303.57.00,-- Espadarte (Xiphias gladius),01/04/2022
+0303.59,-- Outros,01/04/2022
+0303.59.10,"Espadins, marlins, veleiros (Istiophoridae)",01/04/2022
+0303.59.20,Anchoita (Engraulis anchoita),01/04/2022
+0303.59.90,Outros,01/04/2022
+0303.6,"- Peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucc",01/04/2022
+0303.63.00,"-- Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-groelândia (Gadus ogac) e bacalhau-do-pacíf",01/04/2022
+0303.64.00,-- Hadoque (Arinca*) (Melanogrammus aeglefinus),01/04/2022
+0303.65.00,-- Saithe (Escamudo*) (Pollachius virens),01/04/2022
+0303.66.00,"-- Merluzas (Pescadas*) e abróteas (Merluccius spp., Urophycis spp.)",01/04/2022
+0303.67.00,-- Polaca-do-alasca (Escamudo-do-alasca*) (Theragra chalcogramma),01/04/2022
+0303.68.00,"-- Verdinhos (Micromesistius poutassou, Micromesistius australis)",01/04/2022
+0303.69,-- Outros,01/04/2022
+0303.69.10,Merluza rosada (Macruronus magellanicus),01/04/2022
+0303.69.90,Outros,01/04/2022
+0303.8,"- Outros peixes, exceto subprodutos comestíveis de peixes das subposições",
+0303.81,-- Cação e outros tubarões,01/04/2022
+0303.81.1,Tubarão-azul (Prionace glauca),01/04/2022
+0303.81.11,Inteiro,01/04/2022
+0303.81.12,"Eviscerado, sem cabeça e sem barbatanas",01/04/2022
+0303.81.13,"Em pedaços, com pele",01/04/2022
+0303.81.14,"Em pedaços, sem pele",01/04/2022
+0303.81.19,Outros,01/04/2022
+0303.81.90,Outros,01/04/2022
+0303.82.00,-- Raias (Rajidae),01/04/2022
+0303.83,-- Merluza negra e merluza antártica (Marlongas*) (Dissostichus spp.),01/04/2022
+0303.83.1,Merluza negra (Dissostichus eleginoides),01/04/2022
+0303.83.11,"Evisceradas, sem cabeça e sem cauda",01/04/2022
+0303.83.19,Outras,01/04/2022
+0303.83.2,Merluza antártica (Dissostichus mawsoni),01/04/2022
+0303.83.21,"Evisceradas, sem cabeça e sem cauda",01/04/2022
+0303.83.29,Outras,01/04/2022
+0303.84.00,-- Robalos (Dicentrarchus spp.),01/04/2022
+0303.89,-- Outros,01/04/2022
+0303.89.10,Corvina (Micropogonias furnieri),01/04/2022
+0303.89.20,Pescadas (Cynoscion spp.),01/04/2022
+0303.89.3,Pargo (Lutjanus purpureus) e peixe-sapo (Lophius gastrophysus),01/04/2022
+0303.89.32,Pargo (Lutjanus purpureus),01/04/2022
+0303.89.33,Peixe-sapo (Lophius gastrophysus),01/04/2022
+0303.89.4,"Cherne-poveiro (Polyprion americanus), garoupas (Acanthistius spp.), tainhas(Mugil spp.), esturjões",01/04/2022
+0303.89.41,Cherne-poveiro (Polyprion americanus),01/04/2022
+0303.89.42,Garoupas (Acanthistius spp.),01/04/2022
+0303.89.43,Tainhas (Mugil spp.),01/04/2022
+0303.89.44,"Esturjões (Acipenser baerii, Acipenser gueldenstaedtii, Acipenser persicus, Acipenser stellatus)",01/04/2022
+0303.89.45,Peixes-rei (Atherina spp.),01/04/2022
+0303.89.46,Nototenias (Patagonotothen spp.),01/04/2022
+0303.89.5,"Curimatãs (Prochilodus spp.), tilápias (Tilapia spp., Sarotherodon spp., Danakilia spp.; seus híbridos)",01/04/2022
+0303.89.51,Curimatãs (Prochilodus spp.),01/04/2022
+0303.89.52,"Tilápias (Tilapia spp., Sarotherodon spp., Danakilia spp.; seus híbridos)",01/04/2022
+0303.89.53,Surubins (Pseudoplatystoma spp.),01/04/2022
+0303.89.54,Traíra (Hoplias malabaricus & H. cf. lacerdae),01/04/2022
+0303.89.55,Piaus (Leporinus spp.),01/04/2022
+0303.89.56,Pirarucu (Arapaima gigas),01/04/2022
+0303.89.6,"Piramutaba (Brachyplatystoma vaillantii), dourada (Brachyplatystoma flavicans), pacu (Piaractus mes",01/04/2022
+0303.89.61,Piramutaba (Brachyplatystoma vaillantii),01/04/2022
+0303.89.62,Dourada (Brachyplatystoma flavicans),01/04/2022
+0303.89.63,Pacu (Piaractus mesopotamicus),01/04/2022
+0303.89.64,Tambaqui (Colossoma macropomum),01/04/2022
+0303.89.65,Tambacu (híbrido de tambaqui e pacu),01/04/2022
+0303.89.90,Outros,01/04/2022
+0303.9,"- Fígados, ovas, gônadas masculinas, barbatanas, cabeças, caudas, bexigas-natatórias e outros sub",01/04/2022
+0303.91,"-- Fígados, ovas e gônadas masculinas",01/04/2023
+0303.91.10,Ovas de tainhas (Mugil spp.),01/04/2023
+0303.91.90,Outros,01/04/2023
+0303.92.00,-- Barbatanas de tubarão,01/04/2022
+0303.99,-- Outros,01/04/2022
+0303.99.10,Cabeças de Merluza negra (Dissostichus eleginoides),01/04/2022
+0303.99.20,Cabeças de Merluza antártica (Dissostichus mawsoni),01/04/2022
+0303.99.90,Outros,01/04/2022
+0304.3,"- Filés (filetes) de tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurus spp., Cl",01/04/2022
+0304.31.00,-- Tilápias (Oreochromis spp.),01/04/2022
+0304.32,"-- Bagres (Peixes-gato*) (Pangasius spp., Silurus spp., Clarias spp., Ictalurusspp.)",01/04/2022
+0304.32.10,Bagre americano (Ictalurus punctatus),01/04/2022
+0304.32.90,Outros,01/04/2022
+0304.33.00,-- Perca-do-nilo (Lates niloticus),01/04/2022
+0304.39.00,-- Outros,01/04/2022
+0304.4,"- Filés (filetes) de outros peixes, frescos ou refrigerados:",01/04/2022
+0304.41.00,"-- Salmões-do-pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorh",01/04/2022
+0304.42.00,"-- Trutas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Onco",01/04/2022
+0304.43.00,"-- Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae)",01/04/2022
+0304.44.00,"-- Peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merluc",01/04/2022
+0304.45.00,-- Espadarte (Xiphias gladius),01/04/2022
+0304.46.00,-- Merluza negra e merluza antártica (Marlongas*) (Dissostichus spp.),01/04/2022
+0304.47.00,-- Cação e outros tubarões,01/04/2022
+0304.48.00,-- Raias (Rajidae),01/04/2022
+0304.49,-- Outros,01/04/2022
+0304.49.10,Cherne-poveiro (Polyprion americanus),01/04/2022
+0304.49.20,Garoupas (Acanthistius spp.),01/04/2022
+0304.49.90,Outros,01/04/2022
+0304.5,"- Outros, frescos ou refrigerados:",01/04/2022
+0304.51.00,"-- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0304.52.00,-- Salmonídeos,01/04/2022
+0304.53.00,"-- Peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merluc",01/04/2022
+0304.54.00,-- Espadarte (Xiphias gladius),01/04/2022
+0304.55.00,-- Merluza negra e merluza antártica (Marlongas*) (Dissostichus spp.),01/04/2022
+0304.56.00,-- Cação e outros tubarões,01/04/2022
+0304.57.00,-- Raias (Rajidae),01/04/2022
+0304.59.00,-- Outros,01/04/2022
+0304.6,"- Filés (filetes) de tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurus spp., Cl",01/04/2022
+0304.61.00,-- Tilápias (Oreochromis spp.),01/04/2022
+0304.62,"-- Bagres (Peixes-gato*) (Pangasius spp., Silurus spp., Clarias spp., Ictalurusspp.)",01/04/2022
+0304.62.10,Bagre americano (Ictalurus punctatus),01/04/2022
+0304.62.90,Outros,01/04/2022
+0304.63.00,-- Perca-do-nilo (Lates niloticus),01/04/2022
+0304.69.00,-- Outros,01/04/2022
+0304.7,"- Filés (filetes) de peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Mela",01/04/2022
+0304.71.00,"-- Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-groelândia (Gadus ogac) e bacalhau-do-pacíf",01/04/2022
+0304.72.00,-- Hadoque (Arinca*) (Melanogrammus aeglefinus),01/04/2022
+0304.73.00,-- Saithe (Escamudo*) (Pollachius virens),01/04/2022
+0304.74.00,"-- Merluzas (Pescadas*) e abróteas (Merluccius spp., Urophycis spp.)",01/04/2022
+0304.75.00,-- Polaca-do-alasca (Escamudo-do-alasca*) (Theragra chalcogramma),01/04/2022
+0304.79.00,-- Outros,01/04/2022
+0304.8,"- Filés (filetes) de outros peixes, congelados:",01/04/2022
+0304.81.00,"-- Salmões-do-pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorh",01/04/2022
+0304.82.00,"-- Trutas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Onco",01/04/2022
+0304.83.00,"-- Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae)",01/04/2022
+0304.84.00,-- Espadarte (Xiphias gladius),01/04/2022
+0304.85,-- Merluza negra e merluza antártica (Marlongas*) (Dissostichus spp.),01/04/2022
+0304.85.10,Merluza negra (Dissostichus eleginoides),01/04/2022
+0304.85.20,Merluza antártica (Dissostichus mawsoni),01/04/2022
+0304.86.00,"-- Arenques (Clupea harengus, Clupea pallasii)",01/04/2022
+0304.87.00,"-- Atuns (do gênero Thunnus), bonito-listrado (gaiado*) (Katsuwonus pelamis)",01/04/2022
+0304.88,"-- Cação e outros tubarões, raias (Rajidae)",01/04/2022
+0304.88.10,Tubarão-azul (Prionace glauca),01/04/2022
+0304.88.90,Outros,01/04/2022
+0304.89,-- Outros,01/04/2022
+0304.89.10,Pargo (Lutjanus purpureus),01/04/2022
+0304.89.20,Cherne-poveiro (Polyprion americanus),01/04/2022
+0304.89.30,Garoupas (Acanthistius spp.),01/04/2022
+0304.89.90,Outros,01/04/2022
+0304.9,"- Outros, congelados:",01/04/2022
+0304.91.00,-- Espadarte (Xiphias gladius),01/04/2022
+0304.92,-- Merluza negra e merluza antártica (Marlongas*) (Dissostichus spp.),01/04/2022
+0304.92.1,Merluza negra (Dissostichus eleginoides),01/04/2022
+0304.92.11,Bochechas (cheeks),01/04/2022
+0304.92.12,Colares (collars),01/04/2022
+0304.92.19,Outros,01/04/2022
+0304.92.2,Merluza antártica (Dissostichus mawsoni),01/04/2022
+0304.92.21,Bochechas (cheeks),01/04/2022
+0304.92.22,Colares (collars),01/04/2022
+0304.92.29,Outros,01/04/2022
+0304.93.00,"-- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0304.94.00,-- Polaca-do-alasca (Escamudo-do-alasca*) (Theragra chalcogramma),01/04/2022
+0304.95.00,"-- Peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merluc",01/04/2022
+0304.96.00,-- Cação e outros tubarões,01/04/2022
+0304.97.00,-- Raias (Rajidae),01/04/2022
+0304.99.00,-- Outros,01/04/2022
+0305.20,"- Fígados, ovas e gônadas masculinas, de peixes, secos, defumados (fumados), salgados ou em sal",01/04/2023
+0305.20.10,Ovas de tainhas (Mugil spp.),01/04/2023
+0305.20.90,Outros,01/04/2023
+0305.3,"- Filés (filetes) de peixes, secos, salgados ou em salmoura, mas não defumados (fumados):",01/04/2022
+0305.31.00,"-- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0305.32,"-- Peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merluc",01/04/2022
+0305.32.10,"Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-groelândia (Gadus ogac) e bacalhau-do-pacífic",01/04/2022
+0305.32.20,Saithe (Pollachius virens),01/04/2022
+0305.32.30,Ling (Molva molva) e zarbo (Brosme brosme),01/04/2022
+0305.32.90,Outros,01/04/2022
+0305.39.00,-- Outros,01/04/2022
+0305.4,"- Peixes defumados (fumados), mesmo em filés (filetes), exceto subprodutoscomestíveis de peixes:",01/04/2022
+0305.41.00,"-- Salmões-do-pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorh",01/04/2022
+0305.42.00,"-- Arenques (Clupea harengus, Clupea pallasii)",01/04/2022
+0305.43.00,"-- Trutas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Onco",01/04/2022
+0305.44.00,"-- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0305.49,-- Outros,01/04/2022
+0305.49.10,"Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-groelândia (Gadus ogac) e bacalhau-do-pacífic",01/04/2022
+0305.49.20,"Saithe (Pollachius virens), ling (Molva molva) e zarbo (Brosme brosme)",01/04/2022
+0305.49.90,Outros,01/04/2022
+0305.5,"- Peixes secos, exceto subprodutos comestíveis de peixes, mesmo salgados,mas não defumados (f",01/04/2022
+0305.51.00,"-- Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-groelândia (Gadus ogac) e bacalhau-do-pacíf",01/04/2022
+0305.52.00,"-- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0305.53,"-- Peixes das famílias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merluc",01/04/2022
+0305.53.10,"Bacalhau polar (Boreogadus saida), saithe (Pollachius virens), ling (Molva molva), ling azul (Molva dy",01/04/2022
+0305.53.90,Outros,01/04/2022
+0305.54.00,"-- Arenques (Clupea harengus, Clupea pallasii), anchovas (biqueirões*) (Engraulis spp.), sardinhas (",01/04/2022
+0305.59.00,-- Outros,01/04/2022
+0305.6,"- Peixes salgados, não secos nem defumados (fumados) e peixes em salmoura, exceto subprodutos",01/04/2022
+0305.61.00,"-- Arenques (Clupea harengus, Clupea pallasii)",01/04/2022
+0305.62.00,"-- Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-groelândia (Gadus ogac) e bacalhau-do-pacíf",01/04/2022
+0305.63.00,-- Anchovas (Biqueirões*) (Engraulis spp.),01/04/2022
+0305.64.00,"-- Tilápias (Oreochromis spp.), bagres (peixes-gato*) (Pangasius spp., Silurusspp., Clarias spp., Ictal",01/04/2022
+0305.69,-- Outros,01/04/2022
+0305.69.10,"Saithe (Pollachius virens), ling (Molva molva) e zarbo (Brosme brosme)",01/04/2022
+0305.69.90,Outros,01/04/2022
+0305.7,"- Barbatanas, cabeças, caudas, bexigas-natatórias e outros subprodutos comestíveis de peixes:",01/04/2022
+0305.71.00,-- Barbatanas de tubarão,01/04/2022
+0305.72.00,"-- Cabeças, caudas e bexigas-natatórias, de peixes",01/04/2022
+0305.79.00,-- Outros,01/04/2022
+0306.1,- Congelados:,01/04/2022
+0306.11,"-- Lagostas (Palinurus spp., Panulirus spp., Jasus spp.)",01/04/2022
+0306.11.10,Inteiras,01/04/2022
+0306.11.90,Outras,01/04/2022
+0306.12.00,-- Lavagantes (Homarus spp.),01/04/2022
+0306.14.00,-- Caranguejos,01/04/2022
+0306.15.00,-- Lagosta norueguesa (Lagostim*) (Nephrops norvegicus),01/04/2022
+0306.16,"-- Camarões de água fria (Pandalus spp., Crangon crangon)",01/04/2022
+0306.16.10,Inteiros,01/04/2022
+0306.16.90,Outros,01/04/2022
+0306.17,-- Outros camarões,01/04/2022
+0306.17.10,Inteiros,01/04/2022
+0306.17.90,Outros,01/04/2022
+0306.19,-- Outros,01/04/2022
+0306.19.10,Krill (Euphausia superba),01/04/2022
+0306.19.90,Outros,01/04/2022
+0306.3,"- Vivos, frescos ou refrigerados:",01/04/2022
+0306.31.00,"-- Lagostas (Palinurus spp., Panulirus spp., Jasus spp.)",01/04/2022
+0306.32.00,-- Lavagantes (Homarus spp.),01/04/2022
+0306.33.00,-- Caranguejos,01/04/2022
+0306.34.00,-- Lagosta norueguesa (Lagostim*) (Nephrops norvegicus),01/04/2022
+0306.35.00,"-- Camarões de água fria (Pandalus spp., Crangon crangon)",01/04/2022
+0306.36.00,-- Outros camarões,01/04/2022
+0306.39,-- Outros,01/04/2022
+0306.39.10,Lagosta de água doce (Cherax quadricarinatus),01/04/2022
+0306.39.90,Outros,01/04/2022
+0306.9,- Outros:,01/04/2022
+0306.91.00,"-- Lagostas (Palinurus spp., Panulirus spp., Jasus spp.)",01/04/2022
+0306.92.00,-- Lavagantes (Homarus spp.),01/04/2022
+0306.93.00,-- Caranguejos,01/04/2022
+0306.94.00,-- Lagosta norueguesa (Lagostim*) (Nephrops norvegicus),01/04/2022
+0306.95.00,-- Camarões,01/04/2022
+0306.99,-- Outros,01/04/2022
+0306.99.10,Lagosta de água doce (Cherax quadricarinatus),01/04/2022
+0306.99.90,Outros,01/04/2022
+0307.1,- Ostras:,01/04/2022
+0307.11.00,"-- Vivas, frescas ou refrigeradas",01/04/2022
+0307.12.00,-- Congeladas,01/04/2022
+0307.19.00,-- Outras,01/04/2022
+0307.2,- Vieiras e outros moluscos da família Pectinidae:,01/04/2022
+0307.21.00,"-- Vivos, frescos ou refrigerados",01/04/2022
+0307.22.00,-- Congelados,01/04/2022
+0307.29.00,-- Outros,01/04/2022
+0307.3,"- Mexilhões (Mytilus spp., Perna spp.):",01/04/2022
+0307.31.00,"-- Vivos, frescos ou refrigerados",01/04/2022
+0307.32.00,-- Congelados,01/04/2022
+0307.39.00,-- Outros,01/04/2022
+0307.4,- Sépias (Chocos*) (Chocos e chopos*); lulas (potas e lulas*):,01/04/2022
+0307.42.00,"-- Vivas, frescas ou refrigeradas",01/04/2022
+0307.43,-- Congeladas,01/04/2022
+0307.43.10,Lulas,01/04/2022
+0307.43.20,Sépias,01/04/2022
+0307.49.00,-- Outras,01/04/2022
+0307.5,- Polvos (Octopus spp.):,01/04/2022
+0307.51.00,"-- Vivos, frescos ou refrigerados",01/04/2022
+0307.52.00,-- Congelados,01/04/2022
+0307.59.00,-- Outros,01/04/2022
+0307.60.00,"- Caracóis, exceto os do mar",01/04/2022
+0307.7,"- Amêijoas, berbigões e arcas (famílias Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactri",01/04/2022
+0307.71.00,"-- Vivos, frescos ou refrigerados",01/04/2022
+0307.72.00,-- Congelados,01/04/2022
+0307.79.00,-- Outros,01/04/2022
+0307.8,- Abalones (Orelhas-do-mar*) (Haliotis spp.) e estrombos (Strombus spp.):,01/04/2022
+0307.81.00,"-- Abalones (Orelhas-do-mar*) (Haliotis spp.) vivos, frescos ou refrigerados",01/04/2022
+0307.82.00,"-- Estrombos (Strombus spp.) vivos, frescos ou refrigerados",01/04/2022
+0307.83.00,-- Abalones (Orelhas-do-mar*) (Haliotis spp.) congelados,01/04/2022
+0307.84.00,-- Estrombos (Strombus spp.) congelados,01/04/2022
+0307.87.00,-- Outros abalones (orelhas-do-mar*) (Haliotis spp.),01/04/2022
+0307.88.00,-- Outros estrombos (Strombus spp.),01/04/2022
+0307.9,- Outros:,01/04/2022
+0307.91.00,"-- Vivos, frescos ou refrigerados",01/04/2022
+0307.92.00,-- Congelados,01/04/2022
+0307.99.00,-- Outros,01/04/2022
+0308.1,"- Pepinos-do-mar (Stichopus japonicus, Holothuroidea):",01/04/2022
+0308.11.00,"-- Vivos, frescos ou refrigerados",01/04/2022
+0308.12.00,-- Congelados,01/04/2022
+0308.19.00,-- Outros,01/04/2022
+0308.2,"- Ouriços-do-mar (Strongylocentrotus spp., Paracentrotus lividus, Loxechinusalbus, Echinus esculen",01/04/2022
+0308.21.00,"-- Vivos, frescos ou refrigerados",01/04/2022
+0308.22.00,-- Congelados,01/04/2022
+0308.29.00,-- Outros,01/04/2022
+0308.30.00,- Medusas (águas-vivas) (Rhopilema spp.),01/04/2022
+0308.90.00,- Outros,01/04/2022
+0309.10.00,- De peixe,01/04/2022
+0309.90.00,- Outros,01/04/2022

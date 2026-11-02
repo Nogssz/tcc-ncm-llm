@@ -1,0 +1,37 @@
+codigo,descricao,data_inicio
+24.01,Tabaco não manufaturado; desperdícios de tabaco.,01/04/2022
+24.02,"Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos.",01/04/2022
+24.03,"Outros produtos de tabaco e seus sucedâneos, manufaturados; tabaco ""homogeneizado"" ou ""recons",01/04/2022
+24.04,"Produtos que contenham tabaco, tabaco reconstituído, nicotina ou sucedâneos do tabaco ou da nico",01/04/2022
+2401.10,- Tabaco não destalado,01/04/2022
+2401.10.10,"Em folhas, sem secar nem fermentar",01/04/2022
+2401.10.20,Em folhas secas ou fermentadas tipo capeiro,01/04/2022
+2401.10.30,"Em folhas secas em secador de ar quente (flue cured), do tipo Virgínia",01/04/2022
+2401.10.40,"Em folhas secas, com um conteúdo de óleos voláteis superior a 0,2 %, em peso, do tipo turco",01/04/2022
+2401.10.90,Outros,01/04/2022
+2401.20,- Tabaco total ou parcialmente destalado,01/04/2022
+2401.20.10,"Em folhas, sem secar nem fermentar",01/04/2022
+2401.20.20,Em folhas secas ou fermentadas tipo capeiro,01/04/2022
+2401.20.30,"Em folhas secas em secador de ar quente (flue cured), do tipo Virgínia",01/04/2022
+2401.20.40,"Em folhas secas (light air cured), do tipo Burley",01/04/2022
+2401.20.90,Outros,01/04/2022
+2401.30.00,- Desperdícios de tabaco,01/04/2022
+2402.10.00,"- Charutos e cigarrilhas, que contenham tabaco",01/04/2022
+2402.20.00,- Cigarros que contenham tabaco,01/04/2022
+2402.90.00,- Outros,01/04/2022
+2403.1,"- Tabaco para fumar, mesmo que contenha sucedâneos do tabaco em qualquer proporção:",01/04/2022
+2403.11.00,-- Tabaco para narguilé (cachimbo de água) mencionado na Nota de subposiç,
+2403.19.00,-- Outros,01/04/2022
+2403.9,- Outros:,01/04/2022
+2403.91.00,"-- Tabaco ""homogeneizado"" ou ""reconstituído""",01/04/2022
+2403.99,-- Outros,01/04/2022
+2403.99.10,Extratos e molhos,01/04/2022
+2403.99.90,Outros,01/04/2022
+2404.1,- Produtos destinados à inalação sem combustão:,01/04/2022
+2404.11.00,-- Que contenham tabaco ou tabaco reconstituído,01/04/2022
+2404.12.00,"-- Outros, que contenham nicotina",01/04/2022
+2404.19.00,-- Outros,01/04/2022
+2404.9,- Outros:,01/04/2022
+2404.91.00,-- Para aplicação oral,01/04/2022
+2404.92.00,-- Para aplicação percutânea,01/04/2022
+2404.99.00,-- Outros,01/04/2022

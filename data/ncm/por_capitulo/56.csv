@@ -1,0 +1,111 @@
+codigo,descricao,data_inicio
+56.01,Pastas (ouates) de matérias têxteis e artigos destas pastas (ouates); fibras têxteis de comprimento n,01/04/2022
+56.02,"Feltros, mesmo impregnados, revestidos, recobertos ou estratificados.",01/04/2022
+56.03,"Falsos tecidos (tecidos não tecidos), mesmo impregnados, revestidos, recobertos ou estratificados.",01/04/2022
+56.04,"Fios e cordas, de borracha, recobertos de têxteis; fios têxteis, lâminas e formas semelhantes das pos",01/04/2022
+56.07,"Cordéis, cordas e cabos, entrançados ou não, mesmo impregnados, revestidos, recobertos ou emba",01/04/2022
+56.08,"Redes de malhas com nós, em panos ou em peça, obtidas a partir de cordéis, cordas ou cabos; rede",01/04/2022
+5601.2,- Pastas (ouates) de matérias têxteis e artigos destas pastas (ouates):,01/04/2022
+5601.21,-- De algodão,01/04/2022
+5601.21.10,Pastas (ouates),01/04/2022
+5601.21.90,Outros artigos de pastas (ouates),01/04/2022
+5601.22,-- De fibras sintéticas ou artificiais,01/04/2022
+5601.22.1,Pastas (ouates),01/04/2022
+5601.22.11,De aramidas,01/04/2022
+5601.22.19,Outras,01/04/2022
+5601.22.9,Outros artigos de pastas ( ouates),01/04/2022
+5601.22.91,Cilindros para filtros de cigarros,01/04/2022
+5601.22.99,Outros,01/04/2022
+5601.29.00,-- Outros,01/04/2022
+5601.30,"- Tontisses, nós e bolotas (borbotos*) de matérias têxteis",01/04/2022
+5601.30.10,De aramidas,01/04/2022
+5601.30.90,Outros,01/04/2022
+5602.10.00,- Feltros agulhados e artigos obtidos por costura por entrelaçamento (cousus-tricotés),01/04/2022
+5602.2,"- Outros feltros, não impregnados, nem revestidos, nem recobertos, nem estratificados:",01/04/2022
+5602.21.00,-- De lã ou de pelos finos,01/04/2022
+5602.29.00,-- De outras matérias têxteis,01/04/2022
+5602.90.00,- Outros,01/04/2022
+5603.1,- De filamentos sintéticos ou artificiais:,01/04/2022
+5603.11,-- De peso não superior a 25 g/m2,01/04/2022
+5603.11.10,De aramidas,01/04/2022
+5603.11.20,De poliéster,01/04/2022
+5603.11.30,De polipropileno,01/04/2022
+5603.11.40,De raiom viscose,01/04/2022
+5603.11.90,Outros,01/04/2022
+5603.12,"-- De peso superior a 25 g/m2, mas não superior a 70 g/m2",01/04/2022
+5603.12.10,De polietileno de alta densidade,01/04/2022
+5603.12.20,De aramidas,01/04/2022
+5603.12.30,De poliéster,01/04/2022
+5603.12.40,De polipropileno,01/04/2022
+5603.12.50,De raiom viscose,01/04/2022
+5603.12.90,Outros,01/04/2022
+5603.13,"-- De peso superior a 70 g/m2, mas não superior a 150 g/m2",01/04/2022
+5603.13.10,De polietileno de alta densidade,01/04/2022
+5603.13.20,De aramidas,01/04/2022
+5603.13.30,De poliéster,01/04/2022
+5603.13.40,De polipropileno,01/04/2022
+5603.13.50,De raiom viscose,01/04/2022
+5603.13.90,Outros,01/04/2022
+5603.14,-- De peso superior a 150 g/m2,01/04/2022
+5603.14.10,De aramidas,01/04/2022
+5603.14.20,De poliéster,01/04/2022
+5603.14.30,De polipropileno,01/04/2022
+5603.14.40,De raiom viscose,01/04/2022
+5603.14.90,Outros,01/04/2022
+5603.9,- Outros:,01/04/2022
+5603.91,-- De peso não superior a 25 g/m2,01/04/2022
+5603.91.10,De poliéster,01/04/2022
+5603.91.20,De polipropileno,01/04/2022
+5603.91.30,De raiom viscose,01/04/2022
+5603.91.90,Outros,01/04/2022
+5603.92,"-- De peso superior a 25 g/m2, mas não superior a 70 g/m2",01/04/2022
+5603.92.10,De polietileno de alta densidade,01/04/2022
+5603.92.20,De poliéster,01/04/2022
+5603.92.30,De polipropileno,01/04/2022
+5603.92.40,De raiom viscose,01/04/2022
+5603.92.90,Outros,01/04/2022
+5603.93,"-- De peso superior a 70 g/m2, mas não superior a 150 g/m2",01/04/2022
+5603.93.10,De polietileno de alta densidade,01/04/2022
+5603.93.20,De poliéster,01/04/2022
+5603.93.30,De polipropileno,01/04/2022
+5603.93.40,De raiom viscose,01/04/2022
+5603.93.90,Outros,01/04/2022
+5603.94,-- De peso superior a 150 g/m2,01/04/2022
+5603.94.10,De poliéster,01/04/2022
+5603.94.20,De polipropileno,01/04/2022
+5603.94.30,De raiom viscose,01/04/2022
+5603.94.90,Outros,01/04/2022
+5604.10.00,"- Fios e cordas, de borracha, recobertos de têxteis",01/04/2022
+5604.90,- Outros,01/04/2022
+5604.90.10,Imitações de categute constituídas por fios de seda,01/04/2022
+5604.90.2,"Fios de alta tenacidade, de poliésteres, náilon ou de outras poliamidas, ou deraiom viscose, impregn",01/04/2022
+5604.90.21,Com borracha,01/04/2022
+5604.90.22,Com plástico,01/04/2022
+5604.90.90,Outros,01/04/2022
+5605.00,"Fios metálicos e fios metalizados, mesmo revestidos por enrolamento, constituídos por fios têxteis, lâ",01/04/2022
+5605.00.10,Com metais preciosos,01/04/2022
+5605.00.20,"Revestidos por enrolamento, exceto com metais preciosos",01/04/2022
+5605.00.90,Outros,01/04/2022
+5606.00.00,"Fios revestidos por enrolamento, lâminas e formas semelhantes das posições",
+5607.2,- De sisal ou de outras fibras têxteis do gênero Agave:,01/04/2022
+5607.21.00,-- Cordéis para atadeiras ou enfardadeiras,01/04/2022
+5607.29.00,-- Outros,01/04/2022
+5607.4,- De polietileno ou de polipropileno:,01/04/2022
+5607.41.00,-- Cordéis para atadeiras ou enfardadeiras,01/04/2022
+5607.49.00,-- Outros,01/04/2022
+5607.50,- De outras fibras sintéticas,01/04/2022
+5607.50.1,De poliamidas,01/04/2022
+5607.50.11,De náilon,01/04/2022
+5607.50.19,Outros,01/04/2022
+5607.50.90,Outros,01/04/2022
+5607.90,- Outros,01/04/2022
+5607.90.10,De algodão,01/04/2022
+5607.90.20,"De juta, inferior ao número métrico 0,75 por fio simples",01/04/2022
+5607.90.90,Outros,01/04/2022
+5608.1,- De matérias têxteis sintéticas ou artificiais:,01/04/2022
+5608.11.00,-- Redes confeccionadas para a pesca,01/04/2022
+5608.19.00,-- Outras,01/04/2022
+5608.90.00,- Outras,01/04/2022
+5609.00,"Artigos de fios, lâminas ou formas semelhantes das posições 54.04 ou 54.05,cordéis, cordas ou cab",01/04/2022
+5609.00.10,De algodão,01/04/2022
+5609.00.90,Outros,01/04/2022

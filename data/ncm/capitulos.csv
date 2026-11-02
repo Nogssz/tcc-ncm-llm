@@ -1,0 +1,97 @@
+capitulo,titulo,qtd_codigos
+01,Animais vivos.,71
+02,"Carnes e miudezas, comestíveis.",127
+03,"Peixes e crustáceos, moluscos e outros invertebrados aquáticos.",430
+04,"Leite e laticínios; ovos de aves; mel natural; produtos comestíveis de origemanimal, não especificad",76
+05,"Outros produtos de origem animal, não especificados nem compreendidos noutros Capítulos.",43
+06,Plantas vivas e produtos de floricultura.,31
+07,"Produtos hortícolas, plantas, raízes e tubérculos, comestíveis.",143
+08,Fruta; cascas de citros (citrinos) e de melões.,118
+09,"Café, chá, mate e especiarias.",71
+10,Cereais.,70
+11,Produtos da indústria de moagem; malte; amidos e féculas; inulina; glúten detrigo.,44
+12,"Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais;",97
+13,"Gomas, resinas e outros sucos e extratos vegetais.",36
+14,"Matérias para entrançar e outros produtos de origem vegetal, não especificados nem compreendidos",11
+15,"Gorduras e óleos animais, vegetais ou de origem microbiana e produtos da sua dissociação; gordura",130
+16,"Preparações de carne, peixes, crustáceos, moluscos, outros invertebrados aquáticos ou de insetos.",65
+17,Açúcares e produtos de confeitaria.,35
+18,Cacau e suas preparações.,18
+19,"Preparações à base de cereais, farinhas, amidos, féculas ou leite; produtos de pastelaria.",40
+20,"Preparações de produtos hortícolas, fruta ou de outras partes de plantas.",103
+21,Preparações alimentícias diversas.,62
+22,"Bebidas, líquidos alcoólicos e vinagres.",51
+23,Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais.,48
+24,"Tabaco e seus sucedâneos manufaturados; produtos, mesmo com nicotina, destinados à inalação se",36
+25,"Sal; enxofre; terras e pedras; gesso, cal e cimento.",126
+26,"Minérios, escórias e cinzas.",76
+27,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras m",107
+28,"Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elemen",604
+29,Produtos químicos orgânicos.,2213
+30,Produtos farmacêuticos.,501
+31,Adubos (fertilizantes).,53
+32,Extratos tanantes e tintoriais; taninos e seus derivados; pigmentos e outras matérias corantes; tintas,154
+33,Óleos essenciais e resinoides; produtos de perfumaria ou de toucador preparados e preparações cos,78
+34,"Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, cera",77
+35,Matérias albuminoides; produtos à base de amidos ou de féculas modificados; colas; enzimas.,63
+36,Pólvoras e explosivos; artigos de pirotecnia; fósforos; ligas pirofóricas; matérias inflamáveis.,18
+37,Produtos para fotografia e cinematografia.,92
+38,Produtos diversos das indústrias químicas.,393
+39,Plástico e suas obras.,482
+40,Borracha e suas obras.,170
+41,"Peles, exceto as peles com pelo, e couros.",116
+42,"Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsase artigos semelhantes;",33
+43,Peles com pelo e suas obras; peles com pelo artificiais.,18
+44,"Madeira, carvão vegetal e obras de madeira.",234
+45,Cortiça e suas obras.,10
+46,Obras de espartaria ou de cestaria.,16
+47,Pastas de madeira ou de outras matérias fibrosas celulósicas; papel ou cartão para reciclar (desperd,32
+48,"Papel e cartão; obras de pasta de celulose, papel ou de cartão.",273
+49,"Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou datilografad",31
+50,Seda.,16
+51,"Lã, pelos finos ou grosseiros; fios e tecidos de crina.",80
+52,Algodão.,205
+53,Outras fibras têxteis vegetais; fios de papel e tecidos de fios de papel.,50
+54,Filamentos sintéticos ou artificiais; lâminas e formas semelhantes de matériastêxteis sintéticas ou ar,145
+55,"Fibras sintéticas ou artificiais, descontínuas.",219
+56,"Pastas (ouates), feltros e falsos tecidos (tecidos não tecidos); fios especiais;cordéis, cordas e cabos",110
+57,"Tapetes e outros revestimentos para pisos (pavimentos), de matérias têxteis.",40
+58,Tecidos especiais; tecidos tufados; rendas; tapeçarias; passamanarias; bordados.,60
+59,"Tecidos impregnados, revestidos, recobertos ou estratificados; artigos para usos técnicos de matéria",36
+60,Tecidos de malha.,109
+61,"Vestuário e seus acessórios, de malha.",186
+62,"Vestuário e seus acessórios, exceto de malha.",153
+63,Outros artigos têxteis confeccionados; sortidos; artigos de matérias têxteis eartigos de uso semelha,94
+64,"Calçado, polainas e artigos semelhantes; suas partes.",58
+65,"Chapéus e artigos de uso semelhante, e suas partes.",27
+66,"Guarda-chuvas, sombrinhas, guarda-sóis, bengalas, bengalas-assentos, chicotes, pingalins, e suas",11
+67,Penas e penugem preparadas e suas obras; flores artificiais; obras de cabelo.,11
+68,"Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes.",107
+69,Produtos cerâmicos.,88
+70,Vidro e suas obras.,131
+71,"Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e semelhantes, metais preciosos,",103
+72,"Ferro fundido, ferro e aço.",315
+73,"Obras de ferro fundido, ferro ou aço.",235
+74,Cobre e suas obras.,118
+75,Níquel e suas obras.,42
+76,Alumínio e suas obras.,92
+78,Chumbo e suas obras.,19
+79,Zinco e suas obras.,24
+80,Estanho e suas obras.,10
+81,Outros metais comuns; cermets; obras dessas matérias.,98
+82,"Ferramentas, artigos de cutelaria e talheres, e suas partes, de metais comuns.",119
+83,Obras diversas de metais comuns.,51
+84,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes.",1651
+85,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução d",955
+86,"Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos mecânicos (incluindo",46
+87,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partese acessórios.",243
+88,"Aeronaves e aparelhos espaciais, e suas partes.",51
+89,Embarcações e estruturas flutuantes.,36
+90,"Instrumentos e aparelhos de óptica, de fotografia, de cinematografia, de medida, de controle ou de p",556
+91,Artigos de relojoaria.,86
+92,Instrumentos musicais; suas partes e acessórios.,28
+93,Armas e munições; suas partes e acessórios.,35
+94,"Móveis; mobiliário médico-cirúrgico; colchões, almofadas e semelhantes; luminárias e aparelhos de i",91
+95,"Brinquedos, jogos, artigos para divertimento ou para esporte; suas partes e acessórios.",76
+96,Obras diversas.,75
+97,"Objetos de arte, de coleção e antiguidades.",28

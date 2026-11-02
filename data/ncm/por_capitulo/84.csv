@@ -1,0 +1,1652 @@
+codigo,descricao,data_inicio
+84.01,"Reatores nucleares; elementos combustíveis (cartuchos) não irradiados, parareatores nucleares; má",01/04/2022
+84.02,"Caldeiras de vapor (geradores de vapor), excluindo as caldeiras para aquecimento central concebida",01/04/2022
+84.03,"Caldeiras para aquecimento central, exceto as da posição 84.02.",01/04/2022
+84.04,"Aparelhos auxiliares para caldeiras das posições 84.02 ou 84.03 (por exemplo, economizadores, sup",01/04/2022
+84.05,"Geradores de gás de ar (gás pobre) ou de gás de água, mesmo com depuradores; geradores de ace",01/04/2022
+84.06,Turbinas a vapor.,01/04/2022
+84.07,"Motores de pistão, alternativo ou rotativo, de ignição por centelha (faísca) (motores de explosão).",01/04/2022
+84.08,"Motores de pistão, de ignição por compressão (motores diesel ou semidiesel).",01/04/2022
+84.09,Partes reconhecíveis como exclusiva ou principalmente destinadas aos motores das posições 84.07,01/04/2022
+84.10,"Turbinas hidráulicas, rodas hidráulicas, e seus reguladores.",01/04/2022
+84.11,"Turborreatores, turbopropulsores e outras turbinas a gás.",01/04/2022
+84.12,Outros motores e máquinas motrizes.,01/04/2022
+84.13,"Bombas para líquidos, mesmo com dispositivo medidor; elevadores de líquidos.",01/04/2022
+84.14,"Bombas de ar ou de vácuo, compressores de ar ou de outros gases e ventiladores; coifas aspirantes",01/04/2022
+84.15,Máquinas e aparelhos de ar-condicionado que contenham um ventilador motorizado e dispositivos pr,01/04/2022
+84.16,"Queimadores para alimentação de fornalhas de combustíveis líquidos, combustíveis sólidos pulveriz",01/04/2022
+84.17,"Fornos industriais ou de laboratório, incluindo os incineradores, não elétricos.",01/04/2022
+84.18,"Refrigeradores, congeladores (freezers) e outros materiais, máquinas e aparelhos, para a produção",01/04/2022
+84.19,"Aparelhos, dispositivos ou equipamentos de laboratório, mesmo aquecidos eletricamente (exceto os",01/04/2022
+84.20,"Calandras e laminadores, exceto os destinados ao tratamento de metais ou vidro, e seus cilindros.",01/04/2022
+84.21,"Centrifugadores, incluindo os secadores centrífugos; aparelhos para filtrar oudepurar líquidos ou gas",01/04/2022
+84.22,Máquinas de lavar louça; máquinas e aparelhos para limpar ou secar garrafas ou outros recipientes;,01/04/2022
+84.23,"Aparelhos e instrumentos de pesagem, incluindo as básculas e balanças para verificar peças usinad",01/04/2022
+84.24,"Aparelhos mecânicos (mesmo manuais) para projetar, dispersar ou pulverizarlíquidos ou pós; extinto",01/04/2022
+84.25,"Talhas, cadernais e moitões; guinchos e cabrestantes; macacos.",01/04/2022
+84.26,"Cábreas; guindastes, incluindo os de cabo; pontes rolantes, pórticos de descarga ou de movimentaç",01/04/2022
+84.27,"Empilhadeiras; outros veículos para movimentação de carga e semelhantes,equipados com disposit",01/04/2022
+84.28,"Outras máquinas e aparelhos de elevação, de carga, de descarga ou de movimentação (por exempl",01/04/2022
+84.29,"Bulldozers, angledozers, niveladores, raspo-transportadores (scrapers), pásmecânicas, escavadore",01/04/2022
+84.30,"Outras máquinas e aparelhos de terraplenagem, nivelamento, raspagem, escavação, compactação,",01/04/2022
+84.31,Partes reconhecíveis como exclusiva ou principalmente destinadas às máquinas e aparelhos das po,01/04/2022
+84.32,"Máquinas e aparelhos de uso agrícola, hortícola ou florestal, para preparaçãoou trabalho do solo ou",01/04/2022
+84.33,"Máquinas e aparelhos para colheita ou debulha de produtos agrícolas, incluindo as enfardadeiras de",01/04/2022
+84.34,Máquinas de ordenhar e máquinas e aparelhos para a indústria de laticínios.,01/04/2022
+84.35,"Prensas, esmagadores e máquinas e aparelhos semelhantes, para fabricação de vinho, sidra, sucos",01/04/2022
+84.36,"Outras máquinas e aparelhos para agricultura, horticultura, silvicultura, avicultura ou apicultura, inclui",01/04/2022
+84.37,"Máquinas para limpeza, seleção ou peneiração de grãos ou de produtos hortícolas secos; máquinas",01/04/2022
+84.38,Máquinas e aparelhos não especificados nem compreendidos noutras posições do presente Capítulo,01/04/2022
+84.39,Máquinas e aparelhos para fabricação de pasta de matérias fibrosas celulósicas ou para fabricação,01/04/2022
+84.40,"Máquinas e aparelhos para brochura ou encadernação, incluindo as máquinas de costurar cadernos.",01/04/2022
+84.41,"Outras máquinas e aparelhos para o trabalho de pasta de papel, papel ou cartão, incluindo as cortad",01/04/2022
+84.42,"Máquinas, aparelhos e equipamentos (exceto as máquinas das posições 84.5",
+84.43,"Máquinas e aparelhos de impressão por meio de placas, cilindros e outros elementos de impressão",01/04/2022
+84.45,"Máquinas para preparação de matérias têxteis; máquinas para fiação, dobragem ou torção, de matér",01/04/2022
+84.46,Teares para tecidos.,01/04/2022
+84.47,"Teares para fabricar malhas, máquinas de costura por entrelaçamento (couture-tricotage), máquinas",01/04/2022
+84.48,"Máquinas e aparelhos auxiliares para as máquinas das posições 84.44, 84.45",
+84.50,"Máquinas de lavar roupa, mesmo com dispositivos de secagem.",01/04/2022
+84.51,"Máquinas e aparelhos (exceto as máquinas da posição 84.50) para lavar, limpar, espremer, secar, pa",01/04/2022
+84.52,"Máquinas de costura, exceto as de costurar cadernos da posição 84.40; móveis, bases e tampas, pr",01/04/2022
+84.53,"Máquinas e aparelhos para preparar, curtir ou trabalhar couros ou peles, ou para fabricar ou conserta",01/04/2022
+84.54,"Conversores, cadinhos ou colheres de fundição, lingoteiras e máquinas de vazar (moldar), para meta",01/04/2022
+84.55,Laminadores de metais e seus cilindros.,01/04/2022
+84.56,"Máquinas-ferramentas que trabalhem por eliminação de qualquer matéria, que operem por laser ou p",01/04/2022
+84.57,"Centros de usinagem (fabricação*), máquinas de sistema monostático (singlestation) e máquinas de",01/04/2022
+84.58,Tornos (incluindo os centros de torneamento) para metais.,01/04/2022
+84.59,"Máquinas-ferramentas (incluindo as unidades com cabeça deslizante) para furar, mandrilar, fresar, ro",01/04/2022
+84.60,"Máquinas-ferramentas para rebarbar, afiar, amolar, retificar, brunir, polir ou realizar outras operações",01/04/2022
+84.61,"Máquinas-ferramentas para aplainar, plainas-limadoras, máquinas-ferramentas para escatelar, broch",01/04/2022
+84.62,"Máquinas-ferramentas (incluindo as prensas) para forjar ou estampar, martelos, martelos-pilões e ma",01/04/2022
+84.63,"Outras máquinas-ferramentas para trabalhar metais ou cermets, que trabalhem sem eliminação de m",01/04/2022
+84.64,"Máquinas-ferramentas para trabalhar pedra, produtos cerâmicos, concreto (betão), fibrocimento ou m",01/04/2022
+84.65,"Máquinas-ferramentas (incluindo as máquinas para pregar, grampear, colar ou reunir por qualquer ou",01/04/2022
+84.66,Partes e acessórios reconhecíveis como exclusiva ou principalmente destinados às máquinas das po,01/04/2022
+84.67,"Ferramentas pneumáticas, hidráulicas ou com motor (elétrico ou não elétrico)incorporado, de uso m",01/04/2022
+84.68,"Máquinas e aparelhos para soldar, mesmo de corte, exceto os da posição 85.10; máquinas e aparelh",51/04/2022
+84.70,"Máquinas de calcular e máquinas de bolso que permitam gravar, reproduzir evisualizar informações,",01/04/2022
+84.71,Máquinas automáticas para processamento de dados e suas unidades; leitores magnéticos ou óptico,01/04/2022
+84.72,"Outras máquinas e aparelhos de escritório (por exemplo, duplicadores hectográficos ou a estêncil, m",01/04/2022
+84.73,"Partes e acessórios (exceto estojos, capas e semelhantes) reconhecíveis como exclusiva ou principa",01/04/2022
+84.74,"Máquinas e aparelhos para selecionar, peneirar, separar, lavar, esmagar, moer, misturar ou amassar",01/04/2022
+84.75,"Máquinas para montagem de lâmpadas, tubos ou válvulas, elétricos ou eletrônicos, ou de lâmpadas",01/04/2022
+84.76,"Máquinas automáticas de venda de produtos (por exemplo, selos, cigarros, alimentos ou bebidas), in",01/04/2022
+84.77,Máquinas e aparelhos para trabalhar borracha ou plástico ou para fabricaçãode produtos dessas ma,01/04/2022
+84.78,"Máquinas e aparelhos para preparar ou transformar tabaco, não especificados nem compreendidos",01/04/2022
+84.79,"Máquinas e aparelhos mecânicos com função própria, não especificados nemcompreendidos noutra",01/04/2022
+84.80,Caixas de fundição; placas de fundo para moldes; modelos para moldes; moldes para metais (exceto,01/04/2022
+84.81,"Torneiras, válvulas (incluindo as redutoras de pressão e as termostáticas) e dispositivos semelhantes",01/04/2022
+84.82,"Rolamentos de esferas, de roletes ou de agulhas.",01/04/2022
+84.83,Árvores (veios) de transmissão (incluindo as árvores de cames e virabrequins(cambotas)) e manivel,01/04/2022
+84.84,"Juntas metaloplásticas; jogos ou sortidos de juntas de composições diferentes, apresentados em bol",01/04/2022
+84.85,Máquinas para fabricação aditiva.,01/04/2022
+84.86,Máquinas e aparelhos do tipo utilizado exclusiva ou principalmente na fabricação de boules ou wafer,01/04/2022
+84.87,"Partes de máquinas ou de aparelhos, não especificadas nem compreendidasnoutras posições do pr",01/04/2022
+8401.10.00,- Reatores nucleares,01/04/2022
+8401.20.00,"- Máquinas e aparelhos para a separação de isótopos, e suas partes",01/04/2022
+8401.30.00,- Elementos combustíveis (cartuchos) não irradiados,01/04/2022
+8401.40.00,- Partes de reatores nucleares,01/04/2022
+8402.1,- Caldeiras de vapor:,01/04/2022
+8402.11.00,-- Caldeiras aquatubulares com produção de vapor superior a 45 t por hora,01/04/2022
+8402.12.00,-- Caldeiras aquatubulares com produção de vapor não superior a 45 t por hora,01/04/2022
+8402.19.00,"-- Outras caldeiras para produção de vapor, incluindo as caldeiras mistas",01/04/2022
+8402.20.00,"- Caldeiras denominadas ""de água superaquecida""",01/04/2022
+8402.90.00,- Partes,01/04/2022
+8403.10,- Caldeiras,01/04/2022
+8403.10.10,Com capacidade inferior ou igual a 200.000 kcal/hora,01/04/2022
+8403.10.90,Outras,01/04/2022
+8403.90.00,- Partes,01/04/2022
+8404.10,- Aparelhos auxiliares para caldeiras das posições 84.02 ou 84.03,01/04/2022
+8404.10.10,Da posição 84.02,01/04/2022
+8404.10.20,Da posição 84.03,01/04/2022
+8404.20.00,- Condensadores para máquinas a vapor,01/04/2022
+8404.90,- Partes,01/04/2022
+8404.90.10,De aparelhos auxiliares para caldeiras da posição 84.02,01/04/2022
+8404.90.90,Outras,01/04/2022
+8405.10.00,"- Geradores de gás de ar (gás pobre) ou de gás de água, mesmo com depuradores; geradores de ac",01/04/2022
+8405.90.00,- Partes,01/04/2022
+8406.10.00,- Turbinas para propulsão de embarcações,01/04/2022
+8406.8,- Outras turbinas:,01/04/2022
+8406.81.00,-- De potência superior a 40 MW,01/04/2022
+8406.82.00,-- De potência não superior a 40 MW,01/04/2022
+8406.90,- Partes,01/04/2022
+8406.90.1,Rotores,01/04/2022
+8406.90.11,"De turbinas a reação, de múltiplos estágios",01/04/2022
+8406.90.19,Outras,01/04/2022
+8406.90.2,Palhetas,01/04/2022
+8406.90.21,Fixas (de estator),01/04/2022
+8406.90.29,Outras,01/04/2022
+8406.90.90,Outras,01/04/2022
+8407.10.00,- Motores para aviação,01/04/2022
+8407.2,- Motores para propulsão de embarcações:,01/04/2022
+8407.21,-- Do tipo fora de borda,01/04/2022
+8407.21.10,Monocilíndricos,01/04/2022
+8407.21.90,Outros,01/04/2022
+8407.29,-- Outros,01/04/2022
+8407.29.10,Monocilíndricos,01/04/2022
+8407.29.90,Outros,01/04/2022
+8407.3,- Motores de pistão alternativo do tipo utilizado para propulsão de veículos doCapítulo 27:,01/04/2028
+8407.31,-- De cilindrada não superior a 50 cm3,01/04/2022
+8407.31.10,Monocilíndricos,01/04/2022
+8407.31.90,Outros,01/04/2022
+8407.32.00,"-- De cilindrada superior a 50 cm3, mas não superior a 250 cm3",01/04/2022
+8407.33,"-- De cilindrada superior a 250 cm3, mas não superior a 1.000 cm3",01/04/2022
+8407.33.10,Monocilíndricos,01/04/2022
+8407.33.90,Outros,01/04/2022
+8407.34,-- De cilindrada superior a 1.000 cm3,01/04/2022
+8407.34.10,Monocilíndricos,01/04/2022
+8407.34.90,Outros,01/04/2022
+8407.90.00,- Outros motores,01/04/2022
+8408.10,- Motores para propulsão de embarcações,01/04/2022
+8408.10.10,Do tipo fora de borda,01/04/2022
+8408.10.90,Outros,01/04/2022
+8408.20,- Motores do tipo utilizado para propulsão de veículos do Capítulo 87,01/04/2022
+8408.20.10,De cilindrada inferior ou igual a 1.500 cm3,01/04/2022
+8408.20.20,"De cilindrada superior a 1.500 cm3, mas não superior a 2.500 cm3",01/04/2022
+8408.20.30,"De cilindrada superior a 2.500 cm3, mas não superior a 3.500 cm3",01/04/2022
+8408.20.90,Outros,01/04/2022
+8408.90,- Outros motores,01/04/2022
+8408.90.10,"Estacionários, de potência normal ISO superior a 497,5 kW (663 HP), segundo Norma ISO 3046/1",01/04/2022
+8408.90.90,Outros,01/04/2022
+8409.10.00,- De motores para aviação,01/04/2022
+8409.9,- Outras:,01/04/2022
+8409.91,"-- Reconhecíveis como exclusiva ou principalmente destinadas aos motores de pistão, de ignição po",01/04/2022
+8409.91.1,"Bielas, blocos de cilindros, cabeçotes, cárteres, carburadores, válvulas de admissão ou de escape, c",01/04/2022
+8409.91.11,Bielas,01/04/2022
+8409.91.12,"Blocos de cilindros, cabeçotes e cárteres",01/04/2022
+8409.91.13,"Carburadores, com bomba e dispositivo de compensação de nível de combustível incorporados, amb",01/04/2022
+8409.91.14,Válvulas de admissão ou de escape,01/04/2022
+8409.91.15,Coletores de admissão ou de escape,01/04/2022
+8409.91.16,Anéis de segmento,01/04/2022
+8409.91.17,Guias de válvulas,01/04/2022
+8409.91.18,Outros carburadores,01/04/2022
+8409.91.20,Pistões ou êmbolos,01/04/2022
+8409.91.30,Camisas de cilindro,01/04/2022
+8409.91.40,Sistema de injeção eletrônica,01/04/2022
+8409.91.90,Outras,01/04/2022
+8409.99,-- Outras,01/04/2022
+8409.99.1,"Blocos de cilindros, cárteres, válvulas de admissão ou de escape, coletores de admissão ou escape",01/04/2022
+8409.99.12,Blocos de cilindros e cárteres,01/04/2022
+8409.99.14,Válvulas de admissão ou de escape,01/04/2022
+8409.99.15,Coletores de admissão ou de escape,01/04/2022
+8409.99.17,Guias de válvulas,01/04/2022
+8409.99.2,Pistões ou êmbolos,01/04/2022
+8409.99.21,De diâmetro igual ou superior a 200 mm,01/04/2022
+8409.99.29,Outros,01/04/2022
+8409.99.30,Camisas de cilindro,01/04/2022
+8409.99.4,Bielas,01/04/2022
+8409.99.41,De peso igual ou superior a 30 kg,01/04/2022
+8409.99.49,Outras,01/04/2022
+8409.99.5,Cabeçotes,01/04/2022
+8409.99.51,De diâmetro igual ou superior a 200 mm,01/04/2022
+8409.99.59,Outros,01/04/2022
+8409.99.6,Bicos injetores (incluindo os porta-injetores),01/04/2022
+8409.99.61,De diâmetro igual ou superior a 20 mm,01/04/2022
+8409.99.69,Outros,01/04/2022
+8409.99.7,Anéis de segmento,01/04/2022
+8409.99.71,De diâmetro igual ou superior a 200 mm,01/04/2022
+8409.99.79,Outros,01/04/2022
+8409.99.9,Outras,01/04/2022
+8409.99.91,"Camisas de cilindro soldadas a cabeçotes, de diâmetro igual ou superior a 200 mm",01/04/2022
+8409.99.99,Outras,01/04/2022
+8410.1,- Turbinas e rodas hidráulicas:,01/04/2022
+8410.11.00,-- De potência não superior a 1.000 kW,01/04/2022
+8410.12.00,"-- De potência superior a 1.000 kW, mas não superior a 10.000 kW",01/04/2022
+8410.13.00,-- De potência superior a 10.000 kW,01/04/2022
+8410.90.00,"- Partes, incluindo os reguladores",01/04/2022
+8411.1,- Turborreatores:,01/04/2022
+8411.11.00,-- De empuxo (impulso*) não superior a 25 kN,01/04/2022
+8411.12.00,-- De empuxo (impulso*) superior a 25 kN,01/04/2022
+8411.2,- Turbopropulsores:,01/04/2022
+8411.21.00,-- De potência não superior a 1.100 kW,01/04/2022
+8411.22.00,-- De potência superior a 1.100 kW,01/04/2022
+8411.8,- Outras turbinas a gás:,01/04/2022
+8411.81.00,-- De potência não superior a 5.000 kW,01/04/2022
+8411.82.00,-- De potência superior a 5.000 kW,01/04/2022
+8411.9,- Partes:,01/04/2022
+8411.91.00,-- De turborreatores ou de turbopropulsores,01/04/2022
+8411.99.00,-- Outras,01/04/2022
+8412.10.00,"- Propulsores a reação, excluindo os turborreatores",01/04/2022
+8412.2,- Motores hidráulicos:,01/04/2022
+8412.21,-- De movimento retilíneo (cilindros),01/04/2022
+8412.21.10,Cilindros hidráulicos,01/04/2022
+8412.21.90,Outros,01/04/2022
+8412.29.00,-- Outros,01/04/2022
+8412.3,- Motores pneumáticos:,01/04/2022
+8412.31,-- De movimento retilíneo (cilindros),01/04/2022
+8412.31.10,Cilindros pneumáticos,01/04/2022
+8412.31.90,Outros,01/04/2022
+8412.39.00,-- Outros,01/04/2022
+8412.80.00,- Outros,01/04/2022
+8412.90,- Partes,01/04/2022
+8412.90.10,De propulsores a reação,01/04/2022
+8412.90.20,De máquinas a vapor de movimento retilíneo (cilindros),01/04/2022
+8412.90.80,"Outras, de máquinas das subposições 8412.21 ou 8412.31",01/04/2022
+8412.90.90,Outras,01/04/2022
+8413.1,- Bombas com dispositivo medidor ou concebidas para comportá-lo:,01/04/2022
+8413.11.00,"-- Bombas para distribuição de combustíveis ou lubrificantes, do tipo utilizadoem postos (estações) d",01/04/2022
+8413.19.00,-- Outras,01/04/2022
+8413.20.00,"- Bombas manuais, exceto das subposições 8413.11 ou 8413.19",01/04/2022
+8413.30,"- Bombas para combustíveis, lubrificantes ou líquidos de arrefecimento, próprias para motores de ign",01/04/2022
+8413.30.10,Para gasolina ou álcool,01/04/2022
+8413.30.20,Injetoras de combustível para motor de ignição por compressão,01/04/2022
+8413.30.30,Para óleo lubrificante,01/04/2022
+8413.30.90,Outras,01/04/2022
+8413.40.00,- Bombas para concreto (betão),01/04/2022
+8413.50,- Outras bombas volumétricas alternativas,01/04/2022
+8413.50.10,"De potência superior a 3,73 kW (5 HP), mas não superior a 447,42 kW (600 HP), excluídas as para o",01/04/2022
+8413.50.90,Outras,01/04/2022
+8413.60,- Outras bombas volumétricas rotativas,01/04/2022
+8413.60.1,De vazão inferior ou igual a 300 l/min,01/04/2022
+8413.60.11,De engrenagem,01/04/2022
+8413.60.19,Outras,01/04/2022
+8413.60.90,Outras,01/04/2022
+8413.70,- Outras bombas centrífugas,01/04/2022
+8413.70.10,Eletrobombas submersíveis,01/04/2022
+8413.70.80,"Outras, de vazão inferior ou igual a 300 l/min",01/04/2022
+8413.70.90,Outras,01/04/2022
+8413.8,- Outras bombas; elevadores de líquidos:,01/04/2022
+8413.81.00,-- Bombas,01/04/2022
+8413.82.00,-- Elevadores de líquidos,01/04/2022
+8413.9,- Partes:,01/04/2022
+8413.91,-- De bombas,01/04/2022
+8413.91.10,"Hastes de bombeamento, do tipo utilizado para extração de petróleo",01/04/2022
+8413.91.90,Outras,01/04/2022
+8413.92.00,-- De elevadores de líquidos,01/04/2022
+8414.10.00,- Bombas de vácuo,01/04/2022
+8414.20.00,"- Bombas de ar, de mão ou de pé",01/04/2022
+8414.30,- Compressores do tipo utilizado nos equipamentos frigoríficos,01/04/2022
+8414.30.1,Motocompressores herméticos,01/04/2022
+8414.30.11,Com capacidade inferior a 4.700 frigorias/hora,01/04/2022
+8414.30.19,Outros,01/04/2022
+8414.30.9,Outros,01/04/2022
+8414.30.91,Com capacidade inferior ou igual a 16.000 frigorias/hora,01/04/2022
+8414.30.99,Outros,01/04/2022
+8414.40,- Compressores de ar montados sobre chassis com rodas e rebocáveis,01/04/2022
+8414.40.10,De deslocamento alternativo,01/04/2022
+8414.40.20,De parafuso,01/04/2022
+8414.40.90,Outros,01/04/2022
+8414.5,- Ventiladores:,01/04/2022
+8414.51,"-- Ventiladores de mesa, de assentar no solo, de parede, de teto ou de janela, com motor elétrico inc",01/04/2022
+8414.51.10,De mesa,01/04/2022
+8414.51.20,De teto,01/04/2022
+8414.51.90,Outros,01/04/2022
+8414.59,-- Outros,01/04/2022
+8414.59.10,Microventiladores com área de carcaça inferior a 90 cm2,01/04/2022
+8414.59.90,Outros,01/04/2022
+8414.60.00,- Coifas aspirantes (exaustores) com dimensão horizontal máxima não superi,
+8414.70.00,- Cabinas (câmaras) de segurança biológica estanques aos gases,01/04/2022
+8414.80,- Outros,01/04/2022
+8414.80.1,Compressores de ar,01/04/2022
+8414.80.11,"Estacionários, de pistão",01/04/2022
+8414.80.12,De parafuso,01/04/2022
+8414.80.13,De lóbulos paralelos (tipo Roots),01/04/2022
+8414.80.19,Outros,01/04/2022
+8414.80.2,Turbocompressores de ar,01/04/2022
+8414.80.21,"Turboalimentadores de ar, de peso inferior ou igual a 50 kg para motores dasposições 24.07 ou 84.0",01/04/2028
+8414.80.22,"Turboalimentadores de ar, de peso superior a 50 kg para motores das posiçõ",
+8414.80.29,Outros,01/04/2022
+8414.80.3,Compressores de gases (exceto ar),01/04/2022
+8414.80.31,De pistão,01/04/2022
+8414.80.32,De parafuso,01/04/2022
+8414.80.33,"Centrífugos, de vazão máxima inferior a 22.000 m3/h",01/04/2022
+8414.80.38,Outros compressores centrífugos,01/04/2022
+8414.80.39,Outros,01/04/2022
+8414.80.90,Outros,01/04/2022
+8414.90,- Partes,01/04/2022
+8414.90.10,De bombas,01/04/2022
+8414.90.20,De ventiladores ou coifas aspirantes,01/04/2022
+8414.90.3,De compressores,01/04/2022
+8414.90.31,Pistões ou êmbolos,01/04/2022
+8414.90.32,Anéis de segmento,01/04/2022
+8414.90.33,"Blocos de cilindros, cabeçotes e cárteres",01/04/2022
+8414.90.34,Válvulas,01/04/2022
+8414.90.39,Outras,01/04/2022
+8414.90.40,De cabinas (câmaras) de segurança,01/04/2022
+8415.10,"- Do tipo concebido para ser fixado numa janela, parede, teto ou piso (pavimento), formando um corp",01/04/2022
+8415.10.1,Com capacidade inferior ou igual a 30.000 frigorias/hora,01/04/2022
+8415.10.11,Do tipo split-system (sistema com elementos separados),01/04/2022
+8415.10.19,Outros,01/04/2022
+8415.10.90,Outros,01/04/2022
+8415.20,- Do tipo utilizado para o conforto dos passageiros nos veículos automóveis,01/04/2022
+8415.20.10,Com capacidade inferior ou igual a 30.000 frigorias/hora,01/04/2022
+8415.20.90,Outros,01/04/2022
+8415.8,- Outros:,01/04/2022
+8415.81,-- Com dispositivo de refrigeração e válvula de inversão do ciclo térmico (bombas de calor reversívei,01/04/2022
+8415.81.10,Com capacidade inferior ou igual a 30.000 frigorias/hora,01/04/2022
+8415.81.90,Outros,01/04/2022
+8415.82,"-- Outros, com dispositivo de refrigeração",01/04/2022
+8415.82.10,Com capacidade inferior ou igual a 30.000 frigorias/hora,01/04/2022
+8415.82.90,Outros,01/04/2022
+8415.83.00,-- Sem dispositivo de refrigeração,01/04/2022
+8415.90,- Partes,01/04/2022
+8415.90.10,Unidades evaporadoras (internas) de aparelho de ar-condicionado do tipo split-system (sistema com,01/04/2022
+8415.90.20,Unidades condensadoras (externas) de aparelho de ar-condicionado do tipo split-system (sistema co,01/04/2022
+8415.90.90,Outras,01/04/2022
+8416.10.00,- Queimadores de combustíveis líquidos,01/04/2022
+8416.20,"- Outros queimadores, incluindo os mistos",01/04/2022
+8416.20.10,De gases,01/04/2022
+8416.20.90,Outros,01/04/2022
+8416.30.00,"- Fornalhas automáticas, incluindo as antefornalhas, grelhas mecânicas, descarregadores mecânicos",01/04/2022
+8416.90.00,- Partes,01/04/2022
+8417.10,"- Fornos para ustulação, fusão ou outros tratamentos térmicos de minérios oude metais",01/04/2022
+8417.10.10,Fornos industriais para fusão de metais,01/04/2022
+8417.10.20,Fornos industriais para tratamento térmico de metais,01/04/2022
+8417.10.90,Outros,01/04/2022
+8417.20.00,"- Fornos de padaria, pastelaria ou para a indústria de bolachas e biscoitos",01/04/2022
+8417.80,- Outros,01/04/2022
+8417.80.10,Fornos industriais para cerâmica,01/04/2022
+8417.80.20,Fornos industriais para fusão de vidro,01/04/2022
+8417.80.90,Outros,01/04/2022
+8417.90.00,- Partes,01/04/2022
+8418.10.00,"- Combinações de refrigeradores e congeladores (freezers), munidos de portas ou gavetas exteriores",01/04/2022
+8418.2,- Refrigeradores do tipo doméstico:,01/04/2022
+8418.21.00,-- De compressão,01/04/2022
+8418.29.00,-- Outros,01/04/2022
+8418.30.00,"- Congeladores (freezers) horizontais (arcas), de capacidade não superior a 800 l",01/04/2022
+8418.40.00,"- Congeladores (freezers) verticais, de capacidade não superior a 900 l",01/04/2022
+8418.50,"- Outros móveis (arcas, armários, vitrines, balcões e móveis semelhantes) para a conservação e exp",01/04/2022
+8418.50.10,Congeladores (freezers),01/04/2022
+8418.50.90,Outros,01/04/2022
+8418.6,"- Outros materiais, máquinas e aparelhos, para a produção de frio; bombas de calor:",01/04/2022
+8418.61.00,"-- Bombas de calor, exceto as máquinas e aparelhos de ar-condicionado da posição 2.125",01/04/2804
+8418.69,-- Outros,01/04/2022
+8418.69.10,Máquinas não domésticas para preparação de sorvetes,01/04/2022
+8418.69.20,Resfriadores de leite,01/04/2022
+8418.69.3,"Unidades fornecedoras de água, sucos ou bebidas carbonatadas",01/04/2022
+8418.69.31,De água ou sucos,01/04/2022
+8418.69.32,De bebidas carbonatadas,01/04/2022
+8418.69.40,Grupos frigoríficos de compressão com capacidade inferior ou igual a 30.000,
+8418.69.9,Outros,01/04/2022
+8418.69.91,"Resfriadores de água, de absorção por brometo de lítio",01/04/2022
+8418.69.99,Outros,01/04/2022
+8418.9,- Partes:,01/04/2022
+8418.91.00,-- Móveis concebidos para receber um equipamento para a produção de frio,01/04/2022
+8418.99.00,-- Outras,01/04/2022
+8419.1,"- Aquecedores de água não elétricos, de aquecimento instantâneo ou de acumulação:",01/04/2022
+8419.11.00,"-- De aquecimento instantâneo, a gás",01/04/2022
+8419.12.00,-- Aquecedores de água solares,01/04/2022
+8419.19.00,-- Outros,01/04/2022
+8419.20.00,- Esterilizadores médico-cirúrgicos ou de laboratório,01/04/2022
+8419.3,- Secadores:,01/04/2022
+8419.33.00,"-- Aparelhos de liofilização, aparelhos de criodessecação e secadores por pulverização",01/04/2022
+8419.34.00,"-- Outros, para produtos agrícolas",01/04/2022
+8419.35.00,"-- Outros, para madeiras, pastas de papel, papel ou cartão",01/04/2022
+8419.39.00,-- Outros,01/04/2022
+8419.40,- Aparelhos de destilação ou de retificação,01/04/2022
+8419.40.10,De destilação de água,01/04/2022
+8419.40.20,De destilação ou retificação de álcoois e outros fluidos voláteis ou de hidrocarbonetos,01/11/2023
+8419.40.90,Outros,01/04/2022
+8419.50,- Trocadores (permutadores) de calor,01/04/2022
+8419.50.10,De placas,01/04/2022
+8419.50.2,Tubulares,01/04/2022
+8419.50.21,Metálicos,01/04/2022
+8419.50.22,De grafita,01/04/2022
+8419.50.29,Outros,01/04/2022
+8419.50.90,Outros,01/04/2022
+8419.60.00,- Aparelhos e dispositivos para liquefação do ar ou de outros gases,01/04/2022
+8419.8,- Outros aparelhos e dispositivos:,01/04/2022
+8419.81,-- Para preparação de bebidas quentes ou para cozimento ou aquecimento de alimentos,01/04/2022
+8419.81.10,Autoclaves,01/04/2022
+8419.81.90,Outros,01/04/2022
+8419.89,-- Outros,01/04/2022
+8419.89.1,Esterilizadores,01/04/2022
+8419.89.11,"De alimentos, mediante Ultra Alta Temperatura (UHT - Ultra High Temperature) por injeção direta de",01/04/2022
+8419.89.19,Outros,01/04/2022
+8419.89.20,Estufas,01/04/2022
+8419.89.30,Torrefadores,01/04/2022
+8419.89.40,Evaporadores,01/04/2022
+8419.89.9,Outros,01/04/2022
+8419.89.91,"Recipiente refrigerador, com dispositivo de circulação de fluido refrigerante",01/04/2022
+8419.89.99,Outros,01/04/2022
+8419.90,- Partes,01/04/2022
+8419.90.10,De aquecedores de água das subposições 8419.11 ou 8419.19,01/04/2022
+8419.90.20,De colunas de destilação ou de retificação,01/04/2022
+8419.90.3,"De trocadores de calor, de placas",01/04/2022
+8419.90.31,"Placa corrugada, de aço inoxidável ou de alumínio, com superfície de troca térmica de área superior",01/04/2022
+8419.90.39,Outras,01/04/2022
+8419.90.40,De aparelhos ou dispositivos das subposições 8419.81 ou 8419.89,01/04/2022
+8419.90.90,Outras,01/04/2022
+8420.10,- Calandras e laminadores,01/04/2022
+8420.10.10,Para papel ou cartão,01/04/2022
+8420.10.90,Outros,01/04/2022
+8420.9,- Partes:,01/04/2022
+8420.91.00,-- Cilindros,01/04/2022
+8420.99.00,-- Outras,01/04/2022
+8421.1,"- Centrifugadores, incluindo os secadores centrífugos:",01/04/2022
+8421.11,-- Desnatadeiras,01/04/2022
+8421.11.10,Com capacidade de processamento de leite igual ou superior a 30.000 l/h,01/04/2022
+8421.11.90,Outras,01/04/2022
+8421.12,-- Secadores de roupa,01/04/2022
+8421.12.10,Com tambor de capacidade inferior ou igual a 23 l,01/04/2022
+8421.12.90,Outros,01/04/2022
+8421.19,-- Outros,01/04/2022
+8421.19.10,"Centrifugadores para laboratórios de análises, ensaios ou pesquisas científicas",01/04/2022
+8421.19.90,Outros,01/04/2022
+8421.2,- Aparelhos para filtrar ou depurar líquidos:,01/04/2022
+8421.21.00,-- Para filtrar ou depurar água,01/04/2022
+8421.22.00,"-- Para filtrar ou depurar bebidas, exceto água",01/04/2022
+8421.23.00,-- Para filtrar carburantes ou óleos lubrificantes nos motores de ignição por centelha (faísca) ou por c,01/04/2022
+8421.29,-- Outros,01/04/2022
+8421.29.1,Do tipo utilizado em hemodiálise,01/04/2022
+8421.29.11,Capilares,01/04/2022
+8421.29.19,Outros,01/04/2022
+8421.29.20,Aparelho de osmose inversa,01/04/2022
+8421.29.30,Filtros-prensa,01/04/2022
+8421.29.90,Outros,01/04/2022
+8421.3,- Aparelhos para filtrar ou depurar gases:,01/04/2022
+8421.31.00,-- Filtros de entrada de ar para motores de ignição por centelha (faísca) ou por compressão,01/04/2022
+8421.32.00,"-- Conversores catalíticos e filtros de partículas, mesmo combinados, para depurar ou filtrar os gases",01/04/2022
+8421.39,-- Outros,01/04/2022
+8421.39.10,Filtros eletrostáticos,01/04/2022
+8421.39.30,"Concentradores de oxigênio por depuração do ar, com capacidade de saída inferior ou igual a 6 l/min",01/04/2022
+8421.39.90,Outros,01/04/2022
+8421.9,- Partes:,01/04/2022
+8421.91,"-- De centrifugadores, incluindo as dos secadores centrífugos",01/04/2022
+8421.91.10,De secadores de roupa do item 8421.12.10,01/04/2022
+8421.91.9,Outras,01/04/2022
+8421.91.91,"Tambores rotativos com pratos ou discos separadores, de peso superior a 300 kg",01/04/2022
+8421.91.99,Outras,01/04/2022
+8421.99,-- Outras,01/04/2022
+8421.99.10,"De aparelhos para filtrar ou depurar gases, da subposição 8421.39",01/04/2022
+8421.99.20,Do tipo utilizado em linhas de sangue para hemodiálise,01/04/2022
+8421.99.9,Outras,01/04/2022
+8421.99.91,Cartuchos de membrana de aparelhos de osmose inversa,01/04/2022
+8421.99.99,Outras,01/04/2022
+8422.1,- Máquinas de lavar louça:,01/04/2022
+8422.11.00,-- Do tipo doméstico,01/04/2022
+8422.19.00,-- Outras,01/04/2022
+8422.20.00,- Máquinas e aparelhos para limpar ou secar garrafas ou outros recipientes,01/04/2022
+8422.30,"- Máquinas e aparelhos para encher, fechar, arrolhar ou rotular garrafas, caixas, latas, sacos ou outro",01/04/2022
+8422.30.10,"Máquinas e aparelhos para encher, fechar, arrolhar, capsular ou rotular garrafas",01/04/2022
+8422.30.2,"Máquinas e aparelhos para encher, fechar, arrolhar ou rotular caixas, latas, sacos ou outros recipient",01/04/2022
+8422.30.21,Para encher caixas ou sacos com pó ou grãos,01/04/2022
+8422.30.22,Para encher e fechar embalagens confeccionadas com papel ou cartão dos subitens 2121.51.22 ou 4,01/04/2408
+8422.30.23,"Para encher e fechar recipientes tubulares flexíveis (bisnagas), com capacidade igual ou superior a 1",01/04/2022
+8422.30.29,Outros,01/04/2022
+8422.30.30,Para gaseificar bebidas,01/04/2022
+8422.40,- Outras máquinas e aparelhos para empacotar ou embalar mercadorias (incluindo as máquinas e ap,01/04/2022
+8422.40.10,"Horizontais, próprias para empacotamento de massas alimentícias longas (comprimento superior a 2",01/04/2022
+8422.40.20,"Automática, para embalar tubos ou barras de metal, em atados de peso inferior ou igual a 2.000 kg e",01/04/2022
+8422.40.30,De empacotar embalagens confeccionadas com papel ou cartão dos subitens,
+8422.40.90,Outros,01/04/2022
+8422.90,- Partes,01/04/2022
+8422.90.10,"De máquinas de lavar louça, de uso doméstico",01/04/2022
+8422.90.90,Outras,01/04/2022
+8423.10.00,"- Balanças para pessoas, incluindo as balanças para bebês; balanças de usodoméstico",01/04/2022
+8423.20.00,- Básculas de pesagem contínua em transportadores,01/04/2022
+8423.30,- Básculas de pesagem constante e balanças e básculas ensacadoras ou doseadoras,01/04/2022
+8423.30.1,Dosadoras,01/04/2022
+8423.30.11,"Com aparelhos periféricos, que constituam unidade funcional",01/04/2022
+8423.30.19,Outras,01/04/2022
+8423.30.90,Outras,01/04/2022
+8423.8,- Outros aparelhos e instrumentos de pesagem:,01/04/2022
+8423.81,-- De capacidade não superior a 30 kg,01/04/2022
+8423.81.10,"De mesa, com dispositivo registrador ou impressor de etiquetas",01/04/2022
+8423.81.90,Outros,01/04/2022
+8423.82.00,"-- De capacidade superior a 30 kg, mas não superior a 5.000 kg",01/04/2022
+8423.89.00,-- Outros,01/04/2022
+8423.90,- Pesos para quaisquer balanças; partes de aparelhos ou instrumentos de pesagem,01/04/2022
+8423.90.10,Pesos,01/04/2022
+8423.90.2,Partes,01/04/2022
+8423.90.21,De aparelhos ou instrumentos da subposição 8423.10,01/04/2022
+8423.90.29,Outras,01/04/2022
+8424.10.00,"- Extintores, mesmo carregados",01/04/2022
+8424.20.00,- Pistolas aerográficas e aparelhos semelhantes,01/04/2022
+8424.30,"- Máquinas e aparelhos de jato de areia, de jato de vapor e aparelhos de jatosemelhantes",01/04/2022
+8424.30.10,"Máquinas e aparelhos de desobstrução de tubulação ou de limpeza, por jatode água",01/04/2022
+8424.30.20,De jato de areia própria para desgaste localizado de peças de vestuário,01/04/2022
+8424.30.30,Perfuradoras por jato de água com pressão de trabalho máxima igual ou superior a  2M2Pa,01/04/1200
+8424.30.90,Outros,01/04/2022
+8424.4,- Pulverizadores para agricultura ou horticultura:,01/04/2022
+8424.41.00,-- Pulverizadores portáteis,01/04/2022
+8424.49.00,-- Outros,01/04/2022
+8424.8,- Outros aparelhos:,01/04/2022
+8424.82,-- Para agricultura ou horticultura,01/04/2022
+8424.82.2,Irrigadores e sistemas de irrigação,01/04/2022
+8424.82.21,Por aspersão,01/04/2022
+8424.82.29,Outros,01/04/2022
+8424.82.90,Outros,01/04/2022
+8424.89,-- Outros,01/04/2022
+8424.89.10,"Aparelhos de pulverização constituídos por botão de pressão com bocal (tampa spray), válvula do tip",01/04/2022
+8424.89.20,"Aparelhos automáticos para projetar lubrificantes sobre pneumáticos, que contenham uma estação d",01/04/2022
+8424.89.90,Outros,01/04/2022
+8424.90,- Partes,01/04/2022
+8424.90.10,De aparelhos da subposição 8424.10 ou do item 8424.89.10,01/04/2022
+8424.90.90,Outras,01/04/2022
+8425.1,"- Talhas, cadernais e moitões:",01/04/2022
+8425.11.00,-- De motor elétrico,01/04/2022
+8425.19,-- Outros,01/04/2022
+8425.19.10,"Talhas, cadernais e moitões, manuais",01/04/2022
+8425.19.90,Outros,01/04/2022
+8425.3,- Guinchos; cabrestantes:,01/04/2022
+8425.31,-- De motor elétrico,01/04/2022
+8425.31.10,Com capacidade inferior ou igual a 100 t,01/04/2022
+8425.31.90,Outros,01/04/2022
+8425.39,-- Outros,01/04/2022
+8425.39.10,Com capacidade inferior ou igual a 100 t,01/04/2022
+8425.39.90,Outros,01/04/2022
+8425.4,- Macacos:,01/04/2022
+8425.41.00,"-- Elevadores fixos de veículos, para garagens (oficinas)",01/04/2022
+8425.42.00,"-- Outros macacos, hidráulicos",01/04/2022
+8425.49,-- Outros,01/04/2022
+8425.49.10,Manuais,01/04/2022
+8425.49.90,Outros,01/04/2022
+8426.1,"- Pontes e vigas, rolantes, pórticos, pontes-guindastes e carros-pórticos:",01/04/2022
+8426.11.00,"-- Pontes e vigas, rolantes, de suportes fixos",01/04/2022
+8426.12.00,-- Pórticos móveis de pneumáticos e carros-pórticos,01/04/2022
+8426.19.00,-- Outros,01/04/2022
+8426.20.00,- Guindastes de torre,01/04/2022
+8426.30.00,- Guindastes de pórtico,01/04/2022
+8426.4,"- Outras máquinas e aparelhos, autopropulsados:",01/04/2022
+8426.41,-- De pneumáticos,01/04/2022
+8426.41.10,"Com deslocamento em sentido longitudinal, transversal e diagonal (tipo caranguejo) com capacidade",01/04/2022
+8426.41.90,Outros,01/04/2022
+8426.49,-- Outros,01/04/2022
+8426.49.10,"De lagartas (esteiras), com capacidade de elevação igual ou superior a 70 t",01/04/2022
+8426.49.90,Outros,01/04/2022
+8426.9,- Outras máquinas e aparelhos:,01/04/2022
+8426.91.00,-- Próprios para serem montados em veículos rodoviários,01/04/2022
+8426.99.00,-- Outros,01/04/2022
+8427.10,"- Autopropulsados, de motor elétrico",01/04/2022
+8427.10.1,Empilhadeiras,01/04/2022
+8427.10.11,"De capacidade de carga superior a 6,5 t",01/04/2022
+8427.10.19,Outras,01/04/2022
+8427.10.90,Outros,01/04/2022
+8427.20,"- Outros, autopropulsados",01/04/2022
+8427.20.10,"Empilhadeiras com capacidade de carga superior a 6,5 t",01/04/2022
+8427.20.90,Outros,01/04/2022
+8427.90.00,- Outros,01/04/2022
+8428.10.00,- Elevadores e monta-cargas,01/04/2022
+8428.20,"- Aparelhos elevadores ou transportadores, pneumáticos",01/04/2022
+8428.20.10,"Transportadores tubulares (transvasadores) móveis, acionados com motor depotência superior a 90",01/04/2022
+8428.20.90,Outros,01/04/2022
+8428.3,"- Outros aparelhos elevadores ou transportadores, de ação contínua, para mercadorias:",01/04/2022
+8428.31.00,-- Especialmente concebidos para uso subterrâneo,01/04/2022
+8428.32.00,"-- Outros, de caçamba (balde*)",01/04/2022
+8428.33.00,"-- Outros, de correia",01/04/2022
+8428.39,-- Outros,01/04/2022
+8428.39.10,De correntes,01/04/2022
+8428.39.20,De rolos motores,01/04/2022
+8428.39.30,"De pinças laterais, do tipo utilizado para o transporte de jornais",01/04/2022
+8428.39.90,Outros,01/04/2022
+8428.40.00,"- Escadas e tapetes, rolantes",01/04/2022
+8428.60.00,- Teleféricos (incluindo as telecadeiras e os telesquis); mecanismos de traçãopara funiculares,01/04/2022
+8428.70.00,- Robôs industriais,01/04/2022
+8428.90,- Outras máquinas e aparelhos,01/04/2022
+8428.90.10,"Do tipo utilizado para desembarque de botes salva-vidas, motorizados ou providos de dispositivo de",01/04/2022
+8428.90.20,"Transportadores-elevadores (transelevadores) automáticos, de deslocamentohorizontal sobre guias",01/04/2022
+8428.90.30,"Máquina para formação de pilhas de jornais, dispostos em sentido alternado,de capacidade igual ou",01/04/2022
+8428.90.90,Outros,01/04/2022
+8429.1,- Bulldozers e angledozers:,01/04/2022
+8429.11,-- De lagartas (esteiras),01/04/2022
+8429.11.10,"De potência no volante igual ou superior a 387,76 kW (520 HP)",01/04/2022
+8429.11.90,Outros,01/04/2022
+8429.19,-- Outros,01/04/2022
+8429.19.10,"Bulldozers de potência no volante igual ou superior a 234,90 kW (315 HP)",01/04/2022
+8429.19.90,Outros,01/04/2022
+8429.20,- Niveladores,01/04/2022
+8429.20.10,"Motoniveladores articulados, de potência no volante igual ou superior a 205,07 kW (52 2HP)",01/04/2270
+8429.20.90,Outros,01/04/2022
+8429.30.00,- Raspo-transportadores (scrapers),01/04/2022
+8429.40.00,- Compactadores e rolos ou cilindros compressores,01/04/2022
+8429.5,"- Pás mecânicas, escavadores, carregadores e pás carregadoras:",01/04/2022
+8429.51,"-- Carregadores e pás carregadoras, de carregamento frontal",01/04/2022
+8429.51.1,Carregadores-transportadores,01/04/2022
+8429.51.11,Do tipo utilizado em minas subterrâneas,01/04/2022
+8429.51.19,Outras,01/04/2022
+8429.51.2,"Infraestruturas motoras, próprias para receber equipamentos do item 8430.69.0",11/04/2022
+8429.51.21,"De potência no volante igual ou superior a 454,13 kW (609 HP)",01/04/2022
+8429.51.29,Outras,01/04/2022
+8429.51.9,Outras,01/04/2022
+8429.51.91,"De potência no volante igual ou superior a 297,5 kW (399 HP)",01/04/2022
+8429.51.92,"De potência no volante inferior ou igual a 43,99 kW (59 HP)",01/04/2022
+8429.51.99,Outras,01/04/2022
+8429.52,-- Máquinas cuja superestrutura é capaz de efetuar uma rotação de 360°,01/04/2022
+8429.52.1,Escavadores,01/04/2022
+8429.52.11,"De potência no volante igual ou superior a 484,7 kW (650 HP)",01/04/2022
+8429.52.12,"De potência no volante inferior ou igual a 40,3 kW (54 HP)",01/04/2022
+8429.52.19,Outras,01/04/2022
+8429.52.20,"Infraestruturas motoras, próprias para receber equipamentos das subposiçõe",
+8429.52.90,Outras,01/04/2022
+8429.59.00,-- Outros,01/04/2022
+8430.10.00,- Bate-estacas e arranca-estacas,01/04/2022
+8430.20.00,- Limpa-neves,01/04/2022
+8430.3,- Cortadores de carvão ou de rocha e máquinas para perfuração de túneis oude galerias:,01/04/2022
+8430.31,-- Autopropulsados,01/04/2022
+8430.31.10,Cortadores de carvão ou de rocha,01/04/2022
+8430.31.90,Outros,01/04/2022
+8430.39,-- Outros,01/04/2022
+8430.39.10,Cortadores de carvão ou de rocha,01/04/2022
+8430.39.90,Outras,01/04/2022
+8430.4,- Outras máquinas de sondagem ou de perfuração:,01/04/2022
+8430.41,-- Autopropulsadas,01/04/2022
+8430.41.10,Perfuratriz de percussão,01/04/2022
+8430.41.20,Perfuratriz rotativa,01/04/2022
+8430.41.30,"Máquinas de sondagem, rotativas",01/04/2022
+8430.41.90,Outras,01/04/2022
+8430.49,-- Outras,01/04/2022
+8430.49.10,Perfuratriz de percussão,01/04/2022
+8430.49.20,"Máquinas de sondagem, rotativas",01/04/2022
+8430.49.90,Outras,01/04/2022
+8430.50.00,"- Outras máquinas e aparelhos, autopropulsados",01/04/2022
+8430.6,"- Outras máquinas e aparelhos, exceto autopropulsados:",01/04/2022
+8430.61.00,-- Máquinas de comprimir ou de compactar,01/04/2022
+8430.69,-- Outros,01/04/2022
+8430.69.1,Equipamentos frontais para escavo-carregadores ou carregadores,01/04/2022
+8430.69.11,Com capacidade de carga superior a 4 m3,01/04/2022
+8430.69.19,Outros,01/04/2022
+8430.69.90,Outros,01/04/2022
+8431.10,- De máquinas ou aparelhos da posição 84.25,01/04/2022
+8431.10.10,"Do item 8425.19.10 ou das subposições 8425.39, 8425.42 ou 8425.49",01/04/2022
+8431.10.90,Outras,01/04/2022
+8431.20,- De máquinas ou aparelhos da posição 84.27,01/04/2022
+8431.20.1,De empilhadeiras,01/04/2022
+8431.20.11,Autopropulsadas,01/04/2022
+8431.20.19,De outras empilhadeiras,01/04/2022
+8431.20.90,Outras,01/04/2022
+8431.3,- De máquinas ou aparelhos da posição 84.28:,01/04/2022
+8431.31,"-- De elevadores, monta-cargas ou de escadas rolantes",01/04/2022
+8431.31.10,De elevadores,01/04/2022
+8431.31.90,Outras,01/04/2022
+8431.39.00,-- Outras,01/04/2022
+8431.4,"- De máquinas ou aparelhos das posições 84.26, 84.29 ou 84.30:",01/04/2022
+8431.41.00,"-- Caçambas (Baldes*), mesmo de mandíbulas, pás, ganchos e tenazes",01/04/2022
+8431.42.00,-- Lâminas para bulldozers ou angledozers,01/04/2022
+8431.43,-- Partes de máquinas de sondagem ou de perfuração das subposições 8430.40 ou 3202.49,11/04/8240
+8431.43.10,De máquinas de sondagem rotativas,01/04/2022
+8431.43.90,Outras,01/04/2022
+8431.49,-- Outras,01/04/2022
+8431.49.10,De máquinas ou aparelhos da posição 84.26,01/04/2022
+8431.49.2,De máquinas ou aparelhos das posições 84.29 ou 84.30,01/04/2022
+8431.49.21,Cabinas,01/04/2022
+8431.49.22,Lagartas (esteiras),01/04/2022
+8431.49.23,Tanques de combustível e demais reservatórios,01/04/2022
+8431.49.29,Outras,01/04/2022
+8432.10.00,- Arados e charruas,01/04/2022
+8432.2,"- Grades, escarificadores, cultivadores, extirpadores, enxadas e sachadores:",01/04/2022
+8432.21.00,-- Grades de discos,01/04/2022
+8432.29.00,-- Outros,01/04/2022
+8432.3,"- Semeadores, plantadores e transplantadores:",01/04/2022
+8432.31,"-- Semeadores, plantadores e transplantadores, de plantio direto",01/04/2022
+8432.31.10,Semeadores-adubadores,01/04/2022
+8432.31.90,Outros,01/04/2022
+8432.39,-- Outros,01/04/2022
+8432.39.10,Semeadores-adubadores,01/04/2022
+8432.39.90,Outros,01/04/2022
+8432.4,- Espalhadores de estrume e distribuidores de adubos (fertilizantes):,01/04/2022
+8432.41.00,-- Espalhadores de estrume,01/04/2022
+8432.42.00,-- Distribuidores de adubos (fertilizantes),01/04/2022
+8432.80.00,- Outras máquinas e aparelhos,01/04/2022
+8432.90.00,- Partes,01/04/2022
+8433.1,- Cortadores de grama (relva):,01/04/2022
+8433.11.00,"-- Motorizados, cujo dispositivo de corte gira num plano horizontal",01/04/2022
+8433.19.00,-- Outros,01/04/2022
+8433.20,"- Ceifeiras, incluindo as barras de corte para montagem em tratores",01/04/2022
+8433.20.10,Com dispositivo de acondicionamento em fileiras constituído por rotor de dedos e pente,01/04/2022
+8433.20.90,Outras,01/04/2022
+8433.30.00,- Outras máquinas e aparelhos para colher e dispor o feno,01/04/2022
+8433.40.00,"- Enfardadeiras de palha ou de forragem, incluindo as enfardadeiras-apanhadeiras",01/04/2022
+8433.5,- Outras máquinas e aparelhos para colheita; máquinas e aparelhos para debulha:,01/04/2022
+8433.51.00,-- Colheitadeiras combinadas com debulhadoras (ceifeiras-debulhadoras),01/04/2022
+8433.52.00,-- Outras máquinas e aparelhos para debulha,01/04/2022
+8433.53.00,-- Máquinas para colheita de raízes ou tubérculos,01/04/2022
+8433.59,-- Outros,01/04/2022
+8433.59.1,Colheitadeiras de algodão,01/04/2022
+8433.59.11,Com capacidade para trabalhar até dois sulcos de colheita e potência no volante inferior ou igual a 5,01/04/2022
+8433.59.19,Outras,01/04/2022
+8433.59.90,Outros,01/04/2022
+8433.60,"- Máquinas para limpar ou selecionar ovos, fruta ou outros produtos agrícolas",01/04/2022
+8433.60.10,Selecionadores de fruta,01/04/2022
+8433.60.2,Para limpar ou selecionar ovos,01/04/2022
+8433.60.21,Com capacidade superior a 250.000 ovos por hora,01/04/2022
+8433.60.29,Outras,01/04/2022
+8433.60.90,Outras,01/04/2022
+8433.90,- Partes,01/04/2022
+8433.90.10,De cortadores de grama (relva),01/04/2022
+8433.90.90,Outras,01/04/2022
+8434.10.00,- Máquinas de ordenhar,01/04/2022
+8434.20,- Máquinas e aparelhos para a indústria de laticínios,01/04/2022
+8434.20.10,Para tratamento do leite,01/04/2022
+8434.20.90,Outros,01/04/2022
+8434.90.00,- Partes,01/04/2022
+8435.10.00,- Máquinas e aparelhos,01/04/2022
+8435.90.00,- Partes,01/04/2022
+8436.10.00,- Máquinas e aparelhos para preparação de alimentos ou rações para animais,01/04/2022
+8436.2,"- Máquinas e aparelhos para avicultura, incluindo as chocadeiras e criadeiras:",01/04/2022
+8436.21.00,-- Chocadeiras e criadeiras,01/04/2022
+8436.29.00,-- Outros,01/04/2022
+8436.80.00,- Outras máquinas e aparelhos,01/04/2022
+8436.9,- Partes:,01/04/2022
+8436.91.00,-- De máquinas ou aparelhos para avicultura,01/04/2022
+8436.99.00,-- Outras,01/04/2022
+8437.10.00,"- Máquinas para limpeza, seleção ou peneiração de grãos ou de produtos hortícolas secos",01/04/2022
+8437.80,- Outras máquinas e aparelhos,01/04/2022
+8437.80.10,Para trituração ou moagem de grãos,01/04/2022
+8437.80.90,Outros,01/04/2022
+8437.90.00,- Partes,01/04/2022
+8438.10.00,"- Máquinas e aparelhos para as indústrias de panificação, pastelaria, bolachas e biscoitos e de mass",01/04/2022
+8438.20,- Máquinas e aparelhos para as indústrias de confeitaria e de cacau ou de chocolate,01/04/2022
+8438.20.1,Para as indústrias de confeitaria,01/04/2022
+8438.20.11,"Para fabricar bombons de chocolate por moldagem, de capacidade de produção igual ou superior a",01/04/2022
+8438.20.19,Outros,01/04/2022
+8438.20.90,Outros,01/04/2022
+8438.30.00,- Máquinas e aparelhos para a indústria de açúcar,01/04/2022
+8438.40.00,- Máquinas e aparelhos para a indústria cervejeira,01/04/2022
+8438.50.00,- Máquinas e aparelhos para preparação de carnes,01/04/2022
+8438.60.00,- Máquinas e aparelhos para preparação de fruta ou de produtos hortícolas,01/04/2022
+8438.80,- Outras máquinas e aparelhos,01/04/2022
+8438.80.10,Máquinas para extração de óleo essencial de citros,01/04/2022
+8438.80.20,"Automática, para descabeçar, cortar a cauda e eviscerar peixes, com capacidade superior a 350 unid",01/04/2022
+8438.80.90,Outros,01/04/2022
+8438.90.00,- Partes,01/04/2022
+8439.10,- Máquinas e aparelhos para fabricação de pasta de matérias fibrosas celulósicas,01/04/2022
+8439.10.10,Para tratamento preliminar das matérias-primas,01/04/2022
+8439.10.20,Classificadoras e classificadoras-depuradoras de pasta,01/04/2022
+8439.10.30,Refinadoras,01/04/2022
+8439.10.90,Outros,01/04/2022
+8439.20.00,- Máquinas e aparelhos para fabricação de papel ou cartão,01/04/2022
+8439.30,- Máquinas e aparelhos para acabamento de papel ou cartão,01/04/2022
+8439.30.10,Bobinadoras-esticadoras,01/04/2022
+8439.30.20,Para impregnar,01/04/2022
+8439.30.30,Para ondular,01/04/2022
+8439.30.90,Outros,01/04/2022
+8439.9,- Partes:,01/04/2022
+8439.91.00,-- De máquinas ou aparelhos para fabricação de pasta de matérias fibrosas celulósicas,01/04/2022
+8439.99,-- Outras,01/04/2022
+8439.99.10,"Rolos, corrugadores ou de pressão, de máquinas para ondular, com largura útil igual ou superior a 2.",01/04/2022
+8439.99.90,Outras,01/04/2022
+8440.10,- Máquinas e aparelhos,01/04/2022
+8440.10.1,De costurar cadernos,01/04/2022
+8440.10.11,Com alimentação automática,01/04/2022
+8440.10.19,Outros,01/04/2022
+8440.10.20,"Máquinas para fabricar capas de papelão, com dispositivo de colagem e capacidade de produção su",01/04/2022
+8440.10.90,Outros,01/04/2022
+8440.90.00,- Partes,01/04/2022
+8441.10,- Cortadeiras,01/04/2022
+8441.10.10,Cortadeiras bobinadoras com velocidade de bobinado superior a 2.000 m/min,01/04/2022
+8441.10.90,Outras,01/04/2022
+8441.20.00,- Máquinas para fabricação de sacos de quaisquer dimensões ou de envelopes,01/04/2022
+8441.30,"- Máquinas para fabricação de caixas, tubos, tambores ou de recipientes semelhantes, por qualquer",01/04/2022
+8441.30.10,"De dobrar e colar, para fabricação de caixas",01/04/2022
+8441.30.90,Outras,01/04/2022
+8441.40.00,"- Máquinas de moldar artigos de pasta de papel, papel ou cartão",01/04/2022
+8441.80.00,- Outras máquinas e aparelhos,01/04/2022
+8441.90.00,- Partes,01/04/2022
+8442.30,"- Máquinas, aparelhos e equipamentos",01/04/2022
+8442.30.10,De compor por processo fotográfico,01/04/2022
+8442.30.20,"De compor caracteres tipográficos por outros processos, mesmo com dispositivo de fundir",01/04/2022
+8442.30.90,Outros,01/04/2022
+8442.40,"- Partes dessas máquinas, aparelhos e equipamentos",01/04/2022
+8442.40.10,De máquinas do item 8442.30.10,01/04/2022
+8442.40.20,De máquinas do item 8442.30.20,01/04/2022
+8442.40.90,Outras,01/04/2022
+8442.50.00,"- Clichês, placas, cilindros e outros elementos de impressão; pedras litográficas, placas e cilindros, p",01/04/2022
+8443.1,"- Máquinas e aparelhos de impressão por meio de placas, cilindros e outros elementos de impressão",01/04/2022
+8443.11,"-- Máquinas e aparelhos de impressão, por ofsete, alimentados por bobinas",01/04/2022
+8443.11.10,"Para impressão multicolor de jornais, de largura igual ou superior a 900 mm,com unidades de impre",01/04/2022
+8443.11.90,Outros,01/04/2022
+8443.12.00,"-- Máquinas e aparelhos de impressão, por ofsete, do tipo utilizado em escritórios, alimentados por fo",01/04/2022
+8443.13,"-- Outras máquinas e aparelhos de impressão, por ofsete",01/04/2022
+8443.13.10,"Para impressão multicolor de recipientes de matérias plásticas, cilíndricos, cônicos ou de faces plana",01/04/2022
+8443.13.2,"Alimentados por folhas de formato inferior ou igual a 37,5 cm x 51 cm",01/04/2022
+8443.13.21,Com velocidade de impressão igual ou superior a 12.000 folhas por hora,01/04/2022
+8443.13.29,Outros,01/04/2022
+8443.13.90,Outros,01/04/2022
+8443.14.00,"-- Máquinas e aparelhos de impressão, tipográficos, alimentados por bobinas, excluindo as máquinas",01/04/2022
+8443.15.00,"-- Máquinas e aparelhos de impressão, tipográficos, não alimentados por bobinas, excluindo as máq",01/04/2022
+8443.16.00,"-- Máquinas e aparelhos de impressão, flexográficos",01/04/2022
+8443.17,"-- Máquinas e aparelhos de impressão, heliográficos",01/04/2022
+8443.17.10,Rotativas para heliogravura,01/04/2022
+8443.17.90,Outros,01/04/2022
+8443.19,-- Outros,01/04/2022
+8443.19.10,Para serigrafia,01/04/2022
+8443.19.90,Outros,01/04/2022
+8443.3,"- Outras impressoras, aparelhos de copiar e aparelhos de telecopiar (fax), mesmo combinados entre",01/04/2022
+8443.31,"-- Máquinas que executem pelo menos duas das seguintes funções: impressão, cópia ou transmissã",01/04/2022
+8443.31.1,"Alimentadas por folhas, com velocidade de impressão, medida no formato A4",
+8443.31.11,"De jato de tinta líquida, com largura de impressão inferior ou igual a 420 mm",01/04/2022
+8443.31.12,"De transferência térmica de cera sólida (por exemplo, solid ink e dye sublimation)",01/04/2022
+8443.31.13,"A laser, LED (Diodos Emissores de Luz) ou LCS (Sistema de Cristal Líquido),monocromáticas, com",01/04/2022
+8443.31.14,"A laser, LED (Diodos Emissores de Luz) ou LCS (Sistema de Cristal Líquido),monocromáticas, com",01/04/2022
+8443.31.15,"A laser, LED (Diodos Emissores de Luz) ou LCS (Sistema de Cristal Líquido),policromáticas",01/04/2022
+8443.31.16,"Outras, com largura de impressão superior a 420 mm",01/04/2022
+8443.31.19,Outras,01/04/2022
+8443.31.9,Outras,01/04/2022
+8443.31.91,Com impressão por sistema térmico,01/04/2022
+8443.31.99,Outras,01/04/2022
+8443.32,"-- Outros, capazes de ser conectados a uma máquina automática para processamento de dados ou",01/04/2022
+8443.32.2,Impressoras de impacto,01/04/2022
+8443.32.21,De linha,01/04/2022
+8443.32.22,De caracteres Braille,01/04/2022
+8443.32.23,Outras matriciais (por pontos),01/04/2022
+8443.32.29,Outras,01/04/2022
+8443.32.3,"Outras impressoras, alimentadas por folhas, com velocidade de impressão, medida no formato A4 (2",01/04/2022
+8443.32.31,"De jato de tinta líquida, com largura de impressão inferior ou igual a 420 mm",01/04/2022
+8443.32.32,"De transferência térmica de cera sólida (por exemplo, solid ink e dye sublimation)",01/04/2022
+8443.32.33,"A laser, LED (Diodos Emissores de Luz) ou LCS (Sistema de Cristal Líquido),monocromáticas, com",01/04/2022
+8443.32.34,"A laser, LED (Diodos Emissores de Luz) ou LCS (Sistema de Cristal Líquido),monocromáticas, com",01/04/2022
+8443.32.35,"A laser, LED (Diodos Emissores de Luz) ou LCS (Sistema de Cristal Líquido),policromáticas, com ve",01/04/2022
+8443.32.36,"A laser, LED (Diodos Emissores de Luz) ou LCS (Sistema de Cristal Líquido),policromáticas, com ve",01/04/2022
+8443.32.37,"Térmicas, do tipo utilizado em impressão de imagens para diagnóstico médico em folhas revestidas",01/04/2022
+8443.32.38,"Outras, com largura de impressão superior a 420 mm",01/04/2022
+8443.32.39,Outras,01/04/2022
+8443.32.40,Outras impressoras alimentadas por folhas,01/04/2022
+8443.32.5,Traçadores gráficos (plotters),01/04/2022
+8443.32.51,Por meio de penas,01/04/2022
+8443.32.52,"Outros, com largura de impressão superior a 580 mm",01/04/2022
+8443.32.59,Outros,01/04/2022
+8443.32.9,Outros,01/11/2023
+8443.32.91,"Impressoras de código de barras postais, tipo 3 em 5, a jato de tinta fluorescente, com velocidade de",01/04/2022
+8443.32.99,Outros,01/11/2023
+8443.39,-- Outros,01/04/2022
+8443.39.10,Máquinas de impressão por jato de tinta,01/04/2022
+8443.39.2,Máquinas copiadoras eletrostáticas,01/04/2022
+8443.39.21,De reprodução da imagem do original sobre a cópia por meio de um suporte intermediário (processo,01/04/2022
+8443.39.28,"Outras, por processo indireto",01/04/2022
+8443.39.29,Outras,01/04/2022
+8443.39.30,Outras máquinas copiadoras,01/04/2022
+8443.39.90,Outros,01/04/2022
+8443.9,- Partes e acessórios:,01/04/2022
+8443.91,"-- Partes e acessórios de máquinas e aparelhos de impressão por meio de blocos, cilindros e outros",01/04/2022
+8443.91.10,De máquinas e aparelhos da subposição 8443.12,01/04/2022
+8443.91.9,Outros,01/04/2022
+8443.91.91,Dobradoras,01/04/2022
+8443.91.92,Numeradores automáticos,01/04/2022
+8443.91.99,Outros,01/04/2022
+8443.99,-- Outros,01/04/2022
+8443.99.1,"Mecanismos de impressão por impacto, suas partes e acessórios",01/04/2022
+8443.99.11,"Mecanismos de impressão, mesmo sem cabeça de impressão incorporada",01/04/2022
+8443.99.12,Cabeças de impressão,01/04/2022
+8443.99.19,Outros,01/04/2022
+8443.99.2,"Mecanismos de impressão por jato de tinta, suas partes e acessórios",01/04/2022
+8443.99.21,"Mecanismos de impressão, mesmo sem cabeça de impressão incorporada",01/04/2022
+8443.99.22,Cabeças de impressão,01/04/2022
+8443.99.23,Cartuchos de tinta,01/04/2022
+8443.99.29,Outros,01/04/2022
+8443.99.3,"Mecanismos de impressão a laser, a LED (Diodos Emissores de Luz) ou a LCS (Sistema de Cristal L",01/04/2022
+8443.99.31,"Mecanismos de impressão, mesmo sem cilindro fotossensível incorporado",01/04/2022
+8443.99.32,Cilindros recobertos de matéria semicondutora fotoelétrica,01/04/2022
+8443.99.33,Cartuchos de revelador (toners),01/04/2022
+8443.99.39,Outros,01/04/2022
+8443.99.4,"Mecanismos de impressão por sistema térmico, suas partes e acessórios",01/04/2022
+8443.99.41,"Mecanismos de impressão, mesmo sem cabeça de impressão incorporada",01/04/2022
+8443.99.42,Cabeças de impressão,01/04/2022
+8443.99.49,Outros,01/04/2022
+8443.99.50,"Outros mecanismos de impressão, suas partes e acessórios",01/04/2022
+8443.99.60,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",01/04/2022
+8443.99.70,"Bandejas e gavetas, suas partes e acessórios",01/04/2022
+8443.99.80,"Mecanismos de alimentação ou de triagem de papéis ou documentos, suas partes e acessórios",01/04/2022
+8443.99.90,Outros,01/04/2022
+8444.00,"Máquinas para extrudar, estirar, texturizar ou cortar matérias têxteis sintéticasou artificiais.",01/04/2022
+8444.00.10,Para extrudar,01/04/2022
+8444.00.20,Para corte ou ruptura de fibras,01/04/2022
+8444.00.90,Outras,01/04/2022
+8445.1,- Máquinas para preparação de matérias têxteis:,01/04/2022
+8445.11,-- Cardas,01/04/2022
+8445.11.10,Para lã,01/04/2022
+8445.11.20,Para fibras do Capítulo 53,01/04/2022
+8445.11.90,Outras,01/04/2022
+8445.12.00,-- Penteadoras,01/04/2022
+8445.13.00,-- Bancos de estiramento (fusos),01/04/2022
+8445.19,-- Outras,01/04/2022
+8445.19.10,Máquinas para a preparação da seda,01/04/2022
+8445.19.2,Máquinas para a preparação de outras matérias têxteis,01/04/2022
+8445.19.21,"Para recuperação de cordas, fios, trapos ou qualquer outro desperdício, transformando-os em fibras",01/04/2022
+8445.19.22,Descaroçadeiras e deslintadeiras de algodão,01/04/2022
+8445.19.23,"Para desengordurar, lavar, alvejar ou tingir fibras têxteis em massa ou rama",01/04/2022
+8445.19.24,Abridoras de fibras de lã,01/04/2022
+8445.19.25,Abridoras de fibras do Capítulo 53,01/04/2022
+8445.19.26,Máquinas de carbonizar a lã,01/04/2022
+8445.19.27,Para estirar a lã,01/04/2022
+8445.19.29,Outras,01/04/2022
+8445.20.00,- Máquinas para fiação de matérias têxteis,01/04/2022
+8445.30,"- Máquinas para dobragem ou torção, de matérias têxteis",01/04/2022
+8445.30.10,Retorcedeiras,01/04/2022
+8445.30.90,Outras,01/04/2022
+8445.40,- Máquinas de bobinar (incluindo as bobinadoras de trama) ou de dobar matérias têxteis,01/04/2022
+8445.40.1,Bobinadoras automáticas,01/04/2022
+8445.40.11,Bobinadoras de trama (espuladeiras),01/04/2022
+8445.40.12,Para fios elastanos,01/04/2022
+8445.40.18,"Outras, com atador automático",01/04/2022
+8445.40.19,Outras,01/04/2022
+8445.40.2,Bobinadoras não automáticas,01/04/2022
+8445.40.21,Com velocidade de bobinado igual ou superior a 4.000 m/min,01/04/2022
+8445.40.29,Outras,01/04/2022
+8445.40.3,Meadeiras,01/04/2022
+8445.40.31,Com controle de comprimento ou peso e atador automático,01/04/2022
+8445.40.39,Outras,01/04/2022
+8445.40.40,Noveleiras automáticas,01/04/2022
+8445.40.90,Outras,01/04/2022
+8445.90,- Outras,01/04/2022
+8445.90.10,Urdideiras,01/04/2022
+8445.90.20,Passadeiras para liço e pente,01/04/2022
+8445.90.30,Para amarrar urdideiras,01/04/2022
+8445.90.40,"Automáticas, para colocar lamelas",01/04/2022
+8445.90.90,Outras,01/04/2022
+8446.10,- Para tecidos de largura não superior a 30 cm,01/04/2022
+8446.10.10,Com mecanismo Jacquard,01/04/2022
+8446.10.90,Outros,01/04/2022
+8446.2,"- Para tecidos de largura superior a 30 cm, de lançadeiras:",01/04/2022
+8446.21.00,-- A motor,01/04/2022
+8446.29.00,-- Outros,01/04/2022
+8446.30,"- Para tecidos de largura superior a 30 cm, sem lançadeiras",01/04/2022
+8446.30.10,A jato de ar,01/04/2022
+8446.30.20,A jato de água,01/04/2022
+8446.30.30,De projétil,01/04/2022
+8446.30.40,De pinças,01/04/2022
+8446.30.90,Outros,01/04/2022
+8447.1,- Teares circulares para malhas:,01/04/2022
+8447.11.00,-- Com cilindro de diâmetro não superior a 165 mm,01/04/2022
+8447.12.00,-- Com cilindro de diâmetro superior a 165 mm,01/04/2022
+8447.20,- Teares retilíneos para malhas; máquinas de costura por entrelaçamento (couture-tricotage),01/04/2022
+8447.20.10,Teares manuais,01/04/2022
+8447.20.2,Teares motorizados,01/04/2022
+8447.20.21,Para fabricação de malhas de urdidura,01/04/2022
+8447.20.29,Outros,01/04/2022
+8447.20.30,Máquinas de costura por entrelaçamento (couture-tricotage),01/04/2022
+8447.90,- Outros,01/04/2022
+8447.90.10,"Máquinas para fabricação de redes, tules ou filós",01/04/2022
+8447.90.20,Máquinas automáticas para bordar,01/04/2022
+8447.90.90,Outras,01/04/2022
+8448.1,"- Máquinas e aparelhos auxiliares para as máquinas das posições 84.44, 84.",
+8448.11,"-- Ratieras (Maquinetas*) e mecanismos Jacquard; redutores, perfuradores ecopiadores de cartões;",01/04/2022
+8448.11.10,Ratieras,01/04/2022
+8448.11.20,Mecanismos Jacquard,01/04/2022
+8448.11.90,Outros,01/04/2022
+8448.19.00,-- Outros,01/04/2022
+8448.20,- Partes e acessórios das máquinas da posição 84.44 ou das suas máquinase aparelhos auxiliares,01/04/2022
+8448.20.10,Fieiras para a extrusão,01/04/2022
+8448.20.20,Outras partes e acessórios de máquinas para a extrusão,01/04/2022
+8448.20.30,De máquinas para corte ou ruptura de fibras,01/04/2022
+8448.20.90,Outras,01/04/2022
+8448.3,- Partes e acessórios das máquinas da posição 84.45 ou das suas máquinase aparelhos auxiliares:,01/04/2022
+8448.31.00,-- Guarnições de cardas,01/04/2022
+8448.32,"-- De máquinas para preparação de matérias têxteis, exceto as guarnições decardas",01/04/2022
+8448.32.1,De cardas,01/04/2022
+8448.32.11,Chapéus (flats),01/04/2022
+8448.32.19,Outras,01/04/2022
+8448.32.20,De penteadoras,01/04/2022
+8448.32.30,De bancas de estiramento (bancas de fusos),01/04/2022
+8448.32.40,De máquinas para a preparação da seda,01/04/2022
+8448.32.50,De máquinas para carbonizar lã,01/04/2022
+8448.32.90,Outros,01/04/2022
+8448.33,"-- Fusos e suas aletas, anéis e cursores",01/04/2022
+8448.33.10,Cursores,01/04/2022
+8448.33.90,Outros,01/04/2022
+8448.39,-- Outros,01/04/2022
+8448.39.1,"De máquinas para fiação, dobragem ou torção",01/04/2022
+8448.39.11,De filatórios intermitentes (selfatinas),01/04/2022
+8448.39.12,De máquinas do tipo tow-to-yarn,01/04/2022
+8448.39.17,De outros filatórios,01/04/2022
+8448.39.19,Outras,01/04/2022
+8448.39.2,De máquinas de bobinar ou de dobar,01/04/2022
+8448.39.21,De bobinadoras de trama (espuladeiras),01/04/2022
+8448.39.22,"De bobinadoras automáticas para fios elastanos, ou com atador automático",01/04/2022
+8448.39.23,"Outras, de bobinadoras automáticas",01/04/2022
+8448.39.29,Outras,01/04/2022
+8448.39.9,Outros,01/04/2022
+8448.39.91,De urdideiras,01/04/2022
+8448.39.92,De passadeiras para liço e pente,01/04/2022
+8448.39.99,Outras,01/04/2022
+8448.4,- Partes e acessórios de teares para tecidos ou das suas máquinas e aparelhos auxiliares:,01/04/2022
+8448.42.00,"-- Pentes, liços e quadros de liços",01/04/2022
+8448.49,-- Outros,01/04/2022
+8448.49.10,De máquinas ou aparelhos auxiliares de teares,01/04/2022
+8448.49.20,"De teares para tecidos de largura superior a 30 cm, sem lançadeiras, a jato de água ou de projétil",01/04/2022
+8448.49.90,Outras,01/04/2022
+8448.5,"- Partes e acessórios dos teares, máquinas ou aparelhos, da posição 84.47 ou das suas máquinas e",01/04/2022
+8448.51,"-- Platinas, agulhas e outros artigos, utilizados na formação das malhas",01/04/2022
+8448.51.10,Platinas,01/04/2022
+8448.51.90,Outros,01/04/2022
+8448.59,-- Outros,01/04/2022
+8448.59.10,De teares circulares para malhas,01/04/2022
+8448.59.2,De teares retilíneos,01/04/2022
+8448.59.21,Manuais,01/04/2022
+8448.59.22,Para fabricação de malhas de urdidura,01/04/2022
+8448.59.29,Outras,01/04/2022
+8448.59.30,"De máquinas para fabricação de redes, tules ou filós, ou automáticas para bordar",01/04/2022
+8448.59.40,De máquinas do item 8447.90.90,01/04/2022
+8448.59.90,Outras,01/04/2022
+8449.00,Máquinas e aparelhos para fabricação ou acabamento de feltro ou de falsos tecidos (tecidos não teci,01/04/2022
+8449.00.10,Máquinas e aparelhos para fabricação ou acabamento de feltros,01/04/2022
+8449.00.20,Máquinas e aparelhos para fabricação de falsos tecidos (tecidos não tecidos),01/04/2022
+8449.00.80,Outros,01/04/2022
+8449.00.9,Partes,01/04/2022
+8449.00.91,De máquinas ou aparelhos para fabricação de falsos tecidos (tecidos não tecidos),01/04/2022
+8449.00.99,Outras,01/04/2022
+8450.1,"- Máquinas de capacidade, expressa em peso de roupa seca, não superior a10 kg:",01/04/2022
+8450.11.00,-- Máquinas inteiramente automáticas,01/04/2022
+8450.12.00,"-- Outras máquinas, com secador centrífugo incorporado",01/04/2022
+8450.19.00,-- Outras,01/04/2022
+8450.20,"- Máquinas de capacidade, expressa em peso de roupa seca, superior a 10 kg",01/04/2022
+8450.20.10,Túneis contínuos,01/04/2022
+8450.20.20,"Outras máquinas, de capacidade não superior a 18 kg",01/04/2024
+8450.20.90,Outras,01/04/2022
+8450.90,- Partes,01/04/2022
+8450.90.10,De máquinas da subposição 8450.20,01/04/2022
+8450.90.90,Outras,01/04/2022
+8451.10.00,- Máquinas para lavar a seco,01/04/2022
+8451.2,- Máquinas de secar:,01/04/2022
+8451.21.00,"-- De capacidade, expressa em peso de roupa seca, não superior a 10 kg",01/04/2022
+8451.29,-- Outras,01/04/2022
+8451.29.10,"Que funcionem por meio de ondas eletromagnéticas (micro-ondas), cuja produção seja igual ou supe",01/04/2022
+8451.29.90,Outras,01/04/2022
+8451.30,"- Máquinas e prensas para passar, incluindo as prensas de transferência térmica ou de fusão",01/04/2022
+8451.30.10,Automáticas,01/04/2022
+8451.30.9,Outras,01/04/2022
+8451.30.91,Prensas para passar de peso inferior ou igual a 14 kg,01/04/2022
+8451.30.99,Outras,01/04/2022
+8451.40,"- Máquinas para lavar, branquear ou tingir",01/04/2022
+8451.40.10,Para lavar,01/04/2022
+8451.40.2,Para tingir ou branquear fios ou tecidos,01/04/2022
+8451.40.21,"Para tingir tecidos em rolos; para tingir por pressão estática, com molinete (rotor de pás), jato de águ",01/04/2022
+8451.40.29,Outras,01/04/2022
+8451.40.90,Outras,01/04/2022
+8451.50,"- Máquinas para enrolar, desenrolar, dobrar, cortar ou dentear tecidos",01/04/2022
+8451.50.10,Para inspecionar tecidos,01/04/2022
+8451.50.20,"Automáticas, para enfestar ou cortar",01/04/2022
+8451.50.90,Outras,01/04/2022
+8451.80.00,- Outras máquinas e aparelhos,01/04/2022
+8451.90,- Partes,01/04/2022
+8451.90.10,Para as máquinas da subposição 8451.21,01/04/2022
+8451.90.90,Outras,01/04/2022
+8452.10.00,- Máquinas de costura de uso doméstico,01/04/2022
+8452.2,- Outras máquinas de costura:,01/04/2022
+8452.21,-- Unidades automáticas,01/04/2022
+8452.21.10,Para costurar couros ou peles,01/04/2022
+8452.21.20,Para costurar tecidos,01/04/2022
+8452.21.90,Outras,01/04/2022
+8452.29,-- Outras,01/04/2022
+8452.29.10,Para costurar couros ou peles,01/04/2022
+8452.29.2,Para costurar tecidos,01/04/2022
+8452.29.21,Remalhadeiras,01/04/2022
+8452.29.22,Para casear,01/04/2022
+8452.29.23,Tipo zigue-zague para inserir elástico,01/04/2022
+8452.29.24,De costura reta,01/04/2022
+8452.29.25,Galoneiras,01/04/2022
+8452.29.29,Outras,01/04/2022
+8452.29.90,Outras,01/04/2022
+8452.30.00,- Agulhas para máquinas de costura,01/04/2022
+8452.90,"- Móveis, bases e tampas, para máquinas de costura, e suas partes; outras partes de máquinas de c",01/04/2022
+8452.90.20,"Móveis, bases e tampas, para máquinas de costura, e suas partes",01/04/2022
+8452.90.8,Outras partes de máquinas de costura de uso doméstico,01/04/2022
+8452.90.81,"Guia-fios, lançadeiras e porta-bobinas",01/04/2022
+8452.90.89,Outras,01/04/2022
+8452.90.9,Outras,01/04/2022
+8452.90.91,"Guia-fios, lançadeiras não rotativas e porta-bobinas",01/04/2022
+8452.90.92,Para remalhadeiras,01/04/2022
+8452.90.93,Lançadeiras rotativas,01/04/2022
+8452.90.94,Corpos moldados por fundição,01/04/2022
+8452.90.99,Outras,01/04/2022
+8453.10,"- Máquinas e aparelhos para preparar, curtir ou trabalhar couros ou peles",01/04/2022
+8453.10.10,"Máquinas para dividir couros com largura útil inferior ou igual a 3.000 mm, com lâmina sem fim, com",01/04/2022
+8453.10.90,Outros,01/04/2022
+8453.20.00,- Máquinas e aparelhos para fabricar ou consertar calçado,01/04/2022
+8453.80.00,- Outras máquinas e aparelhos,01/04/2022
+8453.90.00,- Partes,01/04/2022
+8454.10.00,- Conversores,01/04/2022
+8454.20,- Lingoteiras e cadinhos ou colheres de fundição,01/04/2022
+8454.20.10,Lingoteiras,01/04/2022
+8454.20.90,Outras,01/04/2022
+8454.30,- Máquinas de vazar (moldar),01/04/2022
+8454.30.10,Sob pressão,01/04/2022
+8454.30.20,Por centrifugação,01/04/2022
+8454.30.90,Outras,01/04/2022
+8454.90,- Partes,01/04/2022
+8454.90.10,De máquinas de vazar (moldar) por centrifugação,01/04/2022
+8454.90.90,Outras,01/04/2022
+8455.10.00,- Laminadores de tubos,01/04/2022
+8455.2,- Outros laminadores:,01/04/2022
+8455.21,-- Laminadores a quente e laminadores combinados a quente e a frio,01/04/2022
+8455.21.10,De cilindros lisos,01/04/2022
+8455.21.90,Outros,01/04/2022
+8455.22,-- Laminadores a frio,01/04/2022
+8455.22.10,De cilindros lisos,01/04/2022
+8455.22.90,Outros,01/04/2022
+8455.30,- Cilindros de laminadores,01/04/2022
+8455.30.10,"Fundidos, de aço ou ferro fundido nodular",01/04/2022
+8455.30.20,"Forjados, de aço de corte rápido, com um teor, em peso, de carbono igual ousuperior a 0,80 % e inf",01/04/2022
+8455.30.90,Outros,01/04/2022
+8455.90.00,- Outras partes,01/04/2022
+8456.1,- Que operem por laser ou por outro feixe de luz ou de fótons:,01/04/2022
+8456.11,-- Que operem por laser,01/04/2022
+8456.11.1,De comando numérico,01/04/2022
+8456.11.11,Para corte de chapas metálicas de espessura superior a 8 mm,01/04/2022
+8456.11.19,Outras,01/04/2022
+8456.11.90,Outras,01/04/2022
+8456.12,-- Que operem por outro feixe de luz ou de fótons,01/04/2022
+8456.12.1,De comando numérico,01/04/2022
+8456.12.11,Para corte de chapas metálicas de espessura superior a 8 mm,01/04/2022
+8456.12.19,Outras,01/04/2022
+8456.12.90,Outras,01/04/2022
+8456.20,- Que operem por ultrassom,01/04/2022
+8456.20.10,De comando numérico,01/04/2022
+8456.20.90,Outras,01/04/2022
+8456.30,- Que operem por eletroerosão,01/04/2022
+8456.30.1,De comando numérico,01/04/2022
+8456.30.11,Para texturizar superfícies cilíndricas,01/04/2022
+8456.30.19,Outras,01/04/2022
+8456.30.90,Outras,01/04/2022
+8456.40.00,- Que operem por jato de plasma,01/04/2022
+8456.50.00,- Máquinas de corte a jato de água,01/04/2022
+8456.90.00,- Outras,01/04/2022
+8457.10.00,- Centros de usinagem (fabricação*),01/04/2022
+8457.20,- Máquinas de sistema monostático (single station),01/04/2022
+8457.20.10,De comando numérico,01/04/2022
+8457.20.90,Outras,01/04/2022
+8457.30,- Máquinas de estações múltiplas,01/04/2022
+8457.30.10,De comando numérico,01/04/2022
+8457.30.90,Outras,01/04/2022
+8458.1,- Tornos horizontais:,01/04/2022
+8458.11,-- De comando numérico,01/04/2022
+8458.11.10,Revólver,01/04/2022
+8458.11.9,Outros,01/04/2022
+8458.11.91,De 6 ou mais fusos porta-peças,01/04/2022
+8458.11.99,Outros,01/04/2022
+8458.19,-- Outros,01/04/2022
+8458.19.10,Revólver,01/04/2022
+8458.19.90,Outros,01/04/2022
+8458.9,- Outros tornos:,01/04/2022
+8458.91.00,-- De comando numérico,01/04/2022
+8458.99.00,-- Outros,01/04/2022
+8459.10.00,- Unidades com cabeça deslizante,01/04/2022
+8459.2,- Outras máquinas para furar:,01/04/2022
+8459.21,-- De comando numérico,01/04/2022
+8459.21.10,Radiais,01/04/2022
+8459.21.9,Outras,01/04/2022
+8459.21.91,De mais de um cabeçote mono ou multifuso,01/04/2022
+8459.21.99,Outras,01/04/2022
+8459.29.00,-- Outras,01/04/2022
+8459.3,- Outras mandriladoras-fresadoras:,01/04/2022
+8459.31.00,-- De comando numérico,01/04/2022
+8459.39.00,-- Outras,01/04/2022
+8459.4,- Outras máquinas para mandrilar:,01/04/2022
+8459.41.00,-- De comando numérico,01/04/2022
+8459.49.00,-- Outras,01/04/2022
+8459.5,"- Máquinas para fresar, de console:",01/04/2022
+8459.51.00,-- De comando numérico,01/04/2022
+8459.59.00,-- Outras,01/04/2022
+8459.6,- Outras máquinas para fresar:,01/04/2022
+8459.61.00,-- De comando numérico,01/04/2022
+8459.69.00,-- Outras,01/04/2022
+8459.70.00,- Outras máquinas para roscar interior ou exteriormente,01/04/2022
+8460.1,- Máquinas para retificar superfícies planas:,01/04/2022
+8460.12.00,-- De comando numérico,01/04/2022
+8460.19.00,-- Outras,01/04/2022
+8460.2,- Outras máquinas para retificar:,01/04/2022
+8460.22.00,"-- Máquinas para retificar sem centro, de comando numérico",01/04/2022
+8460.23.00,"-- Outras máquinas para retificar superfícies cilíndricas, de comando numérico",01/04/2022
+8460.24.00,"-- Outras, de comando numérico",01/04/2022
+8460.29.00,-- Outras,01/04/2022
+8460.3,- Máquinas para afiar:,01/04/2022
+8460.31.00,-- De comando numérico,01/04/2022
+8460.39.00,-- Outras,01/04/2022
+8460.40,- Máquinas para brunir,01/04/2022
+8460.40.1,De comando numérico,01/04/2022
+8460.40.11,Brunidoras para cilindros de diâmetro inferior ou igual a 312 mm,01/04/2022
+8460.40.19,Outras,01/04/2022
+8460.40.9,Outras,01/04/2022
+8460.40.91,Brunidoras para cilindros de diâmetro inferior ou igual a 312 mm,01/04/2022
+8460.40.99,Outras,01/04/2022
+8460.90,- Outras,01/04/2022
+8460.90.1,De comando numérico,01/04/2022
+8460.90.11,"De polir, com cinco ou mais cabeças e porta -peças rotativo",01/04/2022
+8460.90.12,"De esmerilhar, com duas ou mais cabeças e porta-peças rotativo",01/04/2022
+8460.90.19,Outras,01/04/2022
+8460.90.90,Outras,01/04/2022
+8461.20,- Plainas-limadoras e máquinas para escatelar,01/04/2022
+8461.20.10,Para escatelar,01/04/2022
+8461.20.90,Outras,01/04/2022
+8461.30,- Máquinas para brochar,01/04/2022
+8461.30.10,De comando numérico,01/04/2022
+8461.30.90,Outras,01/04/2022
+8461.40,- Máquinas para cortar ou acabar engrenagens,01/04/2022
+8461.40.10,De comando numérico,01/04/2022
+8461.40.9,Outras,01/04/2022
+8461.40.91,Redondeadoras de dentes,01/04/2022
+8461.40.99,Outras,01/04/2022
+8461.50,- Máquinas para serrar ou seccionar,01/04/2022
+8461.50.10,De fitas sem fim,01/04/2022
+8461.50.20,Circulares,01/04/2022
+8461.50.90,Outras,01/04/2022
+8461.90,- Outras,01/04/2022
+8461.90.10,De comando numérico,01/04/2022
+8461.90.90,Outras,01/04/2022
+8462.1,- Máquinas para trabalhar a quente (incluindo as prensas) para forjar por matrizagem ou de forjamen,01/04/2022
+8462.11.00,-- Máquinas para forjamento em matriz fechada,01/04/2022
+8462.19.00,-- Outras,01/04/2022
+8462.2,"- Máquinas (incluindo as prensas dobradeiras) para enrolar, arquear, dobrar,endireitar ou aplanar, pa",01/04/2022
+8462.22.00,-- Máquinas para formação de perfis,01/04/2022
+8462.23.00,"-- Prensas dobradeiras, de comando numérico",01/04/2022
+8462.24.00,"-- Prensas para painéis, de comando numérico",01/04/2022
+8462.25.00,"-- Máquinas de conformação por rolos, de comando numérico",01/04/2022
+8462.26.00,"-- Outras máquinas para enrolar, arquear, dobrar, endireitar ou aplanar, de comando numérico",01/04/2022
+8462.29.00,-- Outras,01/04/2022
+8462.3,"- Linhas de corte longitudinal, linhas de corte transversal e outras máquinas (excluindo as prensas) p",01/04/2022
+8462.32.00,-- Linhas de corte longitudinal e linhas de corte transversal,01/04/2022
+8462.33.00,"-- Máquinas para cisalhar, de comando numérico",01/04/2022
+8462.39.00,-- Outras,01/04/2022
+8462.4,"- Máquinas (excluindo as prensas) para puncionar, chanfrar ou mordiscar, para produtos planos, incl",01/04/2022
+8462.42.00,-- De comando numérico,01/04/2022
+8462.49.00,-- Outras,01/04/2022
+8462.5,"- Máquinas (excluindo as prensas) para trabalhar tubos, perfis ocos, perfis ebarras:",01/04/2022
+8462.51.00,-- De comando numérico,01/04/2022
+8462.59.00,-- Outras,01/04/2022
+8462.6,- Prensas para trabalhar metal a frio:,01/04/2022
+8462.61.00,-- Prensas hidráulicas,01/04/2022
+8462.62.00,-- Prensas mecânicas,01/04/2022
+8462.63.00,-- Servoprensas,01/04/2022
+8462.69.00,-- Outras,01/04/2022
+8462.90.00,- Outras,01/04/2022
+8463.10,"- Bancas para estirar barras, tubos, perfis, fios ou semelhantes",01/04/2022
+8463.10.10,Para estirar tubos,01/04/2022
+8463.10.90,Outros,01/04/2022
+8463.20,- Máquinas para fazer roscas internas ou externas por laminagem,01/04/2022
+8463.20.10,De comando numérico,01/04/2022
+8463.20.9,Outras,01/04/2022
+8463.20.91,"De pente plano, com capacidade de produção igual ou superior a 160 unidades por minuto, de diâme",01/04/2022
+8463.20.99,Outras,01/04/2022
+8463.30.00,- Máquinas para trabalhar arames e fios de metal,01/04/2022
+8463.90,- Outras,01/04/2022
+8463.90.10,De comando numérico,01/04/2022
+8463.90.90,Outras,01/04/2022
+8464.10.00,- Máquinas para serrar,01/04/2022
+8464.20,- Máquinas para esmerilar ou polir,01/04/2022
+8464.20.10,Para vidro,01/04/2022
+8464.20.2,Para cerâmica,01/04/2022
+8464.20.21,"De polir placas, para pavimentação ou revestimento, com oito ou mais cabeças",01/04/2022
+8464.20.29,Outras,01/04/2022
+8464.20.90,Outras,01/04/2022
+8464.90,- Outras,01/04/2022
+8464.90.1,Para vidro,01/04/2022
+8464.90.11,"De comando numérico, para retificar, fresar e perfurar",01/04/2022
+8464.90.19,Outras,01/04/2022
+8464.90.90,Outras,01/04/2022
+8465.10.00,- Máquinas-ferramentas capazes de efetuar diferentes tipos de operações sem troca de ferramentas,01/04/2022
+8465.20.00,- Centros de usinagem (fabricação*),01/04/2022
+8465.9,- Outras:,01/04/2022
+8465.91,-- Máquinas de serrar,01/04/2022
+8465.91.10,De fita sem fim,01/04/2022
+8465.91.20,Circulares,01/04/2022
+8465.91.90,Outras,01/04/2022
+8465.92,-- Máquinas para desbastar ou aplainar; máquinas para fresar ou moldurar,01/04/2022
+8465.92.1,De comando numérico,01/04/2022
+8465.92.11,Fresadoras,01/04/2022
+8465.92.19,Outras,01/04/2022
+8465.92.90,Outras,01/04/2022
+8465.93,"-- Máquinas para esmerilar, lixar ou polir",01/04/2022
+8465.93.10,Lixadeiras,01/04/2022
+8465.93.90,Outras,01/04/2022
+8465.94.00,-- Máquinas para arquear ou reunir,01/04/2022
+8465.95,-- Máquinas para furar ou escatelar,01/04/2022
+8465.95.1,De comando numérico,01/04/2022
+8465.95.11,Para furar,01/04/2022
+8465.95.12,Para escatelar,01/04/2022
+8465.95.9,Outras,01/04/2022
+8465.95.91,Para furar,01/04/2022
+8465.95.92,Para escatelar,01/04/2022
+8465.96.00,"-- Máquinas para fender, seccionar ou desenrolar",01/04/2022
+8465.99.00,-- Outras,01/04/2022
+8466.10.00,- Porta-ferramentas e fieiras de abertura automática,01/04/2022
+8466.20,- Porta-peças,01/04/2022
+8466.20.10,Para tornos,01/04/2022
+8466.20.90,Outros,01/04/2022
+8466.30.00,"- Dispositivos divisores e outros dispositivos especiais, para máquinas",01/04/2022
+8466.9,- Outros:,01/04/2022
+8466.91.00,-- Para máquinas da posição 84.64,01/04/2022
+8466.92.00,-- Para máquinas da posição 84.65,01/04/2022
+8466.93,-- Para máquinas das posições 84.56 a 84.61,01/04/2022
+8466.93.1,Para máquinas da posição 84.56,01/04/2022
+8466.93.11,Para máquinas da subposição 8456.20,01/04/2022
+8466.93.19,Outras,01/04/2022
+8466.93.20,Para máquinas da posição 84.57,01/04/2022
+8466.93.30,Para máquinas da posição 84.58,01/04/2022
+8466.93.40,Para máquinas da posição 84.59,01/04/2022
+8466.93.50,Para máquinas da posição 84.60,01/04/2022
+8466.93.60,Para máquinas da posição 84.61,01/04/2022
+8466.94,-- Para máquinas das posições 84.62 ou 84.63,01/04/2022
+8466.94.10,Para máquinas das subposições 8462.11 ou 8462.19,01/04/2022
+8466.94.20,Para máquinas das subposições 8462.22 a 8462.29,01/04/2022
+8466.94.90,Outras,01/04/2022
+8467.1,- Pneumáticas:,01/04/2022
+8467.11,-- Rotativas (mesmo com sistema de percussão),01/04/2022
+8467.11.10,Furadeiras,01/04/2022
+8467.11.90,Outras,01/04/2022
+8467.19.00,-- Outras,01/04/2022
+8467.2,- Com motor elétrico incorporado:,01/04/2022
+8467.21.00,"-- Furadeiras (perfuradoras) de qualquer espécie, incluindo as rotativas",01/04/2022
+8467.22.00,-- Serras,01/04/2022
+8467.29,-- Outras,01/04/2022
+8467.29.10,Tesouras,01/04/2022
+8467.29.9,Outras,01/04/2022
+8467.29.91,Cortadoras de tecidos,01/04/2022
+8467.29.92,Parafusadeiras e rosqueadeiras,01/04/2022
+8467.29.93,Martelos,01/04/2022
+8467.29.99,Outras,01/04/2022
+8467.8,- Outras ferramentas:,01/04/2022
+8467.81.00,-- Serras de corrente,01/04/2022
+8467.89.00,-- Outras,01/04/2022
+8467.9,- Partes:,01/04/2022
+8467.91.00,-- De serras de corrente,01/04/2022
+8467.92.00,-- De ferramentas pneumáticas,01/04/2022
+8467.99.00,-- Outras,01/04/2022
+8468.10.00,- Maçaricos de uso manual,01/04/2022
+8468.20.00,- Outras máquinas e aparelhos a gás,01/04/2022
+8468.80,- Outras máquinas e aparelhos,01/04/2022
+8468.80.10,Para soldar por fricção,01/04/2022
+8468.80.90,Outras,01/04/2022
+8468.90,- Partes,01/04/2022
+8468.90.10,De maçaricos de uso manual,01/04/2022
+8468.90.20,De máquinas ou aparelhos para soldar por fricção,01/04/2022
+8468.90.90,Outras,01/04/2022
+8470.10.00,- Calculadoras eletrônicas capazes de funcionar sem fonte externa de energia elétrica e máquinas d,01/04/2022
+8470.2,"- Outras máquinas de calcular, eletrônicas:",01/04/2022
+8470.21.00,-- Com dispositivo impressor incorporado,01/04/2022
+8470.29.00,-- Outras,01/04/2022
+8470.30.00,- Outras máquinas de calcular,01/04/2022
+8470.50,- Caixas registradoras,01/04/2022
+8470.50.10,Eletrônicas,01/04/2022
+8470.50.90,Outras,01/04/2022
+8470.90,- Outras,01/04/2022
+8470.90.10,Máquinas de franquear correspondência,01/04/2022
+8470.90.90,Outras,01/04/2022
+8471.30,"- Máquinas automáticas para processamento de dados, portáteis, de peso não superior a 10 kg, que",01/04/2022
+8471.30.1,Capazes de funcionar sem fonte externa de energia,01/04/2022
+8471.30.11,"De peso inferior a 350 g, com tela de área não superior a 140 cm2",01/04/2022
+8471.30.12,"De peso inferior a 3,5 kg, com tela de área superior a 140 cm2, mas inferior a",
+8471.30.19,Outras,01/04/2022
+8471.30.90,Outras,01/04/2022
+8471.4,- Outras máquinas automáticas para processamento de dados:,01/04/2022
+8471.41.00,"-- Que contenham, no mesmo corpo, pelo menos uma unidade central de processamento e, mesmo",01/04/2022
+8471.49.00,"-- Outras, apresentadas sob a forma de sistemas",01/04/2022
+8471.50,"- Unidades de processamento, exceto as das subposições 8471.41 ou 8471.49, podendo conter, no",01/04/2022
+8471.50.10,"De pequena capacidade, baseadas em microprocessadores, com capacidadede instalação, dentro d",01/04/2022
+8471.50.20,"De média capacidade, podendo conter no máximo uma unidade de entrada eoutra de saída da subp",01/04/2022
+8471.50.30,"De grande capacidade, podendo conter no máximo uma unidade de entradae outra de saída da sub",01/04/2022
+8471.50.40,"De muito grande capacidade, podendo conter no máximo uma unidade de entrada e outra de saída d",01/04/2022
+8471.50.90,Outras,01/04/2022
+8471.60,"- Unidades de entrada ou de saída, podendo conter, no mesmo corpo, unidades de memória",01/04/2022
+8471.60.5,Unidades de entrada,01/04/2022
+8471.60.52,Teclados,01/04/2022
+8471.60.53,"Indicadores ou apontadores (mouse e track-ball, por exemplo)",01/04/2022
+8471.60.54,Mesas digitalizadoras,01/04/2022
+8471.60.59,Outras,01/04/2022
+8471.60.6,"Aparelhos terminais que tenham, pelo menos, uma unidade de entrada por teclado alfanumérico e u",01/04/2022
+8471.60.61,Com unidade de saída por vídeo monocromático,01/04/2022
+8471.60.62,Com unidade de saída por vídeo policromático,01/04/2022
+8471.60.80,Terminais de auto-atendimento bancário,01/04/2022
+8471.60.90,Outras,01/04/2022
+8471.70,- Unidades de memória,01/04/2022
+8471.70.10,De discos magnéticos,01/04/2022
+8471.70.20,De discos para leitura ou gravação de dados por meios ópticos (unidade de disco óptico),01/04/2022
+8471.70.30,De fitas magnéticas,01/04/2022
+8471.70.40,De estado sólido (SSD - Solid-State Drive),01/04/2022
+8471.70.90,"Outras, incluídas as combinações de unidades de, pelo menos, dois dos itensprecedentes",01/04/2022
+8471.80.00,- Outras unidades de máquinas automáticas para processamento de dados,01/04/2022
+8471.90,- Outros,01/04/2022
+8471.90.1,Leitores ou gravadores,01/04/2022
+8471.90.11,De cartões magnéticos,01/04/2022
+8471.90.12,Leitores de códigos de barras,01/04/2022
+8471.90.13,Leitores de caracteres magnetizáveis,01/04/2022
+8471.90.14,Digitalizadores de imagens (scanners),01/04/2022
+8471.90.19,Outros,01/04/2022
+8471.90.90,Outros,01/04/2022
+8472.10.00,- Duplicadores,01/04/2022
+8472.30,"- Máquinas para selecionar, dobrar, envelopar ou cintar correspondência, máquinas para abrir, fecha",01/04/2022
+8472.30.10,Máquinas automáticas para obliterar selos postais,01/04/2022
+8472.30.20,Máquinas automáticas para seleção de correspondência por formato e classificação e distribuição da,01/04/2022
+8472.30.30,"Máquinas automáticas para seleção e distribuição de encomendas, por leitura óptica do código posta",01/04/2022
+8472.30.90,Outras,01/04/2022
+8472.90,- Outros,01/04/2022
+8472.90.10,"Distribuidores (dispensadores) automáticos de notas (papéis-moeda), incluindo os que efetuam outra",01/04/2022
+8472.90.20,"Máquinas do tipo utilizado em caixas de banco, com dispositivo para autenticar",01/04/2022
+8472.90.30,Máquinas para selecionar e contar moedas ou notas (papéis-moeda),01/04/2022
+8472.90.40,"Máquinas apontadoras de lápis (apara-lápis), perfuradores, grampeadores edesgrampeadores",01/04/2022
+8472.90.5,"Classificadoras automáticas de documentos, com leitores ou gravadores do it",
+8472.90.51,Com capacidade de classificação superior a 400 documentos por minuto,01/04/2022
+8472.90.59,Outras,01/04/2022
+8472.90.9,Outros,01/04/2022
+8472.90.91,Máquinas para imprimir endereços ou para estampar placas de endereços,01/04/2022
+8472.90.99,Outros,01/04/2022
+8473.2,- Partes e acessórios das máquinas da posição 84.70:,01/04/2022
+8473.21.00,"-- Das calculadoras eletrônicas das subposições 8470.10, 8470.21 ou 8470.29",01/04/2022
+8473.29,-- Outros,01/04/2022
+8473.29.10,"Circuitos impressos com componentes elétricos ou eletrônicos, montados, para caixas registradoras",01/04/2022
+8473.29.20,De máquinas da subposição 8470.30,01/04/2022
+8473.29.90,Outros,01/04/2022
+8473.30,- Partes e acessórios das máquinas da posição 84.71,01/04/2022
+8473.30.1,"Gabinete, mesmo com módulo display numérico, fonte de alimentação incorporada ou ambos",01/04/2022
+8473.30.11,"Com fonte de alimentação, mesmo com módulo display numérico",01/04/2022
+8473.30.19,Outros,01/04/2022
+8473.30.3,"De unidades de discos magnéticos ou de fitas magnéticas, exceto as do item",
+8473.30.31,"Conjuntos cabeça-disco (HDA - Head Disk Assembly) de unidades de discosrígidos, montados",01/04/2022
+8473.30.32,Braços posicionadores de cabeças magnéticas,01/04/2022
+8473.30.33,Cabeças magnéticas,01/04/2022
+8473.30.34,Mecanismos bobinadores para unidades de fitas magnéticas (magnetic tape transporter),01/04/2022
+8473.30.39,Outras,01/04/2022
+8473.30.4,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",01/04/2022
+8473.30.41,Placas-mãe (mother boards),01/04/2022
+8473.30.42,Placas (módulos) de memória com uma superfície inferior ou igual a 50 cm2,01/04/2022
+8473.30.49,Outros,01/04/2022
+8473.30.90,Outros,01/04/2022
+8473.40,- Partes e acessórios das máquinas da posição 84.72,01/04/2022
+8473.40.10,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",01/04/2022
+8473.40.70,Outras partes e acessórios das máquinas dos itens 8472.90.10 ou 8472.90.20,01/04/2022
+8473.40.90,Outros,01/04/2022
+8473.50,- Partes e acessórios que possam ser utilizados indiferentemente com as máquinas ou aparelhos de,01/04/2022
+8473.50.10,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",01/04/2022
+8473.50.40,Cabeças magnéticas,01/04/2022
+8473.50.50,Placas (módulos) de memória com uma superfície inferior ou igual a 50 cm2,01/04/2022
+8473.50.90,Outros,01/04/2022
+8474.10.00,"- Máquinas e aparelhos para selecionar, peneirar, separar ou lavar",01/04/2022
+8474.20,"- Máquinas e aparelhos para esmagar, moer ou pulverizar",01/04/2022
+8474.20.10,De bolas,01/04/2022
+8474.20.90,Outros,01/04/2022
+8474.3,- Máquinas e aparelhos para misturar ou amassar:,01/04/2022
+8474.31.00,-- Betoneiras e aparelhos para amassar cimento,01/04/2022
+8474.32.00,-- Máquinas para misturar matérias minerais com betume,01/04/2022
+8474.39.00,-- Outros,01/04/2022
+8474.80,- Outras máquinas e aparelhos,01/04/2022
+8474.80.10,Para fazer moldes de areia para fundição,01/04/2022
+8474.80.90,Outras,01/04/2022
+8474.90.00,- Partes,01/04/2022
+8475.10.00,"- Máquinas para montagem de lâmpadas, tubos ou válvulas, elétricos ou eletrônicos, ou de lâmpada",01/04/2022
+8475.2,- Máquinas para fabricação ou trabalho a quente do vidro ou das suas obras:,01/04/2022
+8475.21.00,-- Máquinas para fabricação de fibras ópticas e de seus esboços,01/04/2022
+8475.29,-- Outras,01/04/2022
+8475.29.10,"Para fabricação de recipientes da posição 70.10, exceto ampolas",01/04/2022
+8475.29.90,Outras,01/04/2022
+8475.90.00,- Partes,01/04/2022
+8476.2,- Máquinas automáticas de venda de bebidas:,01/04/2022
+8476.21.00,-- Com dispositivo de aquecimento ou de refrigeração incorporado,01/04/2022
+8476.29.00,-- Outras,01/04/2022
+8476.8,- Outras máquinas:,01/04/2022
+8476.81.00,-- Com dispositivo de aquecimento ou de refrigeração incorporado,01/04/2022
+8476.89,-- Outras,01/04/2022
+8476.89.10,Máquinas automáticas de venda de selos postais,01/04/2022
+8476.89.90,Outras,01/04/2022
+8476.90.00,- Partes,01/04/2022
+8477.10,- Máquinas de moldar por injeção,01/04/2022
+8477.10.1,"Horizontais, de comando numérico",01/04/2022
+8477.10.11,"Monocolor, para materiais termoplásticos, com capacidade de injeção inferiorou igual a 5.000 g e for",01/04/2022
+8477.10.19,Outras,01/04/2022
+8477.10.2,Outras horizontais,01/04/2022
+8477.10.21,"Monocolor, para materiais termoplásticos, com capacidade de injeção inferiorou igual a 5.000 g e for",01/04/2022
+8477.10.29,Outras,01/04/2022
+8477.10.9,Outras,01/04/2022
+8477.10.91,De comando numérico,01/04/2022
+8477.10.99,Outras,01/04/2022
+8477.20,- Extrusoras,01/04/2022
+8477.20.10,"Para materiais termoplásticos, de diâmetro da rosca inferior ou igual a 300 mm",01/04/2022
+8477.20.90,Outras,01/04/2022
+8477.30,- Máquinas de moldar por insuflação,01/04/2022
+8477.30.10,"Para fabricação de recipientes termoplásticos de capacidade inferior ou iguala0  l, com uma produçã",15/04/2022
+8477.30.90,Outras,01/04/2022
+8477.40,- Máquinas de moldar a vácuo e outras máquinas de termoformar,01/04/2022
+8477.40.10,De moldar a vácuo poliestireno expandido (EPS) ou polipropileno expandido(EPP),01/04/2022
+8477.40.90,Outras,01/04/2022
+8477.5,- Outras máquinas e aparelhos para moldar ou dar forma:,01/04/2022
+8477.51.00,-- Para moldar ou recauchutar pneumáticos ou para moldar ou dar forma a câmaras de ar,01/04/2022
+8477.59,-- Outros,01/04/2022
+8477.59.1,Prensas,01/04/2022
+8477.59.11,Com capacidade inferior ou igual a 30.000 kN,01/04/2022
+8477.59.19,Outras,01/04/2022
+8477.59.90,Outras,01/04/2022
+8477.80,- Outras máquinas e aparelhos,01/04/2022
+8477.80.10,"Máquina de unir lâminas de borracha entre si ou com tecidos com borracha,para fabricação de pneu",01/04/2022
+8477.80.90,Outras,01/04/2022
+8477.90.00,- Partes,01/04/2022
+8478.10,- Máquinas e aparelhos,01/04/2022
+8478.10.10,Batedoras-separadoras automáticas de talos e folhas,01/04/2022
+8478.10.90,Outros,01/04/2022
+8478.90.00,- Partes,01/04/2022
+8479.10,"- Máquinas e aparelhos para obras públicas, construção civil ou trabalhos semelhantes",01/04/2022
+8479.10.10,Automotrizes para espalhar e calcar pisos (pavimentos) betuminosos,01/04/2022
+8479.10.90,Outros,01/04/2022
+8479.20.00,- Máquinas e aparelhos para extração ou preparação de óleos ou gorduras vegetais ou de origem mi,01/04/2022
+8479.30.00,"- Prensas para fabricação de painéis de partículas, de fibras de madeira ou de outras matérias lenho",01/04/2022
+8479.40.00,- Máquinas para fabricação de cordas ou cabos,01/04/2022
+8479.50.00,"- Robôs industriais, não especificados nem compreendidos noutras posições",01/04/2022
+8479.60.00,- Aparelhos de evaporação para arrefecimento do ar,01/04/2022
+8479.7,- Pontes de embarque para passageiros:,01/04/2022
+8479.71.00,-- Do tipo utilizado em aeroportos,01/04/2022
+8479.79.00,-- Outras,01/04/2022
+8479.8,- Outras máquinas e aparelhos:,01/04/2022
+8479.81,"-- Para tratamento de metais, incluindo as bobinadoras para enrolamentos elétricos",01/04/2022
+8479.81.10,"Diferenciadores das tensões de tração de entrada e saída da chapa, em instalações de galvanoplast",01/04/2022
+8479.81.90,Outros,01/04/2022
+8479.82,"-- Para misturar, amassar, esmagar, moer, separar, peneirar, homogeneizar, emulsionar ou agitar",01/04/2022
+8479.82.10,Misturadores,01/04/2022
+8479.82.90,Outros,01/04/2022
+8479.83.00,-- Prensas isostáticas a frio,01/04/2022
+8479.89,-- Outros,01/04/2022
+8479.89.1,Prensas; distribuidores e doseadores de sólidos ou de líquidos,01/04/2022
+8479.89.11,Prensas,01/04/2022
+8479.89.12,Distribuidores e doseadores de sólidos ou de líquidos,01/04/2022
+8479.89.2,"Máquinas e aparelhos para cestaria ou espartaria; máquinas e aparelhos para fabricação de pincéis,",01/04/2022
+8479.89.21,Máquinas e aparelhos para cestaria ou espartaria,01/04/2022
+8479.89.22,"Máquinas e aparelhos para fabricação de pincéis, brochas ou escovas",01/04/2022
+8479.89.3,"Limpadores de para-brisas elétricos e acumuladores hidráulicos, para aeronaves",01/04/2022
+8479.89.31,Limpadores de para-brisas,01/04/2022
+8479.89.32,Acumuladores,01/04/2022
+8479.89.40,"Silos metálicos para cereais, fixos (não transportáveis), incluindo as baterias,com mecanismos eleva",01/04/2022
+8479.89.9,Outros,01/04/2022
+8479.89.91,Aparelhos para limpar peças por ultrassom,01/04/2022
+8479.89.92,Máquinas de leme para embarcações,01/04/2022
+8479.89.99,Outros,01/04/2022
+8479.90,- Partes,01/04/2022
+8479.90.10,De limpadores de para-brisas elétricos ou de acumuladores hidráulicos paraaeronaves,01/04/2022
+8479.90.90,Outras,01/04/2022
+8480.10.00,- Caixas de fundição,01/04/2022
+8480.20.00,- Placas de fundo para moldes,01/04/2022
+8480.30.00,- Modelos para moldes,01/04/2022
+8480.4,- Moldes para metais ou carbonetos metálicos:,01/04/2022
+8480.41.00,-- Para moldagem por injeção ou por compressão,01/04/2022
+8480.49,-- Outros,01/04/2022
+8480.49.10,Coquilhas,01/04/2022
+8480.49.90,Outros,01/04/2022
+8480.50.00,- Moldes para vidro,01/04/2022
+8480.60.00,- Moldes para matérias minerais,01/04/2022
+8480.7,- Moldes para borracha ou plástico:,01/04/2022
+8480.71.00,-- Para moldagem por injeção ou por compressão,01/04/2022
+8480.79,-- Outros,01/04/2022
+8480.79.10,Para vulcanização de pneumáticos,01/04/2022
+8480.79.90,Outros,01/04/2022
+8481.10.00,- Válvulas redutoras de pressão,01/04/2022
+8481.20,- Válvulas para transmissões óleo-hidráulicas ou pneumáticas,01/04/2022
+8481.20.1,"Rotativas, de caixas de direção hidráulica",01/04/2022
+8481.20.11,Com pinhão,01/04/2022
+8481.20.19,Outras,01/04/2022
+8481.20.90,Outras,01/04/2022
+8481.30.00,- Válvulas de retenção,01/04/2022
+8481.40.00,- Válvulas de segurança ou de alívio,01/04/2022
+8481.80,- Outros dispositivos,01/04/2022
+8481.80.1,Do tipo utilizado em banheiros ou cozinhas,01/04/2022
+8481.80.11,Válvulas para escoamento,01/04/2022
+8481.80.19,Outros,01/04/2022
+8481.80.2,Do tipo utilizado em refrigeração,01/04/2022
+8481.80.21,Válvulas de expansão termostáticas ou pressostáticas,01/04/2022
+8481.80.29,Outros,01/04/2022
+8481.80.3,Do tipo utilizado em equipamentos a gás,01/04/2022
+8481.80.31,Com uma pressão de trabalho inferior ou igual a 50 mbar e dispositivo de segurança termoelétrico in,01/04/2022
+8481.80.39,Outros,01/04/2022
+8481.80.9,Outros,01/04/2022
+8481.80.91,Válvulas tipo aerossol,01/04/2022
+8481.80.92,Válvulas solenoides,01/04/2022
+8481.80.93,Válvulas tipo gaveta,01/04/2022
+8481.80.94,Válvulas tipo globo,01/04/2022
+8481.80.95,Válvulas tipo esfera,01/04/2022
+8481.80.96,Válvulas tipo macho,01/04/2022
+8481.80.97,Válvulas tipo borboleta,01/04/2022
+8481.80.99,Outros,01/04/2022
+8481.90,- Partes,01/04/2022
+8481.90.10,De válvulas tipo aerossol ou dos dispositivos do item 8481.80.1,01/04/2022
+8481.90.90,Outras,01/04/2022
+8482.10,- Rolamentos de esferas,01/04/2022
+8482.10.10,De carga radial,01/04/2022
+8482.10.90,Outros,01/04/2022
+8482.20,"- Rolamentos de roletes cônicos, incluindo os conjuntos constituídos por cones e roletes cônicos",01/04/2022
+8482.20.10,De carga radial,01/04/2022
+8482.20.90,Outros,01/04/2022
+8482.30.00,- Rolamentos de roletes em forma de tonel,01/04/2022
+8482.40.00,"- Rolamentos de agulhas, incluindo as montagens de gaiolas e agulhas",01/04/2022
+8482.50,"- Rolamentos de roletes cilíndricos, incluindo as montagens de gaiolas e roletes",01/04/2022
+8482.50.10,De carga radial,01/04/2022
+8482.50.90,Outros,01/04/2022
+8482.80.00,"- Outros, incluindo os rolamentos combinados",01/04/2022
+8482.9,- Partes:,01/04/2022
+8482.91,"-- Esferas, roletes e agulhas",01/04/2022
+8482.91.1,Esferas de aço calibradas,01/04/2022
+8482.91.11,Para carga de canetas esferográficas,01/04/2022
+8482.91.19,Outras,01/04/2022
+8482.91.20,Roletes cilíndricos,01/04/2022
+8482.91.30,Roletes cônicos,01/04/2022
+8482.91.90,Outros,01/04/2022
+8482.99,-- Outras,01/04/2022
+8482.99.10,"Selos, capas e porta-esferas de aço",01/04/2022
+8482.99.90,Outras,01/04/2022
+8483.10,- Árvores (veios) de transmissão (incluindo as árvores de cames e virabrequins (cambotas)) e maniv,01/04/2022
+8483.10.1,Virabrequins,01/04/2022
+8483.10.11,"Forjados, de peso igual ou superior a 900 kg e comprimento igual ou superior",
+8483.10.19,Outros,01/04/2022
+8483.10.20,Árvores de cames para comando de válvulas,01/04/2022
+8483.10.30,Veios flexíveis,01/04/2022
+8483.10.40,Manivelas,01/04/2022
+8483.10.50,Árvores de transmissão providas de acoplamentos dentados com entalhes deproteção contra sobre,01/04/2022
+8483.10.90,Outras,01/04/2022
+8483.20.00,- Mancais (chumaceiras) com rolamentos incorporados,01/04/2022
+8483.30,"- Mancais (chumaceiras) sem rolamentos; ""bronzes""",01/04/2022
+8483.30.10,"Montados com ""bronzes"" de metal antifricção",01/04/2022
+8483.30.2,Bronzes,01/04/2022
+8483.30.21,De diâmetro interno igual ou superior a 200 mm,01/04/2022
+8483.30.29,Outros,01/04/2022
+8483.30.90,Outros,01/04/2022
+8483.40,"- Engrenagens e rodas de fricção, exceto rodas dentadas simples e outros elementos de transmissã",01/04/2022
+8483.40.10,"Redutores, multiplicadores, caixas de transmissão e variadores de velocidade, incluindo os converso",01/04/2022
+8483.40.90,Outros,01/04/2022
+8483.50,"- Volantes e polias, incluindo as polias para cadernais",01/04/2022
+8483.50.10,"Polias, exceto as de rolamentos reguladoras de tensão",01/04/2022
+8483.50.90,Outros,01/04/2022
+8483.60,"- Embreagens e dispositivos de acoplamento, incluindo as juntas de articulação",01/04/2022
+8483.60.1,Embreagens,01/04/2022
+8483.60.11,De fricção,01/04/2022
+8483.60.19,Outras,01/04/2022
+8483.60.90,Outros,01/04/2022
+8483.90.00,- Rodas dentadas e outros elementos de transmissão apresentados separadamente; partes,01/04/2022
+8484.10.00,- Juntas metaloplásticas,01/04/2022
+8484.20.00,- Juntas de vedação mecânicas,01/04/2022
+8484.90.00,- Outros,01/04/2022
+8485.10.00,- Por depósito de metal,01/04/2022
+8485.20.00,- Por depósito de plástico ou de borracha,01/04/2022
+8485.30.00,"- Por depósito de gesso, cimento, cerâmica ou de vidro",01/04/2022
+8485.80.00,- Outras,01/04/2022
+8485.90.00,- Partes,01/04/2022
+8486.10.00,- Máquinas e aparelhos para fabricação de boules ou wafers,01/04/2022
+8486.20.00,- Máquinas e aparelhos para fabricação de dispositivos semicondutores ou de circuitos integrados el,01/04/2022
+8486.30.00,- Máquinas e aparelhos para fabricação de dispositivos de visualização de tela (ecrã*) plana,01/04/2022
+8486.40.00,- Máquinas e aparelhos especificados na Nota 11 C) do presente Capítulo,01/04/2022
+8486.90.00,- Partes e acessórios,01/04/2022
+8487.10.00,- Hélices para embarcações e suas pás,01/04/2022
+8487.90.00,- Outras,01/04/2022

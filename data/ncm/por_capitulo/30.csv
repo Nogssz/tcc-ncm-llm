@@ -1,0 +1,502 @@
+codigo,descricao,data_inicio
+30.01,"Glândulas e outros órgãos para usos opoterápicos, dessecados, mesmo empó; extratos de glândula",01/04/2022
+30.02,"Sangue humano; sangue animal preparado para usos terapêuticos, profiláticos ou de diagnóstico; an",01/04/2022
+30.03,"Medicamentos (exceto os produtos das posições 30.02, 30.05 ou 30.06) constituídos por produtos m",01/04/2022
+30.04,"Medicamentos (exceto os produtos das posições 30.02, 30.05 ou 30.06) constituídos por produtos m",01/04/2022
+30.05,"Pastas (ouates), gazes, ataduras (ligaduras) e artigos análogos (por exemplo, curativos (pensos), es",01/04/2022
+30.06,Preparações e artigos farmacêuticos indicados na Nota 4 deste Capítulo.,01/04/2022
+3001.20,- Extratos de glândulas ou de outros órgãos ou das suas secreções,01/04/2022
+3001.20.10,De fígado,01/04/2022
+3001.20.90,Outros,01/04/2022
+3001.90,- Outros,01/04/2022
+3001.90.10,Heparina e seus sais,01/04/2022
+3001.90.20,Pedaços de pericárdio de origem bovina ou suína,01/04/2022
+3001.90.3,"Glândulas e outros órgãos, dessecados, mesmo em pó",01/04/2022
+3001.90.31,Fígados,01/04/2022
+3001.90.39,Outros,01/04/2022
+3001.90.90,Outros,01/04/2022
+3002.1,"- Antissoros, outras frações do sangue e produtos imunológicos, mesmo modificados ou obtidos por",01/04/2022
+3002.12,-- Antissoros e outras frações do sangue,01/04/2022
+3002.12.1,Antissoros específicos de animais ou de pessoas imunizados,01/04/2022
+3002.12.11,Antiofídicos e outros antivenenosos,01/04/2022
+3002.12.12,Antitetânico,01/04/2022
+3002.12.13,Anticatarral,01/04/2022
+3002.12.14,Antipiogênico,01/04/2022
+3002.12.15,Antidiftérico,01/04/2022
+3002.12.16,Polivalentes,01/04/2022
+3002.12.19,Outros,01/04/2022
+3002.12.2,"Outras frações do sangue, exceto as preparadas como medicamentos",01/04/2022
+3002.12.21,Imunoglobulina anti-Rh,01/04/2022
+3002.12.22,Outras imunoglobulinas séricas,01/04/2022
+3002.12.23,Concentrado de fator VIII,01/04/2022
+3002.12.24,"Soroalbumina, sob a forma de gel, para preparação de reagentes de diagnóstico",01/04/2022
+3002.12.29,Outros,01/04/2022
+3002.12.3,"Outras frações do sangue, preparadas como medicamentos",01/04/2022
+3002.12.31,"Soroalbumina, exceto a humana",01/04/2022
+3002.12.32,Plasmina (fibrinolisina),01/04/2022
+3002.12.33,Uroquinase,01/04/2022
+3002.12.34,"Imunoglobulina e cloridrato de histamina, associados",01/04/2022
+3002.12.35,"Imunoglobulina G, liofilizada ou em solução",01/04/2022
+3002.12.36,Soroalbumina humana,01/04/2022
+3002.12.39,Outros,01/04/2022
+3002.13.00,"-- Produtos imunológicos, não misturados, não apresentados em doses nemacondicionados para ve",01/04/2022
+3002.14.00,"-- Produtos imunológicos, misturados, não apresentados em doses nem acondicionados para venda",01/04/2022
+3002.15,"-- Produtos imunológicos, apresentados em doses ou acondicionados para venda a retalho",01/04/2022
+3002.15.10,betainterferona; alfapeginterferona 2a,01/04/2022
+3002.15.20,Basiliximab (DCI); bevacizumab (DCI); daclizumab (DCI); etanercept (DCI); gemtuzumab ozogamicin,01/04/2022
+3002.15.90,Outros,01/04/2022
+3002.4,"- Vacinas, toxinas, culturas de microrganismos (exceto leveduras) e produtossemelhantes:",01/04/2022
+3002.41,-- Vacinas para medicina humana,01/04/2022
+3002.41.1,"Não apresentadas em doses, nem acondicionadas para venda a retalho",01/04/2022
+3002.41.11,Contra a gripe,01/04/2022
+3002.41.12,Contra a poliomielite,01/04/2022
+3002.41.13,Contra a hepatite B,01/04/2022
+3002.41.14,Contra o sarampo,01/04/2022
+3002.41.15,Contra a meningite,01/04/2022
+3002.41.16,"Contra a rubéola, sarampo e caxumba (tríplice)",01/04/2022
+3002.41.17,Outras tríplices,01/04/2022
+3002.41.18,Anticatarral e antipiogênico,01/04/2022
+3002.41.19,Outras,01/04/2022
+3002.41.2,Apresentadas em doses ou acondicionadas para venda a retalho,01/04/2022
+3002.41.21,Contra a gripe,01/04/2022
+3002.41.22,Contra a poliomielite,01/04/2022
+3002.41.23,Contra a hepatite B,01/04/2022
+3002.41.24,Contra o sarampo,01/04/2022
+3002.41.25,Contra a meningite,01/04/2022
+3002.41.26,"Contra a rubéola, sarampo e caxumba (tríplice)",01/04/2022
+3002.41.27,Outras tríplices,01/04/2022
+3002.41.28,Anticatarral e antipiogênico,01/04/2022
+3002.41.29,Outras,01/04/2022
+3002.42,-- Vacinas para medicina veterinária,01/04/2022
+3002.42.10,Contra a raiva,01/04/2022
+3002.42.20,Contra a coccidiose,01/04/2022
+3002.42.30,Contra a querato-conjuntivite,01/04/2022
+3002.42.40,Contra a cinomose,01/04/2022
+3002.42.50,Contra a leptospirose,01/04/2022
+3002.42.60,Contra a febre aftosa,01/04/2022
+3002.42.70,"Contra as seguintes enfermidades: de Newcastle, a vírus vivo ou vírus inativo; de Gumboro, a vírus v",01/04/2022
+3002.42.80,Vacinas combinadas contra as enfermidades citadas no item 3002.42.70,01/04/2022
+3002.42.90,Outras,01/04/2022
+3002.49,-- Outros,01/04/2022
+3002.49.10,Antitoxinas de origem microbiana,01/04/2022
+3002.49.20,Tuberculinas,01/04/2022
+3002.49.9,Outros,01/04/2022
+3002.49.91,Para a saúde animal,01/04/2022
+3002.49.92,Para a saúde humana,01/04/2022
+3002.49.94,Ricina,01/04/2022
+3002.49.99,Outros,01/04/2022
+3002.5,"- Culturas de células, mesmo modificadas:",01/04/2022
+3002.51.00,-- Produtos de terapia celular,01/04/2022
+3002.59.00,-- Outras,01/04/2022
+3002.90.00,- Outros,01/04/2022
+3003.10,"- Que contenham penicilinas ou seus derivados, com a estrutura do ácido penicilânico, ou estreptomi",01/04/2022
+3003.10.1,"Que contenham penicilinas ou seus derivados, com a estrutura do ácido penicilânico",01/04/2022
+3003.10.11,Ampicilina ou seus sais,01/04/2022
+3003.10.12,Amoxicilina ou seus sais,01/04/2022
+3003.10.13,Penicilina G benzatínica,01/04/2022
+3003.10.14,Penicilina G potássica,01/04/2022
+3003.10.15,Penicilina G procaínica,01/04/2022
+3003.10.19,Outros,01/04/2022
+3003.10.20,Que contenham estreptomicinas ou seus derivados,01/04/2022
+3003.20,"- Outros, que contenham antibióticos",01/04/2022
+3003.20.1,Que contenham anfenicóis ou seus derivados,01/04/2022
+3003.20.11,"Cloranfenicol, seu palmitato, seu succinato ou seu hemissuccinato",01/04/2022
+3003.20.19,Outros,01/04/2022
+3003.20.2,Que contenham macrolídios ou seus derivados,01/04/2022
+3003.20.21,Eritromicina ou seus sais,01/04/2022
+3003.20.29,Outros,01/04/2022
+3003.20.3,Que contenham ansamicinas ou seus derivados,01/04/2022
+3003.20.31,Rifamicina SV sódica,01/04/2022
+3003.20.32,Rifampicina,01/04/2022
+3003.20.39,Outros,01/04/2022
+3003.20.4,Que contenham lincosamidas ou seus derivados,01/04/2022
+3003.20.41,Cloridrato de lincomicina,01/04/2022
+3003.20.49,Outros,01/04/2022
+3003.20.5,"Que contenham cefalosporinas, cefamicinas ou derivados destes produtos",01/04/2022
+3003.20.51,Cefalotina sódica,01/04/2022
+3003.20.52,Cefaclor ou cefalexina monoidratados,01/04/2022
+3003.20.59,Outros,01/04/2022
+3003.20.6,Que contenham aminoglucosídios ou seus derivados,01/04/2022
+3003.20.61,Sulfato de gentamicina,01/04/2022
+3003.20.62,Daunorubicina,01/04/2022
+3003.20.63,Idarubicina; pirarubicina,01/04/2022
+3003.20.69,Outros,01/04/2022
+3003.20.7,Que contenham polipeptídios ou seus derivados,01/04/2022
+3003.20.71,Vancomicina,01/04/2022
+3003.20.72,Actinomicinas,01/04/2022
+3003.20.73,Ciclosporina A,01/04/2022
+3003.20.79,Outros,01/04/2022
+3003.20.9,Outros,01/04/2022
+3003.20.91,Mitomicina,01/04/2022
+3003.20.92,Fumarato de tiamulina,01/04/2022
+3003.20.93,Bleomicinas ou seus sais,01/04/2022
+3003.20.94,Imipenem,01/04/2022
+3003.20.95,Anfotericina B em lipossomas,01/04/2022
+3003.20.99,Outros,01/04/2022
+3003.3,"- Outros, que contenham hormônios ou outros produtos da posição 29.37:",01/04/2022
+3003.31.00,-- Que contenham insulina,01/04/2022
+3003.39,-- Outros,01/04/2022
+3003.39.1,Que contenham os seguintes hormônios polipeptídicos ou proteicos: buserelina ou seu acetato; corti,01/04/2022
+3003.39.11,Somatotropina,01/04/2022
+3003.39.12,Gonadotropina coriônica (hCG),01/04/2022
+3003.39.13,Menotropinas,01/04/2022
+3003.39.14,Corticotropina (ACTH),01/04/2022
+3003.39.15,Gonadotropina sérica (PMSG),01/04/2022
+3003.39.16,Somatostatina ou seus sais,01/04/2022
+3003.39.17,Buserelina ou seu acetato,01/04/2022
+3003.39.18,Triptorelina ou seus sais,01/04/2022
+3003.39.19,Leuprolida ou seu acetato,01/04/2022
+3003.39.2,"Que contenham outros hormônios polipeptídicos ou proteicos, seus derivadosou análogos estruturai",01/04/2022
+3003.39.21,LH-RH (gonadorelina),01/04/2022
+3003.39.22,Oxitocina,01/04/2022
+3003.39.23,Sais de insulina,01/04/2022
+3003.39.24,Timosinas,01/04/2022
+3003.39.25,Octreotida,01/04/2022
+3003.39.26,Goserelina ou seu acetato,01/04/2022
+3003.39.27,Nafarelina ou seu acetato,01/04/2022
+3003.39.29,Outros,01/04/2022
+3003.39.3,"Que contenham estrogênios ou progestogênios, seus derivados ou análogosestruturais",01/04/2022
+3003.39.31,Hemissuccinato de estradiol,01/04/2022
+3003.39.32,Fempropionato de estradiol,01/04/2022
+3003.39.33,Estriol ou seu succinato,01/04/2022
+3003.39.34,Alilestrenol,01/04/2022
+3003.39.35,Linestrenol,01/04/2022
+3003.39.36,Acetato de megestrol; formestano; fulvestranto,01/04/2022
+3003.39.37,Desogestrel,01/04/2022
+3003.39.39,Outros,01/04/2022
+3003.39.8,Levotiroxina sódica; liotironina sódica,01/04/2022
+3003.39.81,Levotiroxina sódica,01/04/2022
+3003.39.82,Liotironina sódica,01/04/2022
+3003.39.9,Outros,01/04/2022
+3003.39.91,"Sal sódico ou éster metílico do ácido 9,11,15-triidroxi-16-(3-clorofenoxi)prosta",
+3003.39.92,Tiratricol (triac) ou seu sal sódico,01/04/2022
+3003.39.94,Espironolactona,01/04/2022
+3003.39.95,Exemestano,01/04/2022
+3003.39.99,Outros,01/04/2022
+3003.4,"- Outros, que contenham alcaloides ou seus derivados:",01/04/2022
+3003.41.00,-- Que contenham efedrina ou seus sais,01/04/2022
+3003.42.00,-- Que contenham pseudoefedrina (DCI) ou seus sais,01/04/2022
+3003.43.00,-- Que contenham norefedrina ou seus sais,01/04/2022
+3003.49,-- Outros,01/04/2022
+3003.49.10,Vimblastina; vincristina; derivados destes produtos; topotecan ou seu cloridrato,01/04/2022
+3003.49.20,"Pilocarpina, seu nitrato ou seu cloridrato",01/04/2022
+3003.49.30,Metanossulfonato de di-hidroergocristina,01/04/2022
+3003.49.40,Codeína ou seus sais,01/04/2022
+3003.49.50,Granisetron; tropisetrona ou seu cloridrato,01/04/2022
+3003.49.90,Outros,01/04/2022
+3003.60.00,"- Outros, que contenham princípios ativos antimaláricos (antipalúdicos) descritos na Nota de subposi",01/04/2022
+3003.90,- Outros,01/04/2022
+3003.90.1,Que contenham vitaminas ou outros produtos da posição 29.36,01/04/2022
+3003.90.11,Folinato de cálcio (leucovorina),01/04/2022
+3003.90.12,Nicotinamida,01/04/2022
+3003.90.13,Hidroxocobalamina ou seus sais; cianocobalamina,01/04/2022
+3003.90.14,"Vitamina A1 (retinol) ou seus derivados, exceto o ácido retinoico (tretinoína)",01/04/2022
+3003.90.15,D-Pantotenato de cálcio; vitamina D3 (colecalciferol),01/04/2022
+3003.90.16,"Ésteres das vitaminas A e D3, em concentração igual ou superior a 1.500.000",
+3003.90.17,Ácido retinoico (tretinoína),01/04/2022
+3003.90.19,Outros,01/04/2022
+3003.90.2,Que contenham enzimas mas que não contenham vitaminas nem outros produtos da posição 29.36,01/04/2022
+3003.90.21,Estreptoquinase,01/04/2022
+3003.90.22,L-Asparaginase,01/04/2022
+3003.90.23,Deoxirribonuclease,01/04/2022
+3003.90.24,Idursulfase,01/04/2022
+3003.90.25,alfa-Agalsidase; alfavelaglicerase,01/04/2022
+3003.90.29,Outros,01/04/2022
+3003.90.3,"Que contenham produtos das posições 29.16 a 29.20, mas que não contenham produtos dos itens 3",01/04/2022
+3003.90.31,Permetrina; nitrato de propatila; benzoato de benzila; dioctilsulfossuccinato de sódio,01/04/2022
+3003.90.32,Ácido cólico; ácido deoxicólico; sal magnésico do ácido deidrocólico,01/04/2022
+3003.90.33,"Ácido glucônico, seus sais ou seus ésteres",01/04/2022
+3003.90.34,Ácido o-acetilsalicílico; o-acetilsalicilato de alumínio; salicilato de metila; diclorvós,01/04/2022
+3003.90.35,Lactofosfato de cálcio,01/04/2022
+3003.90.36,"Ácido láctico, seus sais ou seus ésteres; ácido 4-(4-hidroxifenoxi)-3,5-di-iodofenilacético",01/04/2022
+3003.90.37,"Ácido fumárico, seus sais ou seus ésteres",01/04/2022
+3003.90.38,Etretinato; fosfestrol ou seus sais de di ou tetrassódio,01/04/2022
+3003.90.39,Outros,01/04/2022
+3003.90.4,"Que contenham produtos das posições 29.21 e 29.22, mas que não contenham produtos dos itens 3",01/04/2022
+3003.90.41,Sulfato de tranilcipromina; dietilpropiona,01/04/2022
+3003.90.42,Cloridrato de ketamina,01/04/2022
+3003.90.43,Clembuterol ou seu cloridrato,01/04/2022
+3003.90.44,Tamoxifen ou seu citrato,01/04/2022
+3003.90.45,Levodopa; alfa-metildopa,01/04/2022
+3003.90.46,Cloridrato de fenilefrina; mirtecaína; propranolol ou seus sais,01/04/2022
+3003.90.47,Diclofenaco de sódio; diclofenaco de potássio; diclofenaco de dietilamônio,01/04/2022
+3003.90.48,Clorambucil; clormetina (DCI) ou seu cloridrato; melfalano; toremifene ou seucitrato,01/04/2022
+3003.90.49,Outros,01/04/2022
+3003.90.5,"Que contenham produtos das posições 29.24 a 29.26, mas que não contenham produtos dos itens 3",01/04/2022
+3003.90.51,Metoclopramida ou seu cloridrato; closantel,01/04/2022
+3003.90.52,Atenolol; prilocaína ou seu cloridrato; talidomida,01/04/2022
+3003.90.53,Lidocaína ou seu cloridrato; flutamida,01/04/2022
+3003.90.54,Femproporex,01/04/2022
+3003.90.55,Paracetamol; bromoprida,01/04/2022
+3003.90.56,Amitraz; cipermetrina,01/04/2022
+3003.90.57,Clorexidina ou seus sais; isetionato de pentamidina,01/04/2022
+3003.90.58,"Aminoglutetimida; carmustina; deferoxamina (desferrioxamina B) ou seus sais, derivados destes pro",01/04/2022
+3003.90.59,Outros,01/04/2022
+3003.90.6,"Que contenham produtos das posições 29.30 a 29.32, mas que não contenham produtos dos itens 3",01/04/2022
+3003.90.61,Quercetina,01/04/2022
+3003.90.62,Tiaprida,01/04/2022
+3003.90.63,Etidronato dissódico,01/04/2022
+3003.90.64,Cloridrato de amiodarona,01/04/2022
+3003.90.65,Nitrovin; moxidectina,01/04/2022
+3003.90.66,Ácido clodrônico ou seu sal dissódico; estreptozocina; fotemustina,01/04/2022
+3003.90.67,Carbocisteína; sulfiram,01/04/2022
+3003.90.69,Outros,01/04/2022
+3003.90.7,"Que contenham produtos da posição 29.33, mas que não contenham produtos dos itens 3003.90.1 a",01/04/2022
+3003.90.71,Terfenadina; talniflumato; malato ácido de cleboprida; econazol ou seu nitrato; nitrato de isoconazol;,01/04/2022
+3003.90.72,Cloridrato de loperamida; fembendazol; ketorolac trometamina; nifedipina; nimodipina; nitrendipina,01/04/2022
+3003.90.73,Albendazol ou seu sulfóxido; mebendazol; 6-mercaptopurina; metilsulfato deamezínio; oxifendazol; p,01/04/2022
+3003.90.74,Alprazolam; bromazepam; clordiazepóxido; cloridrato de petidina; diazepam;droperidol; mazindol; tri,01/04/2022
+3003.90.75,Benzetimida ou seu cloridrato; fenitoína ou seu sal sódico; isoniazida; pirazinamida,01/04/2022
+3003.90.76,Ácido 2-(2-metil-3-cloroanilina)nicotínico ou seu sal de lisina; metronidazol ouseus sais; azatioprina;,01/04/2022
+3003.90.77,Enrofloxacina; maleato de enalapril; maleato de pirilamina; nicarbazina; norfloxacina; sais de piperaz,01/04/2022
+3003.90.78,Altretamina; bortezomib; cloridrato de erlotinibe; dacarbazina; disoproxilfumarato de tenofovir; enfuvir,01/07/2024
+3003.90.79,Outros,01/04/2022
+3003.90.8,"Que contenham produtos das posições 29.34, 29.35 e 29.38, mas que não contenham produtos dos",01/04/2022
+3003.90.81,Levamisol ou seus sais; tetramisol,01/04/2022
+3003.90.82,Sulfadiazina ou seu sal sódico; sulfametoxazol,01/04/2022
+3003.90.83,Cloxazolam; ketazolam; piroxicam; tenoxicam,01/04/2022
+3003.90.84,Ftalilsulfatiazol; inosina,01/04/2022
+3003.90.85,Enantato de flufenazina; prometazina; gliburida; rutosídio; deslanosídio,01/04/2022
+3003.90.86,Clortalidona; furosemida,01/04/2022
+3003.90.87,Cloridrato de tizanidina; cetoconazol; furazolidona,01/04/2022
+3003.90.88,Amprenavir; aprepitanto; delavirdina ou seu mesilato; efavirenz; emtricitabina; etopósido; everolimus;,01/04/2022
+3003.90.89,Outros,01/04/2022
+3003.90.9,Outros,01/04/2022
+3003.90.91,Extrato de pólen,01/04/2022
+3003.90.92,Crisarobina; disofenol,01/04/2022
+3003.90.93,Diclofenaco resinato,01/04/2022
+3003.90.94,Silimarina,01/04/2022
+3003.90.95,Bussulfano; dexormaplatina; dietilestilbestrol ou seu dipropionato; enloplatina; iproplatina; lobaplatina,01/04/2022
+3003.90.96,Complexo de ferro dextrana,01/04/2022
+3003.90.97,Sevoflurano,01/04/2022
+3003.90.99,Outros,01/04/2022
+3004.10,"- Que contenham penicilinas ou seus derivados, com estrutura do ácido penicilânico, ou estreptomici",01/04/2022
+3004.10.1,"Que contenham penicilinas ou seus derivados, com estrutura do ácido penicilânico",01/04/2022
+3004.10.11,Ampicilina ou seus sais,01/04/2022
+3004.10.12,Amoxicilina ou seus sais,01/04/2022
+3004.10.13,Penicilina G benzatínica,01/04/2022
+3004.10.14,Penicilina G potássica,01/04/2022
+3004.10.15,Penicilina G procaínica,01/04/2022
+3004.10.19,Outros,01/04/2022
+3004.10.20,Que contenham estreptomicinas ou seus derivados,01/04/2022
+3004.20,"- Outros, que contenham antibióticos",01/04/2022
+3004.20.1,Que contenham anfenicóis ou seus sais,01/04/2022
+3004.20.11,"Cloranfenicol, seu palmitato, seu succinato ou seu hemissuccinato",01/04/2022
+3004.20.19,Outros,01/04/2022
+3004.20.2,Que contenham macrolídios ou seus derivados,01/04/2022
+3004.20.21,Eritromicina ou seus sais,01/04/2022
+3004.20.29,Outros,01/04/2022
+3004.20.3,Que contenham ansamicinas ou seus derivados,01/04/2022
+3004.20.31,Rifamicina SV sódica,01/04/2022
+3004.20.32,Rifampicina,01/04/2022
+3004.20.39,Outros,01/04/2022
+3004.20.4,Que contenham lincosamidas ou seus derivados,01/04/2022
+3004.20.41,Cloridrato de lincomicina,01/04/2022
+3004.20.49,Outros,01/04/2022
+3004.20.5,"Que contenham cefalosporinas, cefamicinas ou derivados destes produtos",01/04/2022
+3004.20.51,Cefalotina sódica,01/04/2022
+3004.20.52,Cefaclor ou cefalexina monoidratados,01/04/2022
+3004.20.59,Outros,01/04/2022
+3004.20.6,Que contenham aminoglucosídios ou seus derivados,01/04/2022
+3004.20.61,Sulfato de gentamicina,01/04/2022
+3004.20.62,Daunorubicina,01/04/2022
+3004.20.63,Idarubicina; pirarubicina,01/04/2022
+3004.20.69,Outros,01/04/2022
+3004.20.7,Que contenham polipeptídios ou seus derivados,01/04/2022
+3004.20.71,Vancomicina,01/04/2022
+3004.20.72,Actinomicinas,01/04/2022
+3004.20.73,Ciclosporina A,01/04/2022
+3004.20.79,Outros,01/04/2022
+3004.20.9,Outros,01/04/2022
+3004.20.91,Mitomicina,01/04/2022
+3004.20.92,Fumarato de tiamulina,01/04/2022
+3004.20.93,Bleomicinas ou seus sais,01/04/2022
+3004.20.94,Imipenem,01/04/2022
+3004.20.95,Anfotericina B em lipossomas,01/04/2022
+3004.20.99,Outros,01/04/2022
+3004.3,"- Outros, que contenham hormônios ou outros produtos da posição 29.37:",01/04/2022
+3004.31.00,-- Que contenham insulina,01/04/2022
+3004.32,"-- Que contenham hormônios corticosteroides, seus derivados ou análogos estruturais",01/04/2022
+3004.32.10,Hormônios corticosteroides,01/04/2022
+3004.32.20,Espironolactona,01/04/2022
+3004.32.90,Outros,01/04/2022
+3004.39,-- Outros,01/04/2022
+3004.39.1,Que contenham os seguintes hormônios polipeptídicos ou proteicos: buserelina ou seu acetato; corti,01/04/2022
+3004.39.11,Somatotropina,01/04/2022
+3004.39.12,Gonadotropina coriônica (hCG),01/04/2022
+3004.39.13,Menotropinas,01/04/2022
+3004.39.14,Corticotropina (ACTH),01/04/2022
+3004.39.15,Gonadotropina sérica (PMSG),01/04/2022
+3004.39.16,Somatostatina ou seus sais,01/04/2022
+3004.39.17,Buserelina ou seu acetato,01/04/2022
+3004.39.18,Triptorelina ou seus sais,01/04/2022
+3004.39.19,Leuprolida ou seu acetato,01/04/2022
+3004.39.2,"Que contenham outros hormônios polipeptídicos ou proteicos, seus derivadosou análogos estruturai",01/04/2022
+3004.39.21,LH-RH (gonadorelina),01/04/2022
+3004.39.22,Oxitocina,01/04/2022
+3004.39.23,Sais de insulina,01/04/2022
+3004.39.24,Timosinas,01/04/2022
+3004.39.25,Calcitonina,01/04/2022
+3004.39.26,Octreotida,01/04/2022
+3004.39.27,Goserelina ou seu acetato,01/04/2022
+3004.39.28,Nafarelina ou seu acetato,01/04/2022
+3004.39.29,Outros,01/04/2022
+3004.39.3,"Que contenham estrogênios ou progestogênios, seus derivados ou análogosestruturais",01/04/2022
+3004.39.31,Hemissuccinato de estradiol,01/04/2022
+3004.39.32,Fempropionato de estradiol,01/04/2022
+3004.39.33,Estriol ou seu succinato,01/04/2022
+3004.39.34,Alilestrenol,01/04/2022
+3004.39.35,Linestrenol,01/04/2022
+3004.39.36,Acetato de megestrol; formestano; fulvestranto,01/04/2022
+3004.39.37,Desogestrel,01/04/2022
+3004.39.39,Outros,01/04/2022
+3004.39.8,Levotiroxina sódica; liotironina sódica,01/04/2022
+3004.39.81,Levotiroxina sódica,01/04/2022
+3004.39.82,Liotironina sódica,01/04/2022
+3004.39.9,Outros,01/04/2022
+3004.39.91,"Sal sódico ou éster metílico do ácido 9,11,15-triidroxi-16-(3-clorofenoxi)prosta",
+3004.39.92,Tiratricol (triac) ou seu sal sódico,01/04/2022
+3004.39.94,Exemestano,01/04/2022
+3004.39.99,Outros,01/04/2022
+3004.4,"- Outros, que contenham alcaloides ou seus derivados:",01/04/2022
+3004.41.00,-- Que contenham efedrina ou seus sais,01/04/2022
+3004.42.00,-- Que contenham pseudoefedrina (DCI) ou seus sais,01/04/2022
+3004.43.00,-- Que contenham norefedrina ou seus sais,01/04/2022
+3004.49,-- Outros,01/04/2022
+3004.49.10,Vimblastina; vincristina; derivados destes produtos; topotecan ou seu cloridrato,01/04/2022
+3004.49.20,"Pilocarpina, seu nitrato ou seu cloridrato",01/04/2022
+3004.49.30,Metanossulfonato de di-hidroergocristina,01/04/2022
+3004.49.40,Codeína ou seus sais,01/04/2022
+3004.49.50,Granisetron; tropisetrona ou seu cloridrato,01/04/2022
+3004.49.90,Outros,01/04/2022
+3004.50,"- Outros, que contenham vitaminas ou outros produtos da posição 29.36",01/04/2022
+3004.50.10,Folinato de cálcio (leucovorina),01/04/2022
+3004.50.20,Nicotinamida,01/04/2022
+3004.50.30,Hidroxocobalamina ou seus sais; cianocobalamina,01/04/2022
+3004.50.40,"Vitamina A1 (retinol) ou seus derivados, exceto o ácido retinoico (tretinoína)",01/04/2022
+3004.50.50,D-Pantotenato de cálcio; vitamina D3 (colecalciferol),01/04/2022
+3004.50.60,Ácido retinoico (tretinoína),01/04/2022
+3004.50.90,Outros,01/04/2022
+3004.60.00,"- Outros, que contenham princípios ativos antimaláricos (antipalúdicos) descritos na Nota de subposi",01/04/2022
+3004.90,- Outros,01/04/2022
+3004.90.1,Que contenham enzimas,01/04/2022
+3004.90.11,Estreptoquinase,01/04/2022
+3004.90.12,L-Asparaginase,01/04/2022
+3004.90.13,Deoxirribonuclease,01/04/2022
+3004.90.14,Idursulfase,01/04/2022
+3004.90.15,alfa-Agalsidase; alfavelaglicerase,01/04/2022
+3004.90.19,Outros,01/04/2022
+3004.90.2,"Que contenham produtos das posições 29.16 a 29.20, mas que não contenham produtos do item 30",01/04/2022
+3004.90.21,Permetrina; nitrato de propatila; benzoato de benzila; dioctilsulfossuccinato de sódio,01/04/2022
+3004.90.22,Ácido cólico; ácido deoxicólico; sal magnésico do ácido deidrocólico,01/04/2022
+3004.90.23,"Ácido glucônico, seus sais ou seus ésteres",01/04/2022
+3004.90.24,Ácido o-acetilsalicílico; o-acetilsalicilato de alumínio; salicilato de metila; diclorvós,01/04/2022
+3004.90.25,Lactofosfato de cálcio,01/04/2022
+3004.90.26,"Ácido láctico, seus sais ou seus ésteres; ácido 4-(4-hidroxifenoxi)-3,5-di-iodofenilacético; ácido fumár",01/04/2022
+3004.90.27,"Nitroglicerina, destinada a ser administrada por via percutânea",01/04/2022
+3004.90.28,Etretinato; fosfestrol ou seus sais de di ou tetrassódio,01/04/2022
+3004.90.29,Outros,01/04/2022
+3004.90.3,"Que contenham produtos das posições 29.21 e 29.22, mas que não contenham produtos dos itens 3",01/04/2022
+3004.90.31,Sulfato de tranilcipromina; dietilpropiona,01/04/2022
+3004.90.32,Cloridrato de ketamina,01/04/2022
+3004.90.33,Clembuterol ou seu cloridrato,01/04/2022
+3004.90.34,Tamoxifen ou seu citrato,01/04/2022
+3004.90.35,Levodopa; alfa-metildopa,01/04/2022
+3004.90.36,Cloridrato de fenilefrina; mirtecaína; propranolol ou seus sais,01/04/2022
+3004.90.37,Diclofenaco de sódio; diclofenaco de potássio; diclofenaco de dietilamônio,01/04/2022
+3004.90.38,Clorambucil; clormetina (DCI) ou seu cloridrato; melfalano; toremifene ou seucitrato,01/04/2022
+3004.90.39,Outros,01/04/2022
+3004.90.4,"Que contenham produtos das posições 29.24 a 29.26, mas que não contenham produtos dos itens 3",01/04/2022
+3004.90.41,Metoclopramida ou seu cloridrato; closantel,01/04/2022
+3004.90.42,Atenolol; prilocaína ou seu cloridrato; talidomida,01/04/2022
+3004.90.43,Lidocaína ou seu cloridrato; flutamida,01/04/2022
+3004.90.44,Femproporex,01/04/2022
+3004.90.45,Paracetamol; bromoprida,01/04/2022
+3004.90.46,Amitraz; cipermetrina,01/04/2022
+3004.90.47,Clorexidina ou seus sais; isetionato de pentamidina,01/04/2022
+3004.90.48,"Aminoglutetimida; carmustina; deferoxamina (desferrioxamina B) ou seus sais, derivados destes pro",01/04/2022
+3004.90.49,Outros,01/04/2022
+3004.90.5,"Que contenham produtos das posições 29.30 a 29.32, mas que não contenham produtos dos itens 3",01/04/2022
+3004.90.51,Quercetina,01/04/2022
+3004.90.52,Tiaprida,01/04/2022
+3004.90.53,Etidronato dissódico,01/04/2022
+3004.90.54,Cloridrato de amiodarona,01/04/2022
+3004.90.55,Nitrovin; moxidectina,01/04/2022
+3004.90.57,Carbocisteína; sulfiram,01/04/2022
+3004.90.58,Ácido clodrônico ou seu sal dissódico; estreptozocina; fotemustina,01/04/2022
+3004.90.59,Outros,01/04/2022
+3004.90.6,"Que contenham produtos da posição 29.33, mas que não contenham produtos dos itens 3004.90.1 a",01/04/2022
+3004.90.61,Terfenadina; talniflumato; malato ácido de cleboprida; econazol ou seu nitrato; nitrato de isoconazol;,01/04/2022
+3004.90.62,Cloridrato de loperamida; fembendazol; ketorolac trometamina; nifedipina nimodipina; nitrendipina,01/04/2022
+3004.90.63,Albendazol ou seu sulfóxido; mebendazol; 6-mercaptopurina; metilsulfato deamezínio; oxifendazol; p,01/04/2022
+3004.90.64,Alprazolam; bromazepam; clordiazepóxido; cloridrato de petidina; diazepam;droperidol; mazindol; tri,01/04/2022
+3004.90.65,Benzetimida ou seu cloridrato; fenitoína ou seu sal sódico; isoniazida; pirazinamida,01/04/2022
+3004.90.66,Ácido 2-(2-metil-3-cloroanilina)nicotínico ou seu sal de lisina; metronidazol ouseus sais; azatioprina;,01/04/2022
+3004.90.67,Enrofloxacina; maleato de enalapril; maleato de pirilamina; nicarbazina; norfloxacina; sais de piperaz,01/04/2022
+3004.90.68,Altretamina; bortezomib; cloridrato de erlotinibe; dacarbazina; disoproxilfumarato de tenofovir; enfuvir,01/07/2024
+3004.90.69,Outros,01/04/2022
+3004.90.7,"Que contenham produtos das posições 29.34, 29.35 e 29.38, mas que não contenham produtos dos",01/04/2022
+3004.90.71,Levamisol ou seus sais; tetramisol,01/04/2022
+3004.90.72,Sulfadiazina ou seu sal sódico; sulfametoxazol,01/04/2022
+3004.90.73,Cloxazolam; ketazolam; piroxicam; tenoxicam,01/04/2022
+3004.90.74,Ftalilsulfatiazol; inosina,01/04/2022
+3004.90.75,Enantato de flufenazina; prometazina; gliburida; rutosídio; deslanosídio,01/04/2022
+3004.90.76,Clortalidona; furosemida,01/04/2022
+3004.90.77,Cloridrato de tizanidina; cetoconazol; furazolidona,01/04/2022
+3004.90.78,Amprenavir; aprepitanto; delavirdina ou seu mesilato; efavirenz; emtricitabina; etopósido; everolimus;,01/04/2022
+3004.90.79,Outros,01/04/2022
+3004.90.9,Outros,01/04/2022
+3004.90.91,Extrato de pólen,01/04/2022
+3004.90.92,Crisarobina; disofenol,01/04/2022
+3004.90.93,Diclofenaco resinato,01/04/2022
+3004.90.94,Silimarina,01/04/2022
+3004.90.95,Bussulfano; dexormaplatina; dietilestilbestrol ou seu dipropionato; enloplatina; iproplatina; lobaplatina,01/04/2022
+3004.90.96,Complexo de ferro dextrana,01/04/2022
+3004.90.97,Sevoflurano,01/04/2022
+3004.90.98,"Regenerador de cartilagem, constituído por colágeno moldado, absorvível",01/11/2023
+3004.90.99,Outros,01/04/2022
+3005.10,- Curativos (pensos) adesivos e outros artigos com uma camada adesiva,01/04/2022
+3005.10.10,Impregnados ou recobertos de substâncias farmacêuticas,01/04/2022
+3005.10.20,Curativos (pensos) cirúrgicos que permitem a observação direta de feridas,01/04/2022
+3005.10.30,Curativos (pensos) impermeáveis aplicáveis sobre mucosas,01/04/2022
+3005.10.40,Curativos (pensos) com obturador próprios para colostomia (cones obturadores),01/04/2022
+3005.10.50,Curativos (pensos) com fecho de correr próprios para fechar ferimentos,01/04/2022
+3005.10.90,Outros,01/04/2022
+3005.90,- Outros,01/04/2022
+3005.90.1,Curativos (pensos) reabsorvíveis,01/04/2022
+3005.90.11,De ácido poliglicólico,01/04/2022
+3005.90.12,De copolímeros de ácido glicólico e ácido láctico,01/04/2022
+3005.90.19,Outros,01/04/2022
+3005.90.20,"Campos cirúrgicos, de falso tecido (tecido não tecido)",01/04/2022
+3005.90.90,Outros,01/04/2022
+3006.10,"- Categutes esterilizados, materiais esterilizados semelhantes para suturas cirúrgicas (incluindo os fi",01/04/2022
+3006.10.10,"Materiais para suturas cirúrgicas, de polidioxanona",01/04/2022
+3006.10.20,"Materiais para suturas cirúrgicas, de aço inoxidável",01/04/2022
+3006.10.90,Outros,01/04/2022
+3006.30,- Preparações opacificantes para exames radiográficos; reagentes de diagnóstico concebidos para s,01/04/2022
+3006.30.1,Preparações opacificantes para exames radiográficos,01/04/2022
+3006.30.11,À base de ioexol,01/04/2022
+3006.30.12,À base de iocarmato de dimeglumina ou de iodixanol,01/04/2024
+3006.30.13,À base de iopamidol,01/04/2022
+3006.30.15,À base de dióxido de zircônio e sulfato de gentamicina,01/04/2022
+3006.30.16,À base de diatrizoato de sódio ou de meglumina,01/04/2022
+3006.30.17,"À base de iomeprol, iopromida ou de ioversol",01/11/2023
+3006.30.18,"À base de iotalamato de sódio, de iotalamato de meglumina ou de suas misturas",01/04/2022
+3006.30.19,Outras,01/04/2022
+3006.30.2,Reagentes de diagnóstico concebidos para serem administrados ao paciente,01/04/2022
+3006.30.21,À base de somatoliberina,01/04/2022
+3006.30.29,Outros,01/04/2022
+3006.40,- Cimentos e outros produtos para obturação dentária; cimentos para reconstituição óssea,01/04/2022
+3006.40.1,Cimentos e outros produtos para obturação dentária,01/04/2022
+3006.40.11,Cimentos,01/04/2022
+3006.40.12,Outros produtos para obturação dentária,01/04/2022
+3006.40.20,Cimentos para reconstituição óssea,01/04/2022
+3006.50.00,"- Estojos e caixas de primeiros socorros, guarnecidos",01/04/2022
+3006.60.00,"- Preparações químicas contraceptivas à base de hormônios, de outros produtos da posição 29.37 o",01/04/2022
+3006.70.00,- Preparações apresentadas sob a forma de gel concebidas para uso em medicina humana ou veteri,01/04/2022
+3006.9,- Outros:,01/04/2022
+3006.91,-- Equipamentos identificáveis para ostomia,01/04/2022
+3006.91.10,"Bolsas para colostomia, ileostomia e urostomia",01/04/2022
+3006.91.90,Outros,01/04/2022
+3006.92.00,-- Resíduos farmacêuticos,01/04/2022
+3006.93.00,-- Placebos e estojos para ensaios clínicos cegos (ou duplo-cegos) destinados a um ensaio clínico re,01/04/2022

@@ -1,0 +1,144 @@
+codigo,descricao,data_inicio
+07.01,"Batatas, frescas ou refrigeradas.",01/04/2022
+07.03,"Cebolas, chalotas, alhos, alhos-porros e outros produtos hortícolas aliáceos,frescos ou refrigerados.",01/04/2022
+07.04,"Couves, couve-flor, repolho ou couve frisada, couve-rábano e produtos comestíveis semelhantes do",01/04/2022
+07.05,"Alface (Lactuca sativa) e chicórias (Cichorium spp.), frescas ou refrigeradas.",01/04/2022
+07.06,"Cenouras, nabos, beterrabas para salada, cercefi, aipo-rábano, rabanetes e raízes comestíveis sem",01/04/2022
+07.08,"Legumes de vagem, mesmo com vagem, frescos ou refrigerados.",01/04/2022
+07.09,"Outros produtos hortícolas, frescos ou refrigerados.",01/04/2022
+07.10,"Produtos hortícolas, não cozidos ou cozidos em água ou vapor, congelados.",01/04/2022
+07.11,"Produtos hortícolas conservados transitoriamente, mas impróprios para alimentação nesse estado.",01/04/2022
+07.12,"Produtos hortícolas secos, mesmo cortados em pedaços ou fatias, ou ainda triturados ou em pó, ma",01/04/2022
+07.13,"Legumes de vagem, secos, em grão, mesmo pelados ou partidos.",01/04/2022
+07.14,"Raízes de mandioca, de araruta e de salepo, tupinambos, batatas-doces e raízes ou tubérculos sem",01/04/2022
+0701.10.00,- Batata-semente,01/04/2022
+0701.90.00,- Outras,01/04/2022
+0702.00.00,"Tomates, frescos ou refrigerados.",01/04/2022
+0703.10,- Cebolas e chalotas,01/04/2022
+0703.10.1,Cebolas,01/04/2022
+0703.10.11,Para semeadura (sementeira),01/04/2022
+0703.10.19,Outras,01/04/2022
+0703.10.2,Chalotas,01/04/2022
+0703.10.21,Para semeadura (sementeira),01/04/2022
+0703.10.29,Outras,01/04/2022
+0703.20,- Alhos,01/04/2022
+0703.20.10,Para semeadura (sementeira),01/04/2022
+0703.20.90,Outros,01/04/2022
+0703.90,- Alhos-porros e outros produtos hortícolas aliáceos,01/04/2022
+0703.90.10,Para semeadura (sementeira),01/04/2022
+0703.90.90,Outros,01/04/2022
+0704.10.00,- Couve-flor e brócolis,01/04/2022
+0704.20.00,- Couve-de-bruxelas,01/04/2022
+0704.90.00,- Outros,01/04/2022
+0705.1,- Alface:,01/04/2022
+0705.11.00,-- Repolhuda,01/04/2022
+0705.19.00,-- Outra,01/04/2022
+0705.2,- Chicórias:,01/04/2022
+0705.21.00,-- Endívia (Cichorium intybus var. foliosum),01/04/2022
+0705.29.00,-- Outras,01/04/2022
+0706.10.00,- Cenouras e nabos,01/04/2022
+0706.90.00,- Outros,01/04/2022
+0707.00.00,"Pepinos e pepininhos (cornichons), frescos ou refrigerados.",01/04/2022
+0708.10.00,- Ervilhas (Pisum sativum),01/04/2022
+0708.20.00,"- Feijões (Vigna spp., Phaseolus spp.)",01/04/2022
+0708.90.00,- Outros legumes de vagem,01/04/2022
+0709.20.00,- Aspargos,01/04/2022
+0709.30.00,- Berinjelas,01/04/2022
+0709.40.00,"- Aipo, exceto aipo-rábano",01/04/2022
+0709.5,- Cogumelos e trufas:,01/04/2022
+0709.51.00,-- Cogumelos do gênero Agaricus,01/04/2022
+0709.52.00,-- Cogumelos do gênero Boletus,01/04/2022
+0709.53.00,-- Cogumelos do gênero Cantharellus,01/04/2022
+0709.54.00,-- Shitake (Lentinus edodes),01/04/2022
+0709.55.00,"-- Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dul",01/04/2022
+0709.56.00,-- Trufas (Tuber spp.),01/04/2022
+0709.59.00,-- Outros,01/04/2022
+0709.60.00,- Pimentões (pimentos) e pimentas do gênero Capsicum ou do gênero Pimenta,01/04/2022
+0709.70.00,"- Espinafres, espinafres-da-nova-zelândia e espinafres gigantes",01/04/2022
+0709.9,- Outros:,01/04/2022
+0709.91.00,-- Alcachofras,01/04/2022
+0709.92.00,-- Azeitonas,01/04/2022
+0709.93.00,"-- Abóboras, abobrinhas (curgetes*) e cabaças (Cucurbita spp.)",01/04/2022
+0709.99,-- Outros,01/04/2022
+0709.99.1,Milho doce,01/04/2022
+0709.99.11,Para semeadura (sementeira),01/04/2022
+0709.99.19,Outros,01/04/2022
+0709.99.90,Outros,01/04/2022
+0710.10.00,- Batatas,01/04/2022
+0710.2,"- Legumes de vagem, mesmo com vagem:",01/04/2022
+0710.21.00,-- Ervilhas (Pisum sativum),01/04/2022
+0710.22.00,"-- Feijões (Vigna spp., Phaseolus spp.)",01/04/2022
+0710.29.00,-- Outros,01/04/2022
+0710.30.00,"- Espinafres, espinafres-da-nova-zelândia e espinafres gigantes",01/04/2022
+0710.40.00,- Milho doce,01/04/2022
+0710.80.00,- Outros produtos hortícolas,01/04/2022
+0710.90.00,- Misturas de produtos hortícolas,01/04/2022
+0711.20,- Azeitonas,01/04/2022
+0711.20.10,Com água salgada,01/04/2022
+0711.20.20,Com água sulfurada ou adicionada de outras substâncias,01/04/2022
+0711.20.90,Outras,01/04/2022
+0711.40.00,- Pepinos e pepininhos (cornichons),01/04/2022
+0711.5,- Cogumelos e trufas:,01/04/2022
+0711.51.00,-- Cogumelos do gênero Agaricus,01/04/2022
+0711.59.00,-- Outros,01/04/2022
+0711.90.00,- Outros produtos hortícolas; misturas de produtos hortícolas,01/04/2022
+0712.20.00,- Cebolas,01/04/2022
+0712.3,"- Cogumelos, orelhas-de-judas (Auricularia spp.), tremelas (Tremella spp.) e trufas:",01/04/2022
+0712.31.00,-- Cogumelos do gênero Agaricus,01/04/2022
+0712.32.00,-- Orelhas-de-judas (Auricularia spp.),01/04/2022
+0712.33.00,-- Tremelas (Tremella spp.),01/04/2022
+0712.34.00,-- Shitake (Lentinus edodes),01/04/2022
+0712.39.00,-- Outros,01/04/2022
+0712.90,- Outros produtos hortícolas; misturas de produtos hortícolas,01/04/2022
+0712.90.20,Alho,01/01/2025
+0712.90.90,Outros,01/04/2022
+0713.10,- Ervilhas (Pisum sativum),01/04/2022
+0713.10.10,Para semeadura (sementeira),01/04/2022
+0713.10.90,Outras,01/04/2022
+0713.20,- Grão-de-bico,01/04/2022
+0713.20.10,Para semeadura (sementeira),01/04/2022
+0713.20.90,Outros,01/04/2022
+0713.3,"- Feijões (Vigna spp., Phaseolus spp.):",01/04/2022
+0713.31,-- Feijões das espécies Vigna mungo (L.) Hepper ou Vigna radiata (L.) Wilczek,01/04/2022
+0713.31.10,Para semeadura (sementeira),01/04/2022
+0713.31.90,Outros,01/04/2022
+0713.32,-- Feijão-adzuki (Phaseolus ou Vigna angularis),01/04/2022
+0713.32.10,Para semeadura (sementeira),01/04/2022
+0713.32.90,Outros,01/04/2022
+0713.33,-- Feijão comum (Phaseolus vulgaris),01/04/2022
+0713.33.1,Preto,01/04/2022
+0713.33.11,Para semeadura (sementeira),01/04/2022
+0713.33.19,Outros,01/04/2022
+0713.33.2,Branco,01/04/2022
+0713.33.21,Para semeadura (sementeira),01/04/2022
+0713.33.29,Outros,01/04/2022
+0713.33.9,Outros,01/04/2022
+0713.33.91,Para semeadura (sementeira),01/04/2022
+0713.33.99,Outros,01/04/2022
+0713.34,-- Feijão-bambara (Vigna subterranea ou Voandzeia subterranea),01/04/2022
+0713.34.10,Para semeadura (sementeira),01/04/2022
+0713.34.90,Outros,01/04/2022
+0713.35,-- Feijão-fradinho (Vigna unguiculata),01/04/2022
+0713.35.10,Para semeadura (sementeira),01/04/2022
+0713.35.90,Outros,01/04/2022
+0713.39,-- Outros,01/04/2022
+0713.39.10,Para semeadura (sementeira),01/04/2022
+0713.39.90,Outros,01/04/2022
+0713.40,- Lentilhas,01/04/2022
+0713.40.10,Para semeadura (sementeira),01/04/2022
+0713.40.90,Outras,01/04/2022
+0713.50,"- Favas (Vicia faba var. major) e fava forrageira (Vicia faba var. equina, Vicia faba var. minor)",01/04/2022
+0713.50.10,Para semeadura (sementeira),01/04/2022
+0713.50.90,Outras,01/04/2022
+0713.60,- Feijão-guando (ervilha-de-angola) (Cajanus cajan),01/04/2022
+0713.60.10,Para semeadura (sementeira),01/04/2022
+0713.60.90,Outros,01/04/2022
+0713.90,- Outros,01/04/2022
+0713.90.10,Para semeadura (sementeira),01/04/2022
+0713.90.90,Outros,01/04/2022
+0714.10.00,- Raízes de mandioca,01/04/2022
+0714.20.00,- Batatas-doces,01/04/2022
+0714.30.00,- Inhames (Dioscorea spp.),01/04/2022
+0714.40.00,- Taros (inhames-brancos) (Colocasia spp.),01/04/2022
+0714.50.00,- Mangaritos (Orelhas-de-elefante*) (Xanthosoma spp.),01/04/2022
+0714.90.00,- Outros,01/04/2022

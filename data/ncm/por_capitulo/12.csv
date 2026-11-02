@@ -1,0 +1,98 @@
+codigo,descricao,data_inicio
+12.01,"Soja, mesmo triturada.",01/04/2022
+12.02,"Amendoins não torrados nem de outro modo cozidos, mesmo descascados ou triturados.",01/04/2022
+12.05,"Sementes de nabo silvestre ou de colza, mesmo trituradas.",01/04/2022
+12.07,"Outras sementes e frutos oleaginosos, mesmo triturados.",01/04/2022
+12.08,"Farinhas de sementes ou de frutos oleaginosos, exceto farinha de mostarda.",01/04/2022
+12.09,"Sementes, frutos e esporos, para semeadura (sementeira).",01/04/2022
+12.10,"Cones de lúpulo, frescos ou secos, mesmo triturados ou moídos ou em pellets; lupulina.",01/04/2022
+12.11,"Plantas, partes de plantas, sementes e frutos, das espécies utilizadas principalmente em perfumaria,",01/04/2022
+12.12,"Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas,congeladas ou secas, m",01/04/2022
+12.14,"Rutabagas, beterrabas forrageiras, raízes forrageiras, feno, alfafa (luzerna), trevo, sanfeno, couves f",01/04/2022
+1201.10.00,- Para semeadura (sementeira),01/04/2022
+1201.90.00,- Outras,01/04/2022
+1202.30.00,- Para semeadura (sementeira),01/04/2022
+1202.4,- Outros:,01/04/2022
+1202.41.00,-- Com casca,01/04/2022
+1202.42.00,"-- Descascados, mesmo triturados",01/04/2022
+1203.00.00,Copra.,01/04/2022
+1204.00,"Linhaça (sementes de linho), mesmo triturada.",01/04/2022
+1204.00.10,Para semeadura (sementeira),01/04/2022
+1204.00.90,Outras,01/04/2022
+1205.10,- Sementes de nabo silvestre ou de colza com baixo teor de ácido erúcico,01/04/2022
+1205.10.10,Para semeadura (sementeira),01/04/2022
+1205.10.90,Outras,01/04/2022
+1205.90,- Outras,01/04/2022
+1205.90.10,Para semeadura (sementeira),01/04/2022
+1205.90.90,Outras,01/04/2022
+1206.00,"Sementes de girassol, mesmo trituradas.",01/04/2022
+1206.00.10,Para semeadura (sementeira),01/04/2022
+1206.00.90,Outras,01/04/2022
+1207.10,- Nozes e amêndoas de palma (palmiste) (coconote),01/04/2022
+1207.10.10,Para semeadura (sementeira),01/04/2022
+1207.10.90,Outras,01/04/2022
+1207.2,- Sementes de algodão:,01/04/2022
+1207.21.00,-- Para semeadura (sementeira),01/04/2022
+1207.29.00,-- Outras,01/04/2022
+1207.30,- Sementes de rícino (mamona),01/04/2022
+1207.30.10,Para semeadura (sementeira),01/04/2022
+1207.30.90,Outras,01/04/2022
+1207.40,- Sementes de gergelim (sésamo),01/04/2022
+1207.40.10,Para semeadura (sementeira),01/04/2022
+1207.40.90,Outras,01/04/2022
+1207.50,- Sementes de mostarda,01/04/2022
+1207.50.10,Para semeadura (sementeira),01/04/2022
+1207.50.90,Outras,01/04/2022
+1207.60,- Sementes de cártamo (Carthamus tinctorius),01/04/2022
+1207.60.10,Para semeadura (sementeira),01/04/2022
+1207.60.90,Outras,01/04/2022
+1207.70,- Sementes de melão,01/04/2022
+1207.70.10,Para semeadura (sementeira),01/04/2022
+1207.70.90,Outras,01/04/2022
+1207.9,- Outros:,01/04/2022
+1207.91,-- Sementes de dormideira (papoula),01/04/2022
+1207.91.10,Para semeadura (sementeira),01/04/2022
+1207.91.90,Outras,01/04/2022
+1207.99,-- Outros,01/04/2022
+1207.99.10,Para semeadura (sementeira),01/04/2022
+1207.99.90,Outros,01/04/2022
+1208.10.00,- De soja,01/04/2022
+1208.90.00,- Outras,01/04/2022
+1209.10.00,- Sementes de beterraba sacarina,01/04/2022
+1209.2,- Sementes de plantas forrageiras:,01/04/2022
+1209.21.00,-- Sementes de alfafa (luzerna),01/04/2022
+1209.22.00,-- Sementes de trevo (Trifolium spp.),01/04/2022
+1209.23.00,-- Sementes de festuca,01/04/2022
+1209.24.00,-- Sementes de pasto dos prados de Kentucky (Poa pratensis L.),01/04/2022
+1209.25.00,"-- Sementes de azevém (Lolium multiflorum Lam., Lolium perenne L.)",01/04/2022
+1209.29.00,-- Outras,01/04/2022
+1209.30.00,- Sementes de plantas herbáceas cultivadas especialmente pelas suas flores,01/04/2022
+1209.9,- Outros:,01/04/2022
+1209.91.00,-- Sementes de produtos hortícolas,01/04/2022
+1209.99.00,-- Outros,01/04/2022
+1210.10.00,"- Cones de lúpulo, não triturados nem moídos nem em pellets",01/04/2022
+1210.20,"- Cones de lúpulo, triturados ou moídos ou em pellets; lupulina",01/04/2022
+1210.20.10,Cones de lúpulo,01/04/2022
+1210.20.20,Lupulina,01/04/2022
+1211.20.00,- Raízes de ginseng,01/04/2022
+1211.30.00,- Coca (folha de),01/04/2022
+1211.40.00,- Palha de dormideira (papoula),01/04/2022
+1211.50.00,- Éfedra,01/04/2022
+1211.60.00,- Casca de cerejeira africana (Prunus africana),01/04/2022
+1211.90,- Outros,01/04/2022
+1211.90.10,Orégano (Origanum vulgare),01/04/2022
+1211.90.90,Outros,01/04/2022
+1212.2,- Algas:,01/04/2022
+1212.21.00,-- Próprias para alimentação humana,01/04/2022
+1212.29.00,-- Outras,01/04/2022
+1212.9,- Outros:,01/04/2022
+1212.91.00,-- Beterraba sacarina,01/04/2022
+1212.92.00,-- Alfarroba,01/04/2022
+1212.93.00,-- Cana-de-açúcar,01/04/2022
+1212.94.00,-- Raízes de chicória,01/04/2022
+1212.99,-- Outros,01/04/2022
+1212.99.10,Estévia (Ka'a He'ẽ) (Stevia rebaudiana),01/04/2022
+1212.99.90,Outros,01/04/2022
+1213.00.00,"Palhas e cascas de cereais, em bruto, mesmo picadas, moídas, prensadas ou em pellets.",01/04/2022
+1214.10.00,"- Farinha e pellets, de alfafa (luzerna)",01/04/2022
+1214.90.00,- Outros,01/04/2022

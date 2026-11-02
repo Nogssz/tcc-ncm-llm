@@ -1,0 +1,104 @@
+codigo,descricao,data_inicio
+20.01,"Produtos hortícolas, fruta e outras partes comestíveis de plantas, preparadosou conservados em vin",01/04/2022
+20.02,"Tomates preparados ou conservados, exceto em vinagre ou em ácido acético.",01/04/2022
+20.03,"Cogumelos e trufas, preparados ou conservados, exceto em vinagre ou em ácido acético.",01/04/2022
+20.04,"Outros produtos hortícolas preparados ou conservados, exceto em vinagre ou em ácido acético, con",01/04/2022
+20.05,"Outros produtos hortícolas preparados ou conservados, exceto em vinagre ou em ácido acético, não",01/04/2022
+20.07,"Doces, geleias, marmelades, purês e pastas de fruta, obtidos por cozimento,mesmo com adição de",01/04/2022
+20.08,"Fruta e outras partes comestíveis de plantas, preparadas ou conservadas deoutro modo, mesmo co",01/04/2022
+20.09,"Sucos (sumos) de fruta (incluindo os mostos de uvas e a água de coco) ou de produtos hortícolas, n",01/04/2022
+2001.10.00,- Pepinos e pepininhos (cornichons),01/04/2022
+2001.90.00,- Outros,01/04/2022
+2002.10.00,- Tomates inteiros ou em pedaços,01/04/2022
+2002.90.00,- Outros,01/04/2022
+2003.10.00,- Cogumelos do gênero Agaricus,01/04/2022
+2003.90.00,- Outros,01/04/2022
+2004.10.00,- Batatas,01/04/2022
+2004.90.00,- Outros produtos hortícolas e misturas de produtos hortícolas,01/04/2022
+2005.10.00,- Produtos hortícolas homogeneizados,01/04/2022
+2005.20.00,- Batatas,01/04/2022
+2005.40.00,- Ervilhas (Pisum sativum),01/04/2022
+2005.5,"- Feijões (Vigna spp., Phaseolus spp.):",01/04/2022
+2005.51.00,-- Feijões em grãos,01/04/2022
+2005.59.00,-- Outros,01/04/2022
+2005.60.00,- Aspargos,01/04/2022
+2005.70.00,- Azeitonas,01/04/2022
+2005.80.00,- Milho doce (Zea mays var. saccharata),01/04/2022
+2005.9,- Outros produtos hortícolas e misturas de produtos hortícolas:,01/04/2022
+2005.91.00,-- Brotos (rebentos) de bambu,01/04/2022
+2005.99.00,-- Outros,01/04/2022
+2006.00.00,"Produtos hortícolas, fruta, cascas de fruta e outras partes de plantas, conservados com açúcar (pass",01/04/2022
+2007.10.00,- Preparações homogeneizadas,01/04/2022
+2007.9,- Outros:,01/04/2022
+2007.91.00,-- De citros (citrinos),01/04/2022
+2007.99,-- Outros,01/04/2022
+2007.99.10,Geleias e marmelades,01/04/2022
+2007.99.2,Purês,01/04/2022
+2007.99.21,De açaí (Euterpe oleracea),01/04/2022
+2007.99.22,De acerola (Malpighia spp.),01/04/2022
+2007.99.23,De banana (Musa spp.),01/04/2022
+2007.99.24,De goiaba (Psidium guajava),01/04/2022
+2007.99.25,De manga (Mangifera indica),01/04/2022
+2007.99.26,De cupuaçu (Theobroma grandiflorum),01/04/2022
+2007.99.27,De mamão (papaia) (Carica papaya L.),01/04/2022
+2007.99.29,Outros,01/04/2022
+2007.99.90,Outros,01/04/2022
+2008.1,"- Fruta de casca rija, amendoins e outras sementes, mesmo misturados entresi:",01/04/2022
+2008.11.00,-- Amendoins,01/04/2022
+2008.19.00,"-- Outros, incluindo as misturas",01/04/2022
+2008.20,- Abacaxis (ananases),01/04/2022
+2008.20.10,"Em água edulcorada, incluindo os xaropes",01/04/2022
+2008.20.90,Outros,01/04/2022
+2008.30.00,- Citros (citrinos),01/04/2022
+2008.40,- Peras,01/04/2022
+2008.40.10,"Em água edulcorada, incluindo os xaropes",01/04/2022
+2008.40.90,Outras,01/04/2022
+2008.50.00,- Damascos,01/04/2022
+2008.60,- Cerejas,01/04/2022
+2008.60.10,"Em água edulcorada, incluindo os xaropes",01/04/2022
+2008.60.90,Outras,01/04/2022
+2008.70,"- Pêssegos, incluindo as nectarinas",01/04/2022
+2008.70.10,"Em água edulcorada, incluindo os xaropes",01/04/2022
+2008.70.20,Polpa com valor Brix igual ou superior a 20,01/04/2022
+2008.70.90,Outros,01/04/2022
+2008.80.00,- Morangos,01/04/2022
+2008.9,"- Outras, incluindo as misturas, com exclusão das da subposição 2008.19:",01/04/2022
+2008.91.00,-- Palmitos,01/04/2022
+2008.93.00,"-- Arandos vermelhos (cranberries) (Vaccinium macrocarpon, Vaccinium oxycoccos); airela vermelha",01/04/2022
+2008.97,-- Misturas,01/04/2022
+2008.97.10,"Em água edulcorada, incluindo os xaropes",01/04/2022
+2008.97.90,Outras,01/04/2022
+2008.99.00,-- Outras,01/04/2022
+2009.1,- Suco (sumo) de laranja:,01/04/2022
+2009.11.00,-- Congelado,01/04/2022
+2009.12.00,"-- Não congelado, com valor Brix não superior a 20",01/04/2022
+2009.19.00,-- Outros,01/04/2022
+2009.2,- Suco (sumo) de toranja; suco (sumo) de pomelo:,01/04/2022
+2009.21.00,-- Com valor Brix não superior a 20,01/04/2022
+2009.29.00,-- Outros,01/04/2022
+2009.3,- Suco (sumo) de qualquer outro citro (citrino):,01/04/2022
+2009.31.00,-- Com valor Brix não superior a 20,01/04/2022
+2009.39.00,-- Outros,01/04/2022
+2009.4,- Suco (sumo) de abacaxi (ananás):,01/04/2022
+2009.41.00,-- Com valor Brix não superior a 20,01/04/2022
+2009.49.00,-- Outros,01/04/2022
+2009.50.00,- Suco (sumo) de tomate,01/04/2022
+2009.6,- Suco (sumo) de uva (incluindo os mostos de uvas):,01/04/2022
+2009.61.00,-- Com valor Brix não superior a 30,01/04/2022
+2009.69.00,-- Outros,01/04/2022
+2009.7,- Suco (sumo) de maçã:,01/04/2022
+2009.71.00,-- Com valor Brix não superior a 20,01/04/2022
+2009.79.00,-- Outros,01/04/2022
+2009.8,- Suco (sumo) de qualquer outra fruta ou produto hortícola:,01/04/2022
+2009.81.00,"-- Suco (sumo) de arando vermelho (cranberry) (Vaccinium macrocarpon, Vaccinium oxycoccos); suc",01/04/2022
+2009.89,-- Outros,01/04/2022
+2009.89.1,"Suco (sumo) de pêssego, de acerola (Malpighia spp.) e de maracujá (Passiflora edulis)",01/04/2022
+2009.89.11,"De pêssego, com valor Brix igual ou superior a 60",01/04/2022
+2009.89.12,De acerola (Malpighia spp.),01/04/2022
+2009.89.13,De maracujá (Passiflora edulis),01/04/2022
+2009.89.19,Outros,01/04/2022
+2009.89.2,Água de coco (Cocos nucifera),01/04/2022
+2009.89.21,"Com valor Brix não superior a 7,4",01/04/2022
+2009.89.22,"Com valor Brix superior a 7,4",01/04/2022
+2009.89.90,Outros,01/04/2022
+2009.90.00,- Misturas de sucos (sumos),01/04/2022

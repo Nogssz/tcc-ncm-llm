@@ -1,0 +1,3149 @@
+{
+ "busca (BM25+RRF)": {
+  "top1": 32.2,
+  "top3": 54.4,
+  "ms_por_caso": 24,
+  "casos": [
+   {
+    "descricao": "BOMBA D AGUA MOTOR",
+    "esperados": [
+     "8413.30.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8413.30.20",
+     "8418.69.31",
+     "8418.69.91"
+    ]
+   },
+   {
+    "descricao": "ALTERNADOR 12V",
+    "esperados": [
+     "8511.50.10"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.50.10",
+     "8501.64.00",
+     "8501.61.00"
+    ]
+   },
+   {
+    "descricao": "MOTOR DE ARRANQUE",
+    "esperados": [
+     "8511.40.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.40.00",
+     "8511.90.00",
+     "8511.10.00"
+    ]
+   },
+   {
+    "descricao": "PARABRISA DIANTEIRO",
+    "esperados": [
+     "7007.21.00",
+     "8708.22.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "0202.20.10",
+     "0201.20.10",
+     "8479.89.31"
+    ]
+   },
+   {
+    "descricao": "JUNTA DO CABECOTE",
+    "esperados": [
+     "8484.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8414.90.33",
+     "8459.21.91",
+     "8409.99.91"
+    ]
+   },
+   {
+    "descricao": "FILTRO DE OLEO",
+    "esperados": [
+     "8421.23.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8421.29.30",
+     "8421.39.10",
+     "8421.32.00"
+    ]
+   },
+   {
+    "descricao": "CABO DE VELA",
+    "esperados": [
+     "8544.30.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8544.30.00",
+     "3406.00.00",
+     "8511.10.00"
+    ]
+   },
+   {
+    "descricao": "EXTINTOR DE INCENDIO PO QUIMICO",
+    "esperados": [
+     "8424.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8705.30.00",
+     "8531.10.10",
+     "8424.10.00"
+    ]
+   },
+   {
+    "descricao": "BUZINA 12V",
+    "esperados": [
+     "8512.30.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": []
+   },
+   {
+    "descricao": "PNEU ARO 17 MOTO",
+    "esperados": [
+     "4011.40.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8412.31.10",
+     "4011.40.00",
+     "4011.90.10"
+    ]
+   },
+   {
+    "descricao": "CAMARA DE AR BICICLETA",
+    "esperados": [
+     "4013.20.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4013.20.00",
+     "4011.50.00",
+     "8712.00.10"
+    ]
+   },
+   {
+    "descricao": "FLUIDO DE FREIO DOT 4",
+    "esperados": [
+     "3819.00.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3819.00.00",
+     "3825.50.00",
+     "9402.90.20"
+    ]
+   },
+   {
+    "descricao": "ADITIVO PARA RADIADOR",
+    "esperados": [
+     "3820.00.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3824.40.00",
+     "8516.21.00",
+     "8708.91.00"
+    ]
+   },
+   {
+    "descricao": "ACUCAR REFINADO 1KG",
+    "esperados": [
+     "1701.99.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "1702.90.00",
+     "7402.00.00",
+     "1701.14.00"
+    ]
+   },
+   {
+    "descricao": "OLEO DE SOJA 900ML",
+    "esperados": [
+     "1507.90.11"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "1507.10.00",
+     "1507.90.90",
+     "1507.90.19"
+    ]
+   },
+   {
+    "descricao": "MACARRAO ESPAGUETE 500G",
+    "esperados": [
+     "1902.19.00",
+     "1902.11.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "BISCOITO RECHEADO CHOCOLATE",
+    "esperados": [
+     "1905.31.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "1806.31.10",
+     "1806.32.10",
+     "1806.31.20"
+    ]
+   },
+   {
+    "descricao": "SUCO DE UVA INTEGRAL 1L",
+    "esperados": [
+     "2009.61.00",
+     "2009.69.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "2009.69.00",
+     "2009.61.00",
+     "2009.50.00"
+    ]
+   },
+   {
+    "descricao": "AGUA MINERAL SEM GAS 500ML",
+    "esperados": [
+     "2201.10.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "2710.12.30",
+     "2201.10.00",
+     "2202.10.00"
+    ]
+   },
+   {
+    "descricao": "VINHO TINTO SECO 750ML",
+    "esperados": [
+     "2204.21.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "2204.29.10",
+     "2307.00.00",
+     "2204.10.90"
+    ]
+   },
+   {
+    "descricao": "PERFUME 100ML",
+    "esperados": [
+     "3303.00.10"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "3303.00.10",
+     "3303.00.20"
+    ]
+   },
+   {
+    "descricao": "PAPEL TOALHA 2 ROLOS",
+    "esperados": [
+     "4818.20.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "4818.30.00",
+     "4818.20.00",
+     "3703.10.21"
+    ]
+   },
+   {
+    "descricao": "ESCOVA DE DENTES",
+    "esperados": [
+     "9603.21.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "9603.21.00",
+     "9603.29.00",
+     "7317.00.30"
+    ]
+   },
+   {
+    "descricao": "FRALDA DESCARTAVEL INFANTIL",
+    "esperados": [
+     "9619.00.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "9619.00.00"
+    ]
+   },
+   {
+    "descricao": "MEIA DE ALGODAO",
+    "esperados": [
+     "6115.95.00"
+    ],
+    "setor": "vestuario",
+    "opcoes": [
+     "6115.10.14",
+     "6115.95.00",
+     "6115.10.92"
+    ]
+   },
+   {
+    "descricao": "CUECA BOXER ALGODAO",
+    "esperados": [
+     "6107.11.00"
+    ],
+    "setor": "vestuario",
+    "opcoes": [
+     "6207.11.00",
+     "6107.11.00",
+     "6207.91.00"
+    ]
+   },
+   {
+    "descricao": "CHINELO DE BORRACHA",
+    "esperados": [
+     "6402.20.00"
+    ],
+    "setor": "calcados",
+    "opcoes": [
+     "4016.92.00",
+     "4002.60.00",
+     "4002.99.10"
+    ]
+   },
+   {
+    "descricao": "FONE DE OUVIDO BLUETOOTH",
+    "esperados": [
+     "8518.30.00"
+    ],
+    "setor": "eletronicos",
+    "opcoes": [
+     "8518.30.00"
+    ]
+   },
+   {
+    "descricao": "MICROONDAS 30L",
+    "esperados": [
+     "8516.50.00"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8516.50.00",
+     "8543.70.14",
+     "8543.70.15"
+    ]
+   },
+   {
+    "descricao": "LIQUIDIFICADOR 600W",
+    "esperados": [
+     "8509.40.10"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8509.40.10"
+    ]
+   },
+   {
+    "descricao": "VENTILADOR DE MESA",
+    "esperados": [
+     "8414.51.10"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8414.51.10",
+     "8414.51.90",
+     "8414.51.20"
+    ]
+   },
+   {
+    "descricao": "CHAVE DE FENDA",
+    "esperados": [
+     "8205.40.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8205.40.00",
+     "8204.20.00",
+     "8301.70.00"
+    ]
+   },
+   {
+    "descricao": "ALICATE UNIVERSAL",
+    "esperados": [
+     "8203.20.10"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8501.20.00",
+     "8501.10.30",
+     "8203.20.10"
+    ]
+   },
+   {
+    "descricao": "TRENA 5M",
+    "esperados": [
+     "9017.80.10"
+    ],
+    "setor": "ferramentas",
+    "opcoes": []
+   },
+   {
+    "descricao": "TIJOLO CERAMICO 8 FUROS",
+    "esperados": [
+     "6904.10.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "6904.10.00",
+     "6901.00.00",
+     "6902.20.10"
+    ]
+   },
+   {
+    "descricao": "CANO PVC 100MM",
+    "esperados": [
+     "3917.23.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "9303.20.00",
+     "8903.99.00",
+     "8903.19.00"
+    ]
+   },
+   {
+    "descricao": "FIO ELETRICO 2,5MM",
+    "esperados": [
+     "8544.49.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8544.30.00",
+     "8544.11.00",
+     "8544.19.90"
+    ]
+   },
+   {
+    "descricao": "LAPIS PRETO",
+    "esperados": [
+     "9609.10.00"
+    ],
+    "setor": "papelaria",
+    "opcoes": [
+     "9609.20.00",
+     "9609.10.00",
+     "8472.90.40"
+    ]
+   },
+   {
+    "descricao": "SOFA 3 LUGARES",
+    "esperados": [
+     "9401.61.00",
+     "9401.71.00"
+    ],
+    "setor": "moveis",
+    "opcoes": []
+   },
+   {
+    "descricao": "BICICLETA ARO 29",
+    "esperados": [
+     "8712.00.10"
+    ],
+    "setor": "esporte",
+    "opcoes": [
+     "4011.50.00",
+     "4013.20.00",
+     "8712.00.10"
+    ]
+   },
+   {
+    "descricao": "RACAO PARA CAES 15KG",
+    "esperados": [
+     "2309.10.00"
+    ],
+    "setor": "pet",
+    "opcoes": [
+     "2309.10.00",
+     "8804.00.00",
+     "9605.00.00"
+    ]
+   },
+   {
+    "descricao": "PORCA SEXTAVADA M10",
+    "esperados": [
+     "7318.16.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "7318.16.00",
+     "7616.10.00",
+     "7318.15.00"
+    ]
+   },
+   {
+    "descricao": "FUSIVEL LAMINA 10A",
+    "esperados": [
+     "8536.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8535.10.00",
+     "8536.10.00",
+     "8455.10.00"
+    ]
+   },
+   {
+    "descricao": "MANG SUP RADIADOR",
+    "esperados": [
+     "4009.31.00",
+     "4009.32.10",
+     "4009.32.90",
+     "8708.91.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.91.00",
+     "8708.29.92",
+     "8516.21.00"
+    ]
+   },
+   {
+    "descricao": "SILENCIOSO TRASEIRO ESCAPAMENTO",
+    "esperados": [
+     "8708.92.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.92.00",
+     "0202.20.20",
+     "0201.20.20"
+    ]
+   },
+   {
+    "descricao": "BOBINA DE IGNICAO",
+    "esperados": [
+     "8511.30.20"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.30.20",
+     "8511.30.10",
+     "8441.10.10"
+    ]
+   },
+   {
+    "descricao": "MACACO HIDRAULICO GARRAFA 2T",
+    "esperados": [
+     "8425.42.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8425.42.00",
+     "2523.90.00",
+     "8412.21.10"
+    ]
+   },
+   {
+    "descricao": "RELE AUXILIAR 12V 4 TERMINAIS",
+    "esperados": [
+     "8536.41.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "7213.10.00",
+     "7208.10.00",
+     "7208.40.00"
+    ]
+   },
+   {
+    "descricao": "JOGO DE ANEIS DE SEGMENTO",
+    "esperados": [
+     "8409.91.16"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8414.90.32",
+     "8409.91.16",
+     "6813.20.00"
+    ]
+   },
+   {
+    "descricao": "ROLAM RODA DIANT",
+    "esperados": [
+     "8482.10.10",
+     "8482.10.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "0202.20.10",
+     "0201.20.10",
+     "8607.19.11"
+    ]
+   },
+   {
+    "descricao": "PALHETA LIMPADOR PARABRISA 20 POL",
+    "esperados": [
+     "8512.90.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8512.40.10",
+     "8479.89.31",
+     "8479.90.10"
+    ]
+   },
+   {
+    "descricao": "PISTAO MOTOR STD",
+    "esperados": [
+     "8409.91.20"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8711.50.00",
+     "8702.10.00",
+     "8711.10.00"
+    ]
+   },
+   {
+    "descricao": "ALICATE DE PRESSAO",
+    "esperados": [
+     "8203.20.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8203.20.10",
+     "8203.20.90",
+     "9606.10.00"
+    ]
+   },
+   {
+    "descricao": "CIL MESTRE FREIO",
+    "esperados": [
+     "8708.30.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3819.00.00",
+     "8714.94.10",
+     "8607.21.00"
+    ]
+   },
+   {
+    "descricao": "CORREIA DO ALTERNADOR",
+    "esperados": [
+     "4010.31.00",
+     "4010.32.00",
+     "4010.33.00",
+     "4010.34.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.50.10",
+     "4010.31.00",
+     "4010.32.00"
+    ]
+   },
+   {
+    "descricao": "PIVO SUSP INF",
+    "esperados": [
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.80.00",
+     "3801.20.10",
+     "3904.10.10"
+    ]
+   },
+   {
+    "descricao": "BIELETA BARRA ESTABILIZADORA",
+    "esperados": [
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "7505.11.10",
+     "7505.12.10",
+     "7222.30.00"
+    ]
+   },
+   {
+    "descricao": "TERMINAL DE DIRECAO LD",
+    "esperados": [
+     "8708.94.90",
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8517.62.14",
+     "8517.61.42",
+     "8517.62.15"
+    ]
+   },
+   {
+    "descricao": "PASTILHA DE FREIO DIANTEIRA CERAMICA",
+    "esperados": [
+     "8708.30.19"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "6813.81.10",
+     "6907.30.00",
+     "6907.40.00"
+    ]
+   },
+   {
+    "descricao": "ABSORVENTE HIGIENICO",
+    "esperados": [
+     "9619.00.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "9619.00.00",
+     "4818.90.10",
+     "7005.10.00"
+    ]
+   },
+   {
+    "descricao": "OVOS BRANCOS DUZIA",
+    "esperados": [
+     "0407.21.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "7015.10.91",
+     "2523.21.00",
+     "0714.40.00"
+    ]
+   },
+   {
+    "descricao": "KETCHUP 400G",
+    "esperados": [
+     "2103.20.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2103.20.90",
+     "2103.20.10"
+    ]
+   },
+   {
+    "descricao": "BATEDEIRA",
+    "esperados": [
+     "8509.40.20"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8509.40.20"
+    ]
+   },
+   {
+    "descricao": "FARINHA DE TRIGO 1KG",
+    "esperados": [
+     "1101.00.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2309.90.60",
+     "1102.20.00",
+     "1101.00.10"
+    ]
+   },
+   {
+    "descricao": "AGUA SANITARIA 1L",
+    "esperados": [
+     "2828.90.11"
+    ],
+    "setor": "limpeza",
+    "opcoes": [
+     "2202.10.00",
+     "2201.10.00",
+     "3303.00.20"
+    ]
+   },
+   {
+    "descricao": "LIXA DAGUA 220",
+    "esperados": [
+     "6805.20.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8465.93.10",
+     "8465.93.90"
+    ]
+   },
+   {
+    "descricao": "SERROTE",
+    "esperados": [
+     "8202.10.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "9208.90.00",
+     "9208.10.00"
+    ]
+   },
+   {
+    "descricao": "PATINHO BOVINO KG",
+    "esperados": [
+     "0201.30.00",
+     "0202.30.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "0511.10.00",
+     "0510.00.10",
+     "4104.49.20"
+    ]
+   },
+   {
+    "descricao": "ACHOCOLATADO EM PO 400G",
+    "esperados": [
+     "1806.10.00",
+     "1806.90.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "CAFE SOLUVEL 100G",
+    "esperados": [
+     "2101.11.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2101.11.10",
+     "3204.19.20",
+     "3906.90.12"
+    ]
+   },
+   {
+    "descricao": "SARDINHA EM LATA 125G",
+    "esperados": [
+     "1604.13.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "0303.53.00",
+     "0302.43.00",
+     "1604.13.10"
+    ]
+   },
+   {
+    "descricao": "SABAO EM PO 1KG",
+    "esperados": [
+     "3402.50.00"
+    ],
+    "setor": "limpeza",
+    "opcoes": [
+     "3401.20.90",
+     "3401.20.10",
+     "3401.19.00"
+    ]
+   },
+   {
+    "descricao": "SERRA CIRCULAR",
+    "esperados": [
+     "8467.22.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8461.50.20",
+     "8465.91.20",
+     "8202.39.00"
+    ]
+   },
+   {
+    "descricao": "PROTETOR SOLAR FPS 50",
+    "esperados": [
+     "3304.99.90"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "1503.00.00",
+     "8419.12.00",
+     "7015.90.20"
+    ]
+   },
+   {
+    "descricao": "VARA DE PESCA",
+    "esperados": [
+     "9507.10.00"
+    ],
+    "setor": "esporte",
+    "opcoes": [
+     "9507.10.00",
+     "9507.30.00",
+     "9507.90.00"
+    ]
+   },
+   {
+    "descricao": "BOTA DE SEGURANCA BICO DE ACO",
+    "esperados": [
+     "6403.40.00"
+    ],
+    "setor": "calcados",
+    "opcoes": [
+     "7319.40.00",
+     "7318.21.00",
+     "8424.89.10"
+    ]
+   },
+   {
+    "descricao": "MAIONESE 500G",
+    "esperados": [
+     "2103.90.11"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2103.90.19",
+     "2103.90.11"
+    ]
+   },
+   {
+    "descricao": "MANTEIGA COM SAL 200G",
+    "esperados": [
+     "0405.10.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "1804.00.00",
+     "0405.10.00",
+     "0405.90.10"
+    ]
+   },
+   {
+    "descricao": "BORRACHA ESCOLAR",
+    "esperados": [
+     "4016.92.00"
+    ],
+    "setor": "papelaria",
+    "opcoes": [
+     "3926.10.00",
+     "4016.92.00",
+     "4002.60.00"
+    ]
+   },
+   {
+    "descricao": "CHAVE INGLESA",
+    "esperados": [
+     "8204.12.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8204.20.00",
+     "8301.70.00",
+     "7318.24.00"
+    ]
+   },
+   {
+    "descricao": "IOGURTE NATURAL 170G",
+    "esperados": [
+     "0403.20.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "0403.20.00",
+     "2513.20.00",
+     "0403.90.00"
+    ]
+   },
+   {
+    "descricao": "AR CONDICIONADO SPLIT 12000 BTUS",
+    "esperados": [
+     "8415.10.11"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8415.90.10",
+     "8415.90.20",
+     "8415.10.11"
+    ]
+   },
+   {
+    "descricao": "TRAVESSEIRO",
+    "esperados": [
+     "9404.90.00"
+    ],
+    "setor": "cama mesa banho",
+    "opcoes": [
+     "9404.90.00",
+     "9404.30.00",
+     "9404.10.00"
+    ]
+   },
+   {
+    "descricao": "FEIJAO CARIOCA 1KG",
+    "esperados": [
+     "0713.33.99"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "0713.60.90",
+     "0713.60.10",
+     "0713.35.90"
+    ]
+   },
+   {
+    "descricao": "ARMARIO DE ACO 2 PORTAS",
+    "esperados": [
+     "9403.20.90",
+     "9403.10.00"
+    ],
+    "setor": "moveis",
+    "opcoes": [
+     "7308.30.00",
+     "8302.60.00",
+     "8303.00.00"
+    ]
+   },
+   {
+    "descricao": "TORNEIRA DE PIA",
+    "esperados": [
+     "8481.80.19"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "9201.10.00",
+     "9201.20.00",
+     "3922.10.00"
+    ]
+   },
+   {
+    "descricao": "CAIXA DE SOM BLUETOOTH",
+    "esperados": [
+     "8518.22.00",
+     "8518.21.00"
+    ],
+    "setor": "eletronicos",
+    "opcoes": [
+     "8518.50.00",
+     "9404.10.00",
+     "6603.20.00"
+    ]
+   },
+   {
+    "descricao": "VODKA 1L",
+    "esperados": [
+     "2208.60.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": []
+   },
+   {
+    "descricao": "CHUVEIRO ELETRICO",
+    "esperados": [
+     "8516.10.00"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "3922.10.00",
+     "3922.90.00",
+     "3922.20.00"
+    ]
+   },
+   {
+    "descricao": "DISJUNTOR 20A",
+    "esperados": [
+     "8536.20.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8536.20.00",
+     "8538.90.20",
+     "8511.80.20"
+    ]
+   }
+  ]
+ },
+ "knn (base GT)": {
+  "top1": 25.6,
+  "top3": 34.4,
+  "ms_por_caso": 3,
+  "casos": [
+   {
+    "descricao": "BOMBA D AGUA MOTOR",
+    "esperados": [
+     "8413.30.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8413.30.90",
+     "8413.30.30",
+     "8484.20.00"
+    ]
+   },
+   {
+    "descricao": "ALTERNADOR 12V",
+    "esperados": [
+     "8511.50.10"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4010.32.00",
+     "4010.31.00",
+     "3926.90.21"
+    ]
+   },
+   {
+    "descricao": "MOTOR DE ARRANQUE",
+    "esperados": [
+     "8511.40.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.40.00",
+     "8483.30.29",
+     "8708.99.90"
+    ]
+   },
+   {
+    "descricao": "PARABRISA DIANTEIRO",
+    "esperados": [
+     "7007.21.00",
+     "8708.22.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.80.00",
+     "7007.21.00",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "JUNTA DO CABECOTE",
+    "esperados": [
+     "8484.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8484.10.00",
+     "8484.90.00",
+     "9031.80.99"
+    ]
+   },
+   {
+    "descricao": "FILTRO DE OLEO",
+    "esperados": [
+     "8421.23.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8421.23.00",
+     "8421.99.99"
+    ]
+   },
+   {
+    "descricao": "CABO DE VELA",
+    "esperados": [
+     "8544.30.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8544.30.00",
+     "8708.99.90",
+     "8203.20.10"
+    ]
+   },
+   {
+    "descricao": "EXTINTOR DE INCENDIO PO QUIMICO",
+    "esperados": [
+     "8424.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3401.20.90",
+     "8424.10.00",
+     "8536.50.90"
+    ]
+   },
+   {
+    "descricao": "BUZINA 12V",
+    "esperados": [
+     "8512.30.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8536.50.90",
+     "8512.30.00"
+    ]
+   },
+   {
+    "descricao": "PNEU ARO 17 MOTO",
+    "esperados": [
+     "4011.40.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4011.10.00",
+     "4011.40.00"
+    ]
+   },
+   {
+    "descricao": "CAMARA DE AR BICICLETA",
+    "esperados": [
+     "4013.20.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4013.10.90",
+     "8483.10.20",
+     "6907.40.00"
+    ]
+   },
+   {
+    "descricao": "FLUIDO DE FREIO DOT 4",
+    "esperados": [
+     "3819.00.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3819.00.00",
+     "6813.81.90",
+     "9032.89.29"
+    ]
+   },
+   {
+    "descricao": "ADITIVO PARA RADIADOR",
+    "esperados": [
+     "3820.00.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3820.00.00",
+     "3811.90.90",
+     "8708.91.00"
+    ]
+   },
+   {
+    "descricao": "ACUCAR REFINADO 1KG",
+    "esperados": [
+     "1701.99.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2202.10.00",
+     "8479.89.99",
+     "8424.10.00"
+    ]
+   },
+   {
+    "descricao": "OLEO DE SOJA 900ML",
+    "esperados": [
+     "1507.90.11"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "3403.99.00",
+     "3204.20.19",
+     "3402.49.00"
+    ]
+   },
+   {
+    "descricao": "MACARRAO ESPAGUETE 500G",
+    "esperados": [
+     "1902.19.00",
+     "1902.11.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "3917.31.00"
+    ]
+   },
+   {
+    "descricao": "BISCOITO RECHEADO CHOCOLATE",
+    "esperados": [
+     "1905.31.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "SUCO DE UVA INTEGRAL 1L",
+    "esperados": [
+     "2009.61.00",
+     "2009.69.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "2202.10.00"
+    ]
+   },
+   {
+    "descricao": "AGUA MINERAL SEM GAS 500ML",
+    "esperados": [
+     "2201.10.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "2202.10.00",
+     "9025.90.90",
+     "2710.19.32"
+    ]
+   },
+   {
+    "descricao": "VINHO TINTO SECO 750ML",
+    "esperados": [
+     "2204.21.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "3208.10.10",
+     "3208.20.19",
+     "3204.20.19"
+    ]
+   },
+   {
+    "descricao": "PERFUME 100ML",
+    "esperados": [
+     "3303.00.10"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "3204.20.19",
+     "3402.49.00",
+     "2202.10.00"
+    ]
+   },
+   {
+    "descricao": "PAPEL TOALHA 2 ROLOS",
+    "esperados": [
+     "4818.20.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "7411.10.10",
+     "9603.40.10"
+    ]
+   },
+   {
+    "descricao": "ESCOVA DE DENTES",
+    "esperados": [
+     "9603.21.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "8511.90.00",
+     "8482.10.90",
+     "4010.35.00"
+    ]
+   },
+   {
+    "descricao": "FRALDA DESCARTAVEL INFANTIL",
+    "esperados": [
+     "9619.00.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "4015.19.00",
+     "9503.00.99"
+    ]
+   },
+   {
+    "descricao": "MEIA DE ALGODAO",
+    "esperados": [
+     "6115.95.00"
+    ],
+    "setor": "vestuario",
+    "opcoes": [
+     "5906.10.00",
+     "8539.21.10"
+    ]
+   },
+   {
+    "descricao": "CUECA BOXER ALGODAO",
+    "esperados": [
+     "6107.11.00"
+    ],
+    "setor": "vestuario",
+    "opcoes": [
+     "5906.10.00",
+     "8708.70.90"
+    ]
+   },
+   {
+    "descricao": "CHINELO DE BORRACHA",
+    "esperados": [
+     "6402.20.00"
+    ],
+    "setor": "calcados",
+    "opcoes": [
+     "4016.99.90",
+     "8708.80.00"
+    ]
+   },
+   {
+    "descricao": "FONE DE OUVIDO BLUETOOTH",
+    "esperados": [
+     "8518.30.00"
+    ],
+    "setor": "eletronicos",
+    "opcoes": []
+   },
+   {
+    "descricao": "MICROONDAS 30L",
+    "esperados": [
+     "8516.50.00"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": []
+   },
+   {
+    "descricao": "LIQUIDIFICADOR 600W",
+    "esperados": [
+     "8509.40.10"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": []
+   },
+   {
+    "descricao": "VENTILADOR DE MESA",
+    "esperados": [
+     "8414.51.10"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8708.30.90",
+     "8479.89.32",
+     "8507.10.90"
+    ]
+   },
+   {
+    "descricao": "CHAVE DE FENDA",
+    "esperados": [
+     "8205.40.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8205.40.00",
+     "8536.41.00",
+     "7318.15.00"
+    ]
+   },
+   {
+    "descricao": "ALICATE UNIVERSAL",
+    "esperados": [
+     "8203.20.10"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8205.59.00",
+     "8203.20.10",
+     "8482.10.10"
+    ]
+   },
+   {
+    "descricao": "TRENA 5M",
+    "esperados": [
+     "9017.80.10"
+    ],
+    "setor": "ferramentas",
+    "opcoes": []
+   },
+   {
+    "descricao": "TIJOLO CERAMICO 8 FUROS",
+    "esperados": [
+     "6904.10.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8708.30.19",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "CANO PVC 100MM",
+    "esperados": [
+     "3917.23.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "3917.23.00",
+     "8708.92.00",
+     "8708.40.90"
+    ]
+   },
+   {
+    "descricao": "FIO ELETRICO 2,5MM",
+    "esperados": [
+     "8544.49.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8544.49.00",
+     "8536.90.90",
+     "8536.61.00"
+    ]
+   },
+   {
+    "descricao": "LAPIS PRETO",
+    "esperados": [
+     "9609.10.00"
+    ],
+    "setor": "papelaria",
+    "opcoes": [
+     "7609.00.00",
+     "7616.99.00",
+     "8308.20.00"
+    ]
+   },
+   {
+    "descricao": "SOFA 3 LUGARES",
+    "esperados": [
+     "9401.61.00",
+     "9401.71.00"
+    ],
+    "setor": "moveis",
+    "opcoes": []
+   },
+   {
+    "descricao": "BICICLETA ARO 29",
+    "esperados": [
+     "8712.00.10"
+    ],
+    "setor": "esporte",
+    "opcoes": [
+     "4011.10.00",
+     "8708.70.90",
+     "8708.99.90"
+    ]
+   },
+   {
+    "descricao": "RACAO PARA CAES 15KG",
+    "esperados": [
+     "2309.10.00"
+    ],
+    "setor": "pet",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "PORCA SEXTAVADA M10",
+    "esperados": [
+     "7318.16.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "7318.16.00",
+     "7318.15.00",
+     "8204.20.00"
+    ]
+   },
+   {
+    "descricao": "FUSIVEL LAMINA 10A",
+    "esperados": [
+     "8536.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8536.10.00",
+     "8544.42.00",
+     "9017.30.90"
+    ]
+   },
+   {
+    "descricao": "MANG SUP RADIADOR",
+    "esperados": [
+     "4009.31.00",
+     "4009.32.10",
+     "4009.32.90",
+     "8708.91.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4009.31.00"
+    ]
+   },
+   {
+    "descricao": "SILENCIOSO TRASEIRO ESCAPAMENTO",
+    "esperados": [
+     "8708.92.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4016.99.90",
+     "8708.92.00"
+    ]
+   },
+   {
+    "descricao": "BOBINA DE IGNICAO",
+    "esperados": [
+     "8511.30.20"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.30.20",
+     "8544.42.00"
+    ]
+   },
+   {
+    "descricao": "MACACO HIDRAULICO GARRAFA 2T",
+    "esperados": [
+     "8425.42.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8425.49.10",
+     "8708.99.90",
+     "9617.00.10"
+    ]
+   },
+   {
+    "descricao": "RELE AUXILIAR 12V 4 TERMINAIS",
+    "esperados": [
+     "8536.41.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8536.41.00",
+     "8539.21.10",
+     "8205.59.00"
+    ]
+   },
+   {
+    "descricao": "JOGO DE ANEIS DE SEGMENTO",
+    "esperados": [
+     "8409.91.16"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "6804.21.19",
+     "8409.91.90",
+     "4016.93.00"
+    ]
+   },
+   {
+    "descricao": "ROLAM RODA DIANT",
+    "esperados": [
+     "8482.10.10",
+     "8482.10.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.70.90",
+     "8708.99.90",
+     "8482.10.10"
+    ]
+   },
+   {
+    "descricao": "PALHETA LIMPADOR PARABRISA 20 POL",
+    "esperados": [
+     "8512.90.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8512.90.00"
+    ]
+   },
+   {
+    "descricao": "PISTAO MOTOR STD",
+    "esperados": [
+     "8409.91.20"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8483.30.29",
+     "8409.99.99",
+     "8409.91.20"
+    ]
+   },
+   {
+    "descricao": "ALICATE DE PRESSAO",
+    "esperados": [
+     "8203.20.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8203.20.10",
+     "7318.22.00",
+     "7318.21.00"
+    ]
+   },
+   {
+    "descricao": "CIL MESTRE FREIO",
+    "esperados": [
+     "8708.30.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.30.90",
+     "8708.93.00"
+    ]
+   },
+   {
+    "descricao": "CORREIA DO ALTERNADOR",
+    "esperados": [
+     "4010.31.00",
+     "4010.32.00",
+     "4010.33.00",
+     "4010.34.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4010.31.00",
+     "4010.32.00",
+     "3926.90.21"
+    ]
+   },
+   {
+    "descricao": "PIVO SUSP INF",
+    "esperados": [
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.80.00"
+    ]
+   },
+   {
+    "descricao": "BIELETA BARRA ESTABILIZADORA",
+    "esperados": [
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.80.00",
+     "8708.70.90",
+     "8708.99.90"
+    ]
+   },
+   {
+    "descricao": "TERMINAL DE DIRECAO LD",
+    "esperados": [
+     "8708.94.90",
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.94.90",
+     "8708.99.90",
+     "8482.40.00"
+    ]
+   },
+   {
+    "descricao": "PASTILHA DE FREIO DIANTEIRA CERAMICA",
+    "esperados": [
+     "8708.30.19"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.30.19",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "ABSORVENTE HIGIENICO",
+    "esperados": [
+     "9619.00.00"
+    ],
+    "setor": "higiene",
+    "opcoes": []
+   },
+   {
+    "descricao": "OVOS BRANCOS DUZIA",
+    "esperados": [
+     "0407.21.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8543.70.99",
+     "8539.52.00",
+     "3402.50.00"
+    ]
+   },
+   {
+    "descricao": "KETCHUP 400G",
+    "esperados": [
+     "2103.20.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "BATEDEIRA",
+    "esperados": [
+     "8509.40.20"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": []
+   },
+   {
+    "descricao": "FARINHA DE TRIGO 1KG",
+    "esperados": [
+     "1101.00.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "AGUA SANITARIA 1L",
+    "esperados": [
+     "2828.90.11"
+    ],
+    "setor": "limpeza",
+    "opcoes": [
+     "2853.90.90",
+     "2202.10.00",
+     "8413.30.90"
+    ]
+   },
+   {
+    "descricao": "LIXA DAGUA 220",
+    "esperados": [
+     "6805.20.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "6805.20.00",
+     "8413.30.90",
+     "6805.10.00"
+    ]
+   },
+   {
+    "descricao": "SERROTE",
+    "esperados": [
+     "8202.10.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": []
+   },
+   {
+    "descricao": "PATINHO BOVINO KG",
+    "esperados": [
+     "0201.30.00",
+     "0202.30.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "ACHOCOLATADO EM PO 400G",
+    "esperados": [
+     "1806.10.00",
+     "1806.90.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8708.94.90",
+     "8536.50.90",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "CAFE SOLUVEL 100G",
+    "esperados": [
+     "2101.11.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "SARDINHA EM LATA 125G",
+    "esperados": [
+     "1604.13.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2202.10.00"
+    ]
+   },
+   {
+    "descricao": "SABAO EM PO 1KG",
+    "esperados": [
+     "3402.50.00"
+    ],
+    "setor": "limpeza",
+    "opcoes": [
+     "8479.89.99",
+     "8708.94.90",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "SERRA CIRCULAR",
+    "esperados": [
+     "8467.22.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "9603.50.00"
+    ]
+   },
+   {
+    "descricao": "PROTETOR SOLAR FPS 50",
+    "esperados": [
+     "3304.99.90"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "8708.30.90",
+     "8708.99.90"
+    ]
+   },
+   {
+    "descricao": "VARA DE PESCA",
+    "esperados": [
+     "9507.10.00"
+    ],
+    "setor": "esporte",
+    "opcoes": [
+     "8708.92.00",
+     "8484.10.00",
+     "8301.20.00"
+    ]
+   },
+   {
+    "descricao": "BOTA DE SEGURANCA BICO DE ACO",
+    "esperados": [
+     "6403.40.00"
+    ],
+    "setor": "calcados",
+    "opcoes": [
+     "6401.92.00",
+     "8207.50.11",
+     "8708.21.00"
+    ]
+   },
+   {
+    "descricao": "MAIONESE 500G",
+    "esperados": [
+     "2103.90.11"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "MANTEIGA COM SAL 200G",
+    "esperados": [
+     "0405.10.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "BORRACHA ESCOLAR",
+    "esperados": [
+     "4016.92.00"
+    ],
+    "setor": "papelaria",
+    "opcoes": [
+     "4016.99.90",
+     "8708.80.00"
+    ]
+   },
+   {
+    "descricao": "CHAVE INGLESA",
+    "esperados": [
+     "8204.12.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8536.41.00",
+     "8536.50.90",
+     "8204.11.00"
+    ]
+   },
+   {
+    "descricao": "IOGURTE NATURAL 170G",
+    "esperados": [
+     "0403.20.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": []
+   },
+   {
+    "descricao": "AR CONDICIONADO SPLIT 12000 BTUS",
+    "esperados": [
+     "8415.10.11"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8421.39.90"
+    ]
+   },
+   {
+    "descricao": "TRAVESSEIRO",
+    "esperados": [
+     "9404.90.00"
+    ],
+    "setor": "cama mesa banho",
+    "opcoes": []
+   },
+   {
+    "descricao": "FEIJAO CARIOCA 1KG",
+    "esperados": [
+     "0713.33.99"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "ARMARIO DE ACO 2 PORTAS",
+    "esperados": [
+     "9403.20.90",
+     "9403.10.00"
+    ],
+    "setor": "moveis",
+    "opcoes": [
+     "8207.50.11",
+     "7325.99.90",
+     "7204.30.00"
+    ]
+   },
+   {
+    "descricao": "TORNEIRA DE PIA",
+    "esperados": [
+     "8481.80.19"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8481.80.95",
+     "8516.79.90"
+    ]
+   },
+   {
+    "descricao": "CAIXA DE SOM BLUETOOTH",
+    "esperados": [
+     "8518.22.00",
+     "8518.21.00"
+    ],
+    "setor": "eletronicos",
+    "opcoes": [
+     "8507.10.90",
+     "8708.99.90",
+     "8482.91.19"
+    ]
+   },
+   {
+    "descricao": "VODKA 1L",
+    "esperados": [
+     "2208.60.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": []
+   },
+   {
+    "descricao": "CHUVEIRO ELETRICO",
+    "esperados": [
+     "8516.10.00"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8507.10.90",
+     "8536.50.90"
+    ]
+   },
+   {
+    "descricao": "DISJUNTOR 20A",
+    "esperados": [
+     "8536.20.00"
+    ],
+    "setor": "construcao",
+    "opcoes": []
+   }
+  ]
+ },
+ "knn + busca": {
+  "top1": 35.6,
+  "top3": 51.1,
+  "ms_por_caso": 7,
+  "casos": [
+   {
+    "descricao": "BOMBA D AGUA MOTOR",
+    "esperados": [
+     "8413.30.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8413.30.90",
+     "8413.30.30",
+     "8484.20.00"
+    ]
+   },
+   {
+    "descricao": "ALTERNADOR 12V",
+    "esperados": [
+     "8511.50.10"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4010.32.00",
+     "4010.31.00",
+     "3926.90.21"
+    ]
+   },
+   {
+    "descricao": "MOTOR DE ARRANQUE",
+    "esperados": [
+     "8511.40.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.40.00",
+     "8483.30.29",
+     "8708.99.90"
+    ]
+   },
+   {
+    "descricao": "PARABRISA DIANTEIRO",
+    "esperados": [
+     "7007.21.00",
+     "8708.22.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.80.00",
+     "7007.21.00",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "JUNTA DO CABECOTE",
+    "esperados": [
+     "8484.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8484.10.00",
+     "8484.90.00",
+     "9031.80.99"
+    ]
+   },
+   {
+    "descricao": "FILTRO DE OLEO",
+    "esperados": [
+     "8421.23.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8421.23.00",
+     "8421.99.99",
+     "8421.29.30"
+    ]
+   },
+   {
+    "descricao": "CABO DE VELA",
+    "esperados": [
+     "8544.30.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8544.30.00",
+     "8708.99.90",
+     "8203.20.10"
+    ]
+   },
+   {
+    "descricao": "EXTINTOR DE INCENDIO PO QUIMICO",
+    "esperados": [
+     "8424.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3401.20.90",
+     "8424.10.00",
+     "8536.50.90"
+    ]
+   },
+   {
+    "descricao": "BUZINA 12V",
+    "esperados": [
+     "8512.30.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8536.50.90",
+     "8512.30.00"
+    ]
+   },
+   {
+    "descricao": "PNEU ARO 17 MOTO",
+    "esperados": [
+     "4011.40.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4011.10.00",
+     "4011.40.00",
+     "8412.31.10"
+    ]
+   },
+   {
+    "descricao": "CAMARA DE AR BICICLETA",
+    "esperados": [
+     "4013.20.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4013.10.90",
+     "8483.10.20",
+     "6907.40.00"
+    ]
+   },
+   {
+    "descricao": "FLUIDO DE FREIO DOT 4",
+    "esperados": [
+     "3819.00.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3819.00.00",
+     "6813.81.90",
+     "9032.89.29"
+    ]
+   },
+   {
+    "descricao": "ADITIVO PARA RADIADOR",
+    "esperados": [
+     "3820.00.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "3820.00.00",
+     "3811.90.90",
+     "8708.91.00"
+    ]
+   },
+   {
+    "descricao": "ACUCAR REFINADO 1KG",
+    "esperados": [
+     "1701.99.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2202.10.00",
+     "8479.89.99",
+     "8424.10.00"
+    ]
+   },
+   {
+    "descricao": "OLEO DE SOJA 900ML",
+    "esperados": [
+     "1507.90.11"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "3403.99.00",
+     "3204.20.19",
+     "3402.49.00"
+    ]
+   },
+   {
+    "descricao": "MACARRAO ESPAGUETE 500G",
+    "esperados": [
+     "1902.19.00",
+     "1902.11.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "3917.31.00"
+    ]
+   },
+   {
+    "descricao": "BISCOITO RECHEADO CHOCOLATE",
+    "esperados": [
+     "1905.31.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "1806.31.10",
+     "1806.32.10",
+     "1806.31.20"
+    ]
+   },
+   {
+    "descricao": "SUCO DE UVA INTEGRAL 1L",
+    "esperados": [
+     "2009.61.00",
+     "2009.69.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "2202.10.00",
+     "2009.69.00",
+     "2009.61.00"
+    ]
+   },
+   {
+    "descricao": "AGUA MINERAL SEM GAS 500ML",
+    "esperados": [
+     "2201.10.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "2202.10.00",
+     "9025.90.90",
+     "2710.19.32"
+    ]
+   },
+   {
+    "descricao": "VINHO TINTO SECO 750ML",
+    "esperados": [
+     "2204.21.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": [
+     "3208.10.10",
+     "3208.20.19",
+     "3204.20.19"
+    ]
+   },
+   {
+    "descricao": "PERFUME 100ML",
+    "esperados": [
+     "3303.00.10"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "3204.20.19",
+     "3402.49.00",
+     "2202.10.00"
+    ]
+   },
+   {
+    "descricao": "PAPEL TOALHA 2 ROLOS",
+    "esperados": [
+     "4818.20.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "7411.10.10",
+     "9603.40.10",
+     "4818.30.00"
+    ]
+   },
+   {
+    "descricao": "ESCOVA DE DENTES",
+    "esperados": [
+     "9603.21.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "8511.90.00",
+     "8482.10.90",
+     "4010.35.00"
+    ]
+   },
+   {
+    "descricao": "FRALDA DESCARTAVEL INFANTIL",
+    "esperados": [
+     "9619.00.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "4015.19.00",
+     "9503.00.99",
+     "9619.00.00"
+    ]
+   },
+   {
+    "descricao": "MEIA DE ALGODAO",
+    "esperados": [
+     "6115.95.00"
+    ],
+    "setor": "vestuario",
+    "opcoes": [
+     "5906.10.00",
+     "8539.21.10",
+     "6115.10.14"
+    ]
+   },
+   {
+    "descricao": "CUECA BOXER ALGODAO",
+    "esperados": [
+     "6107.11.00"
+    ],
+    "setor": "vestuario",
+    "opcoes": [
+     "5906.10.00",
+     "8708.70.90",
+     "6207.11.00"
+    ]
+   },
+   {
+    "descricao": "CHINELO DE BORRACHA",
+    "esperados": [
+     "6402.20.00"
+    ],
+    "setor": "calcados",
+    "opcoes": [
+     "4016.99.90",
+     "8708.80.00",
+     "4016.92.00"
+    ]
+   },
+   {
+    "descricao": "FONE DE OUVIDO BLUETOOTH",
+    "esperados": [
+     "8518.30.00"
+    ],
+    "setor": "eletronicos",
+    "opcoes": [
+     "8518.30.00"
+    ]
+   },
+   {
+    "descricao": "MICROONDAS 30L",
+    "esperados": [
+     "8516.50.00"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8516.50.00",
+     "8543.70.14",
+     "8543.70.15"
+    ]
+   },
+   {
+    "descricao": "LIQUIDIFICADOR 600W",
+    "esperados": [
+     "8509.40.10"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8509.40.10"
+    ]
+   },
+   {
+    "descricao": "VENTILADOR DE MESA",
+    "esperados": [
+     "8414.51.10"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8708.30.90",
+     "8479.89.32",
+     "8507.10.90"
+    ]
+   },
+   {
+    "descricao": "CHAVE DE FENDA",
+    "esperados": [
+     "8205.40.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8205.40.00",
+     "8536.41.00",
+     "7318.15.00"
+    ]
+   },
+   {
+    "descricao": "ALICATE UNIVERSAL",
+    "esperados": [
+     "8203.20.10"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8205.59.00",
+     "8203.20.10",
+     "8482.10.10"
+    ]
+   },
+   {
+    "descricao": "TRENA 5M",
+    "esperados": [
+     "9017.80.10"
+    ],
+    "setor": "ferramentas",
+    "opcoes": []
+   },
+   {
+    "descricao": "TIJOLO CERAMICO 8 FUROS",
+    "esperados": [
+     "6904.10.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8708.30.19",
+     "8708.30.90",
+     "6904.10.00"
+    ]
+   },
+   {
+    "descricao": "CANO PVC 100MM",
+    "esperados": [
+     "3917.23.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "3917.23.00",
+     "8708.92.00",
+     "8708.40.90"
+    ]
+   },
+   {
+    "descricao": "FIO ELETRICO 2,5MM",
+    "esperados": [
+     "8544.49.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8544.49.00",
+     "8536.90.90",
+     "8536.61.00"
+    ]
+   },
+   {
+    "descricao": "LAPIS PRETO",
+    "esperados": [
+     "9609.10.00"
+    ],
+    "setor": "papelaria",
+    "opcoes": [
+     "7609.00.00",
+     "7616.99.00",
+     "8308.20.00"
+    ]
+   },
+   {
+    "descricao": "SOFA 3 LUGARES",
+    "esperados": [
+     "9401.61.00",
+     "9401.71.00"
+    ],
+    "setor": "moveis",
+    "opcoes": []
+   },
+   {
+    "descricao": "BICICLETA ARO 29",
+    "esperados": [
+     "8712.00.10"
+    ],
+    "setor": "esporte",
+    "opcoes": [
+     "4011.10.00",
+     "8708.70.90",
+     "8708.99.90"
+    ]
+   },
+   {
+    "descricao": "RACAO PARA CAES 15KG",
+    "esperados": [
+     "2309.10.00"
+    ],
+    "setor": "pet",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "PORCA SEXTAVADA M10",
+    "esperados": [
+     "7318.16.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "7318.16.00",
+     "7318.15.00",
+     "8204.20.00"
+    ]
+   },
+   {
+    "descricao": "FUSIVEL LAMINA 10A",
+    "esperados": [
+     "8536.10.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8536.10.00",
+     "8544.42.00",
+     "9017.30.90"
+    ]
+   },
+   {
+    "descricao": "MANG SUP RADIADOR",
+    "esperados": [
+     "4009.31.00",
+     "4009.32.10",
+     "4009.32.90",
+     "8708.91.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4009.31.00",
+     "8708.91.00",
+     "8708.29.92"
+    ]
+   },
+   {
+    "descricao": "SILENCIOSO TRASEIRO ESCAPAMENTO",
+    "esperados": [
+     "8708.92.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4016.99.90",
+     "8708.92.00",
+     "0202.20.20"
+    ]
+   },
+   {
+    "descricao": "BOBINA DE IGNICAO",
+    "esperados": [
+     "8511.30.20"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8511.30.20",
+     "8544.42.00",
+     "8511.30.10"
+    ]
+   },
+   {
+    "descricao": "MACACO HIDRAULICO GARRAFA 2T",
+    "esperados": [
+     "8425.42.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8425.49.10",
+     "8708.99.90",
+     "9617.00.10"
+    ]
+   },
+   {
+    "descricao": "RELE AUXILIAR 12V 4 TERMINAIS",
+    "esperados": [
+     "8536.41.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8536.41.00",
+     "8539.21.10",
+     "8205.59.00"
+    ]
+   },
+   {
+    "descricao": "JOGO DE ANEIS DE SEGMENTO",
+    "esperados": [
+     "8409.91.16"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "6804.21.19",
+     "8409.91.90",
+     "4016.93.00"
+    ]
+   },
+   {
+    "descricao": "ROLAM RODA DIANT",
+    "esperados": [
+     "8482.10.10",
+     "8482.10.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.70.90",
+     "8708.99.90",
+     "8482.10.10"
+    ]
+   },
+   {
+    "descricao": "PALHETA LIMPADOR PARABRISA 20 POL",
+    "esperados": [
+     "8512.90.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8512.90.00",
+     "8512.40.10",
+     "8479.89.31"
+    ]
+   },
+   {
+    "descricao": "PISTAO MOTOR STD",
+    "esperados": [
+     "8409.91.20"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8483.30.29",
+     "8409.99.99",
+     "8409.91.20"
+    ]
+   },
+   {
+    "descricao": "ALICATE DE PRESSAO",
+    "esperados": [
+     "8203.20.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8203.20.10",
+     "7318.22.00",
+     "7318.21.00"
+    ]
+   },
+   {
+    "descricao": "CIL MESTRE FREIO",
+    "esperados": [
+     "8708.30.90"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.30.90",
+     "8708.93.00",
+     "3819.00.00"
+    ]
+   },
+   {
+    "descricao": "CORREIA DO ALTERNADOR",
+    "esperados": [
+     "4010.31.00",
+     "4010.32.00",
+     "4010.33.00",
+     "4010.34.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "4010.31.00",
+     "4010.32.00",
+     "3926.90.21"
+    ]
+   },
+   {
+    "descricao": "PIVO SUSP INF",
+    "esperados": [
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.80.00",
+     "3801.20.10",
+     "3904.10.10"
+    ]
+   },
+   {
+    "descricao": "BIELETA BARRA ESTABILIZADORA",
+    "esperados": [
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.80.00",
+     "8708.70.90",
+     "8708.99.90"
+    ]
+   },
+   {
+    "descricao": "TERMINAL DE DIRECAO LD",
+    "esperados": [
+     "8708.94.90",
+     "8708.80.00"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.94.90",
+     "8708.99.90",
+     "8482.40.00"
+    ]
+   },
+   {
+    "descricao": "PASTILHA DE FREIO DIANTEIRA CERAMICA",
+    "esperados": [
+     "8708.30.19"
+    ],
+    "setor": "automotivo",
+    "opcoes": [
+     "8708.30.19",
+     "8708.30.90",
+     "6813.81.10"
+    ]
+   },
+   {
+    "descricao": "ABSORVENTE HIGIENICO",
+    "esperados": [
+     "9619.00.00"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "9619.00.00",
+     "4818.90.10",
+     "7005.10.00"
+    ]
+   },
+   {
+    "descricao": "OVOS BRANCOS DUZIA",
+    "esperados": [
+     "0407.21.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8543.70.99",
+     "8539.52.00",
+     "3402.50.00"
+    ]
+   },
+   {
+    "descricao": "KETCHUP 400G",
+    "esperados": [
+     "2103.20.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2103.20.90",
+     "2103.20.10"
+    ]
+   },
+   {
+    "descricao": "BATEDEIRA",
+    "esperados": [
+     "8509.40.20"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8509.40.20"
+    ]
+   },
+   {
+    "descricao": "FARINHA DE TRIGO 1KG",
+    "esperados": [
+     "1101.00.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "AGUA SANITARIA 1L",
+    "esperados": [
+     "2828.90.11"
+    ],
+    "setor": "limpeza",
+    "opcoes": [
+     "2853.90.90",
+     "2202.10.00",
+     "8413.30.90"
+    ]
+   },
+   {
+    "descricao": "LIXA DAGUA 220",
+    "esperados": [
+     "6805.20.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "6805.20.00",
+     "8413.30.90",
+     "6805.10.00"
+    ]
+   },
+   {
+    "descricao": "SERROTE",
+    "esperados": [
+     "8202.10.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "9208.90.00",
+     "9208.10.00"
+    ]
+   },
+   {
+    "descricao": "PATINHO BOVINO KG",
+    "esperados": [
+     "0201.30.00",
+     "0202.30.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "ACHOCOLATADO EM PO 400G",
+    "esperados": [
+     "1806.10.00",
+     "1806.90.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8708.94.90",
+     "8536.50.90",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "CAFE SOLUVEL 100G",
+    "esperados": [
+     "2101.11.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2101.11.10",
+     "3204.19.20",
+     "3906.90.12"
+    ]
+   },
+   {
+    "descricao": "SARDINHA EM LATA 125G",
+    "esperados": [
+     "1604.13.10"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2202.10.00",
+     "0303.53.00",
+     "0302.43.00"
+    ]
+   },
+   {
+    "descricao": "SABAO EM PO 1KG",
+    "esperados": [
+     "3402.50.00"
+    ],
+    "setor": "limpeza",
+    "opcoes": [
+     "8479.89.99",
+     "8708.94.90",
+     "8708.30.90"
+    ]
+   },
+   {
+    "descricao": "SERRA CIRCULAR",
+    "esperados": [
+     "8467.22.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "9603.50.00",
+     "8461.50.20",
+     "8465.91.20"
+    ]
+   },
+   {
+    "descricao": "PROTETOR SOLAR FPS 50",
+    "esperados": [
+     "3304.99.90"
+    ],
+    "setor": "higiene",
+    "opcoes": [
+     "8708.30.90",
+     "8708.99.90",
+     "1503.00.00"
+    ]
+   },
+   {
+    "descricao": "VARA DE PESCA",
+    "esperados": [
+     "9507.10.00"
+    ],
+    "setor": "esporte",
+    "opcoes": [
+     "8708.92.00",
+     "8484.10.00",
+     "8301.20.00"
+    ]
+   },
+   {
+    "descricao": "BOTA DE SEGURANCA BICO DE ACO",
+    "esperados": [
+     "6403.40.00"
+    ],
+    "setor": "calcados",
+    "opcoes": [
+     "6401.92.00",
+     "8207.50.11",
+     "8708.21.00"
+    ]
+   },
+   {
+    "descricao": "MAIONESE 500G",
+    "esperados": [
+     "2103.90.11"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "2103.90.19",
+     "2103.90.11"
+    ]
+   },
+   {
+    "descricao": "MANTEIGA COM SAL 200G",
+    "esperados": [
+     "0405.10.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "1804.00.00",
+     "0405.10.00",
+     "0405.90.10"
+    ]
+   },
+   {
+    "descricao": "BORRACHA ESCOLAR",
+    "esperados": [
+     "4016.92.00"
+    ],
+    "setor": "papelaria",
+    "opcoes": [
+     "4016.99.90",
+     "8708.80.00",
+     "3926.10.00"
+    ]
+   },
+   {
+    "descricao": "CHAVE INGLESA",
+    "esperados": [
+     "8204.12.00"
+    ],
+    "setor": "ferramentas",
+    "opcoes": [
+     "8536.41.00",
+     "8536.50.90",
+     "8204.11.00"
+    ]
+   },
+   {
+    "descricao": "IOGURTE NATURAL 170G",
+    "esperados": [
+     "0403.20.00"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "0403.20.00",
+     "2513.20.00",
+     "0403.90.00"
+    ]
+   },
+   {
+    "descricao": "AR CONDICIONADO SPLIT 12000 BTUS",
+    "esperados": [
+     "8415.10.11"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8421.39.90",
+     "8415.90.10",
+     "8415.90.20"
+    ]
+   },
+   {
+    "descricao": "TRAVESSEIRO",
+    "esperados": [
+     "9404.90.00"
+    ],
+    "setor": "cama mesa banho",
+    "opcoes": [
+     "9404.90.00",
+     "9404.30.00",
+     "9404.10.00"
+    ]
+   },
+   {
+    "descricao": "FEIJAO CARIOCA 1KG",
+    "esperados": [
+     "0713.33.99"
+    ],
+    "setor": "alimentos",
+    "opcoes": [
+     "8479.89.99",
+     "8424.10.00",
+     "3405.30.00"
+    ]
+   },
+   {
+    "descricao": "ARMARIO DE ACO 2 PORTAS",
+    "esperados": [
+     "9403.20.90",
+     "9403.10.00"
+    ],
+    "setor": "moveis",
+    "opcoes": [
+     "8207.50.11",
+     "7325.99.90",
+     "7204.30.00"
+    ]
+   },
+   {
+    "descricao": "TORNEIRA DE PIA",
+    "esperados": [
+     "8481.80.19"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8481.80.95",
+     "8516.79.90",
+     "9201.10.00"
+    ]
+   },
+   {
+    "descricao": "CAIXA DE SOM BLUETOOTH",
+    "esperados": [
+     "8518.22.00",
+     "8518.21.00"
+    ],
+    "setor": "eletronicos",
+    "opcoes": [
+     "8507.10.90",
+     "8708.99.90",
+     "8482.91.19"
+    ]
+   },
+   {
+    "descricao": "VODKA 1L",
+    "esperados": [
+     "2208.60.00"
+    ],
+    "setor": "bebidas",
+    "opcoes": []
+   },
+   {
+    "descricao": "CHUVEIRO ELETRICO",
+    "esperados": [
+     "8516.10.00"
+    ],
+    "setor": "eletrodomesticos",
+    "opcoes": [
+     "8507.10.90",
+     "8536.50.90",
+     "3922.10.00"
+    ]
+   },
+   {
+    "descricao": "DISJUNTOR 20A",
+    "esperados": [
+     "8536.20.00"
+    ],
+    "setor": "construcao",
+    "opcoes": [
+     "8536.20.00",
+     "8538.90.20",
+     "8511.80.20"
+    ]
+   }
+  ]
+ }
+}

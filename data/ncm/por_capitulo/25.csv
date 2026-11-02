@@ -1,0 +1,127 @@
+codigo,descricao,data_inicio
+25.04,Grafita natural.,01/04/2022
+25.05,"Areias naturais de qualquer espécie, mesmo coradas, exceto areias metalíferas do Capítulo 26.",01/04/2022
+25.06,"Quartzo (exceto areias naturais); quartzitos, mesmo desbastados ou simplesmente cortados, à serra",01/04/2022
+25.08,"Outras argilas (exceto argilas expandidas da posição 68.06), andaluzita, cianita, silimanita, mesmo c",01/04/2022
+25.10,"Fosfatos de cálcio naturais, fosfatos aluminocálcicos naturais e cré fosfatado.",01/04/2022
+25.11,"Sulfato de bário natural (baritina); carbonato de bário natural (witherita), mesmo calcinado, exceto o",01/04/2022
+25.13,"Pedra-pomes; esmeril; corindo natural, granada natural e outros abrasivos naturais, mesmo tratados",01/04/2022
+25.15,"Mármores, travertinos, granitos belgas e outras pedras calcárias de cantariaou de construção, de de",01/04/2022
+25.16,"Granito, pórfiro, basalto, arenito (grés) e outras pedras de cantaria ou de construção, mesmo desbas",01/04/2022
+25.17,"Calhaus, cascalho, pedras britadas, do tipo normalmente utilizado em concreto (betão) ou para empe",01/04/2022
+25.18,"Dolomita, mesmo sinterizada ou calcinada, incluindo a dolomita desbastada ou simplesmente cortad",01/04/2022
+25.19,Carbonato de magnésio natural (magnesita); magnésia eletrofundida; magnésia calcinada a fundo (s,01/04/2022
+25.20,"Gipsita; anidrita; gesso, mesmo corado ou adicionado de pequenas quantidades de aceleradores ou",01/04/2022
+25.22,"Cal viva, cal apagada e cal hidráulica, com exclusão do óxido e do hidróxidode cálcio da posição 28.",01/04/2022
+25.23,"Cimentos hidráulicos (incluindo os cimentos não pulverizados, denominadosclinkers), mesmo corad",01/04/2022
+25.24,Amianto.,01/04/2022
+25.25,"Mica, incluindo a mica clivada em lamelas irregulares (splittings); desperdícios de mica.",01/04/2022
+25.26,"Esteatita natural, mesmo desbastada ou simplesmente cortada à serra ou por outro meio, em blocos",01/04/2022
+25.29,Feldspato; leucita; nefelina e nefelina-sienito; espatoflúor.,01/04/2022
+25.30,Matérias minerais não especificadas nem compreendidas noutras posições.,01/04/2022
+2501.00,"Sal (incluindo o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquos",01/04/2022
+2501.00.1,"Sal a granel, sem agregados",01/04/2022
+2501.00.11,Sal marinho,01/04/2022
+2501.00.19,Outros,01/04/2022
+2501.00.20,Sal de mesa,01/04/2022
+2501.00.90,Outros,01/04/2022
+2502.00.00,Piritas de ferro não ustuladas.,01/04/2022
+2503.00,"Enxofre de qualquer espécie, exceto o enxofre sublimado, o precipitado e o coloidal.",01/04/2022
+2503.00.10,A granel,01/04/2022
+2503.00.90,Outros,01/04/2022
+2504.10.00,- Em pó ou em escamas,01/04/2022
+2504.90.00,- Outra,01/04/2022
+2505.10.00,- Areias siliciosas e areias quartzosas,01/04/2022
+2505.90.00,- Outras areias,01/04/2022
+2506.10.00,- Quartzo,01/04/2022
+2506.20.00,- Quartzitos,01/04/2022
+2507.00,"Caulim (caulino) e outras argilas caulínicas, mesmo calcinados.",01/04/2022
+2507.00.10,Caulim (caulino),01/04/2022
+2507.00.90,Outros,01/04/2022
+2508.10.00,- Bentonita,01/04/2022
+2508.30.00,- Argilas refratárias,01/04/2022
+2508.40,- Outras argilas,01/04/2022
+2508.40.10,"Plásticas, com um teor de Fe2O3, em peso, inferior a 1,5 % e com perda porcalcinação, em peso, s",01/04/2022
+2508.40.90,Outras,01/04/2022
+2508.50.00,"- Andaluzita, cianita e silimanita",01/04/2022
+2508.60.00,- Mulita,01/04/2022
+2508.70.00,- Barro cozido em pó (terra de chamotte) e terra de dinas,01/04/2022
+2509.00.00,Cré.,01/04/2022
+2510.10,- Não moídos,01/04/2022
+2510.10.10,Fosfatos de cálcio naturais,01/04/2022
+2510.10.90,Outros,01/04/2022
+2510.20,- Moídos,01/04/2022
+2510.20.10,Fosfatos de cálcio naturais,01/04/2022
+2510.20.90,Outros,01/04/2022
+2511.10.00,- Sulfato de bário natural (baritina),01/04/2022
+2511.20.00,- Carbonato de bário natural (witherita),01/04/2022
+2512.00.00,"Farinhas siliciosas fósseis (por exemplo, kieselguhr, tripolita, diatomita) e outras terras siliciosas anál",01/04/2022
+2513.10.00,- Pedra-pomes,01/04/2022
+2513.20.00,"- Esmeril, corindo natural, granada natural e outros abrasivos naturais",01/04/2022
+2514.00.00,"Ardósia, mesmo desbastada ou simplesmente cortada à serra ou por outro meio, em blocos ou placa",01/04/2022
+2515.1,- Mármores e travertinos:,01/04/2022
+2515.11.00,-- Em bruto ou desbastados,01/04/2022
+2515.12,"-- Simplesmente cortados à serra ou por outro meio, em blocos ou placas deforma quadrada ou reta",01/04/2022
+2515.12.10,Mármores,01/04/2022
+2515.12.20,Travertinos,01/04/2022
+2515.20.00,- Granitos belgas e outras pedras calcárias de cantaria ou de construção; alabastro,01/04/2022
+2516.1,- Granito:,01/04/2022
+2516.11.00,-- Em bruto ou desbastado,01/04/2022
+2516.12.00,"-- Simplesmente cortado à serra ou por outro meio, em blocos ou placas de forma quadrada ou retan",01/04/2022
+2516.20.00,- Arenito (grés),01/04/2022
+2516.90.00,- Outras pedras de cantaria ou de construção,01/04/2022
+2517.10.00,"- Calhaus, cascalho, pedras britadas, do tipo normalmente utilizado em concreto (betão) ou para em",01/04/2022
+2517.20.00,"- Macadame de escórias de altos-fornos, de outras escórias ou de resíduos industriais semelhantes,",01/04/2022
+2517.30.00,- Tarmacadame,01/04/2022
+2517.4,"- Grânulos, lascas e pós, das pedras das posições 25.15 ou 25.16, mesmo tratados termicamente:",01/04/2022
+2517.41.00,-- De mármore,01/04/2022
+2517.49.00,-- Outros,01/04/2022
+2518.10.00,"- Dolomita não calcinada nem sinterizada, denominada ""crua""",01/04/2022
+2518.20.00,- Dolomita calcinada ou sinterizada,01/04/2022
+2519.10.00,- Carbonato de magnésio natural (magnesita),01/04/2022
+2519.90,- Outros,01/04/2022
+2519.90.10,Magnésia eletrofundida,01/04/2022
+2519.90.90,Outros,01/04/2022
+2520.10,- Gipsita; anidrita,01/04/2022
+2520.10.1,Gipsita,01/04/2022
+2520.10.11,Em pedaços irregulares (pedras),01/04/2022
+2520.10.19,Outros,01/04/2022
+2520.10.20,Anidrita,01/04/2022
+2520.20,- Gesso,01/04/2022
+2520.20.10,"Moído, apto para uso odontológico",01/04/2022
+2520.20.90,Outros,01/04/2022
+2521.00.00,Castinas; pedras calcárias utilizadas na fabricação de cal ou de cimento.,01/04/2022
+2522.10.00,- Cal viva,01/04/2022
+2522.20.00,- Cal apagada,01/04/2022
+2522.30.00,- Cal hidráulica,01/04/2022
+2523.10.00,"- Cimentos não pulverizados, denominados clinkers",01/04/2022
+2523.2,- Cimentos Portland:,01/04/2022
+2523.21.00,"-- Cimentos brancos, mesmo corados artificialmente",01/04/2022
+2523.29,-- Outros,01/04/2022
+2523.29.10,Cimento comum,01/04/2022
+2523.29.90,Outros,01/04/2022
+2523.30.00,- Cimentos aluminosos,01/04/2022
+2523.90.00,- Outros cimentos hidráulicos,01/04/2022
+2524.10.00,- Crocidolita,01/04/2022
+2524.90.00,- Outros,01/04/2022
+2525.10.00,- Mica em bruto ou clivada em folhas ou lamelas irregulares (splittings),01/04/2022
+2525.20.00,- Mica em pó,01/04/2022
+2525.30.00,- Desperdícios de mica,01/04/2022
+2526.10.00,- Não triturados nem em pó,01/04/2022
+2526.20.00,- Triturados ou em pó,01/04/2022
+2528.00.00,"Boratos naturais e seus concentrados (calcinados ou não), exceto boratos extraídos de salmouras n",01/04/2022
+2529.10.00,- Feldspato,01/04/2022
+2529.2,- Espatoflúor:,01/04/2022
+2529.21.00,"-- Que contenha, em peso, 97 % ou menos de fluoreto de cálcio",01/04/2022
+2529.22.00,"-- Que contenha, em peso, mais de 97 % de fluoreto de cálcio",01/04/2022
+2529.30.00,- Leucita; nefelina e nefelina-sienito,01/04/2022
+2530.10,"- Vermiculita, perlita e cloritas, não expandidas",01/04/2022
+2530.10.10,Perlita,01/04/2022
+2530.10.90,Outras,01/04/2022
+2530.20.00,"- Kieserita, epsomita (sulfatos de magnésio naturais)",01/04/2022
+2530.90,- Outras,01/04/2022
+2530.90.10,Espodumênio,01/04/2022
+2530.90.20,"Areia de zircônio micronizada, própria para a preparação de esmaltes cerâmicos",01/04/2022
+2530.90.30,Minerais de metais das terras raras,01/04/2022
+2530.90.40,Terras corantes,01/04/2022
+2530.90.90,Outras,01/04/2022

@@ -1,0 +1,988 @@
+{
+  "conjunto": "dev",
+  "modelo": "qwen2.5:7b",
+  "resumo": {
+    "capitulo_certo_entre_escolhidos": "36/40 = 90.0%",
+    "posicao_certa_entre_escolhidas": "28/40 = 70.0%",
+    "acerto_1o_lugar": "24/41 = 58.5%",
+    "acerto_top3": "29/41 = 70.7%",
+    "tempo_medio_s": 12.9,
+    "falhas_infra": 0
+  },
+  "casos": [
+    {
+      "descricao": "BOMBA D AGUA MOTOR",
+      "grupo": "automotivo",
+      "esperados": [
+        "8413.30.90"
+      ],
+      "opcoes": [
+        "8413.30.90",
+        "8413.30.10",
+        "8413.30.30"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8413"
+      ],
+      "interpretacao": "bomba de agua com motor",
+      "pergunta": null,
+      "segundos": 19.4
+    },
+    {
+      "descricao": "ALTERNADOR 12V",
+      "grupo": "automotivo",
+      "esperados": [
+        "8511.50.10"
+      ],
+      "opcoes": [
+        "8501.64.00",
+        "8511.50.10",
+        "8501.61.00"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8501"
+      ],
+      "interpretacao": "alternador eletrônico",
+      "pergunta": null,
+      "segundos": 13.1
+    },
+    {
+      "descricao": "MOTOR DE ARRANQUE",
+      "grupo": "automotivo",
+      "esperados": [
+        "8511.40.00"
+      ],
+      "opcoes": [
+        "8511.40.00",
+        "8511.50.90",
+        "8511.80.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8511"
+      ],
+      "interpretacao": "motor de arranque",
+      "pergunta": null,
+      "segundos": 13.1
+    },
+    {
+      "descricao": "PARABRISA DIANTEIRO",
+      "grupo": "automotivo",
+      "esperados": [
+        "7007.21.00",
+        "8708.22.00"
+      ],
+      "opcoes": [
+        "8708.22.00",
+        "8705.20.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8708"
+      ],
+      "interpretacao": "vidro para automóvel",
+      "pergunta": null,
+      "segundos": 11.9
+    },
+    {
+      "descricao": "JUNTA DO CABECOTE",
+      "grupo": "automotivo",
+      "esperados": [
+        "8484.10.00"
+      ],
+      "opcoes": [
+        "8484.20.00",
+        "8409.91.12",
+        "8409.99.59"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8484"
+      ],
+      "interpretacao": "peça de automóvel",
+      "pergunta": null,
+      "segundos": 13.0
+    },
+    {
+      "descricao": "FILTRO DE OLEO",
+      "grupo": "automotivo",
+      "esperados": [
+        "8421.23.00"
+      ],
+      "opcoes": [
+        "8421.23.00",
+        "8421.29.30",
+        "8421.39.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8421"
+      ],
+      "interpretacao": "filtros para lubrificantes",
+      "pergunta": null,
+      "segundos": 12.9
+    },
+    {
+      "descricao": "CABO DE VELA",
+      "grupo": "automotivo",
+      "esperados": [
+        "8544.30.00"
+      ],
+      "opcoes": [
+        "8544.30.00",
+        "8511.10.00",
+        "8544.20.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8544"
+      ],
+      "interpretacao": "cabo de ignição para motor",
+      "pergunta": null,
+      "segundos": 12.9
+    },
+    {
+      "descricao": "EXTINTOR DE INCENDIO PO QUIMICO",
+      "grupo": "automotivo",
+      "esperados": [
+        "8424.10.00"
+      ],
+      "opcoes": [
+        "8424.10.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8424"
+      ],
+      "interpretacao": "extintor de incêndio",
+      "pergunta": null,
+      "segundos": 11.5
+    },
+    {
+      "descricao": "BUZINA 12V",
+      "grupo": "automotivo",
+      "esperados": [
+        "8512.30.00"
+      ],
+      "opcoes": [
+        "8536.90.30",
+        "8549.39.00",
+        "8549.31.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8536"
+      ],
+      "interpretacao": "buzina eletrônica",
+      "pergunta": null,
+      "segundos": 15.3
+    },
+    {
+      "descricao": "PNEU ARO 17 MOTO",
+      "grupo": "automotivo",
+      "esperados": [
+        "4011.40.00"
+      ],
+      "opcoes": [
+        "4011.40.00",
+        "4011.90.10",
+        "4011.80.20"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "40"
+      ],
+      "posicoes": [
+        "4011"
+      ],
+      "interpretacao": "pneu para moto",
+      "pergunta": null,
+      "segundos": 12.8
+    },
+    {
+      "descricao": "CAMARA DE AR BICICLETA",
+      "grupo": "automotivo",
+      "esperados": [
+        "4013.20.00"
+      ],
+      "opcoes": [
+        "4013.20.00",
+        "4013.90.00",
+        "4013.10.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "40"
+      ],
+      "posicoes": [
+        "4013"
+      ],
+      "interpretacao": "componente pneumático para bicicleta",
+      "pergunta": null,
+      "segundos": 12.7
+    },
+    {
+      "descricao": "FLUIDO DE FREIO DOT 4",
+      "grupo": "automotivo",
+      "esperados": [
+        "3819.00.00"
+      ],
+      "opcoes": [
+        "3819.00.00",
+        "3825.50.00",
+        "3824.99.49"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "38"
+      ],
+      "posicoes": [
+        "3819"
+      ],
+      "interpretacao": "líquido para sistema de freios",
+      "pergunta": null,
+      "segundos": 13.1
+    },
+    {
+      "descricao": "ADITIVO PARA RADIADOR",
+      "grupo": "automotivo",
+      "esperados": [
+        "3820.00.00"
+      ],
+      "opcoes": [
+        "3811.29.90",
+        "3811.90.90",
+        "3811.19.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "38"
+      ],
+      "posicoes": [
+        "3811"
+      ],
+      "interpretacao": "aditivo para sistema de refrigeração",
+      "pergunta": null,
+      "segundos": 12.9
+    },
+    {
+      "descricao": "ACUCAR REFINADO 1KG",
+      "grupo": "alimentos",
+      "esperados": [
+        "1701.99.00"
+      ],
+      "opcoes": [
+        "1702.90.00",
+        "1701.14.00",
+        "1701.99.00"
+      ],
+      "posicao_certo": 3,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "17"
+      ],
+      "posicoes": [
+        "1702"
+      ],
+      "interpretacao": "acúcar refinado",
+      "pergunta": null,
+      "segundos": 13.2
+    },
+    {
+      "descricao": "OLEO DE SOJA 900ML",
+      "grupo": "alimentos",
+      "esperados": [
+        "1507.90.11"
+      ],
+      "opcoes": [
+        "1507.90.11",
+        "1507.10.00",
+        "1515.90.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "15"
+      ],
+      "posicoes": [
+        "1507"
+      ],
+      "interpretacao": "oleo vegetal de soja",
+      "pergunta": null,
+      "segundos": 13.4
+    },
+    {
+      "descricao": "MACARRAO ESPAGUETE 500G",
+      "grupo": "alimentos",
+      "esperados": [
+        "1902.19.00",
+        "1902.11.00"
+      ],
+      "opcoes": [
+        "1101.00.10",
+        "1103.11.00",
+        "1108.11.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "11"
+      ],
+      "posicoes": [
+        "1101"
+      ],
+      "interpretacao": "massa de trigo para cozimento",
+      "pergunta": null,
+      "segundos": 13.3
+    },
+    {
+      "descricao": "BISCOITO RECHEADO CHOCOLATE",
+      "grupo": "alimentos",
+      "esperados": [
+        "1905.31.00"
+      ],
+      "opcoes": [
+        "1806.31.10",
+        "1806.32.10",
+        "1806.31.20"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "18"
+      ],
+      "posicoes": [
+        "1806"
+      ],
+      "interpretacao": "biscoito recheado",
+      "pergunta": null,
+      "segundos": 12.4
+    },
+    {
+      "descricao": "SUCO DE UVA INTEGRAL 1L",
+      "grupo": "bebidas",
+      "esperados": [
+        "2009.61.00",
+        "2009.69.00"
+      ],
+      "opcoes": [
+        "2009.69.00",
+        "2009.61.00",
+        "2009.89.90"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "20"
+      ],
+      "posicoes": [
+        "2009"
+      ],
+      "interpretacao": "suco de uva nao fermentado",
+      "pergunta": "O valor Brix do suco de uva é superior ou igual a 30?",
+      "segundos": 13.6
+    },
+    {
+      "descricao": "AGUA MINERAL SEM GAS 500ML",
+      "grupo": "bebidas",
+      "esperados": [
+        "2201.10.00"
+      ],
+      "opcoes": [
+        "2201.10.00",
+        "2202.10.00",
+        "2201.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "22"
+      ],
+      "posicoes": [
+        "2201"
+      ],
+      "interpretacao": "água mineral em embalagem",
+      "pergunta": null,
+      "segundos": 12.5
+    },
+    {
+      "descricao": "VINHO TINTO SECO 750ML",
+      "grupo": "bebidas",
+      "esperados": [
+        "2204.21.00"
+      ],
+      "opcoes": [
+        "2204.29.10",
+        "2204.22.19",
+        "2204.10.90"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "22"
+      ],
+      "posicoes": [
+        "2204"
+      ],
+      "interpretacao": "vinho tinto seco",
+      "pergunta": null,
+      "segundos": 13.2
+    },
+    {
+      "descricao": "PERFUME 100ML",
+      "grupo": "higiene",
+      "esperados": [
+        "3303.00.10"
+      ],
+      "opcoes": [
+        "3303.00.10",
+        "3303.00.20"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "33"
+      ],
+      "posicoes": [
+        "3303"
+      ],
+      "interpretacao": "perfume aromático",
+      "pergunta": null,
+      "segundos": 10.9
+    },
+    {
+      "descricao": "PAPEL TOALHA 2 ROLOS",
+      "grupo": "higiene",
+      "esperados": [
+        "4818.20.00"
+      ],
+      "opcoes": [
+        "4818.20.00",
+        "4803.00.90",
+        "4803.00.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "48"
+      ],
+      "posicoes": [
+        "4818"
+      ],
+      "interpretacao": "papel toalha",
+      "pergunta": null,
+      "segundos": 13.1
+    },
+    {
+      "descricao": "ESCOVA DE DENTES",
+      "grupo": "higiene",
+      "esperados": [
+        "9603.21.00"
+      ],
+      "opcoes": [
+        "9603.21.00",
+        "9603.29.00",
+        "9603.50.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "96"
+      ],
+      "posicoes": [
+        "9603"
+      ],
+      "interpretacao": "escolha de dentes",
+      "pergunta": null,
+      "segundos": 13.2
+    },
+    {
+      "descricao": "FRALDA DESCARTAVEL INFANTIL",
+      "grupo": "higiene",
+      "esperados": [
+        "9619.00.00"
+      ],
+      "opcoes": [
+        "6111.90.90",
+        "6111.20.00",
+        "6111.30.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "61"
+      ],
+      "posicoes": [
+        "6111"
+      ],
+      "interpretacao": "fralda descartável para bebê",
+      "pergunta": null,
+      "segundos": 13.2
+    },
+    {
+      "descricao": "MEIA DE ALGODAO",
+      "grupo": "vestuario",
+      "esperados": [
+        "6115.95.00"
+      ],
+      "opcoes": [
+        "6104.62.00",
+        "6115.10.14",
+        "6115.10.92"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "61"
+      ],
+      "posicoes": [
+        "6104"
+      ],
+      "interpretacao": "calca de algodao",
+      "pergunta": null,
+      "segundos": 14.7
+    },
+    {
+      "descricao": "CUECA BOXER ALGODAO",
+      "grupo": "vestuario",
+      "esperados": [
+        "6107.11.00"
+      ],
+      "opcoes": [
+        "6107.11.00",
+        "6108.91.00",
+        "6108.21.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "61"
+      ],
+      "posicoes": [
+        "6107"
+      ],
+      "interpretacao": "calcinha de algodão",
+      "pergunta": null,
+      "segundos": 12.3
+    },
+    {
+      "descricao": "CHINELO DE BORRACHA",
+      "grupo": "calcados",
+      "esperados": [
+        "6402.20.00"
+      ],
+      "opcoes": [
+        "6405.10.10",
+        "6402.12.00",
+        "6406.20.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "64"
+      ],
+      "posicoes": [
+        "6405"
+      ],
+      "interpretacao": "calçado de borracha",
+      "pergunta": null,
+      "segundos": 13.8
+    },
+    {
+      "descricao": "FONE DE OUVIDO BLUETOOTH",
+      "grupo": "eletronicos",
+      "esperados": [
+        "8518.30.00"
+      ],
+      "opcoes": [
+        "8517.62.41",
+        "8518.30.00",
+        "8544.19.19"
+      ],
+      "posicao_certo": 2,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8517"
+      ],
+      "interpretacao": "aparelho de comunicação sem fio",
+      "pergunta": null,
+      "segundos": 12.7
+    },
+    {
+      "descricao": "MICROONDAS 30L",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8516.50.00"
+      ],
+      "opcoes": [
+        "8516.50.00",
+        "8543.70.14",
+        "8540.79.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8516"
+      ],
+      "interpretacao": "aparelho receptor de ondas de microondas",
+      "pergunta": null,
+      "segundos": 13.9
+    },
+    {
+      "descricao": "LIQUIDIFICADOR 600W",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8509.40.10"
+      ],
+      "opcoes": [
+        "8509.40.10",
+        "8542.39.99",
+        "8516.60.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8509"
+      ],
+      "interpretacao": "aparelho eletrônico de cozinha",
+      "pergunta": null,
+      "segundos": 13.6
+    },
+    {
+      "descricao": "VENTILADOR DE MESA",
+      "grupo": "eletrodomesticos",
+      "esperados": [
+        "8414.51.10"
+      ],
+      "opcoes": [
+        "8414.51.10",
+        "8414.51.90",
+        "8414.59.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "84"
+      ],
+      "posicoes": [
+        "8414"
+      ],
+      "interpretacao": "ventilador elétrico portátil",
+      "pergunta": null,
+      "segundos": 12.3
+    },
+    {
+      "descricao": "CHAVE DE FENDA",
+      "grupo": "ferramentas",
+      "esperados": [
+        "8205.40.00"
+      ],
+      "opcoes": [
+        "8205.40.00",
+        "8204.20.00",
+        "8207.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8205"
+      ],
+      "interpretacao": "ferramenta de manutenção",
+      "pergunta": null,
+      "segundos": 12.2
+    },
+    {
+      "descricao": "ALICATE UNIVERSAL",
+      "grupo": "ferramentas",
+      "esperados": [
+        "8203.20.10"
+      ],
+      "opcoes": [
+        "8203.20.10",
+        "8203.20.90",
+        "8205.59.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "82"
+      ],
+      "posicoes": [
+        "8203"
+      ],
+      "interpretacao": "ferramenta manual de jardim",
+      "pergunta": null,
+      "segundos": 13.6
+    },
+    {
+      "descricao": "TRENA 5M",
+      "grupo": "ferramentas",
+      "esperados": [
+        "9017.80.10"
+      ],
+      "opcoes": [],
+      "posicao_certo": null,
+      "capitulo_ok": null,
+      "posicao_ncm_ok": null,
+      "capitulos": [],
+      "posicoes": [],
+      "interpretacao": "elemento de construção metálico",
+      "pergunta": null,
+      "segundos": 6.9
+    },
+    {
+      "descricao": "TIJOLO CERAMICO 8 FUROS",
+      "grupo": "construcao",
+      "esperados": [
+        "6904.10.00"
+      ],
+      "opcoes": [
+        "6904.10.00",
+        "6904.90.00",
+        "6914.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "69"
+      ],
+      "posicoes": [
+        "6904"
+      ],
+      "interpretacao": "tijolo ceramico para edificacao",
+      "pergunta": null,
+      "segundos": 13.2
+    },
+    {
+      "descricao": "CANO PVC 100MM",
+      "grupo": "construcao",
+      "esperados": [
+        "3917.23.00"
+      ],
+      "opcoes": [
+        "0106.32.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": false,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "01"
+      ],
+      "posicoes": [
+        "0106"
+      ],
+      "interpretacao": "pipa de PVC",
+      "pergunta": null,
+      "segundos": 10.6
+    },
+    {
+      "descricao": "FIO ELETRICO 2,5MM",
+      "grupo": "construcao",
+      "esperados": [
+        "8544.49.00"
+      ],
+      "opcoes": [
+        "8544.30.00",
+        "8544.19.90",
+        "8544.49.00"
+      ],
+      "posicao_certo": 3,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "85"
+      ],
+      "posicoes": [
+        "8544"
+      ],
+      "interpretacao": "fio eletrônico",
+      "pergunta": null,
+      "segundos": 13.2
+    },
+    {
+      "descricao": "LAPIS PRETO",
+      "grupo": "papelaria",
+      "esperados": [
+        "9609.10.00"
+      ],
+      "opcoes": [
+        "9609.10.00",
+        "9609.20.00",
+        "9609.90.00"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "96"
+      ],
+      "posicoes": [
+        "9609"
+      ],
+      "interpretacao": "lápiz de grafite",
+      "pergunta": null,
+      "segundos": 12.0
+    },
+    {
+      "descricao": "SOFA 3 LUGARES",
+      "grupo": "moveis",
+      "esperados": [
+        "9401.61.00",
+        "9401.71.00"
+      ],
+      "opcoes": [
+        "9403.30.00",
+        "9403.70.00",
+        "9403.50.00"
+      ],
+      "posicao_certo": null,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": false,
+      "capitulos": [
+        "94"
+      ],
+      "posicoes": [
+        "9403"
+      ],
+      "interpretacao": "móvel de sala de estar",
+      "pergunta": null,
+      "segundos": 13.5
+    },
+    {
+      "descricao": "BICICLETA ARO 29",
+      "grupo": "esporte",
+      "esperados": [
+        "8712.00.10"
+      ],
+      "opcoes": [
+        "8712.00.10",
+        "8714.92.00",
+        "8712.00.90"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "87"
+      ],
+      "posicoes": [
+        "8712"
+      ],
+      "interpretacao": "bicicleta de mountain bike",
+      "pergunta": null,
+      "segundos": 12.8
+    },
+    {
+      "descricao": "RACAO PARA CAES 15KG",
+      "grupo": "pet",
+      "esperados": [
+        "2309.10.00"
+      ],
+      "opcoes": [
+        "2309.10.00",
+        "2309.90.90",
+        "2309.90.10"
+      ],
+      "posicao_certo": 1,
+      "capitulo_ok": true,
+      "posicao_ncm_ok": true,
+      "capitulos": [
+        "23"
+      ],
+      "posicoes": [
+        "2309"
+      ],
+      "interpretacao": "alimento para animais de companhia",
+      "pergunta": null,
+      "segundos": 12.5
+    }
+  ]
+}

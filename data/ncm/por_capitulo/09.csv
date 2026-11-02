@@ -1,0 +1,72 @@
+codigo,descricao,data_inicio
+09.01,"Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café que contenh",01/04/2022
+09.02,"Chá, mesmo aromatizado.",01/04/2022
+09.04,Pimenta do gênero Piper; pimentões (pimentos) e pimentas do gênero Capsicum ou do gênero Pime,01/04/2022
+09.05,Baunilha.,01/04/2022
+09.06,Canela e flores de caneleira.,01/04/2022
+09.07,"Cravo-da-índia (frutos, flores e pedúnculos).",01/04/2022
+09.08,"Noz-moscada, macis, amomos e cardamomos.",01/04/2022
+09.09,"Sementes de anis (erva-doce), badiana (anis-estrelado), funcho, coentro, cominho ou alcaravia; bag",01/04/2022
+09.10,"Gengibre, açafrão, cúrcuma, tomilho, louro, caril e outras especiarias.",01/04/2022
+0901.1,- Café não torrado:,01/04/2022
+0901.11,-- Não descafeinado,01/04/2022
+0901.11.10,Em grão,01/04/2022
+0901.11.90,Outros,01/04/2022
+0901.12.00,-- Descafeinado,01/04/2022
+0901.2,- Café torrado:,01/04/2022
+0901.21.00,-- Não descafeinado,01/04/2022
+0901.22.00,-- Descafeinado,01/04/2022
+0901.90.00,- Outros,01/04/2022
+0902.10.00,- Chá verde (não fermentado) em embalagens imediatas de conteúdo não superior a  k2g,01/04/2302
+0902.20.00,- Chá verde (não fermentado) apresentado de qualquer outra forma,01/04/2022
+0902.30.00,"- Chá preto (fermentado) e chá parcialmente fermentado, em embalagens imediatas de conteúdo nã",01/04/2022
+0902.40.00,"- Chá preto (fermentado) e chá parcialmente fermentado, apresentados de qualquer outra forma",01/04/2022
+0903.00,Mate.,01/04/2022
+0903.00.10,Simplesmente cancheado,01/04/2022
+0903.00.90,Outros,01/04/2022
+0904.1,- Pimenta do gênero Piper:,01/04/2022
+0904.11.00,-- Não triturada nem em pó,01/04/2022
+0904.12.00,-- Triturada ou em pó,01/04/2022
+0904.2,- Pimentões (pimentos) e pimentas do gênero Capsicum ou do gênero Pimenta:,01/04/2022
+0904.21.00,"-- Secos, não triturados nem em pó",01/04/2022
+0904.22.00,-- Triturados ou em pó,01/04/2022
+0905.10.00,- Não triturada nem em pó,01/04/2022
+0905.20.00,- Triturada ou em pó,01/04/2022
+0906.1,- Não trituradas nem em pó:,01/04/2022
+0906.11.00,-- Canela (Cinnamomum zeylanicum blume),01/04/2022
+0906.19.00,-- Outras,01/04/2022
+0906.20.00,- Trituradas ou em pó,01/04/2022
+0907.10.00,- Não triturado nem em pó,01/04/2022
+0907.20.00,- Triturado ou em pó,01/04/2022
+0908.1,- Noz-moscada:,01/04/2022
+0908.11.00,-- Não triturada nem em pó,01/04/2022
+0908.12.00,-- Triturada ou em pó,01/04/2022
+0908.2,- Macis:,01/04/2022
+0908.21.00,-- Não triturado nem em pó,01/04/2022
+0908.22.00,-- Triturado ou em pó,01/04/2022
+0908.3,- Amomos e cardamomos:,01/04/2022
+0908.31.00,-- Não triturados nem em pó,01/04/2022
+0908.32.00,-- Triturados ou em pó,01/04/2022
+0909.2,- Sementes de coentro:,01/04/2022
+0909.21.00,-- Não trituradas nem em pó,01/04/2022
+0909.22.00,-- Trituradas ou em pó,01/04/2022
+0909.3,- Sementes de cominho:,01/04/2022
+0909.31.00,-- Não trituradas nem em pó,01/04/2022
+0909.32.00,-- Trituradas ou em pó,01/04/2022
+0909.6,"- Sementes de anis (erva-doce), badiana (anis-estrelado), funcho ou alcaravia; bagas de zimbro:",01/04/2022
+0909.61,-- Não trituradas nem em pó,01/04/2022
+0909.61.10,De anis (erva-doce),01/04/2022
+0909.61.20,De badiana (anis-estrelado),01/04/2022
+0909.61.90,Outras,01/04/2022
+0909.62,-- Trituradas ou em pó,01/04/2022
+0909.62.10,De anis (erva-doce),01/04/2022
+0909.62.20,De badiana (anis-estrelado),01/04/2022
+0909.62.90,Outras,01/04/2022
+0910.1,- Gengibre:,01/04/2022
+0910.11.00,-- Não triturado nem em pó,01/04/2022
+0910.12.00,-- Triturado ou em pó,01/04/2022
+0910.20.00,- Açafrão,01/04/2022
+0910.30.00,- Cúrcuma,01/04/2022
+0910.9,- Outras especiarias:,01/04/2022
+0910.91.00,-- Misturas mencionadas na Nota 1 b) do presente Capítulo,01/04/2022
+0910.99.00,-- Outras,01/04/2022

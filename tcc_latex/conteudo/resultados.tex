@@ -1,0 +1,238 @@
+\chapter{RESULTADOS E DISCUSSÃO}
+\label{cap:resultados}
+
+Este capítulo apresenta os resultados em duas partes. A primeira trata da detecção: de códigos inválidos, por consulta à tabela, e de códigos válidos, porém incorretos, com o auxílio do modelo de linguagem. A segunda trata da sugestão: a comparação entre modelos e entre versões no desenvolvimento, a contribuição do modelo de linguagem em relação à busca sem ele, o resultado da versão final no conjunto de teste e a análise dos erros. Ao final, os resultados são confrontados com as metas do projeto e discutidos, incluindo as limitações da avaliação.
+
+\section{Detecção de NCM Inválido}
+
+A Tabela~\ref{tab:invalidos} apresenta o resultado da detecção nos casos rotulados por categoria. Todos os 25 códigos inválidos foram apontados, e nenhum dos 168 códigos válidos foi apontado indevidamente.
+
+\begin{table}[H]
+\centering
+\caption{Detecção de NCM inválido por categoria}
+\label{tab:invalidos}
+\begin{tabular}{p{5.2cm} p{5.4cm} c}
+\hline
+\textbf{Categoria} & \textbf{Exemplos (formato do ERP)} & \textbf{Apontados} \\
+\hline
+Vazio & vazio, só espaços & 3/3 \\
+Só zeros & 00000000, 0 & 4/4 \\
+Malformado & 8708100, 870810000, 87O81000 & 8/8 \\
+Bem formado e inexistente & 87081099, 99999999 & 8/8 \\
+Extinto em atualização da tabela & 39233000, 94032000 & 2/2 \\
+\hline
+Válido (falso positivo) & códigos dos conjuntos de avaliação & 0/168 \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{table}
+
+Nas bases reais das duas lojas, a detecção encontrou 14 mercadorias com código só de zeros e 2 com código de nove dígitos na Loja A, e 54 com código só de zeros e 5 com o campo vazio na Loja B. Nenhuma das 41.606 mercadorias com código válido foi apontada. Esses resultados eram esperados, pois a detecção é uma consulta determinística à tabela oficial; seu valor está em cobrir todas as formas de código inválido, inclusive os extintos, sem custo de modelo de linguagem e sem falsos positivos. Após a restrição aos itens cadastrados como mercadoria, nenhum serviço com código NBS foi apontado como erro; antes dessa restrição, um código NBS válido havia sido indicado incorretamente como NCM inexistente, o que motivou o ajuste.
+
+Os números também mostram o limite dessa verificação: nas bases reais, os códigos inválidos são raros (75 em mais de 41 mil mercadorias), enquanto o erro real mais frequente encontrado, o código ``coringa'' da Loja B, é um código válido e passaria despercebido por ela.
+
+\section{Detecção de NCM Possivelmente Incorreto}
+
+A Tabela~\ref{tab:regras_deteccao} apresenta as regras de decisão avaliadas no DEV2, com os erros plantados, e nos casos reais da Loja B. A regra adotada foi escolhida no DEV2.
+
+\begin{table}[H]
+\centering
+\caption{Regras de detecção de NCM incorreto nos conjuntos de desenvolvimento}
+\label{tab:regras_deteccao}
+\small
+\begin{tabular}{p{5.9cm} c c c c}
+\hline
+ & \multicolumn{2}{c}{\textbf{DEV2 (97 casos)}} & \multicolumn{2}{c}{\textbf{Loja B (80 casos)}} \\
+\textbf{Regra} & \textbf{Acurácia} & \textbf{Alarme falso} & \textbf{Acurácia} & \textbf{Alarme falso} \\
+\hline
+Fora das 3 opções sugeridas & 84,5\% & 30,6\% & 81,2\% & 37,5\% \\
+Modelo considera incompatível & 85,6\% & 18,4\% & 85,0\% & 30,0\% \\
+Fora das 3 opções e (incompatível ou comparação contra) & 88,7\% & 20,4\% & 85,0\% & 30,0\% \\
+\textbf{Fora das 3 opções e incompatível (adotada)} & \textbf{86,6\%} & \textbf{16,3\%} & \textbf{88,8\%} & \textbf{22,5\%} \\
+\hline
+\end{tabular}
+\fonte{O autor (2026). Alarme falso: produtos com NCM correto apontados como suspeitos.}
+\end{table}
+
+No DEV2, a regra adotada apontou todos os erros de troca (19/19) e de capítulo (16/16), mas apenas 8 dos 13 erros de vizinho, em que o código errado é outro item da mesma posição, como 8204.12.00 no lugar de 8204.11.00. Esse é o erro mais difícil, pois os dois textos oficiais diferem em um detalhe que a descrição muitas vezes não informa. A regra com a comparação lado a lado detectou mais erros de vizinho (12/13), mas com mais alarmes falsos, e foi preterida. O voto da base de conhecimento não melhorou nenhuma regra: as combinações com ele empataram com as combinações sem ele.
+
+Nos casos reais da Loja B, a regra adotada apontou os 40 produtos cadastrados com o código ``coringa'' de para-choques, como emblemas, correias, retentores e juntas de motor. Entre os 40 produtos presumidos corretos, 9 foram apontados. A inspeção desses alarmes mostrou que ao menos dois parecem ser erros reais da loja, e não do sistema: um coxim de radiador classificado como parte de caixa de câmbio (8708.40.90) e um cilindro auxiliar de embreagem classificado como parte de freio (8708.30.90), quando a NCM possui item próprio para embreagens (8708.93.00). Outros alarmes decorreram de abreviações não expandidas, como ``PRF SXTV'' (parafuso sextavado).
+
+No TESTE2, com 50 produtos com o NCM correto e 50 com erros plantados, a regra adotada foi medida uma única vez e obteve acurácia de 86,0\%, com alarme falso de 6,0\% (3 dos 50 produtos corretos). Foram apontados 39 dos 50 erros (78,0\%): todos os erros de troca (20/20), 14 dos 15 erros de capítulo e apenas 5 dos 15 erros de vizinho, o que confirma a dificuldade observada no desenvolvimento. Entre as regras não adotadas, a que inclui a comparação lado a lado teria apontado mais erros de vizinho (10/15), com acurácia de 88,0\% e alarme falso de 14,0\%; a escolha, feita no desenvolvimento, não foi alterada após a medição. A regra adotada privilegia, portanto, poucos alarmes falsos, o que é desejável em uma verificação que percorre todo o cadastro, em troca de deixar passar parte dos erros mais sutis.
+
+O tempo da verificação ficou entre 17 e 25 segundos por produto, pois inclui a sugestão completa e uma pergunta adicional ao modelo.
+
+\section{Comparação entre Modelos de Linguagem}
+
+A comparação inicial entre modelos foi feita no conjunto dev15, nas primeiras versões da arquitetura de busca e escolha, quando o sistema ainda devolvia uma única opção. A Tabela~\ref{tab:modelos} apresenta o acerto de cada modelo na mesma versão do processo.
+
+\begin{table}[H]
+\centering
+\caption{Acerto da opção única por modelo no conjunto dev15}
+\label{tab:modelos}
+\begin{tabular}{p{7.5cm} c c}
+\hline
+\textbf{Versão do processo} & \textbf{Llama 3.1 8B} & \textbf{Qwen2.5 7B} \\
+\hline
+Busca e escolha, versão inicial & 9/15 (60,0\%) & 11/15 (73,3\%) \\
+Busca e escolha, após ajustes no conjunto dev15 & 10/15 (66,7\%) & 13/15 (86,7\%) \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{table}
+
+O Qwen2.5 7B superou o Llama 3.1 8B nas duas versões, com tempo semelhante, e foi adotado na primeira fase. Na inspeção das respostas, ele demonstrou melhor compreensão das descrições em português e seguiu com mais consistência as regras do \textit{prompt}. Esses números, contudo, são otimistas: quando a versão que atingiu 86,7\% no dev15 foi medida pela primeira vez no conjunto teste, acertou a opção única em apenas 14 de 33 produtos (42,4\%), diferença que ilustra o superajuste discutido na seção~\ref{sec:avaliacao}.
+
+Na segunda fase, com o processo final e os mesmos recursos (expansão de abreviações e Nota 2 da Seção XVII), o Qwen3 8B acertou 52,2\% em primeiro lugar e 67,8\% entre as três opções nos 90 produtos de desenvolvimento, contra 47,2\% e 59,6\% do Qwen2.5 7B, com 14,5 segundos por produto. O Qwen3 foi usado sem o modo de raciocínio explícito, para manter o tempo compatível com o uso diário; o efeito desse modo sobre o acerto não foi avaliado.
+
+\section{Evolução das Versões no Desenvolvimento}
+
+A Tabela~\ref{tab:versoes_fase1} resume a primeira fase, com o Qwen2.5 7B. A versão revisada de busca e escolha foi adotada por não piorar em nenhum conjunto e por acrescentar a análise do produto, a pergunta ao operador e a memória; a navegação hierárquica, que acertava mais o capítulo, acumulou erros nos níveis seguintes e foi mais lenta.
+
+\begin{table}[H]
+\centering
+\caption{Versões da primeira fase com o Qwen2.5 7B}
+\label{tab:versoes_fase1}
+\begin{tabular}{p{3.6cm} c c c c c c}
+\hline
+ & \multicolumn{3}{c}{\textbf{dev (41 produtos)}} & \multicolumn{3}{c}{\textbf{teste (33 produtos)}} \\
+\textbf{Versão} & \textbf{1º lugar} & \textbf{Top-3} & \textbf{Tempo} & \textbf{1º lugar} & \textbf{Top-3} & \textbf{Tempo} \\
+\hline
+Busca e escolha & 53,7\% & 61,0\% & 14,5 s & 48,5\% & 63,6\% & $\approx$14 s \\
+Navegação hierárquica & 46,3\% & 63,4\% & 22,1 s & 36,4\% & 54,5\% & 65,0 s \\
+Busca e escolha revisada & 58,5\% & 70,7\% & 12,9 s & 48,5\% & 63,6\% & 13,2 s \\
+\hline
+\end{tabular}
+\fonte{O autor (2026). Top-3: código correto entre as três opções apresentadas.}
+\end{table}
+
+A Tabela~\ref{tab:versoes_fase2} mostra a contribuição de cada recurso da segunda fase nos 90 produtos de desenvolvimento (dev e DEV2). A linha de partida soma os resultados da versão revisada da primeira fase nos dois conjuntos.
+
+\begin{table}[H]
+\centering
+\caption{Contribuição de cada recurso na segunda fase (dev + DEV2, 90 produtos)}
+\label{tab:versoes_fase2}
+\begin{tabular}{p{9.2cm} c c}
+\hline
+\textbf{Configuração} & \textbf{1º lugar} & \textbf{Top-3} \\
+\hline
+Versão revisada da 1ª fase (Qwen2.5 7B) & 51,1\% & 63,3\% \\
+Qwen3 8B + expansão de abreviações & 52,2\% & 64,4\% \\
++ Nota 2 da Seção XVII & 52,2\% & 67,8\% \\
++ base de conhecimento (candidatos e exemplos ao modelo) & 63,3\% & 72,2\% \\
++ NCM mais votado em 1º lugar quando a base é confiante (\textbf{final}) & \textbf{64,4\%} & \textbf{75,6\%} \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{table}
+
+O maior ganho veio da base de conhecimento, e ele se concentrou nos produtos automotivos: nos 31 produtos automotivos do desenvolvimento, o acerto passou de 58\% para 90\% em primeiro lugar e de 71\% para 97\% entre as três opções, enquanto nos 59 produtos de outros setores ficou praticamente igual, já que as duas lojas vendem autopeças. As tentativas descartadas na segunda fase são descritas no Capítulo~\ref{cap:desenvolvimento}.
+
+A base de conhecimento também foi avaliada sozinha, sem modelo de linguagem, dentro das próprias lojas, consultando 80\% dos produtos para classificar os outros 20\%. Na Loja A, o NCM mais votado estava correto em 66,5\% dos casos e entre os três mais votados em 80,2\%; na Loja B, em 64,7\% e 83,4\%. Quando uma loja consultava apenas a outra, o acerto caía para 46,3\% e 65,5\% (Loja A consultando a Loja B) e 31,1\% e 47,0\% (Loja B consultando a Loja A). O conhecimento mais valioso, portanto, é o da própria empresa, o que reforça o papel da memória de classificações à medida que o operador aprova sugestões.
+
+\section{Contribuição do Modelo de Linguagem}
+
+Para isolar a contribuição do LLM, as mesmas medições foram feitas sem nenhuma chamada ao modelo: com a busca lexical sozinha (BM25 com sinônimos e fusão RRF da descrição original e da expandida), com a base de conhecimento sozinha e com as duas combinadas, completando as três opções do voto da base com os primeiros resultados da busca. A Tabela~\ref{tab:sem_llm} compara essas linhas de base com a versão final.
+
+\begin{table}[H]
+\centering
+\caption{Acerto com e sem o modelo de linguagem}
+\label{tab:sem_llm}
+\begin{tabular}{p{6.0cm} c c c c}
+\hline
+ & \multicolumn{2}{c}{\textbf{dev + DEV2 (90)}} & \multicolumn{2}{c}{\textbf{TESTE2 (50)}} \\
+\textbf{Método} & \textbf{1º lugar} & \textbf{Top-3} & \textbf{1º lugar} & \textbf{Top-3} \\
+\hline
+Busca lexical, sem LLM & 32,2\% & 54,4\% & 20,0\% & 30,0\% \\
+Base de conhecimento, sem LLM & 25,6\% & 34,4\% & 26,0\% & 36,0\% \\
+Base de conhecimento + busca, sem LLM & 35,6\% & 51,1\% & 28,0\% & 46,0\% \\
+\textbf{Versão final, com LLM} & \textbf{64,4\%} & \textbf{75,6\%} & \textbf{48,0\%} & \textbf{58,0\%} \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{table}
+
+No conjunto de teste, a versão final acertou em primeiro lugar 48,0\% dos produtos, contra 20,0\% da busca sozinha e 28,0\% da melhor combinação sem modelo: o LLM mais que dobrou o acerto da busca em primeiro lugar e acrescentou 12 pontos percentuais entre as três opções em relação à melhor alternativa sem ele. A diferença tem duas origens. A primeira é a escolha: a busca devolve dezenas de candidatos, muitos de palavras coincidentes, e o modelo identifica entre eles o que corresponde ao produto. A segunda é a análise do produto: a descrição técnica gerada pelo modelo leva a busca a itens que a descrição original não alcança; com ela e com a base de conhecimento, o código correto esteve entre os candidatos entregues ao modelo em 78,0\% dos produtos de teste, contra 62,0\% entre os 40 primeiros resultados da busca sozinha. A busca e a base de conhecimento continuam indispensáveis, pois limitam as respostas a códigos existentes e trazem os candidatos, mas a contribuição do modelo é a maior do processo.
+
+\section{Resultado da Versão Final no Conjunto de Teste}
+
+A versão final foi medida uma única vez no TESTE2, depois de todas as decisões de desenvolvimento. A Tabela~\ref{tab:teste2} apresenta o resultado, ao lado da medição de referência da versão da primeira fase, feita antes de qualquer alteração. As respostas para cada produto estão no Apêndice~\ref{ap:respostas}.
+
+\begin{table}[H]
+\centering
+\caption{Resultado no conjunto de teste TESTE2 (50 produtos)}
+\label{tab:teste2}
+\begin{tabular}{p{6.4cm} c c}
+\hline
+\textbf{Métrica} & \textbf{Versão da 1ª fase} & \textbf{Versão final} \\
+\hline
+Acerto em 1º lugar & 32,0\% & 48,0\% \\
+Acerto entre as 3 opções & 48,0\% & 58,0\% \\
+Código correto entre os candidatos da busca & 64,0\% & 78,0\% \\
+Capítulo correto & -- & 72,0\% \\
+Tempo médio por produto & 13,4 s & 13,7 s \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{table}
+
+O resultado no teste é inferior ao do desenvolvimento (64,4\% e 75,6\%), diferença esperada, pois os recursos da segunda fase foram escolhidos observando os erros dos conjuntos de desenvolvimento. Ainda assim, a versão final melhorou em 16 pontos percentuais o acerto em primeiro lugar e em 10 pontos o acerto entre as três opções em relação à versão da primeira fase, sem aumento de tempo.
+
+O resultado varia fortemente com o setor do produto. Nos 18 produtos automotivos do TESTE2, a versão final acertou 15 em primeiro lugar (83,3\%), e os mesmos 15 entre as três opções; nos 32 produtos de outros setores, acertou 9 em primeiro lugar (28,1\%) e 14 entre as três opções (43,8\%). A base de conhecimento, formada apenas por autopeças, explica boa parte dessa diferença, e o resultado automotivo é o mais representativo do uso real do Lux Auto, voltado a oficinas mecânicas.
+
+\section{Análise dos Erros da Versão Final}
+
+Na versão final, o código correto ficou fora das três opções em 21 dos 50 produtos de teste. A Tabela~\ref{tab:erros} classifica esses erros pelo nível da hierarquia em que ocorreram.
+
+\begin{table}[H]
+\centering
+\caption{Erros da versão final no TESTE2, por nível da hierarquia}
+\label{tab:erros}
+\begin{tabular}{p{4.4cm} c p{8.6cm}}
+\hline
+\textbf{Tipo de erro} & \textbf{Casos} & \textbf{Produtos} \\
+\hline
+Item errado na posição correta & 6 & bronzina de biela, multímetro, bola de basquete, aspirador de pó, frango congelado, teclado USB \\
+Posição errada no capítulo correto & 1 & sal refinado \\
+Capítulo errado & 14 & calota, jaqueta de couro, mesa de jantar, fogão, colchão, mochila, \textit{pendrive}, aparelho de barbear, vestido, fita isolante, esmalte, amaciante, lençol, \textit{mouse} \\
+\hline
+\textbf{Total} & \textbf{21} & \\
+\hline
+\end{tabular}
+\fonte{O autor (2026).}
+\end{table}
+
+Diferentemente da primeira fase, em que metade dos erros ocorria no último nível, a maior parte dos erros restantes é de capítulo, e em 11 dos 21 casos o código correto nem chegou aos candidatos da busca. São produtos cujo nome comercial está longe do texto oficial ou cuja classificação depende de uma regra da tabela, e não do nome: a jaqueta de couro foi classificada como vestuário de tecido, pois a NCM a classifica entre as obras de couro (42.03); a mesa de jantar, como utensílio de madeira para mesa, e não como móvel; o \textit{pendrive}, como unidade de memória de computador (84.71), quando a NCM o classifica entre os suportes de armazenamento (85.23); o \textit{mouse}, como aparelho elétrico genérico, e não como periférico de computador; e a fita isolante, como fita de tecido com borracha, e não como fita de plástico (39.19). Nesses casos, a descrição técnica gerada pelo modelo descreveu corretamente o produto, mas não com os termos que levariam a busca à posição certa.
+
+Entre os produtos automotivos, os três erros foram a bronzina de biela, cujo código correto não chegou aos candidatos; a calota, classificada como pneu porque a interpretação do modelo a associou a rodas; e o multímetro, em que o modelo escolheu o item vizinho da mesma posição, que se distingue pela presença de dispositivo registrador. Nos 5 produtos em que o código correto apareceu em segundo lugar, como a banana e o desinfetante, a distinção é entre itens da mesma posição, e a decisão do operador, com o produto em mãos, resolve o caso.
+
+\section{Atendimento às Metas do Projeto}
+
+O projeto estabeleceu como critérios de sucesso uma taxa de detecção de pelo menos 85\% e uma taxa de acerto das correções de pelo menos 75\%; a meta de tempo de até 30 segundos por produto foi adotada depois, como critério de viabilidade. Para os códigos inválidos, objeto da meta de detecção do projeto, ela foi atingida: todos foram detectados, sem falsos positivos. Para os códigos válidos, porém incorretos, que o projeto não previa, o resultado depende do tipo de erro: todos os 40 erros reais da Loja B foram apontados, mas, no conjunto de teste, foram apontados 78,0\% dos erros plantados, abaixo dos 85\%, por causa dos erros entre itens vizinhos de uma mesma posição; a acurácia, considerando também os produtos corretos, foi de 86,0\%, com apenas 6,0\% de alarmes falsos. A meta de tempo também foi atingida, com 13,7 segundos por sugestão e até 25 segundos por verificação.
+
+A meta de acerto das correções foi atingida apenas no recorte automotivo. No conjunto de teste completo, o código correto esteve em primeiro lugar em 48,0\% dos produtos e entre as três opções em 58,0\%, abaixo dos 75\%. Nos produtos automotivos, que correspondem ao uso real do ERP, o acerto foi de 83,3\% em primeiro lugar, acima da meta, mas com apenas 18 produtos, o que torna esse número menos preciso.
+
+Esses números devem ser lidos à luz do fluxo com supervisão humana. Nenhuma sugestão continha código inexistente, já que as respostas são restritas aos códigos da tabela, e nenhum código é gravado sem aprovação. O sistema, portanto, não substitui o conhecimento fiscal do operador ou do suporte, mas reduz o esforço de classificação, impede que o erro mais grave, o código inexistente ou extinto, chegue à emissão da nota e aponta códigos válidos que provavelmente pertencem a outro produto.
+
+\section{Discussão}
+
+Quatro observações gerais emergem dos experimentos. A primeira é que restringir o papel do modelo foi mais eficaz do que ampliar sua autonomia. O agente com ferramentas, mais próximo da proposta original, produziu códigos sem relação com a busca e exigia várias chamadas por produto; a arquitetura de busca e escolha, em que o programa controla o fluxo e o modelo apenas escolhe entre candidatos verificados, eliminou a possibilidade de código inventado e reduziu o tempo e a instabilidade. Esse resultado converge com a recomendação da literatura de usar o LLM como ferramenta de proposição subordinada a mecanismos de verificação e à decisão humana \cite{Natarajan2024AI2L,huang2025hallucination} e com a arquitetura proposta por \citeonline{zhang2026hs} para o SH, em que o fluxo também é fixo e o modelo atua em etapas restritas.
+
+A segunda é que, mesmo restrito, o modelo é a parte que mais contribui para o acerto: sem ele, a busca acertou 20\% em primeiro lugar no teste; com ele, 48\%. O papel do modelo não é conhecer a tabela, que ele recebe pronta, mas interpretar a descrição comercial e escolher entre textos técnicos parecidos, justamente a parte que regras e buscas lexicais não resolvem.
+
+A terceira é que exemplos reais valem mais do que ajustes no \textit{prompt}. As alterações de \textit{prompt} e de busca da segunda fase trouxeram ganhos de poucos pontos, enquanto a base de conhecimento elevou o acerto automotivo de 58\% para 90\% no desenvolvimento e resultou em 83\% no teste. Esse resultado aproxima o protótipo dos classificadores supervisionados de NCM \cite{batista2018ncm,pinheiro2022ncm}, que dependem de grandes volumes de exemplos, mas sem treinamento: basta inserir produtos classificados na base. Ao mesmo tempo, o caso da Loja B mostra que exemplos reais trazem erros reais, e que filtrá-los e apontá-los é parte do problema.
+
+A quarta é metodológica: o resultado de 86,7\% no conjunto usado para os primeiros ajustes caiu para 42,4\% em casos novos, e, na segunda fase, o resultado de 75,6\% no desenvolvimento correspondeu a 58,0\% no teste. Sem a separação entre desenvolvimento e teste, o trabalho teria relatado um desempenho substancialmente maior do que o real.
+
+\subsection{Limitações e Ameaças à Validade}
+
+Os resultados devem ser interpretados considerando as seguintes limitações:
+
+\begin{itemize}
+    \item \textbf{Tamanho dos conjuntos}: com 50 produtos de teste, cada produto equivale a 2 pontos percentuais, e, no recorte automotivo, a cerca de 6 pontos; diferenças pequenas entre versões não são estatisticamente conclusivas;
+    \item \textbf{Gabarito}: a classificação correta foi conferida pelo autor na tabela oficial, e não por um classificador fiscal certificado; em produtos ambíguos, foram aceitos todos os códigos plausíveis;
+    \item \textbf{Erros plantados e presumidos}: na detecção de NCM incorreto, os erros do DEV2 e do TESTE2 foram plantados por sorteio, e os produtos considerados corretos da Loja B não foram conferidos um a um, de modo que parte dos alarmes falsos pode corresponder a erros reais;
+    \item \textbf{Representatividade das bases}: as duas lojas são do setor de autopeças, o que explica a diferença de desempenho entre setores; a base de conhecimento não representa empresas de outros ramos;
+    \item \textbf{Dados fictícios na sugestão}: os produtos dos conjuntos de sugestão foram escritos para os testes, e não extraídos de clientes; descrições reais tendem a ser mais abreviadas e ruidosas;
+    \item \textbf{Infraestrutura}: os tempos foram medidos em uma única máquina, e o servidor local de modelos apresentou instabilidades ao longo do trabalho, que podem ter afetado algumas das medições de tempo.
+\end{itemize}

@@ -1,0 +1,187 @@
+codigo,descricao,data_inicio
+61.01,"Sobretudos, japonas, gabões, capas, anoraques, casacos (blusões*) e semelhantes, de malha, de u",01/04/2022
+61.02,"Mantôs (Casacos compridos*), capas, anoraques, casacos (blusões*) e semelhantes, de malha, de u",01/04/2022
+61.03,"Ternos (Fatos*), conjuntos, paletós (casacos*), calças, jardineiras, bermudase shorts (calções) (exce",01/04/2022
+61.04,"Tailleurs (Fatos de saia-casaco*), conjuntos, blazers (casacos*), vestidos, saias, saias-calças, calças",01/04/2022
+61.05,"Camisas de malha, de uso masculino.",01/04/2022
+61.06,"Camisas (Camiseiros*), blusas, blusas chemisiers (blusas-camiseiros*), de malha, de uso feminino.",01/04/2022
+61.07,"Cuecas, ceroulas, camisolões (camisas de noite*), pijamas, roupões de banho, robes e semelhantes",01/04/2022
+61.08,"Combinações, anáguas (saiotes), calcinhas, camisolas (camisas de noite*), pijamas, déshabillés, rou",01/04/2022
+61.09,"Camisetas (T-shirts), camisetas interiores (camisolas interiores*), e artigos semelhantes, de malha.",01/04/2022
+61.10,"Suéteres (Camisolas*), pulôveres, cardigãs, coletes e artigos semelhantes, de malha.",01/04/2022
+61.11,"Vestuário e seus acessórios, de malha, para bebês.",01/04/2022
+61.12,"Abrigos (Fatos de treino*) para esporte, macacões (fatos-macacos*) e conjuntos, de esqui, maiôs (fa",01/04/2022
+61.14,Outro vestuário de malha.,01/04/2022
+61.15,"Meias-calças, meias acima do joelho, meias até o joelho e artigos semelhantes, incluindo as meias-c",01/04/2022
+61.16,"Luvas, mitenes e semelhantes, de malha.",01/04/2022
+61.17,"Outros acessórios de vestuário, confeccionados, de malha; partes de vestuário ou de seus acessório",01/04/2022
+6101.20.00,- De algodão,01/04/2022
+6101.30.00,- De fibras sintéticas ou artificiais,01/04/2022
+6101.90,- De outras matérias têxteis,01/04/2022
+6101.90.10,De lã ou de pelos finos,01/04/2022
+6101.90.90,Outros,01/04/2022
+6102.10.00,- De lã ou de pelos finos,01/04/2022
+6102.20.00,- De algodão,01/04/2022
+6102.30.00,- De fibras sintéticas ou artificiais,01/04/2022
+6102.90.00,- De outras matérias têxteis,01/04/2022
+6103.10,- Ternos (Fatos*),01/04/2022
+6103.10.10,De lã ou de pelos finos,01/04/2022
+6103.10.20,De fibras sintéticas,01/04/2022
+6103.10.90,De outras matérias têxteis,01/04/2022
+6103.2,- Conjuntos:,01/04/2022
+6103.22.00,-- De algodão,01/04/2022
+6103.23.00,-- De fibras sintéticas,01/04/2022
+6103.29,-- De outras matérias têxteis,01/04/2022
+6103.29.10,De lã ou de pelos finos,01/04/2022
+6103.29.90,Outros,01/04/2022
+6103.3,- Paletós (Casacos*):,01/04/2022
+6103.31.00,-- De lã ou de pelos finos,01/04/2022
+6103.32.00,-- De algodão,01/04/2022
+6103.33.00,-- De fibras sintéticas,01/04/2022
+6103.39.00,-- De outras matérias têxteis,01/04/2022
+6103.4,"- Calças, jardineiras, bermudas e shorts (calções):",01/04/2022
+6103.41.00,-- De lã ou de pelos finos,01/04/2022
+6103.42.00,-- De algodão,01/04/2022
+6103.43.00,-- De fibras sintéticas,01/04/2022
+6103.49.00,-- De outras matérias têxteis,01/04/2022
+6104.1,- Tailleurs (Fatos de saia-casaco*):,01/04/2022
+6104.13.00,-- De fibras sintéticas,01/04/2022
+6104.19,-- De outras matérias têxteis,01/04/2022
+6104.19.10,De lã ou de pelos finos,01/04/2022
+6104.19.20,De algodão,01/04/2022
+6104.19.90,De outras matérias têxteis,01/04/2022
+6104.2,- Conjuntos:,01/04/2022
+6104.22.00,-- De algodão,01/04/2022
+6104.23.00,-- De fibras sintéticas,01/04/2022
+6104.29,-- De outras matérias têxteis,01/04/2022
+6104.29.10,De lã ou de pelos finos,01/04/2022
+6104.29.90,Outros,01/04/2022
+6104.3,- Blazers (Casacos*):,01/04/2022
+6104.31.00,-- De lã ou de pelos finos,01/04/2022
+6104.32.00,-- De algodão,01/04/2022
+6104.33.00,-- De fibras sintéticas,01/04/2022
+6104.39.00,-- De outras matérias têxteis,01/04/2022
+6104.4,- Vestidos:,01/04/2022
+6104.41.00,-- De lã ou de pelos finos,01/04/2022
+6104.42.00,-- De algodão,01/04/2022
+6104.43.00,-- De fibras sintéticas,01/04/2022
+6104.44.00,-- De fibras artificiais,01/04/2022
+6104.49.00,-- De outras matérias têxteis,01/04/2022
+6104.5,- Saias e saias-calças:,01/04/2022
+6104.51.00,-- De lã ou de pelos finos,01/04/2022
+6104.52.00,-- De algodão,01/04/2022
+6104.53.00,-- De fibras sintéticas,01/04/2022
+6104.59.00,-- De outras matérias têxteis,01/04/2022
+6104.6,"- Calças, jardineiras, bermudas e shorts (calções):",01/04/2022
+6104.61.00,-- De lã ou de pelos finos,01/04/2022
+6104.62.00,-- De algodão,01/04/2022
+6104.63.00,-- De fibras sintéticas,01/04/2022
+6104.69.00,-- De outras matérias têxteis,01/04/2022
+6105.10.00,- De algodão,01/04/2022
+6105.20.00,- De fibras sintéticas ou artificiais,01/04/2022
+6105.90.00,- De outras matérias têxteis,01/04/2022
+6106.10.00,- De algodão,01/04/2022
+6106.20.00,- De fibras sintéticas ou artificiais,01/04/2022
+6106.90.00,- De outras matérias têxteis,01/04/2022
+6107.1,- Cuecas e ceroulas:,01/04/2022
+6107.11.00,-- De algodão,01/04/2022
+6107.12.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6107.19.00,-- De outras matérias têxteis,01/04/2022
+6107.2,- Camisolões (Camisas de noite*) e pijamas:,01/04/2022
+6107.21.00,-- De algodão,01/04/2022
+6107.22.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6107.29.00,-- De outras matérias têxteis,01/04/2022
+6107.9,- Outros:,01/04/2022
+6107.91.00,-- De algodão,01/04/2022
+6107.99,-- De outras matérias têxteis,01/04/2022
+6107.99.10,De fibras sintéticas ou artificiais,01/04/2022
+6107.99.90,Outros,01/04/2022
+6108.1,- Combinações e anáguas (saiotes):,01/04/2022
+6108.11.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6108.19.00,-- De outras matérias têxteis,01/04/2022
+6108.2,- Calcinhas:,01/04/2022
+6108.21.00,-- De algodão,01/04/2022
+6108.22.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6108.29.00,-- De outras matérias têxteis,01/04/2022
+6108.3,- Camisolas (Camisas de noite*) e pijamas:,01/04/2022
+6108.31.00,-- De algodão,01/04/2022
+6108.32.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6108.39.00,-- De outras matérias têxteis,01/04/2022
+6108.9,- Outros:,01/04/2022
+6108.91.00,-- De algodão,01/04/2022
+6108.92.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6108.99.00,-- De outras matérias têxteis,01/04/2022
+6109.10.00,- De algodão,01/04/2022
+6109.90.00,- De outras matérias têxteis,01/04/2022
+6110.1,- De lã ou de pelos finos:,01/04/2022
+6110.11.00,-- De lã,01/04/2022
+6110.12.00,-- De cabra de Caxemira,01/04/2022
+6110.19.00,-- Outros,01/04/2022
+6110.20.00,- De algodão,01/04/2022
+6110.30.00,- De fibras sintéticas ou artificiais,01/04/2022
+6110.90.00,- De outras matérias têxteis,01/04/2022
+6111.20.00,- De algodão,01/04/2022
+6111.30.00,- De fibras sintéticas,01/04/2022
+6111.90,- De outras matérias têxteis,01/04/2022
+6111.90.10,De lã ou de pelos finos,01/04/2022
+6111.90.90,Outros,01/04/2022
+6112.1,- Abrigos (Fatos de treino*) para esporte:,01/04/2022
+6112.11.00,-- De algodão,01/04/2022
+6112.12.00,-- De fibras sintéticas,01/04/2022
+6112.19.00,-- De outras matérias têxteis,01/04/2022
+6112.20.00,"- Macacões (Fatos-macacos*) e conjuntos, de esqui",01/04/2022
+6112.3,"- Maiôs (Fatos de banho*), shorts (calções) e sungas (slips), de banho, de uso masculino:",01/04/2022
+6112.31.00,-- De fibras sintéticas,01/04/2022
+6112.39.00,-- De outras matérias têxteis,01/04/2022
+6112.4,"- Maiôs (Fatos de banho*) e biquínis, de banho, de uso feminino:",01/04/2022
+6112.41.00,-- De fibras sintéticas,01/04/2022
+6112.49.00,-- De outras matérias têxteis,01/04/2022
+6113.00.00,"Vestuário confeccionado com tecidos de malha das posições 59.03, 59.06 ou",
+6114.20.00,- De algodão,01/04/2022
+6114.30.00,- De fibras sintéticas ou artificiais,01/04/2022
+6114.90,- De outras matérias têxteis,01/04/2022
+6114.90.10,De lã ou de pelos finos,01/04/2022
+6114.90.90,Outros,01/04/2022
+6115.10,"- Meias-calças, meias acima do joelho e meias até o joelho, de compressão degressiva (as meias pa",01/04/2022
+6115.10.1,Meias-calças,01/04/2022
+6115.10.11,"De fibras sintéticas, de título inferior a 67 decitex por fio simples",01/04/2022
+6115.10.12,"De fibras sintéticas, de título igual ou superior a 67 decitex por fio simples",01/04/2022
+6115.10.13,De lã ou de pelos finos,01/04/2022
+6115.10.14,De algodão,01/04/2022
+6115.10.19,De outras matérias têxteis,01/04/2022
+6115.10.2,"Meias acima do joelho e meias até o joelho, de uso feminino, de título inferior",
+6115.10.21,De fibras sintéticas ou artificiais,01/04/2022
+6115.10.22,De algodão,01/04/2022
+6115.10.29,De outras matérias têxteis,01/04/2022
+6115.10.9,Outras,01/04/2022
+6115.10.91,De lã ou de pelos finos,01/04/2022
+6115.10.92,De algodão,01/04/2022
+6115.10.93,De fibras sintéticas,01/04/2022
+6115.10.99,De outras matérias têxteis,01/04/2022
+6115.2,- Outras meias-calças:,01/04/2022
+6115.21.00,"-- De fibras sintéticas, de título inferior a 67 decitex por fio simples",01/04/2022
+6115.22.00,"-- De fibras sintéticas, de título igual ou superior a 67 decitex por fio simples",01/04/2022
+6115.29,-- De outras matérias têxteis,01/04/2022
+6115.29.10,De lã ou de pelos finos,01/04/2022
+6115.29.20,De algodão,01/04/2022
+6115.29.90,Outras,01/04/2022
+6115.30,"- Outras meias acima do joelho e meias até o joelho, de uso feminino, de título inferior a 67 decitex p",01/04/2022
+6115.30.10,De fibras sintéticas ou artificiais,01/04/2022
+6115.30.20,De algodão,01/04/2022
+6115.30.90,De outras matérias têxteis,01/04/2022
+6115.9,- Outros:,01/04/2022
+6115.94.00,-- De lã ou de pelos finos,01/04/2022
+6115.95.00,-- De algodão,01/04/2022
+6115.96.00,-- De fibras sintéticas,01/04/2022
+6115.99.00,-- De outras matérias têxteis,01/04/2022
+6116.10.00,"- Impregnadas, revestidas, recobertas ou estratificadas, de plástico ou de borracha",01/04/2022
+6116.9,- Outras:,01/04/2022
+6116.91.00,-- De lã ou de pelos finos,01/04/2022
+6116.92.00,-- De algodão,01/04/2022
+6116.93.00,-- De fibras sintéticas,01/04/2022
+6116.99.00,-- De outras matérias têxteis,01/04/2022
+6117.10.00,"- Xales, echarpes, lenços de pescoço, cachenês, cachecóis, mantilhas, véuse semelhantes",01/04/2022
+6117.80,- Outros acessórios,01/04/2022
+6117.80.10,"Gravatas, gravatas-borboletas e plastrons",01/04/2022
+6117.80.90,Outros,01/04/2022
+6117.90.00,- Partes,01/04/2022

@@ -1,0 +1,673 @@
+{
+  "conjunto": "devtudo",
+  "modelo": "qwen3:8b",
+  "rotulo": "tudo_qwen3_",
+  "config": {
+    "abreviacoes": true,
+    "regra_secao17": true,
+    "contexto_negocio": false,
+    "hipoteses": false,
+    "dicas_posicao": false,
+    "irmaos": 0,
+    "max_itens_etapa2": 30,
+    "conhecimento": "loja_a",
+    "conhecimento_primeiro": false
+  },
+  "resumo": {
+    "capitulo_certo_entre_escolhidos": "-",
+    "posicao_certa_entre_escolhidas": "-",
+    "acerto_1o_lugar": "0/0 = 0.0%",
+    "acerto_top3": "0/0 = 0.0%",
+    "tempo_medio_s": 0.0,
+    "falhas_infra": 90,
+    "busca_tem_certo": "-"
+  },
+  "casos": [
+    {
+      "descricao": "BOMBA D AGUA MOTOR",
+      "esperados": [
+        "8413.30.90"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ALTERNADOR 12V",
+      "esperados": [
+        "8511.50.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MOTOR DE ARRANQUE",
+      "esperados": [
+        "8511.40.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PARABRISA DIANTEIRO",
+      "esperados": [
+        "7007.21.00",
+        "8708.22.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "JUNTA DO CABECOTE",
+      "esperados": [
+        "8484.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FILTRO DE OLEO",
+      "esperados": [
+        "8421.23.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CABO DE VELA",
+      "esperados": [
+        "8544.30.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "EXTINTOR DE INCENDIO PO QUIMICO",
+      "esperados": [
+        "8424.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BUZINA 12V",
+      "esperados": [
+        "8512.30.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PNEU ARO 17 MOTO",
+      "esperados": [
+        "4011.40.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CAMARA DE AR BICICLETA",
+      "esperados": [
+        "4013.20.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FLUIDO DE FREIO DOT 4",
+      "esperados": [
+        "3819.00.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ADITIVO PARA RADIADOR",
+      "esperados": [
+        "3820.00.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ACUCAR REFINADO 1KG",
+      "esperados": [
+        "1701.99.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "OLEO DE SOJA 900ML",
+      "esperados": [
+        "1507.90.11"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MACARRAO ESPAGUETE 500G",
+      "esperados": [
+        "1902.19.00",
+        "1902.11.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BISCOITO RECHEADO CHOCOLATE",
+      "esperados": [
+        "1905.31.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "SUCO DE UVA INTEGRAL 1L",
+      "esperados": [
+        "2009.61.00",
+        "2009.69.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "AGUA MINERAL SEM GAS 500ML",
+      "esperados": [
+        "2201.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "VINHO TINTO SECO 750ML",
+      "esperados": [
+        "2204.21.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PERFUME 100ML",
+      "esperados": [
+        "3303.00.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PAPEL TOALHA 2 ROLOS",
+      "esperados": [
+        "4818.20.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ESCOVA DE DENTES",
+      "esperados": [
+        "9603.21.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FRALDA DESCARTAVEL INFANTIL",
+      "esperados": [
+        "9619.00.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MEIA DE ALGODAO",
+      "esperados": [
+        "6115.95.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CUECA BOXER ALGODAO",
+      "esperados": [
+        "6107.11.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CHINELO DE BORRACHA",
+      "esperados": [
+        "6402.20.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FONE DE OUVIDO BLUETOOTH",
+      "esperados": [
+        "8518.30.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MICROONDAS 30L",
+      "esperados": [
+        "8516.50.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "LIQUIDIFICADOR 600W",
+      "esperados": [
+        "8509.40.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "VENTILADOR DE MESA",
+      "esperados": [
+        "8414.51.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CHAVE DE FENDA",
+      "esperados": [
+        "8205.40.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ALICATE UNIVERSAL",
+      "esperados": [
+        "8203.20.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "TRENA 5M",
+      "esperados": [
+        "9017.80.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "TIJOLO CERAMICO 8 FUROS",
+      "esperados": [
+        "6904.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CANO PVC 100MM",
+      "esperados": [
+        "3917.23.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FIO ELETRICO 2,5MM",
+      "esperados": [
+        "8544.49.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "LAPIS PRETO",
+      "esperados": [
+        "9609.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "SOFA 3 LUGARES",
+      "esperados": [
+        "9401.61.00",
+        "9401.71.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BICICLETA ARO 29",
+      "esperados": [
+        "8712.00.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "RACAO PARA CAES 15KG",
+      "esperados": [
+        "2309.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PORCA SEXTAVADA M10",
+      "esperados": [
+        "7318.16.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FUSIVEL LAMINA 10A",
+      "esperados": [
+        "8536.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MANG SUP RADIADOR",
+      "esperados": [
+        "4009.31.00",
+        "4009.32.10",
+        "4009.32.90",
+        "8708.91.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "SILENCIOSO TRASEIRO ESCAPAMENTO",
+      "esperados": [
+        "8708.92.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BOBINA DE IGNICAO",
+      "esperados": [
+        "8511.30.20"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MACACO HIDRAULICO GARRAFA 2T",
+      "esperados": [
+        "8425.42.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "RELE AUXILIAR 12V 4 TERMINAIS",
+      "esperados": [
+        "8536.41.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "JOGO DE ANEIS DE SEGMENTO",
+      "esperados": [
+        "8409.91.16"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ROLAM RODA DIANT",
+      "esperados": [
+        "8482.10.10",
+        "8482.10.90"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PALHETA LIMPADOR PARABRISA 20 POL",
+      "esperados": [
+        "8512.90.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PISTAO MOTOR STD",
+      "esperados": [
+        "8409.91.20"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ALICATE DE PRESSAO",
+      "esperados": [
+        "8203.20.90"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CIL MESTRE FREIO",
+      "esperados": [
+        "8708.30.90"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CORREIA DO ALTERNADOR",
+      "esperados": [
+        "4010.31.00",
+        "4010.32.00",
+        "4010.33.00",
+        "4010.34.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PIVO SUSP INF",
+      "esperados": [
+        "8708.80.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BIELETA BARRA ESTABILIZADORA",
+      "esperados": [
+        "8708.80.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "TERMINAL DE DIRECAO LD",
+      "esperados": [
+        "8708.94.90",
+        "8708.80.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PASTILHA DE FREIO DIANTEIRA CERAMICA",
+      "esperados": [
+        "8708.30.19"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ABSORVENTE HIGIENICO",
+      "esperados": [
+        "9619.00.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "OVOS BRANCOS DUZIA",
+      "esperados": [
+        "0407.21.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "KETCHUP 400G",
+      "esperados": [
+        "2103.20.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BATEDEIRA",
+      "esperados": [
+        "8509.40.20"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FARINHA DE TRIGO 1KG",
+      "esperados": [
+        "1101.00.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "AGUA SANITARIA 1L",
+      "esperados": [
+        "2828.90.11"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "LIXA DAGUA 220",
+      "esperados": [
+        "6805.20.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "SERROTE",
+      "esperados": [
+        "8202.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PATINHO BOVINO KG",
+      "esperados": [
+        "0201.30.00",
+        "0202.30.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ACHOCOLATADO EM PO 400G",
+      "esperados": [
+        "1806.10.00",
+        "1806.90.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CAFE SOLUVEL 100G",
+      "esperados": [
+        "2101.11.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "SARDINHA EM LATA 125G",
+      "esperados": [
+        "1604.13.10"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "SABAO EM PO 1KG",
+      "esperados": [
+        "3402.50.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "SERRA CIRCULAR",
+      "esperados": [
+        "8467.22.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "PROTETOR SOLAR FPS 50",
+      "esperados": [
+        "3304.99.90"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "VARA DE PESCA",
+      "esperados": [
+        "9507.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BOTA DE SEGURANCA BICO DE ACO",
+      "esperados": [
+        "6403.40.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MAIONESE 500G",
+      "esperados": [
+        "2103.90.11"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "MANTEIGA COM SAL 200G",
+      "esperados": [
+        "0405.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "BORRACHA ESCOLAR",
+      "esperados": [
+        "4016.92.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CHAVE INGLESA",
+      "esperados": [
+        "8204.12.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "IOGURTE NATURAL 170G",
+      "esperados": [
+        "0403.20.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "AR CONDICIONADO SPLIT 12000 BTUS",
+      "esperados": [
+        "8415.10.11"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "TRAVESSEIRO",
+      "esperados": [
+        "9404.90.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "FEIJAO CARIOCA 1KG",
+      "esperados": [
+        "0713.33.99"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "ARMARIO DE ACO 2 PORTAS",
+      "esperados": [
+        "9403.20.90",
+        "9403.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "TORNEIRA DE PIA",
+      "esperados": [
+        "8481.80.19"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CAIXA DE SOM BLUETOOTH",
+      "esperados": [
+        "8518.22.00",
+        "8518.21.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "VODKA 1L",
+      "esperados": [
+        "2208.60.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "CHUVEIRO ELETRICO",
+      "esperados": [
+        "8516.10.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    },
+    {
+      "descricao": "DISJUNTOR 20A",
+      "esperados": [
+        "8536.20.00"
+      ],
+      "erro": "ConnectError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente"
+    }
+  ]
+}

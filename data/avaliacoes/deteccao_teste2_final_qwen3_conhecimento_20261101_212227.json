@@ -1,0 +1,2605 @@
+{
+  "conjunto": "teste2",
+  "modelo": "qwen3:8b",
+  "rotulo": "final_qwen3_conhecimento",
+  "config": {
+    "abreviacoes": true,
+    "regra_secao17": true,
+    "contexto_negocio": false,
+    "hipoteses": false,
+    "dicas_posicao": false,
+    "irmaos": 0,
+    "max_itens_etapa2": 30,
+    "conhecimento": "loja_a",
+    "conhecimento_primeiro": true
+  },
+  "regras": {
+    "fora_top3": {
+      "acuracia": 79.0,
+      "alarme_falso": 36.0,
+      "det_capitulo": "15/15",
+      "det_troca": "20/20",
+      "det_vizinho": "12/15"
+    },
+    "fora_posicao": {
+      "acuracia": 75.0,
+      "alarme_falso": 30.0,
+      "det_capitulo": "15/15",
+      "det_troca": "20/20",
+      "det_vizinho": "5/15"
+    },
+    "fora_capitulo": {
+      "acuracia": 65.0,
+      "alarme_falso": 28.0,
+      "det_capitulo": "6/15",
+      "det_troca": "19/20",
+      "det_vizinho": "4/15"
+    },
+    "abs_incompativel": {
+      "acuracia": 86.0,
+      "alarme_falso": 10.0,
+      "det_capitulo": "14/15",
+      "det_troca": "20/20",
+      "det_vizinho": "7/15"
+    },
+    "abs_nao_compativel": {
+      "acuracia": 81.0,
+      "alarme_falso": 20.0,
+      "det_capitulo": "14/15",
+      "det_troca": "20/20",
+      "det_vizinho": "7/15"
+    },
+    "comparacao_contra": {
+      "acuracia": 79.0,
+      "alarme_falso": 24.0,
+      "det_capitulo": "12/15",
+      "det_troca": "18/20",
+      "det_vizinho": "11/15"
+    },
+    "fora_top3_e_comp": {
+      "acuracia": 84.0,
+      "alarme_falso": 10.0,
+      "det_capitulo": "12/15",
+      "det_troca": "18/20",
+      "det_vizinho": "9/15"
+    },
+    "fora_top3_e_abs": {
+      "acuracia": 86.0,
+      "alarme_falso": 6.0,
+      "det_capitulo": "14/15",
+      "det_troca": "20/20",
+      "det_vizinho": "5/15"
+    },
+    "fora_top3_e_(abs_ou_comp)": {
+      "acuracia": 88.0,
+      "alarme_falso": 14.0,
+      "det_capitulo": "15/15",
+      "det_troca": "20/20",
+      "det_vizinho": "10/15"
+    },
+    "fora_posicao_ou_(fora_top3_e_abs)": {
+      "acuracia": 78.0,
+      "alarme_falso": 32.0,
+      "det_capitulo": "15/15",
+      "det_troca": "20/20",
+      "det_vizinho": "9/15"
+    },
+    "conhec_contra": {
+      "acuracia": 58.0,
+      "alarme_falso": 4.0,
+      "det_capitulo": "4/15",
+      "det_troca": "5/20",
+      "det_vizinho": "1/15"
+    },
+    "fora_top3_e_conhec_contra": {
+      "acuracia": 76.0,
+      "alarme_falso": 26.0,
+      "det_capitulo": "13/15",
+      "det_troca": "16/20",
+      "det_vizinho": "10/15"
+    },
+    "fora_top3_e_(abs_ou_conhec)": {
+      "acuracia": 85.0,
+      "alarme_falso": 8.0,
+      "det_capitulo": "14/15",
+      "det_troca": "20/20",
+      "det_vizinho": "5/15"
+    },
+    "fora_top3_e_(abs_ou_comp_ou_conhec)": {
+      "acuracia": 88.0,
+      "alarme_falso": 14.0,
+      "det_capitulo": "15/15",
+      "det_troca": "20/20",
+      "det_vizinho": "10/15"
+    },
+    "decidir_atual": {
+      "acuracia": 86.0,
+      "alarme_falso": 6.0,
+      "det_capitulo": "14/15",
+      "det_troca": "20/20",
+      "det_vizinho": "5/15"
+    }
+  },
+  "casos": [
+    {
+      "descricao": "PNEU 175/70 R14",
+      "ncm_cadastrado": "4011.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4011.10.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "4011.10.00",
+      "opcoes": [
+        "4011.10.00",
+        "4011.20.90",
+        "4011.20.10"
+      ],
+      "segundos": 23.8,
+      "conhecimento_top": "4011.10.00",
+      "conhecimento_peso_top": 1.59,
+      "conhecimento_peso_cadastrado": 1.59,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PNEU 175/70 R14",
+      "ncm_cadastrado": "7318.15.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "4011.10.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4011.10.00",
+      "opcoes": [
+        "4011.10.00",
+        "4011.20.90",
+        "4011.20.10"
+      ],
+      "segundos": 7.7,
+      "conhecimento_top": "4011.10.00",
+      "conhecimento_peso_top": 1.59,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FILTRO AR COND CABINE",
+      "ncm_cadastrado": "8421.39.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8421.39.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "duvida",
+      "preferido_comparacao": "8421.39.90",
+      "opcoes": [
+        "8421.39.90",
+        "8415.20.90",
+        "8415.90.90"
+      ],
+      "segundos": 28.3,
+      "conhecimento_top": "8421.39.90",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 2.93,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FILTRO AR COND CABINE",
+      "ncm_cadastrado": "0803.90.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8421.39.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8421.39.90",
+      "opcoes": [
+        "8421.39.90",
+        "8415.20.90",
+        "8415.90.90"
+      ],
+      "segundos": 8.8,
+      "conhecimento_top": "8421.39.90",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BRONZINA DE BIELA",
+      "ncm_cadastrado": "8483.30.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8483.30.90",
+        "8409.91.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8483.30.29",
+      "opcoes": [
+        "8483.30.29",
+        "8409.91.11",
+        "8409.91.18"
+      ],
+      "segundos": 26.2,
+      "conhecimento_top": "8483.30.29",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BRONZINA DE BIELA",
+      "ncm_cadastrado": "8465.99.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8483.30.90",
+        "8409.91.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8483.30.29",
+      "opcoes": [
+        "8483.30.29",
+        "8409.91.11",
+        "8409.91.18"
+      ],
+      "segundos": 12.0,
+      "conhecimento_top": "8483.30.29",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CALOTA ARO 14",
+      "ncm_cadastrado": "8708.70.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.70.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "duvida",
+      "preferido_comparacao": "8708.70.90",
+      "opcoes": [
+        "4011.10.00",
+        "4011.90.10",
+        "4011.80.20"
+      ],
+      "segundos": 25.4,
+      "conhecimento_top": "4011.10.00",
+      "conhecimento_peso_top": 2.72,
+      "conhecimento_peso_cadastrado": 0.21,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CALOTA ARO 14",
+      "ncm_cadastrado": "8712.00.10",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8708.70.90"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8712.00.10",
+      "opcoes": [
+        "4011.10.00",
+        "4011.90.10",
+        "4011.80.20"
+      ],
+      "segundos": 8.1,
+      "conhecimento_top": "4011.10.00",
+      "conhecimento_peso_top": 2.72,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "LAMPADA PINGO 12V 5W",
+      "ncm_cadastrado": "8539.29.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8539.29.10"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8539.29.10",
+      "opcoes": [
+        "8539.29.10",
+        "8539.39.90",
+        "8539.52.00"
+      ],
+      "segundos": 29.4,
+      "conhecimento_top": "8708.99.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.89,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "LAMPADA PINGO 12V 5W",
+      "ncm_cadastrado": "8539.31.19",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8539.29.10"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8539.29.10",
+      "opcoes": [
+        "8539.29.10",
+        "8539.39.90",
+        "8539.52.00"
+      ],
+      "segundos": 9.0,
+      "conhecimento_top": "8708.99.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TAPETE AUTOMOTIVO BORRACHA JOGO",
+      "ncm_cadastrado": "4016.91.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4016.91.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "4016.91.00",
+      "opcoes": [
+        "4016.91.00",
+        "4011.10.00",
+        "4016.10.10"
+      ],
+      "segundos": 23.7,
+      "conhecimento_top": "3402.39.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TAPETE AUTOMOTIVO BORRACHA JOGO",
+      "ncm_cadastrado": "4016.99.90",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "4016.91.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "4016.91.00",
+      "opcoes": [
+        "4016.91.00",
+        "4011.10.00",
+        "4016.10.10"
+      ],
+      "segundos": 10.0,
+      "conhecimento_top": "3402.39.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FILTRO DE COMBUSTIVEL",
+      "ncm_cadastrado": "8421.23.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8421.23.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8421.23.00",
+      "opcoes": [
+        "8421.23.00",
+        "8421.99.99",
+        "8421.29.30"
+      ],
+      "segundos": 26.9,
+      "conhecimento_top": "8421.23.00",
+      "conhecimento_peso_top": 1.74,
+      "conhecimento_peso_cadastrado": 1.74,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FILTRO DE COMBUSTIVEL",
+      "ncm_cadastrado": "6104.42.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8421.23.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8421.23.00",
+      "opcoes": [
+        "8421.23.00",
+        "8421.99.99",
+        "8421.29.30"
+      ],
+      "segundos": 8.8,
+      "conhecimento_top": "8421.23.00",
+      "conhecimento_peso_top": 1.74,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CHAVE DE RODA CRUZ",
+      "ncm_cadastrado": "8204.11.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8204.11.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8204.11.00",
+      "opcoes": [
+        "8204.11.00",
+        "8204.12.00",
+        "8204.20.00"
+      ],
+      "segundos": 24.6,
+      "conhecimento_top": "8204.11.00",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 1.5,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CHAVE DE RODA CRUZ",
+      "ncm_cadastrado": "8214.90.90",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8204.11.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8204.11.00",
+      "opcoes": [
+        "8204.11.00",
+        "8204.12.00",
+        "8204.20.00"
+      ],
+      "segundos": 9.6,
+      "conhecimento_top": "8204.11.00",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TAMPA DO RADIADOR",
+      "ncm_cadastrado": "8708.91.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8708.91.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8708.91.00",
+      "opcoes": [
+        "8708.91.00",
+        "8708.99.90",
+        "8708.29.12"
+      ],
+      "segundos": 23.0,
+      "conhecimento_top": "8708.99.90",
+      "conhecimento_peso_top": 1.79,
+      "conhecimento_peso_cadastrado": 0.27,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TAMPA DO RADIADOR",
+      "ncm_cadastrado": "8708.94.83",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8708.91.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8708.91.00",
+      "opcoes": [
+        "8708.91.00",
+        "8708.99.90",
+        "8708.29.12"
+      ],
+      "segundos": 8.2,
+      "conhecimento_top": "8708.99.90",
+      "conhecimento_peso_top": 1.79,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "RETENTOR VIRABREQUIM",
+      "ncm_cadastrado": "4016.93.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4016.93.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "4016.93.00",
+      "opcoes": [
+        "4016.93.00"
+      ],
+      "segundos": 22.7,
+      "conhecimento_top": "4016.93.00",
+      "conhecimento_peso_top": 1.26,
+      "conhecimento_peso_cadastrado": 1.26,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "RETENTOR VIRABREQUIM",
+      "ncm_cadastrado": "3919.10.20",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "4016.93.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4016.93.00",
+      "opcoes": [
+        "4016.93.00"
+      ],
+      "segundos": 8.8,
+      "conhecimento_top": "4016.93.00",
+      "conhecimento_peso_top": 1.26,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PARAFUSO DE RODA",
+      "ncm_cadastrado": "7318.15.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "7318.15.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "7318.15.00",
+      "opcoes": [
+        "7318.15.00",
+        "7318.14.00",
+        "7318.19.00"
+      ],
+      "segundos": 23.0,
+      "conhecimento_top": "7318.15.00",
+      "conhecimento_peso_top": 2.79,
+      "conhecimento_peso_cadastrado": 2.79,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PARAFUSO DE RODA",
+      "ncm_cadastrado": "9027.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "7318.15.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "7318.15.00",
+      "opcoes": [
+        "7318.15.00",
+        "7318.14.00",
+        "7318.19.00"
+      ],
+      "segundos": 9.0,
+      "conhecimento_top": "7318.15.00",
+      "conhecimento_peso_top": 2.79,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "MULTIMETRO DIGITAL",
+      "ncm_cadastrado": "9030.31.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9030.31.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9030.31.00",
+      "opcoes": [
+        "9030.33.11",
+        "9030.31.00",
+        "9031.80.40"
+      ],
+      "segundos": 26.1,
+      "conhecimento_top": "9026.10.19",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MULTIMETRO DIGITAL",
+      "ncm_cadastrado": "4011.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "9030.31.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9030.31.00",
+      "opcoes": [
+        "9030.33.11",
+        "9030.31.00",
+        "9031.80.40"
+      ],
+      "segundos": 8.5,
+      "conhecimento_top": "9026.10.19",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CERA AUTOMOTIVA PASTA",
+      "ncm_cadastrado": "3405.30.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3405.30.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "3405.30.00",
+      "opcoes": [
+        "3405.30.00",
+        "3404.90.29",
+        "3407.00.90"
+      ],
+      "segundos": 26.1,
+      "conhecimento_top": "3201.20.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.5,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CERA AUTOMOTIVA PASTA",
+      "ncm_cadastrado": "3406.00.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "3405.30.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "3405.30.00",
+      "opcoes": [
+        "3405.30.00",
+        "3404.90.29",
+        "3407.00.90"
+      ],
+      "segundos": 11.0,
+      "conhecimento_top": "3201.20.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BOMBA COMBUSTIVEL ELETRICA FLEX",
+      "ncm_cadastrado": "8413.30.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8413.30.10"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8413.30.10",
+      "opcoes": [
+        "8413.30.10",
+        "8413.81.00",
+        "8413.91.90"
+      ],
+      "segundos": 27.4,
+      "conhecimento_top": "8413.30.10",
+      "conhecimento_peso_top": 1.53,
+      "conhecimento_peso_cadastrado": 1.53,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BOMBA COMBUSTIVEL ELETRICA FLEX",
+      "ncm_cadastrado": "8416.20.90",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8413.30.10"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8413.30.10",
+      "opcoes": [
+        "8413.30.10",
+        "8413.81.00",
+        "8413.91.90"
+      ],
+      "segundos": 8.8,
+      "conhecimento_top": "8413.30.10",
+      "conhecimento_peso_top": 1.53,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SOQUETE ENCAIXE 1/2 10MM",
+      "ncm_cadastrado": "8204.20.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8204.20.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8207.90.00",
+      "opcoes": [
+        "8204.20.00",
+        "8204.11.00",
+        "8207.90.00"
+      ],
+      "segundos": 26.6,
+      "conhecimento_top": "8204.20.00",
+      "conhecimento_peso_top": 1.86,
+      "conhecimento_peso_cadastrado": 1.86,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "SOQUETE ENCAIXE 1/2 10MM",
+      "ncm_cadastrado": "8204.11.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8204.20.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8204.20.00",
+      "opcoes": [
+        "8204.20.00",
+        "8204.11.00",
+        "8207.90.00"
+      ],
+      "segundos": 13.3,
+      "conhecimento_top": "8204.20.00",
+      "conhecimento_peso_top": 1.86,
+      "conhecimento_peso_cadastrado": 0.48,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CHAVE COMBINADA 13MM",
+      "ncm_cadastrado": "8204.11.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8204.11.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8204.11.00",
+      "opcoes": [
+        "8204.11.00",
+        "8205.59.00",
+        "8204.20.00"
+      ],
+      "segundos": 23.9,
+      "conhecimento_top": "8204.11.00",
+      "conhecimento_peso_top": 2.55,
+      "conhecimento_peso_cadastrado": 2.55,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CHAVE COMBINADA 13MM",
+      "ncm_cadastrado": "8204.20.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8204.11.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8204.11.00",
+      "opcoes": [
+        "8204.11.00",
+        "8205.59.00",
+        "8204.20.00"
+      ],
+      "segundos": 7.9,
+      "conhecimento_top": "8204.11.00",
+      "conhecimento_peso_top": 2.55,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ARRUELA LISA ACO 10MM",
+      "ncm_cadastrado": "7318.22.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "7318.22.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "7318.22.00",
+      "opcoes": [
+        "7318.22.00",
+        "7318.21.00",
+        "7318.15.00"
+      ],
+      "segundos": 23.8,
+      "conhecimento_top": "7318.22.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 2.93,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ARRUELA LISA ACO 10MM",
+      "ncm_cadastrado": "4011.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "7318.22.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "7318.22.00",
+      "opcoes": [
+        "7318.22.00",
+        "7318.21.00",
+        "7318.15.00"
+      ],
+      "segundos": 9.8,
+      "conhecimento_top": "7318.22.00",
+      "conhecimento_peso_top": 2.93,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SONDA LAMBDA",
+      "ncm_cadastrado": "9027.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9027.10.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9027.10.00",
+      "opcoes": [
+        "9027.10.00",
+        "9018.39.25",
+        "9018.39.29"
+      ],
+      "segundos": 24.9,
+      "conhecimento_top": "9027.10.00",
+      "conhecimento_peso_top": 2.33,
+      "conhecimento_peso_cadastrado": 2.33,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "SONDA LAMBDA",
+      "ncm_cadastrado": "9029.90.90",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "9027.10.00"
+      ],
+      "setor": "automotivo",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9027.10.00",
+      "opcoes": [
+        "9027.10.00",
+        "9018.39.25",
+        "9018.39.29"
+      ],
+      "segundos": 10.1,
+      "conhecimento_top": "9027.10.00",
+      "conhecimento_peso_top": 2.33,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "JAQUETA DE COURO",
+      "ncm_cadastrado": "4203.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4203.10.00"
+      ],
+      "setor": "vestuario",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "4203.10.00",
+      "opcoes": [
+        "6210.30.00"
+      ],
+      "segundos": 21.4,
+      "conhecimento_top": "6210.30.00",
+      "conhecimento_peso_top": 1.09,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "JAQUETA DE COURO",
+      "ncm_cadastrado": "4203.40.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "4203.10.00"
+      ],
+      "setor": "vestuario",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "6210.30.00",
+      "opcoes": [
+        "6210.30.00"
+      ],
+      "segundos": 9.8,
+      "conhecimento_top": "6210.30.00",
+      "conhecimento_peso_top": 1.09,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ENERGETICO LATA 250ML",
+      "ncm_cadastrado": "2202.10.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "2202.10.00",
+        "2202.99.00"
+      ],
+      "setor": "bebidas",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2202.10.00",
+      "opcoes": [
+        "2202.10.00",
+        "2206.00.10",
+        "2206.00.90"
+      ],
+      "segundos": 27.2,
+      "conhecimento_top": "2202.10.00",
+      "conhecimento_peso_top": 2.19,
+      "conhecimento_peso_cadastrado": 2.19,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ENERGETICO LATA 250ML",
+      "ncm_cadastrado": "3808.94.19",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "2202.10.00",
+        "2202.99.00"
+      ],
+      "setor": "bebidas",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "2202.10.00",
+      "opcoes": [
+        "2202.10.00",
+        "2206.00.10",
+        "2206.00.90"
+      ],
+      "segundos": 9.9,
+      "conhecimento_top": "2202.10.00",
+      "conhecimento_peso_top": 2.19,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PREGO 17X27 1KG",
+      "ncm_cadastrado": "7317.00.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "7317.00.90"
+      ],
+      "setor": "construcao",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "7317.00.90",
+      "opcoes": [
+        "7317.00.90",
+        "7317.00.10",
+        "7323.10.00"
+      ],
+      "segundos": 24.3,
+      "conhecimento_top": "7317.00.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 1.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "PREGO 17X27 1KG",
+      "ncm_cadastrado": "0803.90.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "7317.00.90"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "7317.00.90",
+      "opcoes": [
+        "7317.00.90",
+        "7317.00.10",
+        "7323.10.00"
+      ],
+      "segundos": 8.4,
+      "conhecimento_top": "7317.00.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "CARREGADOR DE CELULAR USB",
+      "ncm_cadastrado": "8504.40.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8504.40.10",
+        "8504.40.90"
+      ],
+      "setor": "eletronicos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8504.40.10",
+      "opcoes": [
+        "8504.40.10",
+        "8504.90.40",
+        "8538.90.10"
+      ],
+      "segundos": 25.2,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "CARREGADOR DE CELULAR USB",
+      "ncm_cadastrado": "8204.20.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8504.40.10",
+        "8504.40.90"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8504.40.10",
+      "opcoes": [
+        "8504.40.10",
+        "8504.90.40",
+        "8538.90.10"
+      ],
+      "segundos": 9.3,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "MESA DE JANTAR MADEIRA",
+      "ncm_cadastrado": "9403.60.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9403.60.00"
+      ],
+      "setor": "moveis",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9403.60.00",
+      "opcoes": [
+        "4419.90.00",
+        "4419.20.00",
+        "4419.19.00"
+      ],
+      "segundos": 21.4,
+      "conhecimento_top": "8479.89.32",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MESA DE JANTAR MADEIRA",
+      "ncm_cadastrado": "9405.41.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "9403.60.00"
+      ],
+      "setor": "moveis",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "4419.90.00",
+      "opcoes": [
+        "4419.90.00",
+        "4419.20.00",
+        "4419.19.00"
+      ],
+      "segundos": 7.8,
+      "conhecimento_top": "8479.89.32",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FOGAO 4 BOCAS",
+      "ncm_cadastrado": "7321.11.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "7321.11.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8516.60.00",
+      "opcoes": [
+        "8516.60.00"
+      ],
+      "segundos": 22.2,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FOGAO 4 BOCAS",
+      "ncm_cadastrado": "7312.10.90",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "7321.11.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8516.60.00",
+      "opcoes": [
+        "8516.60.00"
+      ],
+      "segundos": 8.0,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BANANA PRATA KG",
+      "ncm_cadastrado": "0803.90.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0803.90.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "0803.10.00",
+      "opcoes": [
+        "0803.10.00",
+        "0803.90.00"
+      ],
+      "segundos": 21.7,
+      "conhecimento_top": "8708.70.90",
+      "conhecimento_peso_top": 1.23,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BANANA PRATA KG",
+      "ncm_cadastrado": "0803.10.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "0803.90.00"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "0803.10.00",
+      "opcoes": [
+        "0803.10.00",
+        "0803.90.00"
+      ],
+      "segundos": 8.1,
+      "conhecimento_top": "8708.70.90",
+      "conhecimento_peso_top": 1.23,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "COLCHAO DE ESPUMA SOLTEIRO",
+      "ncm_cadastrado": "9404.21.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9404.21.00"
+      ],
+      "setor": "moveis",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "duvida",
+      "preferido_comparacao": "9404.21.00",
+      "opcoes": [
+        "3402.90.90",
+        "3402.90.39",
+        "3405.10.00"
+      ],
+      "segundos": 27.4,
+      "conhecimento_top": "3402.90.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "COLCHAO DE ESPUMA SOLTEIRO",
+      "ncm_cadastrado": "9404.90.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "9404.21.00"
+      ],
+      "setor": "moveis",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9404.90.00",
+      "opcoes": [
+        "3402.90.90",
+        "3402.90.39",
+        "3405.10.00"
+      ],
+      "segundos": 10.9,
+      "conhecimento_top": "3402.90.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MOCHILA ESCOLAR",
+      "ncm_cadastrado": "4202.92.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "4202.92.00"
+      ],
+      "setor": "papelaria",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "duvida",
+      "preferido_comparacao": "3926.10.00",
+      "opcoes": [
+        "3926.10.00"
+      ],
+      "segundos": 25.3,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MOCHILA ESCOLAR",
+      "ncm_cadastrado": "6302.21.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "4202.92.00"
+      ],
+      "setor": "papelaria",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "6302.21.00",
+      "opcoes": [
+        "3926.10.00"
+      ],
+      "segundos": 9.1,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PENDRIVE 32GB",
+      "ncm_cadastrado": "8523.51.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8523.51.10",
+        "8523.51.90"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8523.51.10",
+      "opcoes": [
+        "8471.70.40"
+      ],
+      "segundos": 19.6,
+      "conhecimento_top": "8708.80.00",
+      "conhecimento_peso_top": 1.59,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "PENDRIVE 32GB",
+      "ncm_cadastrado": "8505.90.11",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8523.51.10",
+        "8523.51.90"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "empate",
+      "opcoes": [
+        "8471.70.40"
+      ],
+      "segundos": 9.8,
+      "conhecimento_top": "8708.80.00",
+      "conhecimento_peso_top": 1.59,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "APARELHO DE BARBEAR DESCARTAVEL",
+      "ncm_cadastrado": "8212.10.20",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8212.10.20"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8510.10.00",
+      "opcoes": [
+        "8510.10.00",
+        "8510.90.19",
+        "8510.30.00"
+      ],
+      "segundos": 23.8,
+      "conhecimento_top": "4015.19.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "APARELHO DE BARBEAR DESCARTAVEL",
+      "ncm_cadastrado": "8212.10.10",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8212.10.20"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8510.10.00",
+      "opcoes": [
+        "8510.10.00",
+        "8510.90.19",
+        "8510.30.00"
+      ],
+      "segundos": 9.8,
+      "conhecimento_top": "4015.19.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BOLA DE BASQUETE",
+      "ncm_cadastrado": "9506.62.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9506.62.00"
+      ],
+      "setor": "esporte",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9506.62.00",
+      "opcoes": [
+        "9506.61.00",
+        "9506.62.00",
+        "9504.90.10"
+      ],
+      "segundos": 24.8,
+      "conhecimento_top": "8708.29.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BOLA DE BASQUETE",
+      "ncm_cadastrado": "8443.31.11",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "9506.62.00"
+      ],
+      "setor": "esporte",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9506.61.00",
+      "opcoes": [
+        "9506.61.00",
+        "9506.62.00",
+        "9504.90.10"
+      ],
+      "segundos": 8.1,
+      "conhecimento_top": "8708.29.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "VESTIDO MALHA ALGODAO",
+      "ncm_cadastrado": "6104.42.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "6104.42.00"
+      ],
+      "setor": "vestuario",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "6104.42.00",
+      "opcoes": [
+        "6003.20.00",
+        "6006.24.00",
+        "6006.22.00"
+      ],
+      "segundos": 23.2,
+      "conhecimento_top": "8708.99.90",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "VESTIDO MALHA ALGODAO",
+      "ncm_cadastrado": "2501.00.20",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "6104.42.00"
+      ],
+      "setor": "vestuario",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "6003.20.00",
+      "opcoes": [
+        "6003.20.00",
+        "6006.24.00",
+        "6006.22.00"
+      ],
+      "segundos": 9.7,
+      "conhecimento_top": "8708.99.90",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FITA ISOLANTE",
+      "ncm_cadastrado": "3919.10.20",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3919.10.20"
+      ],
+      "setor": "construcao",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "duvida",
+      "preferido_comparacao": "3919.10.20",
+      "opcoes": [
+        "3919.10.20",
+        "3919.90.90",
+        "3919.90.10"
+      ],
+      "segundos": 29.5,
+      "conhecimento_top": "5906.10.00",
+      "conhecimento_peso_top": 1.33,
+      "conhecimento_peso_cadastrado": 0.5,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FITA ISOLANTE",
+      "ncm_cadastrado": "4203.10.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "3919.10.20"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3919.10.20",
+      "opcoes": [
+        "3919.10.20",
+        "3919.90.90",
+        "3919.90.10"
+      ],
+      "segundos": 8.5,
+      "conhecimento_top": "5906.10.00",
+      "conhecimento_peso_top": 1.33,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "BONECA DE PLASTICO",
+      "ncm_cadastrado": "9503.00.22",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "9503.00.22"
+      ],
+      "setor": "brinquedos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "9503.00.29",
+      "opcoes": [
+        "9503.00.29",
+        "9503.00.22",
+        "9503.00.21"
+      ],
+      "segundos": 24.4,
+      "conhecimento_top": "3506.10.90",
+      "conhecimento_peso_top": 1.2,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "BONECA DE PLASTICO",
+      "ncm_cadastrado": "9506.70.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "9503.00.22"
+      ],
+      "setor": "brinquedos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "9503.00.22",
+      "opcoes": [
+        "9503.00.29",
+        "9503.00.22",
+        "9503.00.21"
+      ],
+      "segundos": 8.7,
+      "conhecimento_top": "3506.10.90",
+      "conhecimento_peso_top": 1.2,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ESMALTE DE UNHA",
+      "ncm_cadastrado": "3304.30.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3304.30.00"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "3304.30.00",
+      "opcoes": [
+        "3208.90.10",
+        "3207.30.00"
+      ],
+      "segundos": 22.3,
+      "conhecimento_top": "3208.90.10",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ESMALTE DE UNHA",
+      "ncm_cadastrado": "3302.90.99",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "3304.30.00"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3208.90.10",
+      "opcoes": [
+        "3208.90.10",
+        "3207.30.00"
+      ],
+      "segundos": 9.5,
+      "conhecimento_top": "3208.90.10",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "ARGAMASSA 20KG",
+      "ncm_cadastrado": "3824.50.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3824.50.00"
+      ],
+      "setor": "construcao",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "3824.50.00",
+      "opcoes": [
+        "3824.40.00",
+        "3824.50.00",
+        "3816.00.90"
+      ],
+      "segundos": 23.4,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ARGAMASSA 20KG",
+      "ncm_cadastrado": "3824.99.43",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "3824.50.00"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3824.50.00",
+      "opcoes": [
+        "3824.40.00",
+        "3824.50.00",
+        "3816.00.90"
+      ],
+      "segundos": 8.9,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "SAL REFINADO 1KG",
+      "ncm_cadastrado": "2501.00.20",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "2501.00.20"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2501.00.20",
+      "opcoes": [
+        "2530.10.90",
+        "2530.90.90",
+        "2530.90.30"
+      ],
+      "segundos": 23.0,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "SAL REFINADO 1KG",
+      "ncm_cadastrado": "2501.00.11",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "2501.00.20"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "2501.00.11",
+      "opcoes": [
+        "2530.10.90",
+        "2530.90.90",
+        "2530.90.30"
+      ],
+      "segundos": 10.8,
+      "conhecimento_top": "8479.89.99",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "AMACIANTE ROUPA 2L",
+      "ncm_cadastrado": "3809.91.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3809.91.90"
+      ],
+      "setor": "limpeza",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3405.20.00",
+      "opcoes": [
+        "3405.20.00"
+      ],
+      "segundos": 22.5,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "AMACIANTE ROUPA 2L",
+      "ncm_cadastrado": "3307.20.10",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "3809.91.90"
+      ],
+      "setor": "limpeza",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "empate",
+      "opcoes": [
+        "3405.20.00"
+      ],
+      "segundos": 8.4,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA",
+      "ncm_cadastrado": "8443.31.11",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8443.31.11",
+        "8443.31.19"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8443.31.11",
+      "opcoes": [
+        "8443.32.40",
+        "8451.40.10",
+        "8443.39.10"
+      ],
+      "segundos": 27.0,
+      "conhecimento_top": "3208.20.11",
+      "conhecimento_peso_top": 1.09,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA",
+      "ncm_cadastrado": "8449.00.80",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8443.31.11",
+        "8443.31.19"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8443.32.40",
+      "opcoes": [
+        "8443.32.40",
+        "8451.40.10",
+        "8443.39.10"
+      ],
+      "segundos": 8.4,
+      "conhecimento_top": "3208.20.11",
+      "conhecimento_peso_top": 1.09,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TELHA FIBROCIMENTO",
+      "ncm_cadastrado": "6811.82.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "6811.82.00"
+      ],
+      "setor": "construcao",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "6811.82.00",
+      "opcoes": [
+        "6811.82.00",
+        "6810.19.00",
+        "6811.89.00"
+      ],
+      "segundos": 24.3,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TELHA FIBROCIMENTO",
+      "ncm_cadastrado": "6811.81.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "6811.82.00"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "6811.89.00",
+      "opcoes": [
+        "6811.82.00",
+        "6810.19.00",
+        "6811.89.00"
+      ],
+      "segundos": 10.6,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ASPIRADOR DE PO",
+      "ncm_cadastrado": "8508.11.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8508.11.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8508.19.00",
+      "opcoes": [
+        "8508.19.00",
+        "8509.80.90",
+        "8508.11.00"
+      ],
+      "segundos": 25.6,
+      "conhecimento_top": "8708.94.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "ASPIRADOR DE PO",
+      "ncm_cadastrado": "6104.42.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8508.11.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8508.19.00",
+      "opcoes": [
+        "8508.19.00",
+        "8509.80.90",
+        "8508.11.00"
+      ],
+      "segundos": 8.7,
+      "conhecimento_top": "8708.94.90",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FERRO DE PASSAR",
+      "ncm_cadastrado": "8516.40.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8516.40.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8516.40.00",
+      "opcoes": [
+        "8516.40.00"
+      ],
+      "segundos": 22.4,
+      "conhecimento_top": "9026.10.29",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FERRO DE PASSAR",
+      "ncm_cadastrado": "8421.23.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8516.40.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8516.40.00",
+      "opcoes": [
+        "8516.40.00"
+      ],
+      "segundos": 8.5,
+      "conhecimento_top": "9026.10.29",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "FRANGO INTEIRO CONGELADO",
+      "ncm_cadastrado": "0207.12.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0207.12.10",
+        "0207.12.20"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "0207.12.10",
+      "opcoes": [
+        "0207.27.00",
+        "0210.99.11"
+      ],
+      "segundos": 23.3,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "FRANGO INTEIRO CONGELADO",
+      "ncm_cadastrado": "9404.21.00",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "0207.12.10",
+        "0207.12.20"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "0207.27.00",
+      "opcoes": [
+        "0207.27.00",
+        "0210.99.11"
+      ],
+      "segundos": 9.1,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "LENCOL CASAL ALGODAO",
+      "ncm_cadastrado": "6302.21.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "6302.21.00",
+        "6302.31.00"
+      ],
+      "setor": "cama mesa banho",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "6302.21.00",
+      "opcoes": [
+        "5906.10.00",
+        "5911.10.00"
+      ],
+      "segundos": 25.3,
+      "conhecimento_top": "5906.10.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "LENCOL CASAL ALGODAO",
+      "ncm_cadastrado": "6310.90.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "6302.21.00",
+        "6302.31.00"
+      ],
+      "setor": "cama mesa banho",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "empate",
+      "opcoes": [
+        "5906.10.00",
+        "5911.10.00"
+      ],
+      "segundos": 12.2,
+      "conhecimento_top": "5906.10.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TOMADA 2P+T",
+      "ncm_cadastrado": "8536.69.90",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8536.69.90"
+      ],
+      "setor": "construcao",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8536.69.10",
+      "opcoes": [
+        "8536.69.10",
+        "8536.69.90",
+        "8536.90.20"
+      ],
+      "segundos": 25.4,
+      "conhecimento_top": "8536.69.10",
+      "conhecimento_peso_top": 2.21,
+      "conhecimento_peso_cadastrado": 0.14,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TOMADA 2P+T",
+      "ncm_cadastrado": "8508.70.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "8536.69.90"
+      ],
+      "setor": "construcao",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8536.69.10",
+      "opcoes": [
+        "8536.69.10",
+        "8536.69.90",
+        "8536.90.20"
+      ],
+      "segundos": 8.9,
+      "conhecimento_top": "8536.69.10",
+      "conhecimento_peso_top": 2.21,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "DESINFETANTE 2L",
+      "ncm_cadastrado": "3808.94.19",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3808.94.19"
+      ],
+      "setor": "limpeza",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "3808.94.19",
+      "opcoes": [
+        "3808.94.29",
+        "3808.94.19",
+        "3808.94.22"
+      ],
+      "segundos": 24.3,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "DESINFETANTE 2L",
+      "ncm_cadastrado": "3808.99.93",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "3808.94.19"
+      ],
+      "setor": "limpeza",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "3808.94.19",
+      "opcoes": [
+        "3808.94.29",
+        "3808.94.19",
+        "3808.94.22"
+      ],
+      "segundos": 11.1,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "MOUSE SEM FIO",
+      "ncm_cadastrado": "8471.60.53",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8471.60.53"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8471.60.53",
+      "opcoes": [
+        "8544.49.00",
+        "8543.70.35",
+        "8543.70.36"
+      ],
+      "segundos": 24.7,
+      "conhecimento_top": "8001.20.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MOUSE SEM FIO",
+      "ncm_cadastrado": "8471.90.12",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "8471.60.53"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "empate",
+      "opcoes": [
+        "8544.49.00",
+        "8543.70.35",
+        "8543.70.36"
+      ],
+      "segundos": 10.1,
+      "conhecimento_top": "8001.20.00",
+      "conhecimento_peso_top": 1.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "TECLADO USB",
+      "ncm_cadastrado": "8471.60.52",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8471.60.52"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8471.60.52",
+      "opcoes": [
+        "8543.70.91",
+        "8517.62.53",
+        "8538.90.10"
+      ],
+      "segundos": 27.0,
+      "conhecimento_top": "3917.40.90",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "TECLADO USB",
+      "ncm_cadastrado": "8536.69.90",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8471.60.52"
+      ],
+      "setor": "eletronicos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8543.70.91",
+      "opcoes": [
+        "8543.70.91",
+        "8517.62.53",
+        "8538.90.10"
+      ],
+      "segundos": 9.7,
+      "conhecimento_top": "3917.40.90",
+      "conhecimento_peso_top": 1.5,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "QUEIJO MUSSARELA FATIADO",
+      "ncm_cadastrado": "0406.10.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "0406.10.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "0406.10.10",
+      "opcoes": [
+        "0406.10.10",
+        "0406.10.90",
+        "0406.90.30"
+      ],
+      "segundos": 20.5,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "QUEIJO MUSSARELA FATIADO",
+      "ncm_cadastrado": "0409.00.00",
+      "ncm_errado": true,
+      "tipo": "capitulo",
+      "aceitos": [
+        "0406.10.10"
+      ],
+      "setor": "alimentos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "0406.10.10",
+      "opcoes": [
+        "0406.10.10",
+        "0406.10.90",
+        "0406.90.30"
+      ],
+      "segundos": 12.1,
+      "conhecimento_top": null,
+      "conhecimento_peso_top": 0.0,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    },
+    {
+      "descricao": "DESODORANTE AEROSOL MASC 150ML",
+      "ncm_cadastrado": "3307.20.10",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "3307.20.10",
+        "3307.20.90"
+      ],
+      "setor": "higiene",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "3307.20.90",
+      "opcoes": [
+        "3307.20.10",
+        "3307.20.90",
+        "3307.49.00"
+      ],
+      "segundos": 25.6,
+      "conhecimento_top": "6210.30.00",
+      "conhecimento_peso_top": 1.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "DESODORANTE AEROSOL MASC 150ML",
+      "ncm_cadastrado": "3307.90.00",
+      "ncm_errado": true,
+      "tipo": "vizinho",
+      "aceitos": [
+        "3307.20.10",
+        "3307.20.90"
+      ],
+      "setor": "higiene",
+      "em_top3": false,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "3307.20.90",
+      "opcoes": [
+        "3307.20.10",
+        "3307.20.90",
+        "3307.49.00"
+      ],
+      "segundos": 9.3,
+      "conhecimento_top": "6210.30.00",
+      "conhecimento_peso_top": 1.08,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MAQUINA DE LAVAR ROUPAS",
+      "ncm_cadastrado": "8450.11.00",
+      "ncm_errado": false,
+      "tipo": "correto",
+      "aceitos": [
+        "8450.11.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": true,
+      "mesma_posicao": true,
+      "mesmo_capitulo": true,
+      "veredito_absoluto": "compativel",
+      "preferido_comparacao": "8451.40.90",
+      "opcoes": [
+        "8450.11.00",
+        "8450.20.90",
+        "8451.40.90"
+      ],
+      "segundos": 28.5,
+      "conhecimento_top": "8708.29.99",
+      "conhecimento_peso_top": 2.2,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": false
+    },
+    {
+      "descricao": "MAQUINA DE LAVAR ROUPAS",
+      "ncm_cadastrado": "7317.00.90",
+      "ncm_errado": true,
+      "tipo": "troca",
+      "aceitos": [
+        "8450.11.00"
+      ],
+      "setor": "eletrodomesticos",
+      "em_top3": false,
+      "mesma_posicao": false,
+      "mesmo_capitulo": false,
+      "veredito_absoluto": "incompativel",
+      "preferido_comparacao": "8450.11.00",
+      "opcoes": [
+        "8450.11.00",
+        "8450.20.90",
+        "8451.40.90"
+      ],
+      "segundos": 11.8,
+      "conhecimento_top": "8708.29.99",
+      "conhecimento_peso_top": 2.2,
+      "conhecimento_peso_cadastrado": 0.0,
+      "decidir_atual": true
+    }
+  ]
+}

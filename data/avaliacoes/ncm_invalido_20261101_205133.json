@@ -1,0 +1,37 @@
+{
+ "rotulados": {
+  "por_categoria": {
+   "vazio": {
+    "certo": 3
+   },
+   "zeros": {
+    "certo": 4
+   },
+   "malformado": {
+    "certo": 8
+   },
+   "inexistente": {
+    "certo": 8
+   },
+   "extinto": {
+    "certo": 2
+   },
+   "valido": {
+    "certo": 168
+   }
+  },
+  "erros": []
+ },
+ "bases_reais": {
+  "loja_a": {
+   "zeros": 14,
+   "valido": 5177,
+   "malformado": 2
+  },
+  "loja_b": {
+   "valido": 36429,
+   "zeros": 54,
+   "vazio": 5
+  }
+ }
+}

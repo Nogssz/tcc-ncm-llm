@@ -1,0 +1,87 @@
+codigo,descricao,data_inicio
+91.01,"Relógios de pulso, relógios de bolso e relógios semelhantes (incluindo os contadores de tempo dos",01/04/2022
+91.02,"Relógios de pulso, relógios de bolso e relógios semelhantes (incluindo os contadores de tempo dos",01/04/2022
+91.03,"Despertadores e outros relógios, com mecanismo de pequeno volume.",01/04/2022
+91.05,"Despertadores, relógios de pêndulo (pêndulas), outros relógios e artigos de relojoaria semelhantes, e",01/04/2022
+91.06,"Aparelhos de controle do tempo e contadores de tempo, com mecanismo derelojoaria ou com motor",01/04/2022
+91.08,"Mecanismos de pequeno volume para relógios, completos e montados.",01/04/2022
+91.09,"Mecanismos de relojoaria, completos e montados, exceto de pequeno volume.",01/04/2022
+91.10,"Mecanismos de relojoaria completos, não montados ou parcialmente montados (chablons); mecanis",01/04/2022
+91.11,"Caixas de relógios das posições 91.01 ou 91.02, e suas partes.",01/04/2022
+91.12,"Caixas e semelhantes de artigos de relojoaria, e suas partes.",01/04/2022
+91.13,"Pulseiras de relógios, e suas partes.",01/04/2022
+91.14,Outras partes de artigos de relojoaria.,01/04/2022
+9101.1,"- Relógios de pulso, funcionando eletricamente, mesmo com contador de tempo incorporado:",01/04/2022
+9101.11.00,-- De mostrador exclusivamente mecânico,01/04/2022
+9101.19.00,-- Outros,01/04/2022
+9101.2,"- Outros relógios de pulso, mesmo com contador de tempo incorporado:",01/04/2022
+9101.21.00,-- De corda automática,01/04/2022
+9101.29.00,-- Outros,01/04/2022
+9101.9,- Outros:,01/04/2022
+9101.91.00,-- Funcionando eletricamente,01/04/2022
+9101.99.00,-- Outros,01/04/2022
+9102.1,"- Relógios de pulso, funcionando eletricamente, mesmo com contador de tempo incorporado:",01/04/2022
+9102.11,-- De mostrador exclusivamente mecânico,01/04/2022
+9102.11.10,Com caixa de metal comum,01/04/2022
+9102.11.90,Outros,01/04/2022
+9102.12,-- De mostrador exclusivamente optoeletrônico,01/04/2022
+9102.12.10,Com caixa de metal comum,01/04/2022
+9102.12.20,"Com caixa de plástico, exceto as reforçadas com fibra de vidro",01/04/2022
+9102.12.90,Outros,01/04/2022
+9102.19.00,-- Outros,01/04/2022
+9102.2,"- Outros relógios de pulso, mesmo com contador de tempo incorporado:",01/04/2022
+9102.21.00,-- De corda automática,01/04/2022
+9102.29.00,-- Outros,01/04/2022
+9102.9,- Outros:,01/04/2022
+9102.91.00,-- Funcionando eletricamente,01/04/2022
+9102.99.00,-- Outros,01/04/2022
+9103.10.00,- Funcionando eletricamente,01/04/2022
+9103.90.00,- Outros,01/04/2022
+9104.00.00,"Relógios para painéis de instrumentos e relógios semelhantes, para automóveis, veículos aéreos, em",01/04/2022
+9105.1,- Despertadores:,01/04/2022
+9105.11.00,-- Funcionando eletricamente,01/04/2022
+9105.19.00,-- Outros,01/04/2022
+9105.2,- Relógios de parede:,01/04/2022
+9105.21.00,-- Funcionando eletricamente,01/04/2022
+9105.29.00,-- Outros,01/04/2022
+9105.9,- Outros:,01/04/2022
+9105.91.00,-- Funcionando eletricamente,01/04/2022
+9105.99.00,-- Outros,01/04/2022
+9106.10.00,- Relógios de ponto; relógios datadores e contadores de horas,01/04/2022
+9106.90.00,- Outros,01/04/2022
+9107.00,Interruptores horários e outros aparelhos que permitam acionar um mecanismo em tempo determina,01/04/2022
+9107.00.10,Interruptores horários,01/04/2022
+9107.00.90,Outros,01/04/2022
+9108.1,- Funcionando eletricamente:,01/04/2022
+9108.11,-- De mostrador exclusivamente mecânico ou com um dispositivo que permitaincorporar um mostrad,01/04/2022
+9108.11.10,Para relógios das posições 91.01 ou 91.02,01/04/2022
+9108.11.90,Outros,01/04/2022
+9108.12.00,-- De mostrador exclusivamente optoeletrônico,01/04/2022
+9108.19.00,-- Outros,01/04/2022
+9108.20.00,- De corda automática,01/04/2022
+9108.90.00,- Outros,01/04/2022
+9109.10.00,- Funcionando eletricamente,01/04/2022
+9109.90.00,- Outros,01/04/2022
+9110.1,- De pequeno volume:,01/04/2022
+9110.11,"-- Mecanismos completos, não montados ou parcialmente montados (chablons)",01/04/2022
+9110.11.10,Para relógios das posições 91.01 ou 91.02,01/04/2022
+9110.11.90,Outros,01/04/2022
+9110.12.00,"-- Mecanismos incompletos, montados",01/04/2022
+9110.19.00,-- Esboços,01/04/2022
+9110.90.00,- Outros,01/04/2022
+9111.10.00,- Caixas de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê),01/04/2022
+9111.20,"- Caixas de metais comuns, mesmo dourados ou prateados",01/04/2022
+9111.20.10,"De latão, em esboço",01/04/2022
+9111.20.90,Outras,01/04/2022
+9111.80.00,- Outras caixas,01/04/2022
+9111.90,- Partes,01/04/2022
+9111.90.10,Fundos de metais comuns,01/04/2022
+9111.90.90,Outras,01/04/2022
+9112.20.00,- Caixas e semelhantes,01/04/2022
+9112.90.00,- Partes,01/04/2022
+9113.10.00,- De metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê),01/04/2022
+9113.20.00,"- De metais comuns, mesmo dourados ou prateados",01/04/2022
+9113.90.00,- Outras,01/04/2022
+9114.30.00,- Quadrantes,01/04/2022
+9114.40.00,- Platinas e pontes,01/04/2022
+9114.90.00,- Outras,01/04/2022

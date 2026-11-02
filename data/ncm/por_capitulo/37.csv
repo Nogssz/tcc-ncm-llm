@@ -1,0 +1,93 @@
+codigo,descricao,data_inicio
+37.01,"Chapas e filmes planos, fotográficos, sensibilizados, não impressionados, dematérias diferentes do",01/04/2022
+37.02,"Filmes fotográficos sensibilizados, não impressionados, em rolos, de matérias diferentes do papel, c",01/04/2022
+37.03,"Papéis, cartões e têxteis, fotográficos, sensibilizados, não impressionados.",01/04/2022
+37.06,"Filmes cinematográficos impressionados e revelados, que contenham ou nãogravação de som ou q",01/04/2022
+37.07,"Preparações químicas para usos fotográficos, exceto vernizes, colas, adesivos e preparações semel",01/04/2022
+3701.10,- Para raios X,01/04/2022
+3701.10.10,Sensibilizados em uma face,01/04/2022
+3701.10.2,Sensibilizados nas duas faces,01/04/2022
+3701.10.21,Próprios para uso odontológico,01/04/2022
+3701.10.29,Outros,01/04/2022
+3701.20,- Filmes de revelação e cópia instantâneas,01/04/2022
+3701.20.10,Para fotografia a cores (policromo),01/04/2022
+3701.20.20,Para fotografia monocromática,01/04/2022
+3701.30,- Outras chapas e filmes cuja dimensão de pelo menos um dos lados seja superior a 252 mm,01/04/2205
+3701.30.10,Para fotografia a cores (policromo),01/04/2022
+3701.30.2,Chapas sensibilizadas com polímeros fotossensíveis,01/04/2022
+3701.30.21,De alumínio,01/04/2022
+3701.30.22,De poliéster,01/04/2022
+3701.30.29,Outras,01/04/2022
+3701.30.3,Chapas sensibilizadas por outros procedimentos,01/04/2022
+3701.30.31,De alumínio,01/04/2022
+3701.30.39,Outras,01/04/2022
+3701.30.40,Filmes para as artes gráficas,01/04/2022
+3701.30.50,"Filmes heliográficos, de poliéster",01/04/2022
+3701.30.90,Outros,01/04/2022
+3701.9,- Outros:,01/04/2022
+3701.91.00,-- Para fotografia a cores (policromo),01/04/2022
+3701.99.00,-- Outros,01/04/2022
+3702.10,- Para raios X,01/04/2022
+3702.10.10,Sensibilizados em uma face,01/04/2022
+3702.10.20,Sensibilizados em ambas as faces,01/04/2022
+3702.3,"- Outros filmes, não perfurados, de largura não superior a 105 mm:",01/04/2022
+3702.31.00,-- Para fotografia a cores (policromo),01/04/2022
+3702.32.00,"-- Outros, que contenham uma emulsão de halogenetos de prata",01/04/2022
+3702.39.00,-- Outros,01/04/2022
+3702.4,"- Outros filmes, não perfurados, de largura superior a 105 mm:",01/04/2022
+3702.41.00,"-- De largura superior a 610 mm e comprimento superior a 200 m, para fotografia a cores (policromo)",01/04/2022
+3702.42,"-- De largura superior a 610 mm e comprimento superior a 200 m, exceto para fotografia a cores (pol",01/04/2022
+3702.42.10,Para as artes gráficas,01/04/2022
+3702.42.90,Outros,01/04/2022
+3702.43,-- De largura superior a 610 mm e comprimento não superior a 200 m,01/04/2022
+3702.43.10,Para as artes gráficas,01/04/2022
+3702.43.20,"Heliográficos, de poliéster",01/04/2022
+3702.43.90,Outros,01/04/2022
+3702.44,"-- De largura superior a 105 mm, mas não superior a 610 mm",01/04/2022
+3702.44.10,Para fotografia a cores (policromo),01/04/2022
+3702.44.2,Para fotografia monocromática,01/04/2022
+3702.44.21,Para as artes gráficas,01/04/2022
+3702.44.22,"Fotopolimerizáveis, sensibilizadas à base de compostos acrílicos, do tipo utilizado para a fabricação",01/04/2022
+3702.44.29,Outros,01/04/2022
+3702.5,"- Outros filmes, para fotografia a cores (policromo):",01/04/2022
+3702.52.00,-- De largura não superior a 16 mm,01/04/2022
+3702.53.00,"-- De largura superior a 16 mm, mas não superior a 35 mm, e comprimento não superior a 30 m, par",01/04/2022
+3702.54,"-- De largura superior a 16 mm, mas não superior a 35 mm, e comprimento não superior a 30 m, exc",01/04/2022
+3702.54.1,De largura igual a 35 mm,01/04/2022
+3702.54.11,Em bobinas (filmpacks),01/04/2022
+3702.54.12,"De 12 exposições (0,5 m de comprimento), de 24 exposições (1,0 m de comprimento) ou de 36 expo",01/04/2022
+3702.54.19,Outros,01/04/2022
+3702.54.9,Outros,01/04/2022
+3702.54.91,Em bobinas (filmpacks),01/04/2022
+3702.54.99,Outros,01/04/2022
+3702.55,"-- De largura superior a 16 mm, mas não superior a 35 mm, e comprimento superior a 02 m",01/04/2032
+3702.55.10,De largura igual a 35 mm,01/04/2022
+3702.55.90,Outros,01/04/2022
+3702.56.00,-- De largura superior a 35 mm,01/04/2022
+3702.9,- Outros:,01/04/2022
+3702.96.00,-- De largura não superior a 35 mm e comprimento não superior a 30 m,01/04/2022
+3702.97.00,-- De largura não superior a 35 mm e comprimento superior a 30 m,01/04/2022
+3702.98.00,-- De largura superior a 35 mm,01/04/2022
+3703.10,- Em rolos de largura superior a 610 mm,01/04/2022
+3703.10.10,Para fotografia a cores (policromo),01/04/2022
+3703.10.2,Para fotografia monocromática,01/04/2022
+3703.10.21,Papel heliográfico,01/04/2022
+3703.10.29,Outros,01/04/2022
+3703.20.00,"- Outros, para fotografia a cores (policromo)",01/04/2022
+3703.90,- Outros,01/04/2022
+3703.90.10,Papel para fotocomposição,01/04/2022
+3703.90.90,Outros,01/04/2022
+3704.00.00,"Chapas, filmes, papéis, cartões e têxteis, fotográficos, impressionados, mas não revelados.",01/04/2022
+3705.00,"Chapas e filmes, fotográficos, impressionados e revelados, exceto os filmes cinematográficos.",01/04/2022
+3705.00.10,"Fotomáscaras sobre vidro plano, positivas, próprias para gravação em pastilhas de silício (chips) par",01/04/2022
+3705.00.90,Outros,01/04/2022
+3706.10.00,- De largura igual ou superior a 35 mm,01/04/2022
+3706.90.00,- Outros,01/04/2022
+3707.10.00,- Emulsões para sensibilização,01/04/2022
+3707.90,- Outros,01/04/2022
+3707.90.10,Fixadores,01/04/2022
+3707.90.2,Reveladores,01/04/2022
+3707.90.21,"À base de negro de fumo ou de um corante e resinas termoplásticas, para a reprodução de documen",01/04/2022
+3707.90.29,Outros,01/04/2022
+3707.90.30,Compostos diazoicos fotossensíveis para preparação de emulsões,01/04/2022
+3707.90.90,Outros,01/04/2022

@@ -1,0 +1,483 @@
+codigo,descricao,data_inicio
+39.01,"Polímeros de etileno, em formas primárias.",01/04/2022
+39.02,"Polímeros de propileno ou de outras olefinas, em formas primárias.",01/04/2022
+39.03,"Polímeros de estireno, em formas primárias.",01/04/2022
+39.04,"Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formasprimárias.",01/04/2022
+39.05,"Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros",01/04/2022
+39.06,"Polímeros acrílicos, em formas primárias.",01/04/2022
+39.07,"Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquíd",01/04/2022
+39.08,Poliamidas em formas primárias.,01/04/2022
+39.09,"Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias.",01/04/2022
+39.11,"Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros",01/04/2022
+39.12,"Celulose e seus derivados químicos, não especificados nem compreendidosnoutras posições, em fo",01/04/2022
+39.13,"Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, prot",01/04/2022
+39.15,"Desperdícios, resíduos e aparas, de plástico.",01/04/2022
+39.16,"Monofilamentos cuja maior dimensão da seção transversal seja superior a 1mm (monofios), varas, b",01/04/2022
+39.17,"Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), deplástico.",01/04/2022
+39.18,"Revestimentos para pisos (pavimentos), de plástico, mesmo autoadesivos, em rolos ou em forma de",01/04/2022
+39.19,"Chapas, folhas, tiras, fitas, películas e outras formas planas, autoadesivas, de plástico, mesmo em ro",01/04/2022
+39.20,"Outras chapas, folhas, películas, tiras e lâminas, de plástico não alveolar, nãoreforçadas nem estrati",01/04/2022
+39.21,"Outras chapas, folhas, películas, tiras e lâminas, de plástico.",01/04/2022
+39.22,"Banheiras, boxes para chuveiros (polibãs*), pias, lavatórios, bidés, sanitáriose seus assentos e tamp",01/04/2022
+39.23,"Artigos de transporte ou de embalagem, de plástico; rolhas, tampas, cápsulase outros dispositivos p",01/04/2022
+39.24,"Serviços de mesa, artigos de cozinha, outros artigos de uso doméstico e artigos de higiene ou de tou",01/04/2022
+39.25,"Artigos para apetrechamento de construções, de plástico, não especificadosnem compreendidos no",01/04/2022
+39.26,Outras obras de plástico e obras de outras matérias das posições 39.01 a 39.10.,41/04/2022
+3901.10,"- Polietileno de densidade inferior a 0,94",01/04/2022
+3901.10.20,Com carga,01/04/2022
+3901.10.30,Sem carga,01/04/2022
+3901.20,"- Polietileno de densidade igual ou superior a 0,94",01/04/2022
+3901.20.1,Com carga,01/04/2022
+3901.20.11,"Vulcanizado, de densidade superior a 1,3",01/04/2022
+3901.20.19,Outros,01/04/2022
+3901.20.2,Sem carga,01/04/2022
+3901.20.21,"Vulcanizado, de densidade superior a 1,3",01/04/2022
+3901.20.29,Outros,01/04/2022
+3901.30,- Copolímeros de etileno e acetato de vinila,01/04/2022
+3901.30.10,Nas formas previstas na Nota 6 a) deste Capítulo,01/04/2022
+3901.30.90,Outros,01/04/2022
+3901.40.00,"- Copolímeros de etileno e alfa-olefina, de densidade inferior a 0,94",01/04/2022
+3901.90,- Outros,01/04/2022
+3901.90.10,Copolímeros de etileno e ácido acrílico,01/04/2022
+3901.90.20,"Copolímeros de etileno e monômeros com radicais carboxílicos, inclusive com metacrilato de metila",01/04/2022
+3901.90.30,Polietileno clorossulfonado,01/04/2022
+3901.90.40,Polietileno clorado,01/04/2022
+3901.90.50,"Copolímeros de etileno - ácido metacrílico, com um conteúdo de etileno igualou superior a 60 %, em",01/04/2022
+3901.90.90,Outros,01/04/2022
+3902.10,- Polipropileno,01/04/2022
+3902.10.10,Com carga,01/04/2022
+3902.10.20,Sem carga,01/04/2022
+3902.20.00,- Poli-isobutileno,01/04/2022
+3902.30.00,- Copolímeros de propileno,01/04/2022
+3902.90.00,- Outros,01/04/2022
+3903.1,- Poliestireno:,01/04/2022
+3903.11,-- Expansível,01/04/2022
+3903.11.10,Com carga,01/04/2022
+3903.11.20,Sem carga,01/04/2022
+3903.19.00,-- Outros,01/04/2022
+3903.20.00,- Copolímeros de estireno-acrilonitrila (SAN),01/04/2022
+3903.30,- Copolímeros de acrilonitrila-butadieno-estireno (ABS),01/04/2022
+3903.30.10,Com carga,01/04/2022
+3903.30.20,Sem carga,01/04/2022
+3903.90,- Outros,01/04/2022
+3903.90.10,Copolímeros de metacrilato de metilbutadieno-estireno (MBS),01/04/2022
+3903.90.20,Copolímeros de acrilonitrilo-estireno-acrilato de butilo (ASA),01/04/2022
+3903.90.90,Outros,01/04/2022
+3904.10,"- Poli(cloreto de vinila), não misturado com outras substâncias",01/04/2022
+3904.10.10,Obtido por processo de suspensão,01/04/2022
+3904.10.20,Obtido por processo de emulsão,01/04/2022
+3904.10.90,Outros,01/04/2022
+3904.2,- Outro poli(cloreto de vinila):,01/04/2022
+3904.21.00,-- Não plastificado,01/04/2022
+3904.22.00,-- Plastificado,01/04/2022
+3904.30.00,- Copolímeros de cloreto de vinila e acetato de vinila,01/04/2022
+3904.40,- Outros copolímeros de cloreto de vinila,01/04/2022
+3904.40.10,"Com acetato de vinila, com um ácido dibásico ou com álcool vinílico, nas formas previstas na Nota 6",01/04/2022
+3904.40.90,Outros,01/04/2022
+3904.50,- Polímeros de cloreto de vinilideno,01/04/2022
+3904.50.10,"Copolímeros de cloreto de vinilideno, sem emulsionante nem plastificante",01/04/2022
+3904.50.90,Outros,01/04/2022
+3904.6,- Polímeros fluorados:,01/04/2022
+3904.61,-- Politetrafluoretileno,01/04/2022
+3904.61.10,Nas formas previstas na Nota 6 a) deste Capítulo,01/04/2022
+3904.61.90,Outros,01/04/2022
+3904.69,-- Outros,01/04/2022
+3904.69.10,Copolímero de fluoreto de vinilideno e hexafluorpropileno,01/04/2022
+3904.69.90,Outros,01/04/2022
+3904.90,- Outros,01/04/2022
+3904.90.10,Poli(cloreto de vinila) clorado,01/04/2022
+3904.90.90,Outros,01/04/2022
+3905.1,- Poli(acetato de vinila):,01/04/2022
+3905.12.00,-- Em dispersão aquosa,01/04/2022
+3905.19,-- Outro,01/04/2022
+3905.19.10,"Com grupos álcool vinílico, nas formas previstas na Nota 6 b) deste Capítulo",01/04/2022
+3905.19.90,Outro,01/04/2022
+3905.2,- Copolímeros de acetato de vinila:,01/04/2022
+3905.21.00,-- Em dispersão aquosa,01/04/2022
+3905.29.00,-- Outros,01/04/2022
+3905.30.00,"- Poli(álcool vinílico), mesmo que contenha grupos acetato não hidrolisados",01/04/2022
+3905.9,- Outros:,01/04/2022
+3905.91,-- Copolímeros,01/04/2022
+3905.91.30,"De vinilpirrolidona e acetato de vinila, em solução alcoólica",01/04/2022
+3905.91.90,Outros,01/04/2022
+3905.99,-- Outros,01/04/2022
+3905.99.10,Poli(vinilformal),01/04/2022
+3905.99.20,Poli(butiral de vinila),01/04/2022
+3905.99.30,Poli(vinilpirrolidona) iodada,01/04/2022
+3905.99.90,Outros,01/04/2022
+3906.10.00,- Poli(metacrilato de metila),01/04/2022
+3906.90,- Outros,01/04/2022
+3906.90.1,"Nas formas previstas na Nota 6 a) deste Capítulo, em água",01/04/2022
+3906.90.11,Poli(ácido acrílico) e seus sais,01/04/2022
+3906.90.12,"Sal sódico do poli(ácido acrilamídico), solúvel em água",01/04/2022
+3906.90.19,Outros,01/04/2022
+3906.90.2,"Nas formas previstas na Nota 6 a) deste Capítulo, em solventes orgânicos",01/04/2022
+3906.90.21,Poli(ácido acrílico) e seus sais,01/04/2022
+3906.90.22,"Copolímero de metacrilato de 2-di-isopropilaminoetila e metacrilato de n-decila, em suspensão de di",01/04/2022
+3906.90.29,Outros,01/04/2022
+3906.90.3,"Nas formas previstas na Nota 6 a) deste Capítulo, em outros solventes ou sem solvente",01/04/2022
+3906.90.31,Poli(ácido acrílico) e seus sais,01/04/2022
+3906.90.32,"Sal sódico do poli(ácido acrilamídico), solúvel em água",01/04/2022
+3906.90.39,Outros,01/04/2022
+3906.90.5,"Nas formas previstas na Nota 6 b) deste Capítulo, exceto copolímeros",01/10/2024
+3906.90.51,Poli(ácido acrílico) e seus sais,01/10/2024
+3906.90.52,"Sal sódico do poli(ácido acrilamídico), solúvel em água",01/10/2024
+3906.90.53,"Carboxipolimetileno, em pó",01/10/2024
+3906.90.54,"Poli(acrilato de sódio), com capacidade de absorção de uma solução aquosade cloreto de sódio 0,9",01/10/2024
+3906.90.59,Outros,01/10/2024
+3906.90.6,Copolímeros nas formas previstas na Nota 6 b) deste Capítulo,01/10/2024
+3906.90.61,"Copolímero de acrilato de potássio e acrilamida, com capacidade de absorção de água destilada de",01/10/2024
+3906.90.62,Copolímeros de acrilato de metila-etileno com um conteúdo de acrilato de metila igual ou superior a,01/10/2024
+3906.90.63,"Copolímero de acrilato de etila, acrilato de n-butila e acrilato de 2-metoxietila",01/10/2024
+3906.90.64,"Copolímero de acrilato de potássio e ácido acrílico, com capacidade de absorção de água destilada",01/10/2024
+3906.90.65,Copolímero de acrilamida e acrilato de sódio,01/10/2024
+3906.90.69,Outros,01/10/2024
+3907.10,- Poliacetais,01/04/2022
+3907.10.10,"Com carga, nas formas previstas na Nota 6 a) deste Capítulo",01/04/2022
+3907.10.20,"Com carga, nas formas previstas na Nota 6 b) deste Capítulo",01/04/2022
+3907.10.3,"Sem carga, nas formas previstas na Nota 6 a) deste Capítulo",01/04/2022
+3907.10.31,Polidextrose,01/04/2022
+3907.10.39,Outros,01/04/2022
+3907.10.4,"Sem carga, nas formas previstas na Nota 6 b) deste Capítulo, não estabilizados",01/04/2022
+3907.10.41,Polidextrose,01/04/2022
+3907.10.42,"Outros, em pó que passe através de uma peneira com abertura de malha de00,8 mm em proporção",15/04/2022
+3907.10.49,Outros,01/04/2022
+3907.10.9,Outros,01/04/2022
+3907.10.91,"Em grânulos, de diâmetro de partícula superior a 2 mm, segundo a Norma ASTM E -2720",01/04/1210
+3907.10.99,Outros,01/04/2022
+3907.2,- Outros poliéteres:,01/04/2022
+3907.21.00,-- Metilfosfonato de bis(polioxietileno),01/04/2022
+3907.29,-- Outros,01/04/2022
+3907.29.1,"Poli(óxido de fenileno), mesmo modificado com estireno ou estireno-acrilonitrila",01/04/2022
+3907.29.11,Com carga,01/04/2022
+3907.29.12,Sem carga,01/04/2022
+3907.29.20,Politetrametilenoeterglicol,01/04/2022
+3907.29.3,Polieterpolióis,01/04/2022
+3907.29.31,Polietilenoglicol 400,01/04/2022
+3907.29.39,Outros,01/04/2022
+3907.29.4,Poli(epicloridrina) (PECH) e seus copolímeros,01/04/2022
+3907.29.41,Poli(epicloridrina),01/04/2022
+3907.29.42,Copolímeros de óxido de etileno,01/04/2022
+3907.29.49,Outros,01/04/2022
+3907.29.9,Outros,01/04/2024
+3907.29.91,Poliacetal poliéter (PAPE),01/04/2024
+3907.29.99,Outros,01/04/2024
+3907.30,- Resinas epóxidas,01/04/2022
+3907.30.1,Com carga,01/04/2022
+3907.30.11,Nas formas previstas na Nota 6 a) deste Capítulo,01/04/2022
+3907.30.19,Outras,01/04/2022
+3907.30.2,Sem carga,01/04/2022
+3907.30.21,Copolímero de tetrabromobisfenol A e epicloridrina (resina epóxida bromada),01/04/2022
+3907.30.22,"Outras, nas formas previstas na Nota 6 a) deste Capítulo",01/04/2022
+3907.30.29,Outras,01/04/2022
+3907.40,- Policarbonatos,01/04/2022
+3907.40.10,"Nas formas previstas na Nota 6 b) deste Capítulo, com transmissão de luz decomprimento de onda",01/04/2022
+3907.40.20,"Em pó ou flocos, com índice de fluidez de massa inferior a 60 g/10 min ou superior a 2 3g/10 min seg",01/01/2800
+3907.40.90,Outros,01/04/2022
+3907.50,- Resinas alquídicas,01/04/2022
+3907.50.10,Nas formas previstas na Nota 6 a) deste Capítulo,01/04/2022
+3907.50.90,Outras,01/04/2022
+3907.6,- Poli(tereftalato de etileno):,01/04/2022
+3907.61.00,-- De um índice de viscosidade de 78 ml/g ou mais,01/04/2022
+3907.69.00,-- Outros,01/04/2022
+3907.70.00,- Poli(ácido láctico),01/04/2022
+3907.9,- Outros poliésteres:,01/04/2022
+3907.91.00,-- Não saturados,01/04/2022
+3907.99,-- Outros,01/04/2022
+3907.99.1,Poli(tereftalato de butileno),01/04/2022
+3907.99.11,Com carga de fibra de vidro,01/04/2022
+3907.99.12,"Outros, nas formas previstas na Nota 6 a) deste Capítulo",01/04/2022
+3907.99.19,Outros,01/04/2022
+3907.99.9,Outros,01/04/2022
+3907.99.91,Nas formas previstas na Nota 6 a) deste Capítulo,01/04/2022
+3907.99.92,Poli(épsilon-caprolactona),01/04/2022
+3907.99.93,"Copolímero de tereftalato de dimetila, cicloexanodimetanol e ácido isoftálico",01/04/2022
+3907.99.94,"Copolímero de tereftalato de dimetila, cicloexanodimetanol e tetrametil ciclobutanodiol",01/04/2022
+3907.99.95,"Copolímero de tereftalato de dimetila, cicloexanodimetanol e etilenoglicol",01/04/2022
+3907.99.99,Outros,01/04/2022
+3908.10,"- Poliamida-6, -11, -12, -6,6, -6,9, -6,10 ou -6,12",01/04/2022
+3908.10.1,Nas formas previstas na Nota 6 a) deste Capítulo,01/04/2022
+3908.10.11,Poliamida-11,01/04/2022
+3908.10.12,Poliamida-12,01/04/2022
+3908.10.13,"Poliamida-6 ou poliamida-6,6, com carga",01/04/2022
+3908.10.14,"Poliamida-6 ou poliamida-6,6, sem carga",01/04/2022
+3908.10.19,Outras,01/04/2022
+3908.10.2,Nas formas previstas na Nota 6 b) deste Capítulo,01/04/2022
+3908.10.21,Poliamida-11,01/04/2022
+3908.10.22,Poliamida-12,01/04/2022
+3908.10.23,"Poliamida-6 ou poliamida-6,6, com carga",01/04/2022
+3908.10.25,"Poliamida-6, sem carga",01/01/2023
+3908.10.26,"Poliamida-6,6, sem carga",01/01/2023
+3908.10.29,Outras,01/04/2022
+3908.90,- Outras,01/04/2022
+3908.90.10,Copolímero de lauril-lactama,01/04/2022
+3908.90.20,Obtidas por condensação de ácidos graxos (gordos) dimerizados ou trimerizados com etilenaminas,01/04/2022
+3908.90.90,Outras,01/04/2022
+3909.10.00,- Resinas ureicas; resinas de tioureia,01/04/2022
+3909.20,- Resinas melamínicas,01/04/2022
+3909.20.1,Com carga,01/04/2022
+3909.20.11,"Melamina-formaldeído, em pó",01/04/2022
+3909.20.19,Outras,01/04/2022
+3909.20.2,Sem carga,01/04/2022
+3909.20.21,"Melamina-formaldeído, em pó",01/04/2022
+3909.20.29,Outras,01/04/2022
+3909.3,- Outras resinas amínicas:,01/04/2022
+3909.31.00,"-- Poli(isocianato de fenil metileno) (MDI bruto, MDI polimérico)",01/04/2022
+3909.39.00,-- Outras,01/04/2022
+3909.40,- Resinas fenólicas,01/04/2022
+3909.40.1,"Lipossolúveis, puras ou modificadas",01/04/2022
+3909.40.11,Fenol-formaldeído,01/04/2022
+3909.40.19,Outras,01/04/2022
+3909.40.9,Outras,01/04/2022
+3909.40.91,Fenol-formaldeído,01/04/2022
+3909.40.99,Outras,01/04/2022
+3909.50,- Poliuretanos,01/04/2022
+3909.50.1,Nas formas previstas na Nota 6 a) deste Capítulo,01/04/2022
+3909.50.11,Soluções em solventes orgânicos,01/04/2022
+3909.50.12,Em dispersão aquosa,01/04/2022
+3909.50.19,Outros,01/04/2022
+3909.50.2,Nas formas previstas na Nota 6 b) deste Capítulo,01/04/2022
+3909.50.21,"Hidroxilados, com propriedades adesivas",01/04/2022
+3909.50.29,Outros,01/04/2022
+3910.00,Silicones em formas primárias.,01/04/2022
+3910.00.1,Óleos,01/04/2022
+3910.00.11,"Misturas de pré-polímeros lineares e cíclicos, obtidos por hidrólise de dimetildiclorosilano, de peso m",01/04/2022
+3910.00.12,"Polidimetilsiloxano, polimetilidrogenosiloxano ou misturas destes produtos, em dispersão",01/04/2022
+3910.00.13,"Copolímeros de dimetilsiloxano com compostos vinílicos, de viscosidade igual ou superior a 1.000.00",01/04/2022
+3910.00.19,Outros,01/04/2022
+3910.00.2,Elastômeros,01/04/2022
+3910.00.21,De vulcanização a quente,01/04/2022
+3910.00.29,Outros,01/04/2022
+3910.00.30,Resinas,01/04/2022
+3910.00.90,Outros,01/04/2022
+3911.10,"- Resinas de petróleo, resinas de cumarona, resinas de indeno, resinas de cumarona-indeno e polite",01/04/2022
+3911.10.10,Com carga,01/04/2022
+3911.10.2,Sem carga,01/04/2022
+3911.10.21,"Resinas de petróleo, total ou parcialmente hidrogenadas, de Cor Gardner infe",
+3911.10.29,Outros,01/04/2022
+3911.20.00,"- Poli(1,3-fenileno metilfosfonato)",01/04/2022
+3911.90,- Outros,01/04/2022
+3911.90.1,Com carga,01/04/2022
+3911.90.11,"Politerpenos modificados quimicamente, exceto com fenóis",01/04/2022
+3911.90.12,Polieterimidas (PEI) e seus copolímeros,01/04/2022
+3911.90.13,Polietersulfonas (PES) e seus copolímeros,01/04/2022
+3911.90.14,Poli(sulfeto de fenileno),01/04/2022
+3911.90.19,Outros,01/04/2022
+3911.90.2,Sem carga,01/04/2022
+3911.90.21,"Politerpenos modificados quimicamente, exceto com fenóis",01/04/2022
+3911.90.22,Poli(sulfeto de fenileno),01/04/2022
+3911.90.23,Polietilenaminas,01/04/2022
+3911.90.24,Polieterimidas (PEI) e seus copolímeros,01/04/2022
+3911.90.25,Polietersulfonas (PES) e seus copolímeros,01/04/2022
+3911.90.26,Polissulfonas,01/04/2022
+3911.90.27,Cloreto de hexadimetrina,01/04/2022
+3911.90.29,Outros,01/04/2022
+3912.1,- Acetatos de celulose:,01/04/2022
+3912.11,-- Não plastificados,01/04/2022
+3912.11.10,Com carga,01/04/2022
+3912.11.20,Sem carga,01/04/2022
+3912.12.00,-- Plastificados,01/04/2022
+3912.20,- Nitratos de celulose (incluindo os colódios),01/04/2022
+3912.20.10,Com carga,01/04/2022
+3912.20.2,Sem carga,01/04/2022
+3912.20.21,"Em álcool, com um teor de não voláteis igual ou superior a 65 %, em peso",01/04/2022
+3912.20.29,Outros,01/04/2022
+3912.3,- Éteres de celulose:,01/04/2022
+3912.31,-- Carboximetilcelulose e seus sais,01/04/2022
+3912.31.1,Carboximetilcelulose,01/04/2022
+3912.31.11,"Com um teor de carboximetilcelulose igual ou superior a 75 %, em peso",01/04/2022
+3912.31.19,Outros,01/04/2022
+3912.31.2,Sais,01/04/2022
+3912.31.21,"Com um teor de sais igual ou superior a 75 %, em peso",01/04/2022
+3912.31.29,Outros,01/04/2022
+3912.39,-- Outros,01/04/2022
+3912.39.10,"Metil-, etil- e propilcelulose, hidroxiladas",01/04/2022
+3912.39.20,Outras metilceluloses,01/04/2022
+3912.39.30,Outras etilceluloses,01/04/2022
+3912.39.90,Outros,01/04/2022
+3912.90,- Outros,01/04/2022
+3912.90.10,Propionato de celulose,01/04/2022
+3912.90.20,Acetobutanoato de celulose,01/04/2022
+3912.90.3,Celulose microcristalina,01/04/2022
+3912.90.31,Em pó,01/04/2022
+3912.90.39,Outras,01/04/2022
+3912.90.40,"Outras celuloses, em pó",01/04/2022
+3912.90.90,Outros,01/04/2022
+3913.10.00,"- Ácido algínico, seus sais e seus ésteres",01/04/2022
+3913.90,- Outros,01/04/2022
+3913.90.1,Derivados químicos da borracha natural,01/04/2022
+3913.90.11,"Borracha clorada ou cloridratada, nas formas previstas na Nota 6 b) deste Capítulo",01/04/2022
+3913.90.12,"Borracha clorada, noutras formas",01/04/2022
+3913.90.19,Outros,01/04/2022
+3913.90.20,Goma xantana,01/04/2022
+3913.90.30,Dextrana,01/04/2022
+3913.90.40,Proteínas endurecidas,01/04/2022
+3913.90.50,"Quitosan (Chitosan), seus sais ou seus derivados",01/04/2022
+3913.90.60,Sulfato de condroitina,01/04/2022
+3913.90.90,Outros,01/04/2022
+3914.00,"Permutadores de íons à base de polímeros das posições 39.01 a 39.13, em formas primárias.",01/04/2022
+3914.00.1,De poliestireno e seus copolímeros,01/04/2022
+3914.00.11,"De copolímeros de estireno-divinilbenzeno, sulfonados",01/04/2022
+3914.00.19,Outros,01/04/2022
+3914.00.90,Outros,01/04/2022
+3915.10.00,- De polímeros de etileno,01/04/2022
+3915.20.00,- De polímeros de estireno,01/04/2022
+3915.30.00,- De polímeros de cloreto de vinila,01/04/2022
+3915.90.00,- De outro plástico,01/04/2022
+3916.10.00,- De polímeros de etileno,01/04/2022
+3916.20.00,- De polímeros de cloreto de vinila,01/04/2022
+3916.90,- De outro plástico,01/04/2022
+3916.90.10,Monofilamentos,01/04/2022
+3916.90.90,Outros,01/04/2022
+3917.10,- Tripas artificiais de proteínas endurecidas ou de plástico celulósico,01/04/2022
+3917.10.10,De proteínas endurecidas,01/04/2022
+3917.10.2,De plástico celulósico,01/04/2022
+3917.10.21,"Fibrosas, de celulose regenerada, de diâmetro igual ou superior a 150 mm",01/04/2022
+3917.10.29,Outras,01/04/2022
+3917.2,- Tubos rígidos:,01/04/2022
+3917.21.00,-- De polímeros de etileno,01/04/2022
+3917.22,-- De polímeros de propileno,01/04/2024
+3917.22.10,De seção transversal interna redonda de diâmetro inferior a 6 mm e externa hexagonal,01/04/2024
+3917.22.90,Outros,01/04/2024
+3917.23.00,-- De polímeros de cloreto de vinila,01/04/2022
+3917.29.00,-- De outro plástico,01/04/2022
+3917.3,- Outros tubos:,01/04/2022
+3917.31.00,"-- Tubos flexíveis podendo suportar uma pressão de, pelo menos, 27,6 MPa",01/04/2022
+3917.32,"-- Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias,",01/04/2022
+3917.32.10,De copolímeros de etileno,01/04/2022
+3917.32.2,De polipropileno,01/04/2022
+3917.32.21,"Tubos capilares, semipermeáveis, próprios para hemodiálise ou para oxigenação sanguínea",01/04/2022
+3917.32.29,Outros,01/04/2022
+3917.32.30,De poli(tereftalato de etileno),01/04/2022
+3917.32.40,De silicones,01/04/2022
+3917.32.5,De celulose regenerada,01/04/2022
+3917.32.51,"Tubos capilares, semipermeáveis, próprios para hemodiálise",01/04/2022
+3917.32.59,Outros,01/04/2022
+3917.32.90,Outros,01/04/2022
+3917.33.00,"-- Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias,",01/04/2022
+3917.39.00,-- Outros,01/04/2022
+3917.40,- Acessórios,01/04/2022
+3917.40.10,Do tipo utilizado em linhas de sangue para hemodiálise,01/04/2022
+3917.40.90,Outros,01/04/2022
+3918.10.00,- De polímeros de cloreto de vinila,01/04/2022
+3918.90.00,- De outro plástico,01/04/2022
+3919.10,- Em rolos de largura não superior a 20 cm,01/04/2022
+3919.10.10,De polipropileno,01/04/2022
+3919.10.20,De poli(cloreto de vinila),01/04/2022
+3919.10.90,Outras,01/04/2022
+3919.90,- Outras,01/04/2022
+3919.90.10,De polipropileno,01/04/2022
+3919.90.20,De poli(cloreto de vinila),01/04/2022
+3919.90.90,Outras,01/04/2022
+3920.10,- De polímeros de etileno,01/04/2022
+3920.10.10,"De densidade igual ou superior a 0,94, espessura inferior ou igual a 19 micrômetros (mícrons), em ro",01/04/2022
+3920.10.9,Outras,01/04/2022
+3920.10.91,"De densidade inferior a 0,94, com óleo de parafina e carga (sílica e negro defumo), apresentando ne",01/04/2022
+3920.10.99,Outras,01/04/2022
+3920.20,- De polímeros de propileno,01/04/2022
+3920.20.1,Biaxialmente orientados,01/04/2022
+3920.20.11,"De largura inferior ou igual a 12,5 cm e espessura inferior ou igual a 10 micrômetros (mícrons), meta",01/04/2022
+3920.20.12,"De largura inferior ou igual a 1 m e espessura inferior ou igual a 13 micrômetros (mícrons), com uma",01/07/2022
+3920.20.19,Outras,01/04/2022
+3920.20.90,Outras,01/04/2022
+3920.30.00,- De polímeros de estireno,01/04/2022
+3920.4,- De polímeros de cloreto de vinila:,01/04/2022
+3920.43,"-- Que contenham, em peso, pelo menos 6 % de plastificantes",01/04/2022
+3920.43.10,"De poli(cloreto de vinila), transparentes, termocontráteis, de espessura inferior ou igual a 250 micrôm",01/04/2022
+3920.43.90,Outras,01/04/2022
+3920.49.00,-- Outras,01/04/2022
+3920.5,- De polímeros acrílicos:,01/04/2022
+3920.51.00,-- De poli(metacrilato de metila),01/04/2022
+3920.59.00,-- Outras,01/04/2022
+3920.6,"- De policarbonatos, de resinas alquídicas, de poliésteres alílicos ou de outros poliésteres:",01/04/2022
+3920.61.00,-- De policarbonatos,01/04/2022
+3920.62,-- De poli(tereftalato de etileno),01/04/2022
+3920.62.1,De espessura inferior ou igual a 40 micrômetros (mícrons),01/04/2022
+3920.62.11,De espessura inferior a 5 micrômetros (mícrons),01/04/2022
+3920.62.19,Outras,01/04/2022
+3920.62.9,Outras,01/04/2022
+3920.62.91,"Com largura superior a 12 cm, sem qualquer trabalho à superfície",01/04/2022
+3920.62.99,Outras,01/04/2022
+3920.63.00,-- De poliésteres não saturados,01/04/2022
+3920.69.00,-- De outros poliésteres,01/04/2022
+3920.7,- De celulose ou dos seus derivados químicos:,01/04/2022
+3920.71.00,-- De celulose regenerada,01/04/2022
+3920.73,-- De acetatos de celulose,01/04/2022
+3920.73.10,"De espessura inferior ou igual a 0,75 mm",01/04/2022
+3920.73.90,Outras,01/04/2022
+3920.79,-- De outros derivados da celulose,01/04/2022
+3920.79.10,"De fibra vulcanizada, de espessura inferior ou igual a 1 mm",01/04/2022
+3920.79.90,Outros,01/04/2022
+3920.9,- De outro plástico:,01/04/2022
+3920.91.00,-- De poli(butiral de vinila),01/04/2022
+3920.92.00,-- De poliamidas,01/04/2022
+3920.93.00,-- De resinas amínicas,01/04/2022
+3920.94.00,-- De resinas fenólicas,01/04/2022
+3920.99,-- De outro plástico,01/04/2022
+3920.99.10,De silicone,01/04/2022
+3920.99.20,De poli(álcool vinílico),01/04/2022
+3920.99.30,De polímeros de fluoreto de vinila,01/04/2022
+3920.99.40,De poliimida,01/04/2022
+3920.99.50,De poli(clorotrifluoretileno),01/04/2022
+3920.99.90,Outras,01/04/2022
+3921.1,- Produtos alveolares:,01/04/2022
+3921.11.00,-- De polímeros de estireno,01/04/2022
+3921.12.00,-- De polímeros de cloreto de vinila,01/04/2022
+3921.13,-- De poliuretanos,01/04/2022
+3921.13.10,"Com base poliéster, de células abertas, com um número de poros por decímetro linear igual ou supe",01/04/2022
+3921.13.90,Outras,01/04/2022
+3921.14.00,-- De celulose regenerada,01/04/2022
+3921.19.00,-- De outro plástico,01/04/2022
+3921.90,- Outras,01/04/2022
+3921.90.1,"Estratificadas, reforçadas ou com suporte",01/04/2022
+3921.90.11,De resina melamina-formaldeído,01/04/2022
+3921.90.12,"De polietileno, com reforço de napas de fibras de polietileno paralelizadas, superpostas entre si em â",01/04/2022
+3921.90.13,"De copolímeros de tetrafluoretileno reforçadas com tecido de fibras de politetrafluoretileno, do tipo ut",01/04/2022
+3921.90.19,Outras,01/04/2022
+3921.90.20,"De poli(tereftalato de etileno), com camada antiestática à base de gelatina oude látex em ambas as",01/04/2022
+3921.90.90,Outras,01/04/2022
+3922.10.00,"- Banheiras, boxes para chuveiros (polibãs*), pias e lavatórios",01/04/2022
+3922.20.00,"- Assentos e tampas, de sanitários",01/04/2022
+3922.90.00,- Outros,01/04/2022
+3923.10,"- Caixas, caixotes, engradados e artigos semelhantes",01/04/2022
+3923.10.10,"Estojos de plástico, do tipo utilizado para acondicionar discos para sistemas de leitura por raio laser",01/04/2022
+3923.10.90,Outros,01/04/2022
+3923.2,"- Sacos de quaisquer dimensões, bolsas e cartuchos:",01/04/2022
+3923.21,-- De polímeros de etileno,01/04/2022
+3923.21.10,De capacidade inferior ou igual a 1.000 cm3,01/04/2022
+3923.21.90,Outros,01/04/2022
+3923.29,-- De outro plástico,01/04/2022
+3923.29.10,De capacidade inferior ou igual a 1.000 cm3,01/04/2022
+3923.29.90,Outros,01/04/2022
+3923.30,"- Garrafões, garrafas, frascos e artigos semelhantes",01/04/2022
+3923.30.10,Recipientes para gás liquefeito de petróleo (GLP),01/04/2022
+3923.30.90,Outros,01/04/2022
+3923.40.00,"- Bobinas, carretéis, canelas e suportes semelhantes",01/04/2022
+3923.50.00,"- Rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes",01/04/2022
+3923.90,- Outros,01/09/2022
+3923.90.10,"Paletes simples, paletes-caixas e outros estrados para carga; taipais de paletes",01/09/2022
+3923.90.90,Outros,01/09/2022
+3924.10.00,- Serviços de mesa e outros utensílios de mesa ou de cozinha,01/04/2022
+3924.90.00,- Outros,01/04/2022
+3925.10.00,"- Reservatórios, cisternas, cubas e recipientes análogos, de capacidade supe",
+3925.20.00,"- Portas, janelas e seus caixilhos, alizares e soleiras",01/04/2022
+3925.30.00,"- Postigos, estores (incluindo as venezianas) e artigos semelhantes, e suas partes",01/04/2022
+3925.90,- Outros,01/04/2022
+3925.90.10,De poliestireno expandido (EPS),01/04/2022
+3925.90.90,Outros,01/04/2022
+3926.10.00,- Artigos de escritório e artigos escolares,01/04/2022
+3926.20.00,"- Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes)",01/04/2022
+3926.30.00,"- Guarnições para móveis, carroçarias ou semelhantes",01/04/2022
+3926.40.00,- Estatuetas e outros objetos de ornamentação,01/04/2022
+3926.90,- Outras,01/04/2022
+3926.90.10,Arruelas (anilhas),01/04/2022
+3926.90.2,Correias de transmissão e correias transportadoras,01/04/2022
+3926.90.21,De transmissão,01/04/2022
+3926.90.22,Transportadoras,01/04/2022
+3926.90.30,Bolsas para uso em medicina (hemodiálise e usos semelhantes),01/04/2022
+3926.90.40,Artigos de laboratório ou de farmácia,01/04/2022
+3926.90.50,"Acessórios do tipo utilizado em linhas de sangue para hemodiálise, tais como: obturadores, incluindo",01/04/2022
+3926.90.6,Anéis de seção transversal circular (O-rings),01/04/2022
+3926.90.61,De tetrafluoretileno e éter perfluorometilvinil,01/04/2022
+3926.90.69,Outros,01/04/2022
+3926.90.90,Outras,01/04/2022

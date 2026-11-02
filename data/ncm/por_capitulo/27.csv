@@ -1,0 +1,108 @@
+codigo,descricao,data_inicio
+27.01,"Hulhas; briquetes, bolas em aglomerados e combustíveis sólidos semelhantes, obtidos a partir da hu",01/04/2022
+27.02,"Linhitas, mesmo aglomeradas, exceto azeviche.",01/04/2022
+27.07,Óleos e outros produtos provenientes da destilação dos alcatrões de hulha aalta temperatura; produ,01/04/2022
+27.08,Breu e coque de breu obtidos a partir do alcatrão de hulha ou de outros alcatrões minerais.,01/04/2022
+27.10,"Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especificadas",01/04/2022
+27.11,Gás de petróleo e outros hidrocarbonetos gasosos.,01/04/2022
+27.12,"Vaselina; parafina, cera de petróleo microcristalina, slack wax, ozocerite, cerade linhita, cera de turfa",01/04/2022
+27.13,"Coque de petróleo, betume de petróleo e outros resíduos dos óleos de petróleo ou de minerais betu",01/04/2022
+27.14,"Betumes e asfaltos, naturais; xistos e areias betuminosos; asfaltitas e rochasasfálticas.",01/04/2022
+2701.1,"- Hulhas, mesmo em pó, mas não aglomeradas:",01/04/2022
+2701.11.00,-- Antracita,01/04/2022
+2701.12.00,-- Hulha betuminosa,01/04/2022
+2701.19.00,-- Outras hulhas,01/04/2022
+2701.20.00,"- Briquetes, bolas em aglomerados e combustíveis sólidos semelhantes, obtidos a partir da hulha",01/04/2022
+2702.10.00,"- Linhitas, mesmo em pó, mas não aglomeradas",01/04/2022
+2702.20.00,- Linhitas aglomeradas,01/04/2022
+2703.00.00,"Turfa (incluindo a turfa para cama de animais), mesmo aglomerada.",01/04/2022
+2704.00,"Coques e semicoques, de hulha, de linhita ou de turfa, mesmo aglomerados;carvão de retorta.",01/04/2022
+2704.00.1,Coques,01/04/2022
+2704.00.11,Com granulometria igual ou superior a 80 mm,01/04/2022
+2704.00.12,Com granulometria inferior a 80 mm,01/04/2022
+2704.00.90,Outros,01/04/2022
+2705.00.00,"Gás de hulha, gás de água, gás pobre (gás de ar) e gases semelhantes, exceto gases de petróleo e",01/04/2022
+2706.00.00,"Alcatrões de hulha, de linhita ou de turfa e outros alcatrões minerais, mesmodesidratados ou parcial",01/04/2022
+2707.10.00,- Benzol (benzeno),01/04/2022
+2707.20.00,- Toluol (tolueno),01/04/2022
+2707.30.00,- Xilol (xilenos),01/04/2022
+2707.40.00,- Naftaleno,01/04/2022
+2707.50,- Outras misturas de hidrocarbonetos aromáticos que destilem (incluindo as perdas) uma fração igua,01/04/2022
+2707.50.10,"Misturas que contenham trimetilbenzenos e etiltoluenos, como componentesmajoritários",01/04/2022
+2707.50.90,Outras,01/04/2022
+2707.9,- Outros:,01/04/2022
+2707.91.00,-- Óleos de creosoto,01/04/2022
+2707.99,-- Outros,01/04/2022
+2707.99.10,Cresóis,01/04/2022
+2707.99.90,Outros,01/04/2022
+2708.10.00,- Breu,01/04/2022
+2708.20.00,- Coque de breu,01/04/2022
+2709.00,Óleos brutos de petróleo ou de minerais betuminosos.,01/04/2022
+2709.00.10,De petróleo,01/04/2022
+2709.00.90,Outros,01/04/2022
+2710.1,- Óleos de petróleo ou de minerais betuminosos (exceto óleos brutos) e preparações não especificad,01/04/2022
+2710.12,-- Óleos leves e preparações,01/04/2022
+2710.12.10,Hexano comercial,01/04/2022
+2710.12.2,Misturas de alquilidenos,01/04/2022
+2710.12.21,Di-isobutileno,01/04/2022
+2710.12.29,Outras,01/04/2022
+2710.12.30,Aguarrás mineral (white spirit),01/04/2022
+2710.12.4,Naftas,01/04/2022
+2710.12.41,Para petroquímica,01/04/2022
+2710.12.49,Outras,01/04/2022
+2710.12.5,Gasolinas,01/04/2022
+2710.12.51,De aviação,01/04/2022
+2710.12.59,Outras,01/04/2022
+2710.12.60,"Mistura de hidrocarbonetos acíclicos e cíclicos, saturados, derivados de frações de petróleo, que con",01/04/2022
+2710.12.90,Outros,01/04/2022
+2710.19,-- Outros,01/04/2022
+2710.19.1,Querosenes,01/04/2022
+2710.19.11,De aviação,01/04/2022
+2710.19.19,Outros,01/04/2022
+2710.19.2,Outros óleos combustíveis,01/04/2022
+2710.19.21,Gasóleo (óleo diesel),01/04/2022
+2710.19.22,Fuel-oil,01/04/2022
+2710.19.29,Outros,01/04/2022
+2710.19.3,Óleos lubrificantes,01/04/2022
+2710.19.31,Sem aditivos,01/04/2022
+2710.19.32,Com aditivos,01/04/2022
+2710.19.9,Outros,01/04/2022
+2710.19.91,Óleos minerais brancos (óleos de vaselina ou de parafina),01/04/2022
+2710.19.92,Líquidos para transmissões hidráulicas,01/04/2022
+2710.19.93,Óleos para isolamento elétrico,01/04/2022
+2710.19.94,"Mistura de hidrocarbonetos acíclicos e cíclicos, saturados, derivados de frações de petróleo, que con",01/04/2022
+2710.19.99,Outros,01/04/2022
+2710.20.00,- Óleos de petróleo ou de minerais betuminosos (exceto óleos brutos) e preparações não especificad,01/04/2022
+2710.9,- Resíduos de óleos:,01/04/2022
+2710.91,"-- Que contenham bifenilas policloradas (PCB), terfenilas policloradas (PCT)ou bifenilas polibromada",01/04/2024
+2710.91.10,Que contenham bifenilas policloradas (PCB) numa concentração igual ou superior a 2 m4g/kg,01/04/2500
+2710.91.20,"Outros, que contenham terfenilas policloradas (PCT) ou bifenilas polibromadas (PBB), mesmo que ta",01/04/2024
+2710.91.90,Outros,01/04/2024
+2710.99.00,-- Outros,01/04/2022
+2711.1,- Liquefeitos:,01/04/2022
+2711.11.00,-- Gás natural,01/04/2022
+2711.12,-- Propano,01/04/2022
+2711.12.10,Bruto,01/04/2022
+2711.12.90,Outros,01/04/2022
+2711.13.00,-- Butanos,01/04/2022
+2711.14.00,"-- Etileno, propileno, butileno e butadieno",01/04/2022
+2711.19,-- Outros,01/04/2022
+2711.19.10,Gás liquefeito de petróleo (GLP),01/04/2022
+2711.19.90,Outros,01/04/2022
+2711.2,- No estado gasoso:,01/04/2022
+2711.21.00,-- Gás natural,01/04/2022
+2711.29,-- Outros,01/04/2022
+2711.29.10,Butanos,01/04/2022
+2711.29.90,Outros,01/04/2022
+2712.10.00,- Vaselina,01/04/2022
+2712.20.00,"- Parafina que contenha, em peso, menos de 0,75 % de óleo",01/04/2022
+2712.90.00,- Outros,01/04/2022
+2713.1,- Coque de petróleo:,01/04/2022
+2713.11.00,-- Não calcinado,01/04/2022
+2713.12.00,-- Calcinado,01/04/2022
+2713.20.00,- Betume de petróleo,01/04/2022
+2713.90.00,- Outros resíduos dos óleos de petróleo ou de minerais betuminosos,01/04/2022
+2714.10.00,- Xistos e areias betuminosos,01/04/2022
+2714.90.00,- Outros,01/04/2022
+2715.00.00,"Misturas betuminosas à base de asfalto ou de betume naturais, de betume depetróleo, de alcatrão m",01/04/2022
+2716.00.00,Energia elétrica.,01/04/2022

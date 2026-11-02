@@ -1,0 +1,2214 @@
+codigo,descricao,data_inicio
+29.01,Hidrocarbonetos acíclicos.,01/04/2022
+29.02,Hidrocarbonetos cíclicos.,01/04/2022
+29.03,Derivados halogenados dos hidrocarbonetos.,01/04/2022
+29.04,"Derivados sulfonados, nitrados ou nitrosados dos hidrocarbonetos, mesmo halogenados.",01/04/2022
+29.05,"Álcoois acíclicos e seus derivados halogenados, sulfonados, nitrados ou nitrosados.",01/04/2022
+29.06,"Álcoois cíclicos e seus derivados halogenados, sulfonados, nitrados ou nitrosados.",01/04/2022
+29.07,Fenóis; fenóis-álcoois.,01/04/2022
+29.08,"Derivados halogenados, sulfonados, nitrados ou nitrosados dos fenóis ou dosfenóis-álcoois.",01/04/2022
+29.09,"Éteres, éteres-álcoois, éteres-fenóis, éteres-álcoois-fenóis, peróxidos de álcoois, peróxidos de éteres",01/04/2022
+29.10,"Epóxidos, epoxiálcoois, epoxifenóis e epoxiéteres, com três átomos no ciclo,e seus derivados halog",01/04/2022
+29.12,"Aldeídos, mesmo que contenham outras funções oxigenadas; polímeros cíclicos dos aldeídos; paraf",01/04/2022
+29.14,"Cetonas e quinonas, mesmo que contenham outras funções oxigenadas, e seus derivados halogena",01/04/2022
+29.15,"Ácidos monocarboxílicos acíclicos saturados e seus anidridos, halogenetos, peróxidos e peroxiácido",01/04/2022
+29.16,"Ácidos monocarboxílicos acíclicos não saturados e ácidos monocarboxílicoscíclicos, seus anidridos,",01/04/2022
+29.17,"Ácidos policarboxílicos, seus anidridos, halogenetos, peróxidos e peroxiácidos; seus derivados halog",01/04/2022
+29.18,"Ácidos carboxílicos que contenham funções oxigenadas suplementares e seus anidridos, halogeneto",01/04/2022
+29.19,"Ésteres fosfóricos e seus sais, incluindo os lactofosfatos; seus derivados halogenados, sulfonados, n",01/04/2022
+29.20,Ésteres dos outros ácidos inorgânicos de não metais (exceto os ésteres de halogenetos de hidrogên,01/04/2022
+29.21,Compostos de função amina.,01/04/2022
+29.22,Compostos aminados de funções oxigenadas.,01/04/2022
+29.23,"Sais e hidróxidos de amônio quaternários; lecitinas e outros fosfoaminolipídios, de constituição quími",01/04/2022
+29.24,Compostos de função carboxiamida; compostos de função amida do ácido carbônico.,01/04/2022
+29.25,Compostos de função carboxiimida (incluindo a sacarina e seus sais) ou de função imina.,01/04/2022
+29.26,Compostos de função nitrila.,01/04/2022
+29.29,Compostos de outras funções nitrogenadas (azotadas).,01/04/2022
+29.30,Tiocompostos orgânicos.,01/04/2022
+29.31,Outros compostos organo-inorgânicos.,01/04/2022
+29.32,Compostos heterocíclicos exclusivamente de heteroátomo(s) de oxigênio.,01/04/2022
+29.33,Compostos heterocíclicos exclusivamente de heteroátomo(s) de nitrogênio (azoto).,01/04/2022
+29.34,"Ácidos nucleicos e seus sais, de constituição química definida ou não; outroscompostos heterocíclic",01/04/2022
+29.35,Sulfonamidas.,01/04/2022
+29.36,"Provitaminas e vitaminas, naturais ou reproduzidas por síntese (incluindo osconcentrados naturais),",01/04/2022
+29.37,"Hormônios, prostaglandinas, tromboxanas e leucotrienos, naturais ou reproduzidos por síntese; seus",01/04/2022
+29.38,"Heterosídeos, naturais ou reproduzidos por síntese, seus sais, éteres, ésteres e outros derivados.",01/04/2022
+29.39,"Alcaloides, naturais ou reproduzidos por síntese, seus sais, éteres, ésteres eoutros derivados.",01/04/2022
+29.41,Antibióticos.,01/04/2022
+2901.10.00,- Saturados,01/04/2022
+2901.2,- Não saturados:,01/04/2022
+2901.21.00,-- Etileno,01/04/2022
+2901.22.00,-- Propeno (propileno),01/04/2022
+2901.23.00,-- Buteno (butileno) e seus isômeros,01/04/2022
+2901.24,"-- Buta-1,3-dieno e isopreno",01/04/2022
+2901.24.10,"Buta-1,3-dieno",01/04/2022
+2901.24.20,Isopreno,01/04/2022
+2901.29.00,-- Outros,01/04/2022
+2902.1,"- Ciclânicos, ciclênicos ou cicloterpênicos:",01/04/2022
+2902.11.00,-- Cicloexano,01/04/2022
+2902.19,-- Outros,01/04/2022
+2902.19.10,Limoneno,01/04/2022
+2902.19.90,Outros,01/04/2022
+2902.20.00,- Benzeno,01/04/2022
+2902.30.00,- Tolueno,01/04/2022
+2902.4,- Xilenos:,01/04/2022
+2902.41.00,-- o-Xileno,01/04/2022
+2902.42.00,-- m-Xileno,01/04/2022
+2902.43.00,-- p-Xileno,01/04/2022
+2902.44.00,-- Mistura de isômeros do xileno,01/04/2022
+2902.50.00,- Estireno,01/04/2022
+2902.60.00,- Etilbenzeno,01/04/2022
+2902.70.00,- Cumeno,01/04/2022
+2902.90,- Outros,01/04/2022
+2902.90.10,"Difenila (1,1'-bifenila)",01/04/2022
+2902.90.20,Naftaleno,01/04/2022
+2902.90.30,Antraceno,01/04/2022
+2902.90.40,alfa-Metilestireno,01/04/2022
+2902.90.90,Outros,01/04/2022
+2903.1,- Derivados clorados saturados dos hidrocarbonetos acíclicos:,01/04/2022
+2903.11,-- Clorometano (cloreto de metila) e cloroetano (cloreto de etila),01/04/2022
+2903.11.10,Clorometano (cloreto de metila),01/04/2022
+2903.11.20,Cloroetano (cloreto de etila),01/04/2022
+2903.12.00,-- Diclorometano (cloreto de metileno),01/04/2022
+2903.13.00,-- Clorofórmio (triclorometano),01/04/2022
+2903.14.00,-- Tetracloreto de carbono,01/04/2022
+2903.15.00,"-- Dicloreto de etileno (ISO) (1,2-dicloroetano)",01/04/2022
+2903.19,-- Outros,01/04/2022
+2903.19.10,"1,1,1-Tricloroetano (metilclorofórmio)",01/04/2022
+2903.19.20,"1,1,2-Tricloroetano",01/04/2022
+2903.19.90,Outros,01/04/2022
+2903.2,- Derivados clorados não saturados dos hidrocarbonetos acíclicos:,01/04/2022
+2903.21.00,-- Cloreto de vinila (cloroetileno),01/04/2022
+2903.22.00,-- Tricloroetileno,01/04/2022
+2903.23.00,-- Tetracloroetileno (percloroetileno),01/04/2022
+2903.29,-- Outros,01/04/2022
+2903.29.10,Hexaclorobutadieno,01/04/2022
+2903.29.90,Outros,01/04/2022
+2903.4,- Derivados fluorados saturados dos hidrocarbonetos acíclicos:,01/04/2022
+2903.41.00,-- Trifluorometano (HFC-23),01/04/2022
+2903.42.00,-- Difluorometano (HFC-32),01/04/2022
+2903.43.00,"-- Fluorometano (HFC-41), 1,2-difluoroetano (HFC-152) e 1,1-difluoroetano (H",
+2903.44.00,"-- Pentafluoroetano (HFC-125), 1,1,1-trifluoroetano (HFC-143a) e 1,1,2-trifluoroetano (HFC-143)",01/04/2022
+2903.45,"-- 1,1,1,2-Tetrafluoroetano (HFC-134a) e 1,1,2,2-tetrafluoroetano (HFC-134)",01/04/2022
+2903.45.10,"1,1,1,2-Tetrafluoroetano (HFC-134a)",01/04/2022
+2903.45.20,"1,1,2,2-Tetrafluoroetano (HFC-134)",01/04/2022
+2903.46.00,"-- 1,1,1,2,3,3,3-Heptafluoropropano (HFC-227ea), 1,1,1,2,2,3-hexafluoropropano (HFC-236cb), 1,1,1",01/04/2022
+2903.47.00,"-- 1,1,1,3,3-Pentafluoropropano (HFC-245fa) e 1,1,2,2,3-pentafluoropropano (",
+2903.48.00,"-- 1,1,1,3,3-Pentafluorobutano (HFC-365mfc) e 1,1,1,2,2,3,4,5,5,5-decafluoropentano (HFC-43-10me",01/04/2022
+2903.49.00,-- Outros,01/04/2022
+2903.5,- Derivados fluorados não saturados dos hidrocarbonetos acíclicos:,01/04/2022
+2903.51.00,"-- 2,3,3,3-Tetrafluoropropeno (HFO-1234yf), 1,3,3,3-tetrafluoropropeno (HFO-",
+2903.59,-- Outros,01/04/2022
+2903.59.10,"1,1,3,3,3-Pentafluoro-2-(trifluorometil)prop-1-eno",01/04/2022
+2903.59.90,Outros,01/04/2022
+2903.6,- Derivados bromados ou iodados dos hidrocarbonetos acíclicos:,01/04/2022
+2903.61.00,-- Brometo de metila (bromometano),01/04/2022
+2903.62.00,"-- Dibrometo de etileno (ISO) (1,2-dibromoetano)",01/04/2022
+2903.69,-- Outros,01/04/2022
+2903.69.10,Iodoetano,01/04/2022
+2903.69.20,Iodofórmio,01/04/2022
+2903.69.90,Outros,01/04/2022
+2903.7,- Derivados halogenados dos hidrocarbonetos acíclicos que contenham pelomenos dois halogênios,01/04/2022
+2903.71.00,-- Clorodifluorometano (HCFC-22),01/04/2022
+2903.72.00,-- Diclorotrifluoroetanos (HCFC-123),01/04/2022
+2903.73.00,"-- Diclorofluoroetanos (HCFC-141, 141b)",01/04/2022
+2903.74.00,"-- Clorodifluoroetanos (HCFC-142, 142b)",01/04/2022
+2903.75.00,"-- Dicloropentafluoropropanos (HCFC-225, 225ca, 225cb)",01/04/2022
+2903.76.00,"-- Bromoclorodifluorometano (halon-1211), bromotrifluorometano (halon-1301) e dibromotetrafluoroet",01/04/2022
+2903.77,"-- Outros, peralogenados unicamente com flúor e cloro",01/04/2022
+2903.77.1,"Derivados peralogenados do metano, unicamente com flúor e cloro",01/04/2022
+2903.77.11,Triclorofluorometano,01/04/2022
+2903.77.12,Diclorodifluorometano,01/04/2022
+2903.77.13,Clorotrifluorometano,01/04/2022
+2903.77.2,"Derivados peralogenados do etano, unicamente com flúor e cloro",01/04/2022
+2903.77.21,Triclorotrifluoroetanos,01/04/2022
+2903.77.22,Diclorotetrafluoroetanos e cloropentafluoroetano,01/04/2022
+2903.77.23,Pentaclorofluoroetano,01/04/2022
+2903.77.24,Tetraclorodifluoroetanos,01/04/2022
+2903.77.3,"Derivados peralogenados do propano, unicamente com flúor e cloro",01/04/2022
+2903.77.31,Heptaclorofluoropropanos,01/04/2022
+2903.77.32,Hexaclorodifluoropropanos,01/04/2022
+2903.77.33,Pentaclorotrifluoropropanos,01/04/2022
+2903.77.34,Tetraclorotetrafluoropropanos,01/04/2022
+2903.77.35,Tricloropentafluoropropanos,01/04/2022
+2903.77.36,Dicloroexafluoropropanos,01/04/2022
+2903.77.37,Cloroeptafluoropropanos,01/04/2022
+2903.77.90,Outros,01/04/2022
+2903.78.00,-- Outros derivados peralogenados,01/04/2022
+2903.79,-- Outros,01/04/2022
+2903.79.1,"Derivados do metano, etano ou propano, halogenados unicamente com flúore cloro",01/04/2022
+2903.79.11,Clorofluoroetanos,01/04/2022
+2903.79.12,Clorotetrafluoroetanos,01/04/2022
+2903.79.19,Outros,01/04/2022
+2903.79.20,"Derivados do metano, etano ou propano, halogenados unicamente com flúore bromo",01/04/2022
+2903.79.3,Bromoclorotrifluoroetanos,01/04/2022
+2903.79.31,Halotano,01/04/2022
+2903.79.39,Outros,01/04/2022
+2903.79.90,Outros,01/04/2022
+2903.8,"- Derivados halogenados dos hidrocarbonetos ciclânicos, ciclênicos ou cicloterpênicos:",01/04/2022
+2903.81,"-- 1,2,3,4,5,6-Hexaclorocicloexano (HCH (ISO)), incluindo o lindano (ISO, DCI)",01/04/2022
+2903.81.10,Lindano (gama-hexaclorocicloexano),01/04/2022
+2903.81.20,alfa-Hexaclorocicloexano,01/04/2022
+2903.81.30,beta-Hexaclorocicloexano,01/04/2022
+2903.81.90,Outros,01/04/2022
+2903.82,"-- Aldrin (ISO), clordano (ISO) e heptacloro (ISO)",01/04/2022
+2903.82.10,Aldrin,01/04/2022
+2903.82.20,Clordano,01/04/2022
+2903.82.30,Heptacloro,01/04/2022
+2903.83.00,-- Mirex (ISO),01/04/2022
+2903.89,-- Outros,01/04/2022
+2903.89.10,Hexabromociclododecanos (HBCD),01/04/2024
+2903.89.90,Outros,01/04/2022
+2903.9,- Derivados halogenados dos hidrocarbonetos aromáticos:,01/04/2022
+2903.91,"-- Clorobenzeno, o-diclorobenzeno e p-diclorobenzeno",01/04/2022
+2903.91.10,Clorobenzeno,01/04/2022
+2903.91.20,o-Diclorobenzeno,01/04/2022
+2903.91.30,p-Diclorobenzeno,01/04/2022
+2903.92,"-- Hexaclorobenzeno (ISO) e DDT (ISO) (clofenotano (DCI), 1,1,1-tricloro-2,2-bis(p-clorofenil)etano)",01/04/2022
+2903.92.10,Hexaclorobenzeno,01/04/2022
+2903.92.20,DDT,01/04/2022
+2903.93.00,-- Pentaclorobenzeno (ISO),01/04/2022
+2903.94.00,-- Hexabromobifenilas,01/04/2022
+2903.99,-- Outros,01/04/2022
+2903.99.1,"Derivados halogenados, unicamente com cloro",01/04/2022
+2903.99.11,Cloreto de benzila,01/04/2022
+2903.99.12,p-Clorotolueno,01/04/2022
+2903.99.13,Cloreto de neofila,01/04/2022
+2903.99.14,Triclorobenzenos,01/04/2022
+2903.99.15,Cloronaftalenos,01/04/2022
+2903.99.16,Cloreto de benzilideno,01/04/2022
+2903.99.17,Cloretos de xilila,01/04/2022
+2903.99.18,Bifenilas policloradas (PCB); terfenilas policloradas (PCT),01/04/2022
+2903.99.19,Outros,01/04/2022
+2903.99.2,"Derivados halogenados, unicamente com bromo",01/04/2022
+2903.99.21,Bromobenzeno,01/04/2022
+2903.99.22,Brometos de xilila,01/04/2022
+2903.99.23,Bromodifenilmetano,01/04/2022
+2903.99.24,Bifenilas polibromadas (PBB),01/04/2022
+2903.99.29,Outros,01/04/2022
+2903.99.3,"Derivados halogenados, unicamente com flúor e cloro",01/04/2022
+2903.99.31,"4-Cloro-alfa,alfa,alfa-trifluortolueno",01/04/2022
+2903.99.39,Outros,01/04/2022
+2903.99.90,Outros,01/04/2022
+2904.10,"- Derivados apenas sulfonados, seus sais e seus ésteres etílicos",01/04/2022
+2904.10.1,Ácido metanossulfônico e seus sais,01/04/2022
+2904.10.11,Ácido metanossulfônico,01/04/2022
+2904.10.12,Metanossulfonato de chumbo,01/04/2022
+2904.10.13,Metanossulfonato de estanho,01/04/2022
+2904.10.19,Outros,01/04/2022
+2904.10.20,Ácido dodecilbenzenossulfônico e seus sais,01/04/2022
+2904.10.30,Ácidos toluenossulfônicos; ácidos xilenossulfônicos; sais destes ácidos,01/04/2022
+2904.10.40,Ácido etanossulfônico; ácido etilenossulfônico,01/04/2022
+2904.10.5,"Ácidos naftalenossulfônicos, seus sais e seus ésteres",01/04/2022
+2904.10.51,Naftalenossulfonatos de sódio,01/04/2022
+2904.10.52,Ácido beta-naftalenossulfônico,01/04/2022
+2904.10.53,Ácidos alquil- e dialquilnaftalenossulfônicos; sais destes ácidos,01/04/2022
+2904.10.59,Outros,01/04/2022
+2904.10.60,Ácido benzenossulfônico e seus sais,01/04/2022
+2904.10.90,Outros,01/04/2022
+2904.20,- Derivados apenas nitrados ou apenas nitrosados,01/04/2022
+2904.20.10,Mononitrotoluenos (MNT),01/04/2022
+2904.20.20,Nitropropanos,01/04/2022
+2904.20.30,Dinitrotoluenos,01/04/2022
+2904.20.4,Trinitrotoluenos,01/04/2022
+2904.20.41,"2,4,6-Trinitrotolueno (TNT)",01/04/2022
+2904.20.49,Outros,01/04/2022
+2904.20.5,Derivados nitrados do benzeno,01/04/2022
+2904.20.51,Nitrobenzeno,01/04/2022
+2904.20.52,"1,3,5-Trinitrobenzeno",01/04/2022
+2904.20.59,Outros,01/04/2022
+2904.20.60,Derivados nitrados do xileno,01/04/2022
+2904.20.70,Mononitroetano; nitrometanos,01/04/2022
+2904.20.90,Outros,01/04/2022
+2904.3,"- Ácido perfluoroctano sulfônico, seus sais e fluoreto de perfluoroctanossulfonila:",01/04/2022
+2904.31.00,-- Ácido perfluoroctano sulfônico,01/04/2022
+2904.32.00,-- Perfluoroctanossulfonato de amônio,01/04/2022
+2904.33.00,-- Perfluoroctanossulfonato de lítio,01/04/2022
+2904.34.00,-- Perfluoroctanossulfonato de potássio,01/04/2022
+2904.35.00,-- Outros sais do ácido perfluoroctano sulfônico,01/04/2022
+2904.36.00,-- Fluoreto de perfluoroctanossulfonila,01/04/2022
+2904.9,- Outros:,01/04/2022
+2904.91.00,-- Tricloronitrometano (cloropicrina),01/04/2022
+2904.99,-- Outros,01/04/2022
+2904.99.1,Derivados nitroalogenados,01/04/2022
+2904.99.11,1-Cloro-4-nitrobenzeno,01/04/2022
+2904.99.12,"1-Cloro-2,4-dinitrobenzeno",01/04/2022
+2904.99.13,"2-Cloro-1,3-dinitrobenzeno",01/04/2022
+2904.99.14,"4-Cloro-alfa,alfa,alfa-trifluor-3,5-dinitrotolueno",01/04/2022
+2904.99.15,o-Nitroclorobenzeno; m-nitroclorobenzeno,01/04/2022
+2904.99.16,"1,2-Dicloro-4-nitrobenzeno",01/04/2022
+2904.99.19,Outros,01/04/2022
+2904.99.2,Derivados nitrossulfonados,01/04/2022
+2904.99.21,Ácidos dinitroestilbenodissulfônicos,01/04/2022
+2904.99.29,Outros,01/04/2022
+2904.99.30,Cloreto de p-toluenossulfonila (cloreto de tosila),01/04/2022
+2904.99.40,Cloreto de o-toluenossulfonila,01/04/2022
+2904.99.90,Outros,01/04/2022
+2905.1,- Monoálcoois saturados:,01/04/2022
+2905.11.00,-- Metanol (álcool metílico),01/04/2022
+2905.12,-- Propan-1-ol (álcool propílico) e propan-2-ol (álcool isopropílico),01/04/2022
+2905.12.10,Álcool propílico,01/04/2022
+2905.12.20,Álcool isopropílico,01/04/2022
+2905.13.00,-- Butan-1-ol (álcool n-butílico),01/04/2022
+2905.14,-- Outros butanóis,01/04/2022
+2905.14.10,Álcool isobutílico (2-metil-1-propanol),01/04/2022
+2905.14.20,Álcool sec-butílico (2-butanol),01/04/2022
+2905.14.30,Álcool ter-butílico (2-metil-2-propanol),01/04/2022
+2905.16.00,-- Octanol (álcool octílico) e seus isômeros,01/04/2022
+2905.17,"-- Dodecan-1-ol (álcool láurico (laurílico*)), hexadecan-1-ol (álcool cetílico) eoctadecan-2-ol (álcool e",01/04/2021
+2905.17.10,Álcool láurico,01/04/2022
+2905.17.20,Álcool cetílico,01/04/2022
+2905.17.30,Álcool esteárico,01/04/2022
+2905.19,-- Outros,01/04/2022
+2905.19.1,Decanóis,01/04/2022
+2905.19.11,n-Decanol,01/04/2022
+2905.19.12,Isodecanol,01/04/2022
+2905.19.19,Outros,01/04/2022
+2905.19.2,Alcoolatos metálicos,01/04/2022
+2905.19.21,Etilato de magnésio,01/04/2022
+2905.19.22,Metilato de sódio,01/04/2022
+2905.19.23,Etilato de sódio,01/04/2022
+2905.19.29,Outros,01/04/2022
+2905.19.9,Outros,01/04/2022
+2905.19.91,4-Metilpentan-2-ol,01/04/2022
+2905.19.92,Isononanol,01/04/2022
+2905.19.93,Isotridecanol,01/04/2022
+2905.19.94,"Tetra-hidrolinalol (3,7-dimetiloctan-3-ol)",01/04/2022
+2905.19.95,"3,3-Dimetilbutan-2-ol (álcool pinacolílico)",01/04/2022
+2905.19.96,Pentanol (álcool amílico) e seus isômeros,01/04/2022
+2905.19.99,Outros,01/04/2022
+2905.2,- Monoálcoois não saturados:,01/04/2022
+2905.22,-- Álcoois terpênicos acíclicos,01/04/2022
+2905.22.10,Linalol,01/04/2022
+2905.22.20,Geraniol,01/04/2022
+2905.22.30,"Di-hidromircenol (2,6-dimetil-7-octen-2-ol)",01/04/2022
+2905.22.90,Outros,01/04/2022
+2905.29,-- Outros,01/04/2022
+2905.29.10,Álcool alílico,01/04/2022
+2905.29.90,Outros,01/04/2022
+2905.3,- Dióis:,01/04/2022
+2905.31.00,-- Etilenoglicol (etanodiol),01/04/2022
+2905.32.00,"-- Propilenoglicol (propano-1,2-diol)",01/04/2022
+2905.39,-- Outros,01/04/2022
+2905.39.10,"2-Metil-2,4-pentanodiol (hexilenoglicol)",01/04/2022
+2905.39.20,"Trimetilenoglicol (1,3-propanodiol)",01/04/2022
+2905.39.30,"1,3-Butilenoglicol (1,3-butanodiol)",01/04/2022
+2905.39.90,Outros,01/04/2022
+2905.4,- Outros poliálcoois:,01/04/2022
+2905.41.00,"-- 2-Etil-2-(hidroximetil)propano-1,3-diol (trimetilolpropano)",01/04/2022
+2905.42.00,-- Pentaeritritol (pentaeritrita),01/04/2022
+2905.43.00,-- Manitol,01/04/2022
+2905.44.00,-- D-glucitol (sorbitol),01/04/2022
+2905.45.00,-- Glicerol,01/04/2022
+2905.49.00,-- Outros,01/04/2022
+2905.5,"- Derivados halogenados, sulfonados, nitrados ou nitrosados dos álcoois acíclicos:",01/04/2022
+2905.51.00,-- Etclorvinol (DCI),01/04/2022
+2905.59,-- Outros,01/04/2022
+2905.59.10,Hidrato de cloral,01/04/2022
+2905.59.90,Outros,01/04/2022
+2906.1,"- Ciclânicos, ciclênicos ou cicloterpênicos:",01/04/2022
+2906.11.00,-- Mentol,01/04/2022
+2906.12.00,"-- Cicloexanol, metilcicloexanóis e dimetilcicloexanóis",01/04/2022
+2906.13.00,-- Esteróis e inositóis,01/04/2022
+2906.19,-- Outros,01/04/2022
+2906.19.10,Derivados do mentol,01/04/2022
+2906.19.20,Borneol; isoborneol,01/04/2022
+2906.19.30,Terpina e seu hidrato,01/04/2022
+2906.19.40,"Álcool fenchílico (1,3,3-trimetil-2-norbornanol)",01/04/2022
+2906.19.50,Terpineóis,01/04/2022
+2906.19.90,Outros,01/04/2022
+2906.2,- Aromáticos:,01/04/2022
+2906.21.00,-- Álcool benzílico,01/04/2022
+2906.29,-- Outros,01/04/2022
+2906.29.10,2-Feniletanol,01/04/2022
+2906.29.20,Dicofol,01/04/2022
+2906.29.90,Outros,01/04/2022
+2907.1,- Monofenóis:,01/04/2022
+2907.11.00,-- Fenol (hidroxibenzeno) e seus sais,01/04/2022
+2907.12.00,-- Cresóis e seus sais,01/04/2022
+2907.13.00,"-- Octilfenol, nonilfenol, e seus isômeros; sais destes produtos",01/04/2022
+2907.15,-- Naftóis e seus sais,01/04/2022
+2907.15.10,beta-Naftol e seus sais,01/04/2022
+2907.15.90,Outros,01/04/2022
+2907.19,-- Outros,01/04/2022
+2907.19.10,"2,6-Di-ter-butil-p-cresol e seus sais",01/04/2022
+2907.19.20,o-Fenilfenol e seus sais,01/04/2022
+2907.19.30,p-ter-Butilfenol e seus sais,01/04/2022
+2907.19.40,Xilenóis e seus sais,01/04/2022
+2907.19.90,Outros,01/04/2022
+2907.2,- Polifenóis; fenóis-álcoois:,01/04/2022
+2907.21.00,-- Resorcinol e seus sais,01/04/2022
+2907.22.00,-- Hidroquinona e seus sais,01/04/2022
+2907.23.00,"-- 4,4'-Isopropilidenodifenol (bisfenol A, difenilolpropano) e seus sais",01/04/2022
+2907.29.00,-- Outros,01/04/2022
+2908.1,- Derivados apenas halogenados e seus sais:,01/04/2022
+2908.11.00,-- Pentaclorofenol (ISO),01/04/2022
+2908.19,-- Outros,01/04/2022
+2908.19.1,Derivados halogenados unicamente com cloro,01/04/2022
+2908.19.11,4-Cloro-m-cresol e seus sais,01/04/2022
+2908.19.12,Diclorofenóis e seus sais,01/04/2022
+2908.19.13,p-Clorofenol,01/04/2022
+2908.19.14,Triclorofenóis e seus sais,01/04/2022
+2908.19.15,Tetraclorofenóis e seus sais,01/04/2022
+2908.19.16,Pentaclorofenato de sódio,01/04/2022
+2908.19.19,Outros,01/04/2022
+2908.19.2,Derivados halogenados unicamente com bromo,01/04/2022
+2908.19.21,"2,4,6-Tribromofenol",01/04/2022
+2908.19.29,Outros,01/04/2022
+2908.19.90,Outros,01/04/2022
+2908.9,- Outros:,01/04/2022
+2908.91.00,-- Dinoseb (ISO) e seus sais,01/04/2022
+2908.92.00,"-- 4,6-Dinitro-o-cresol (DNOC (ISO)) e seus sais",01/04/2022
+2908.99,-- Outros,01/04/2022
+2908.99.1,Derivados apenas nitrados e seus sais,01/04/2022
+2908.99.12,p-Nitrofenol e seus sais,01/04/2022
+2908.99.13,Ácido pícrico,01/04/2022
+2908.99.19,Outros,01/04/2022
+2908.99.2,Derivados nitroalogenados,01/04/2022
+2908.99.21,Disofenol,01/04/2022
+2908.99.29,Outros,01/04/2022
+2908.99.30,"Derivados sulfonados do fenol, seus sais e seus ésteres",01/04/2022
+2908.99.90,Outros,01/04/2022
+2909.1,"- Éteres acíclicos e seus derivados halogenados, sulfonados, nitrados ou nitrosados:",01/04/2022
+2909.11.00,-- Éter dietílico (óxido de dietila),01/04/2022
+2909.19,-- Outros,01/04/2022
+2909.19.10,Éter metil-ter-butílico (MTBE),01/04/2022
+2909.19.20,Sevoflurano,01/04/2022
+2909.19.90,Outros,01/04/2022
+2909.20.00,"- Éteres ciclânicos, ciclênicos, cicloterpênicos e seus derivados halogenados,sulfonados, nitrados ou",01/04/2022
+2909.30,"- Éteres aromáticos e seus derivados halogenados, sulfonados, nitrados ou nitrosados",01/04/2022
+2909.30.1,Éteres aromáticos,01/04/2022
+2909.30.11,Anetol,01/04/2022
+2909.30.12,Éter difenílico (éter fenílico),01/04/2022
+2909.30.13,Éter dibenzílico (éter benzílico),01/04/2022
+2909.30.14,Éter feniletil-isoamílico,01/04/2022
+2909.30.19,Outros,01/04/2022
+2909.30.2,"Derivados halogenados, sulfonados, nitrados ou nitrosados",01/04/2022
+2909.30.21,Oxifluorfeno,01/04/2022
+2909.30.22,Pentacloroanisol,01/04/2022
+2909.30.23,Éteres tetra- ou pentabromodifenílicos,01/04/2022
+2909.30.24,"Éteres hexa-, hepta- ou octabromodifenílicos",01/04/2022
+2909.30.25,Éter decabromodifenílico,01/04/2022
+2909.30.29,Outros,01/04/2022
+2909.4,"- Éteres-álcoois e seus derivados halogenados, sulfonados, nitrados ou nitrosados:",01/04/2022
+2909.41.00,"-- 2,2'-Oxidietanol (dietilenoglicol)",01/04/2022
+2909.43,-- Éteres monobutílicos do etilenoglicol ou do dietilenoglicol,01/04/2022
+2909.43.10,Do etilenoglicol,01/04/2022
+2909.43.20,Do dietilenoglicol,01/04/2022
+2909.44,-- Outros éteres monoalquílicos do etilenoglicol ou do dietilenoglicol,01/04/2022
+2909.44.1,Do etilenoglicol,01/04/2022
+2909.44.11,Éter etílico,01/04/2022
+2909.44.12,Éter isobutílico,01/04/2022
+2909.44.13,Éter hexílico,01/04/2022
+2909.44.19,Outros,01/04/2022
+2909.44.2,Do dietilenoglicol,01/04/2022
+2909.44.21,Éter etílico,01/04/2022
+2909.44.29,Outros,01/04/2022
+2909.49,-- Outros,01/04/2022
+2909.49.10,Guaifenesina,01/04/2022
+2909.49.2,Etilenoglicóis e seus éteres,01/04/2022
+2909.49.21,Trietilenoglicol,01/04/2022
+2909.49.22,Tetraetilenoglicol,01/04/2022
+2909.49.23,Pentaetilenoglicol e seus éteres,01/04/2022
+2909.49.24,Éter fenílico do etilenoglicol,01/04/2022
+2909.49.29,Outros,01/04/2022
+2909.49.3,Propilenoglicóis e seus éteres,01/04/2022
+2909.49.31,Dipropilenoglicol,01/04/2022
+2909.49.32,"Éteres do mono-, di- e tripropilenoglicol",01/04/2022
+2909.49.39,Outros,01/04/2022
+2909.49.4,Butilenoglicóis e seus éteres,01/04/2022
+2909.49.41,Éter etílico do butilenoglicol,01/04/2022
+2909.49.49,Outros,01/04/2022
+2909.49.50,Álcoois fenoxibenzílicos,01/04/2022
+2909.49.90,Outros,01/04/2022
+2909.50,"- Éteres-fenóis, éteres-álcoois-fenóis, e seus derivados halogenados, sulfonados, nitrados ou nitrosa",01/04/2022
+2909.50.1,Éteres-fenóis,01/04/2022
+2909.50.11,Triclosan,01/04/2022
+2909.50.12,Eugenol,01/04/2022
+2909.50.13,Isoeugenol,01/04/2022
+2909.50.19,Outros,01/04/2022
+2909.50.90,Outros,01/04/2022
+2909.60,"- Peróxidos de álcoois, peróxidos de éteres, peróxidos de acetais e de hemiacetais, peróxidos de cet",01/04/2022
+2909.60.1,Hidroperóxidos,01/04/2022
+2909.60.11,De di-isopropilbenzeno,01/04/2022
+2909.60.12,De ter-butila,01/04/2022
+2909.60.13,De p-mentano,01/04/2022
+2909.60.19,Outros,01/04/2022
+2909.60.90,Outros,01/04/2022
+2910.10.00,- Oxirano (óxido de etileno),01/04/2022
+2910.20.00,- Metiloxirano (óxido de propileno),01/04/2022
+2910.30.00,"- 1-Cloro-2,3-epoxipropano (epicloridrina)",01/04/2022
+2910.40.00,"- Dieldrin (ISO, DCI)",01/04/2022
+2910.50.00,- Endrin (ISO),01/04/2022
+2910.90,- Outros,01/04/2022
+2910.90.10,Óxido de estireno,01/04/2022
+2910.90.90,Outros,01/04/2022
+2911.00,"Acetais e hemiacetais, mesmo que contenham outras funções oxigenadas, eseus derivados halogen",01/04/2022
+2911.00.10,Dimetilacetal do 2-nitrobenzaldeído,01/04/2022
+2911.00.90,Outros,01/04/2022
+2912.1,- Aldeídos acíclicos que não contenham outras funções oxigenadas:,01/04/2022
+2912.11.00,-- Metanal (formaldeído),01/04/2022
+2912.12.00,-- Etanal (acetaldeído),01/04/2022
+2912.19,-- Outros,01/04/2022
+2912.19.1,Dialdeídos,01/04/2022
+2912.19.11,Glioxal,01/04/2022
+2912.19.12,Glutaraldeído,01/04/2022
+2912.19.19,Outros,01/04/2022
+2912.19.2,Monoaldeídos não saturados,01/04/2022
+2912.19.21,Citral,01/04/2022
+2912.19.22,"Citronelal (3,7-dimetil-6-octenal)",01/04/2022
+2912.19.23,"Bergamal (3,7-dimetil-2-metileno-6-octenal)",01/04/2022
+2912.19.29,Outros,01/04/2022
+2912.19.9,Outros,01/04/2022
+2912.19.91,Heptanal,01/04/2022
+2912.19.99,Outros,01/04/2022
+2912.2,- Aldeídos cíclicos que não contenham outras funções oxigenadas:,01/04/2022
+2912.21.00,-- Benzaldeído (aldeído benzoico),01/04/2022
+2912.29,-- Outros,01/04/2022
+2912.29.10,Aldeído alfa-amilcinâmico,01/04/2022
+2912.29.20,Aldeído alfa-hexilcinâmico,01/04/2022
+2912.29.90,Outros,01/04/2022
+2912.4,"- Aldeídos-álcoois, aldeídos-éteres, aldeídos-fenóis e aldeídos que contenham outras funções oxigen",01/04/2022
+2912.41.00,-- Vanilina (aldeído metilprotocatéquico),01/04/2022
+2912.42.00,-- Etilvanilina (aldeído etilprotocatéquico),01/04/2022
+2912.49,-- Outros,01/04/2022
+2912.49.10,3-Fenoxibenzaldeído,01/04/2022
+2912.49.20,3-Hidroxibenzaldeído,01/04/2022
+2912.49.30,"3,4,5-Trimetoxibenzaldeído",01/04/2022
+2912.49.4,Aldeídos-álcoois,01/04/2022
+2912.49.41,4-(4-Hidroxi-4-metilpentil)-3-cicloexeno-1-carboxialdeído,01/04/2022
+2912.49.49,Outros,01/04/2022
+2912.49.90,Outros,01/04/2022
+2912.50.00,- Polímeros cíclicos dos aldeídos,01/04/2022
+2912.60.00,- Paraformaldeído,01/04/2022
+2913.00,"Derivados halogenados, sulfonados, nitrados ou nitrosados dos produtos daposição 2.212.",01/04/2209
+2913.00.10,Tricloroacetaldeído,01/04/2022
+2913.00.90,Outros,01/04/2022
+2914.1,- Cetonas acíclicas que não contenham outras funções oxigenadas:,01/04/2022
+2914.11.00,-- Acetona,01/04/2022
+2914.12.00,-- Butanona (metiletilcetona),01/04/2022
+2914.13.00,-- 4-Metilpentan-2-ona (metilisobutilcetona),01/04/2022
+2914.19,-- Outras,01/04/2022
+2914.19.10,Forona,01/04/2022
+2914.19.2,Dicetonas,01/04/2022
+2914.19.21,Acetilacetona,01/04/2022
+2914.19.22,Acetonilacetona,01/04/2022
+2914.19.23,Diacetila,01/04/2022
+2914.19.29,Outras,01/04/2022
+2914.19.30,Metilexilcetona,01/04/2022
+2914.19.40,Pseudoiononas,01/04/2022
+2914.19.50,Metilisopropilcetona,01/04/2022
+2914.19.90,Outras,01/04/2022
+2914.2,"- Cetonas ciclânicas, ciclênicas ou cicloterpênicas que não contenham outrasfunções oxigenadas:",01/04/2022
+2914.22,-- Cicloexanona e metilcicloexanonas,01/04/2022
+2914.22.10,Cicloexanona,01/04/2022
+2914.22.20,Metilcicloexanonas,01/04/2022
+2914.23,-- Iononas e metiliononas,01/04/2022
+2914.23.10,Iononas,01/04/2022
+2914.23.20,Metiliononas,01/04/2022
+2914.29,-- Outras,01/04/2022
+2914.29.10,Carvona,01/04/2022
+2914.29.20,l-Mentona,01/04/2022
+2914.29.90,Outras,01/04/2022
+2914.3,- Cetonas aromáticas que não contenham outras funções oxigenadas:,01/04/2022
+2914.31.00,-- Fenilacetona (fenilpropan-2-ona),01/04/2022
+2914.39,-- Outras,01/04/2022
+2914.39.10,Acetofenona,01/04/2022
+2914.39.90,Outras,01/04/2022
+2914.40,- Cetonas-álcoois e cetonas-aldeídos,01/04/2022
+2914.40.10,4-Hidroxi-4-metilpentan-2-ona (diacetona álcool),01/04/2022
+2914.40.9,Outras,01/04/2022
+2914.40.91,Benzoína,01/04/2022
+2914.40.99,Outras,01/04/2022
+2914.50,- Cetonas-fenóis e cetonas que contenham outras funções oxigenadas,01/04/2022
+2914.50.10,Nabumetona,01/04/2022
+2914.50.20,"1,8-Di-hidroxi-3-metil-9-antrona e sua forma enólica (crisarobina ou chrysarobin)",01/04/2022
+2914.50.90,Outras,01/04/2022
+2914.6,- Quinonas:,01/04/2022
+2914.61.00,-- Antraquinona,01/04/2022
+2914.62.00,-- Coenzima Q10 (ubidecarenona (DCI)),01/04/2022
+2914.69,-- Outras,01/04/2022
+2914.69.10,Lapachol,01/04/2022
+2914.69.20,Menadiona,01/04/2022
+2914.69.90,Outras,01/04/2022
+2914.7,"- Derivados halogenados, sulfonados, nitrados ou nitrosados:",01/04/2022
+2914.71.00,-- Clordecona (ISO),01/04/2022
+2914.79,-- Outros,01/04/2022
+2914.79.1,Derivados halogenados,01/04/2022
+2914.79.11,1-Cloro-5-hexanona,01/04/2022
+2914.79.19,Outros,01/04/2022
+2914.79.2,Derivados sulfonados,01/04/2022
+2914.79.21,Bissulfito sódico de menadiona,01/04/2022
+2914.79.22,Ácido 2-hidroxi-4-metoxibenzofenona-5-sulfônico (sulisobenzona),01/04/2022
+2914.79.29,Outros,01/04/2022
+2914.79.90,Outros,01/04/2022
+2915.1,"- Ácido fórmico, seus sais e seus ésteres:",01/04/2022
+2915.11.00,-- Ácido fórmico,01/04/2022
+2915.12,-- Sais do ácido fórmico,01/04/2022
+2915.12.10,De sódio,01/04/2022
+2915.12.90,Outros,01/04/2022
+2915.13,-- Ésteres do ácido fórmico,01/04/2022
+2915.13.10,De geranila,01/04/2022
+2915.13.90,Outros,01/04/2022
+2915.2,- Ácido acético e seus sais; anidrido acético:,01/04/2022
+2915.21.00,-- Ácido acético,01/04/2022
+2915.24.00,-- Anidrido acético,01/04/2022
+2915.29,-- Outros,01/04/2022
+2915.29.10,Acetato de sódio,01/04/2022
+2915.29.20,Acetatos de cobalto,01/04/2022
+2915.29.90,Outros,01/04/2022
+2915.3,- Ésteres do ácido acético:,01/04/2022
+2915.31.00,-- Acetato de etila,01/04/2022
+2915.32.00,-- Acetato de vinila,01/04/2022
+2915.33.00,-- Acetato de n-butila,01/04/2022
+2915.36.00,-- Acetato de dinoseb (ISO),01/04/2022
+2915.39,-- Outros,01/04/2022
+2915.39.10,Acetato de linalila,01/04/2022
+2915.39.2,Acetatos de glicerila,01/04/2022
+2915.39.21,Triacetina,01/04/2022
+2915.39.29,Outros,01/04/2022
+2915.39.3,"Acetatos de monoálcoois acíclicos saturados de até 8 átomos de carbono, inclusive",01/04/2022
+2915.39.31,De n-propila,01/04/2022
+2915.39.32,Acetato de 2-etoxietila,01/04/2022
+2915.39.39,Outros,01/04/2022
+2915.39.4,Acetatos de decila ou de hexenila,01/04/2022
+2915.39.41,De decila,01/04/2022
+2915.39.42,De hexenila,01/04/2022
+2915.39.5,"Acetatos de benzestrol, de dienoestrol, de hexestrol, de mestilbol ou de estilbestrol",01/04/2022
+2915.39.51,De benzestrol,01/04/2022
+2915.39.52,De dienoestrol,01/04/2022
+2915.39.53,De hexestrol,01/04/2022
+2915.39.54,De mestilbol,01/04/2022
+2915.39.55,De estilbestrol,01/04/2022
+2915.39.6,"Acetatos de tricloro-alfa-feniletila, de triclorometilfenilcarbinila ou diacetato deetilenoglicol (diacetato",01/04/2022
+2915.39.61,De tricloro-alfa-feniletila,01/04/2022
+2915.39.62,De triclorometilfenilcarbinila,01/04/2022
+2915.39.63,Diacetato de etilenoglicol (diacetato de etileno),01/04/2022
+2915.39.9,Outros,01/04/2022
+2915.39.91,De 2-ter-butilcicloexila,01/04/2022
+2915.39.92,De bornila,01/04/2022
+2915.39.93,De dimetilbenzilcarbinila,01/04/2022
+2915.39.94,Bis(p-acetoxifenil)cicloexilidenometano (ciclofenil),01/04/2022
+2915.39.99,Outros,01/04/2022
+2915.40,"- Ácidos mono-, di- ou tricloroacéticos, seus sais e seus ésteres",01/04/2022
+2915.40.10,Ácido monocloroacético,01/04/2022
+2915.40.20,Monocloroacetato de sódio,01/04/2022
+2915.40.90,Outros,01/04/2022
+2915.50,"- Ácido propiônico, seus sais e seus ésteres",01/04/2022
+2915.50.10,Ácido propiônico,01/04/2022
+2915.50.20,Sais,01/04/2022
+2915.50.30,Ésteres,01/04/2022
+2915.60,"- Ácidos butanoicos, ácidos pentanoicos, seus sais e seus ésteres",01/04/2022
+2915.60.1,"Ácidos butanoicos, seus sais e seus ésteres",01/04/2022
+2915.60.11,Ácidos butanoicos e seus sais,01/04/2022
+2915.60.12,Butanoato de etila,01/04/2022
+2915.60.19,Outros,01/04/2022
+2915.60.2,"Ácidos pentanoicos, seus sais e seus ésteres",01/04/2022
+2915.60.21,Ácido piválico,01/04/2022
+2915.60.29,Outros,01/04/2022
+2915.70,"- Ácido palmítico, ácido esteárico, seus sais e seus ésteres",01/04/2022
+2915.70.1,"Ácido palmítico, seus sais e seus ésteres",01/04/2022
+2915.70.11,Ácido palmítico,01/04/2022
+2915.70.19,Outros,01/04/2022
+2915.70.20,Ácido esteárico,01/04/2022
+2915.70.3,Sais do ácido esteárico,01/04/2022
+2915.70.31,De zinco,01/04/2022
+2915.70.39,Outros,01/04/2022
+2915.70.40,Ésteres do ácido esteárico,01/04/2022
+2915.90,- Outros,01/04/2022
+2915.90.10,Cloreto de cloroacetila,01/04/2022
+2915.90.2,"Ácido 2-etilexanoico, seus sais e seus ésteres",01/04/2022
+2915.90.21,Ácido 2-etilexanoico (ácido 2-etilexoico),01/04/2022
+2915.90.22,2-Etilexanoato de estanho II,01/04/2022
+2915.90.23,Di(2-etilexanoato) de trietilenoglicol,01/04/2022
+2915.90.24,Cloreto de 2-etilexanoíla,01/04/2022
+2915.90.29,Outros,01/04/2022
+2915.90.3,Ácido mirístico; ácido caprílico; seus sais e seus ésteres,01/04/2022
+2915.90.31,Ácido mirístico,01/04/2022
+2915.90.32,Ácido caprílico,01/04/2022
+2915.90.33,Miristato de isopropila,01/04/2022
+2915.90.39,Outros,01/04/2022
+2915.90.4,"Ácido láurico, seus sais e seus ésteres",01/04/2022
+2915.90.41,Ácido láurico,01/04/2022
+2915.90.43,Laurato de pentaclorobifenila,01/04/2022
+2915.90.49,Outros,01/04/2022
+2915.90.50,Peróxidos de ácidos,01/04/2022
+2915.90.60,Peroxiácidos,01/04/2022
+2915.90.90,Outros,01/04/2022
+2916.1,"- Ácidos monocarboxílicos acíclicos não saturados, seus anidridos, halogenetos, peróxidos e peroxiá",01/04/2022
+2916.11,-- Ácido acrílico e seus sais,01/04/2022
+2916.11.10,Ácido acrílico,01/04/2022
+2916.11.20,Sais,01/04/2022
+2916.12,-- Ésteres do ácido acrílico,01/04/2022
+2916.12.10,De metila,01/04/2022
+2916.12.20,De etila,01/04/2022
+2916.12.30,De butila,01/04/2022
+2916.12.40,De 2-etilexila,01/04/2022
+2916.12.90,Outros,01/04/2022
+2916.13,-- Ácido metacrílico e seus sais,01/04/2022
+2916.13.10,Ácido metacrílico,01/04/2022
+2916.13.20,Sais,01/04/2022
+2916.14,-- Ésteres do ácido metacrílico,01/04/2022
+2916.14.10,De metila,01/04/2022
+2916.14.20,De etila,01/04/2022
+2916.14.30,De n-butila,01/04/2022
+2916.14.90,Outros,01/04/2022
+2916.15,"-- Ácidos oleico, linoleico ou linolênico, seus sais e seus ésteres",01/04/2022
+2916.15.1,"Ácido oleico, seus sais e seus ésteres",01/04/2022
+2916.15.11,Oleato de manitol,01/04/2022
+2916.15.19,Outros,01/04/2022
+2916.15.20,Ácido linoleico; ácido linolênico; seus sais e seus ésteres,01/04/2022
+2916.16.00,-- Binapacril (ISO),01/04/2022
+2916.19,-- Outros,01/04/2022
+2916.19.1,"Ácido sórbico, seus sais e seus ésteres",01/04/2022
+2916.19.11,Sorbato de potássio,01/04/2022
+2916.19.19,Outros,01/04/2022
+2916.19.2,"Ácido undecilênico, seus sais e seus ésteres",01/04/2022
+2916.19.21,Ácido undecilênico,01/04/2022
+2916.19.22,Undecilenato de metila,01/04/2022
+2916.19.23,Undecilenato de zinco,01/04/2022
+2916.19.29,Outros,01/04/2022
+2916.19.90,Outros,01/04/2022
+2916.20,"- Ácidos monocarboxílicos ciclânicos, ciclênicos ou cicloterpênicos, seus anidridos, halogenetos, per",01/04/2022
+2916.20.1,Derivados do ácido ciclopropanocarboxílico,01/04/2022
+2916.20.11,"Ácido 3-(2,2-dibromovinil)-2,2-dimetilciclopropanocarboxílico",01/04/2022
+2916.20.12,"Cloreto do ácido 3-(2,2-diclorovinil)-2,2-dimetilciclopropanocarboxílico (DVO)",01/04/2022
+2916.20.13,Aletrinas,01/04/2022
+2916.20.14,Permetrina,01/04/2022
+2916.20.15,Bifentrina,01/04/2022
+2916.20.19,Outros,01/04/2022
+2916.20.90,Outros,01/04/2022
+2916.3,"- Ácidos monocarboxílicos aromáticos, seus anidridos, halogenetos, peróxidos, peroxiácidos e seus",01/04/2022
+2916.31,"-- Ácido benzoico, seus sais e seus ésteres",01/04/2022
+2916.31.10,Ácido benzoico,01/04/2022
+2916.31.2,Sais,01/04/2022
+2916.31.21,De sódio,01/04/2022
+2916.31.22,De amônio,01/04/2022
+2916.31.29,Outros,01/04/2022
+2916.31.3,Ésteres,01/04/2022
+2916.31.31,De metila,01/04/2022
+2916.31.32,De benzila,01/04/2022
+2916.31.39,Outros,01/04/2022
+2916.32,-- Peróxido de benzoíla e cloreto de benzoíla,01/04/2022
+2916.32.10,Peróxido de benzoíla,01/04/2022
+2916.32.20,Cloreto de benzoíla,01/04/2022
+2916.34.00,-- Ácido fenilacético e seus sais,01/04/2022
+2916.39,-- Outros,01/04/2022
+2916.39.10,Cloreto de 4-cloro-alfa-(1-metiletil)benzenoacetila,01/04/2022
+2916.39.20,Ibuprofeno,01/04/2022
+2916.39.30,Ácido 4-cloro-3-nitrobenzoico,01/04/2022
+2916.39.40,Perbenzoato de ter-butila,01/04/2022
+2916.39.90,Outros,01/04/2022
+2917.1,"- Ácidos policarboxílicos acíclicos, seus anidridos, halogenetos, peróxidos, peroxiácidos e seus deriv",01/04/2022
+2917.11,"-- Ácido oxálico, seus sais e seus ésteres",01/04/2022
+2917.11.10,Ácido oxálico e seus sais,01/04/2022
+2917.11.20,Ésteres,01/04/2022
+2917.12,"-- Ácido adípico, seus sais e seus ésteres",01/04/2022
+2917.12.10,Ácido adípico,01/04/2022
+2917.12.20,Sais e ésteres,01/04/2022
+2917.13,"-- Ácido azelaico, ácido sebácico, seus sais e seus ésteres",01/04/2022
+2917.13.10,"Ácido azelaico, seus sais e seus ésteres",01/04/2022
+2917.13.2,"Ácido sebácico, seus sais e seus ésteres",01/04/2022
+2917.13.21,Ácido sebácico,01/04/2022
+2917.13.22,Sebacato de dibutila,01/04/2022
+2917.13.23,Sebacato de dioctila,01/04/2022
+2917.13.29,Outros,01/04/2022
+2917.14.00,-- Anidrido maleico,01/04/2022
+2917.19,-- Outros,01/04/2022
+2917.19.10,Dioctilsulfossuccinato de sódio,01/04/2022
+2917.19.2,"Ácido maleico, seus sais e seus ésteres",01/04/2022
+2917.19.21,Ácido maleico,01/04/2022
+2917.19.22,Sais e ésteres,01/04/2022
+2917.19.30,"Ácido fumárico, seus sais e seus ésteres",01/04/2022
+2917.19.90,Outros,01/04/2022
+2917.20.00,"- Ácidos policarboxílicos ciclânicos, ciclênicos ou cicloterpênicos, seus anidridos, halogenetos, peróx",01/04/2022
+2917.3,"- Ácidos policarboxílicos aromáticos, seus anidridos, halogenetos, peróxidos,peroxiácidos e seus de",01/04/2022
+2917.32.00,-- Ortoftalatos de dioctila,01/04/2022
+2917.33.00,-- Ortoftalatos de dinonila ou de didecila,01/04/2022
+2917.34.00,-- Outros ésteres do ácido ortoftálico,01/04/2022
+2917.35.00,-- Anidrido ftálico,01/04/2022
+2917.36.00,-- Ácido tereftálico e seus sais,01/04/2022
+2917.37.00,-- Tereftalato de dimetila,01/04/2022
+2917.39,-- Outros,01/04/2022
+2917.39.1,"Ácido m-ftálico, seus sais e seus ésteres",01/04/2022
+2917.39.11,Ésteres,01/04/2022
+2917.39.19,Outros,01/04/2022
+2917.39.20,Ácido ortoftálico e seus sais,01/04/2022
+2917.39.3,Outros ésteres do ácido tereftálico,01/04/2022
+2917.39.31,De dioctila,01/04/2022
+2917.39.39,Outros,01/04/2022
+2917.39.40,"Sais e ésteres do ácido trimelítico (sais e ésteres do ácido 1,2,4-benzenotricarboxílico)",01/04/2022
+2917.39.50,"Anidrido trimelítico (ácido 1,3-dioxo-5-isobenzofuranocarboxílico)",01/04/2022
+2917.39.90,Outros,01/04/2022
+2918.1,"- Ácidos carboxílicos de função álcool, mas sem outra função oxigenada, seus anidridos, halogeneto",01/04/2022
+2918.11.00,"-- Ácido láctico, seus sais e seus ésteres",01/04/2022
+2918.12.00,-- Ácido tartárico,01/04/2022
+2918.13,-- Sais e ésteres do ácido tartárico,01/04/2022
+2918.13.10,Sais,01/04/2022
+2918.13.20,Ésteres,01/04/2022
+2918.14.00,-- Ácido cítrico,01/04/2022
+2918.15.00,-- Sais e ésteres do ácido cítrico,01/04/2022
+2918.16,"-- Ácido glucônico, seus sais e seus ésteres",01/04/2022
+2918.16.10,Gluconato de cálcio,01/04/2022
+2918.16.90,Outros,01/04/2022
+2918.17.00,"-- Ácido 2,2-difenil-2-hidroxiacético (ácido benzílico)",01/04/2022
+2918.18.00,-- Clorobenzilato (ISO),01/04/2022
+2918.19,-- Outros,01/04/2022
+2918.19.10,Bromopropilato,01/04/2022
+2918.19.2,"Ácidos biliares, seus sais e seus ésteres; derivados destes produtos",01/04/2022
+2918.19.21,Ursodiol (ácido ursodeoxicólico),01/04/2022
+2918.19.22,Ácido quenodeoxicólico,01/04/2022
+2918.19.29,Outros,01/04/2022
+2918.19.30,Ácido 12-hidroxiesteárico,01/04/2022
+2918.19.4,"Sais e ésteres do ácido 2,2-difenil-2-hidroxiacético (ácido benzílico)",01/04/2022
+2918.19.42,Sais,01/04/2022
+2918.19.43,Ésteres,01/04/2022
+2918.19.90,Outros,01/04/2022
+2918.2,"- Ácidos carboxílicos de função fenol, mas sem outra função oxigenada, seusanidridos, halogenetos",01/04/2022
+2918.21,-- Ácido salicílico e seus sais,01/04/2022
+2918.21.10,Ácido salicílico,01/04/2022
+2918.21.20,Sais,01/04/2022
+2918.22,"-- Ácido o-acetilsalicílico, seus sais e seus ésteres",01/04/2022
+2918.22.1,Ácido o-acetilsalicílico e seus sais,01/04/2022
+2918.22.11,Ácido o-acetilsalicílico,01/04/2022
+2918.22.12,o-Acetilsalicilato de alumínio,01/04/2022
+2918.22.19,Outros,01/04/2022
+2918.22.20,Ésteres,01/04/2022
+2918.23.00,-- Outros ésteres do ácido salicílico e seus sais,01/04/2022
+2918.29,-- Outros,01/04/2022
+2918.29.10,Ácidos hidroxinaftoicos,01/04/2022
+2918.29.2,"Ácido p-hidroxibenzoico, seus sais e seus ésteres",01/04/2022
+2918.29.21,Ácido p-hidroxibenzoico,01/04/2022
+2918.29.22,Metilparabeno,01/04/2022
+2918.29.23,Propilparabeno,01/04/2022
+2918.29.29,Outros,01/04/2022
+2918.29.30,"Ácido gálico, seus sais e seus ésteres",01/04/2022
+2918.29.40,"Tetrakis(3-(3,5-di-ter-butil-4-hidroxifenil)propionato) de pentaeritritila",01/04/2022
+2918.29.50,"3-(3,5-Di-ter-butil-4-hidroxifenil)propionato de octadecila",01/04/2022
+2918.29.90,Outros,01/04/2022
+2918.30,"- Ácidos carboxílicos de função aldeído ou cetona, mas sem outra função oxigenada, seus anidridos,",01/04/2022
+2918.30.10,Cetoprofeno,01/04/2022
+2918.30.20,Butirilacetato de metila,01/04/2022
+2918.30.3,Ácido deidrocólico e seus sais,01/04/2022
+2918.30.31,Ácido deidrocólico,01/04/2022
+2918.30.32,Deidrocolato de sódio,01/04/2022
+2918.30.33,Deidrocolato de magnésio,01/04/2022
+2918.30.39,Outros,01/04/2022
+2918.30.40,Acetilacetato de 2-nitrometilbenzilideno,01/04/2022
+2918.30.90,Outros,01/04/2022
+2918.9,- Outros:,01/04/2022
+2918.91.00,"-- 2,4,5-T (ISO) (ácido 2,4,5-triclorofenoxiacético), seus sais e seus ésteres",01/04/2022
+2918.99,-- Outros,01/04/2022
+2918.99.1,"Ácido fenoxiacético, seus sais e seus ésteres; derivados destes produtos",01/04/2022
+2918.99.11,"Ácido fenoxiacético, seus sais e seus ésteres",01/04/2022
+2918.99.12,"Ácido 2,4-diclorofenoxiacético (2,4-D), seus sais e seus ésteres",01/04/2022
+2918.99.19,Outros,01/04/2022
+2918.99.2,"Ácidos fenoxibutanoicos, seus sais e seus ésteres; derivados destes produtos",01/04/2022
+2918.99.21,"Ácidos diclorofenoxibutanoicos, seus sais e seus ésteres",01/04/2022
+2918.99.29,Outros,01/04/2022
+2918.99.30,Acifluorfen sódico,01/04/2022
+2918.99.40,Naproxeno,01/04/2022
+2918.99.50,"Ácido 3-(2-cloro-alfa, alfa, alfa-trifluor-p-toliloxi)benzoico",01/04/2022
+2918.99.60,Diclofop-metila,01/04/2022
+2918.99.9,Outros,01/04/2022
+2918.99.91,Fenofibrato,01/04/2022
+2918.99.92,"Ácidos metilclorofenoxiacéticos, seus sais e seus ésteres",01/04/2022
+2918.99.93,5-(2-Cloro-4-trifluorometilfenoxi)-2-nitrobenzoato de 1'-(carboetoxi)etila (lactofen),01/04/2022
+2918.99.94,"Ácido 4-(4-hidroxifenoxi)-3,5-di-iodofenilacético",01/04/2022
+2918.99.99,Outros,01/04/2022
+2919.10.00,"- Fosfato de tris(2,3-dibromopropila)",01/04/2022
+2919.90,- Outros,01/04/2022
+2919.90.10,De tributila,01/04/2022
+2919.90.20,De tricresila,01/04/2022
+2919.90.30,De trifenila,01/04/2022
+2919.90.40,Diclorvós (DDVP),01/04/2022
+2919.90.50,Lactofosfato de cálcio,01/04/2022
+2919.90.60,Clorfenvinfós,01/04/2022
+2919.90.90,Outros,01/04/2022
+2920.1,"- Ésteres tiofosfóricos (fosforotioatos) e seus sais; seus derivados halogenados, sulfonados, nitrados",01/04/2022
+2920.11,-- Paration (ISO) e paration-metila (ISO) (metil paration),01/04/2022
+2920.11.10,Paration (etil paration),01/04/2022
+2920.11.20,Paration-metila (metil paration),01/04/2022
+2920.19,-- Outros,01/04/2022
+2920.19.10,Fenitrotion,01/04/2022
+2920.19.20,Cloreto de fosforotioato de dimetila,01/04/2022
+2920.19.90,Outros,01/04/2022
+2920.2,"- Ésteres de fosfitos e seus sais; seus derivados halogenados, sulfonados, nitrados ou nitrosados:",01/04/2022
+2920.21.00,-- Fosfito de dimetila,01/04/2022
+2920.22.00,-- Fosfito de dietila,01/04/2022
+2920.23.00,-- Fosfito de trimetila,01/04/2022
+2920.24.00,-- Fosfito de trietila,01/04/2022
+2920.29,-- Outros,01/04/2022
+2920.29.10,Fosfito de alquila de C3 a C13 ou de alquil-arila,01/04/2022
+2920.29.20,Fosfito de difenila,01/04/2022
+2920.29.30,"Outros fosfitos, de arila",01/04/2022
+2920.29.40,Fosetil Al,01/04/2022
+2920.29.50,"Fosfito de tris(2,4-di-ter-butilfenila)",01/04/2022
+2920.29.90,Outros,01/04/2022
+2920.30.00,- Endossulfan (ISO),01/04/2022
+2920.90,- Outros,01/04/2022
+2920.90.2,Sulfitos,01/04/2022
+2920.90.22,Propargite,01/04/2022
+2920.90.29,Outros,01/04/2022
+2920.90.3,Nitratos,01/04/2022
+2920.90.31,De propatila,01/04/2022
+2920.90.32,Nitroglicerina,01/04/2022
+2920.90.33,"Tetranitrato de pentaeritritol (PETN, nitropenta, pentrita)",01/04/2022
+2920.90.39,Outros,01/04/2022
+2920.90.4,Sulfatos,01/04/2022
+2920.90.41,De alquila de C6 a C22,01/04/2022
+2920.90.42,De monoalquildietilenoglicol ou de monoalquiltrietilenoglicol,01/04/2022
+2920.90.49,Outros,01/04/2022
+2920.90.5,Silicatos,01/04/2022
+2920.90.51,De etila,01/04/2022
+2920.90.59,Outros,01/04/2022
+2920.90.90,Outros,01/04/2022
+2921.1,- Monoaminas acíclicas e seus derivados; sais destes produtos:,01/04/2022
+2921.11,"-- Mono-, di- ou trimetilamina e seus sais",01/04/2022
+2921.11.1,Monometilamina e seus sais,01/04/2022
+2921.11.11,Monometilamina,01/04/2022
+2921.11.12,Sais,01/04/2022
+2921.11.2,Dimetilamina e seus sais,01/04/2022
+2921.11.21,Dimetilamina,01/04/2022
+2921.11.22,"2,4-Diclorofenoxiacetato de dimetilamina",01/04/2022
+2921.11.23,Metilclorofenoxiacetato de dimetilamina,01/04/2022
+2921.11.29,Outros,01/04/2022
+2921.11.3,Trimetilamina e seus sais,01/04/2022
+2921.11.31,Trimetilamina,01/04/2022
+2921.11.32,Cloridrato de trimetilamina,01/04/2022
+2921.11.39,Outros,01/04/2022
+2921.12.00,"-- Cloridrato de 2-cloroetil(N,N-dimetilamina)",01/04/2022
+2921.13.00,"-- Cloridrato de 2-cloroetil(N,N-dietilamina)",01/04/2022
+2921.14.00,"-- Cloridrato de 2-cloroetil(N,N-di-isopropilamina)",01/04/2022
+2921.19,-- Outros,01/04/2022
+2921.19.1,Etilaminas e seus derivados; sais destes produtos,01/04/2022
+2921.19.11,Monoetilamina e seus sais,01/04/2022
+2921.19.12,Trietilamina,01/04/2022
+2921.19.13,Bis(2-cloroetil)etilamina,01/04/2022
+2921.19.14,Triclormetina (DCI) (tris(2-cloroetil)amina),01/04/2022
+2921.19.15,"Dietilamina e seus sais, exceto etansilato (ethamsylate)",01/04/2022
+2921.19.19,Outros,01/04/2022
+2921.19.2,n-Propilaminas e isopropilaminas; sais destes produtos,01/04/2022
+2921.19.21,Mono-n-propilamina e seus sais,01/04/2022
+2921.19.22,Di-n-propilamina e seus sais,01/04/2022
+2921.19.23,Monoisopropilamina e seus sais,01/04/2022
+2921.19.24,Di-isopropilamina e seus sais,01/04/2022
+2921.19.29,Outros,01/04/2022
+2921.19.3,Butilaminas e seus sais,01/04/2022
+2921.19.31,Di-isobutilamina e seus sais,01/04/2022
+2921.19.39,Outros,01/04/2022
+2921.19.4,"Monoalquilaminas, metildialquilaminas e dialquilaminas, com grupos alquila d",
+2921.19.41,Metildialquilaminas,01/04/2022
+2921.19.49,Outras,01/04/2022
+2921.19.9,Outros,01/04/2022
+2921.19.91,Clormetina (DCI) (bis(2-cloroetil)metilamina),01/04/2022
+2921.19.92,"N,N-Dialquil-2-cloroetilamina, com grupos alquila de C1 a C3, e seus sais protonados",01/04/2022
+2921.19.93,Mucato de isometepteno,01/04/2022
+2921.19.94,"N,N-Dimetilcetilamina",01/04/2022
+2921.19.99,Outros,01/04/2022
+2921.2,- Poliaminas acíclicas e seus derivados; sais destes produtos:,01/04/2022
+2921.21.00,-- Etilenodiamina e seus sais,01/04/2022
+2921.22.00,-- Hexametilenodiamina e seus sais,01/04/2022
+2921.29,-- Outros,01/04/2022
+2921.29.10,Dietilenotriamina e seus sais,01/04/2022
+2921.29.20,Trietilenotetramina e seus sais,01/04/2022
+2921.29.90,Outros,01/04/2022
+2921.30,"- Monoaminas e poliaminas, ciclânicas, ciclênicas ou cicloterpênicas, e seusderivados; sais destes p",01/04/2022
+2921.30.1,Cicloexilaminas e seus sais,01/04/2022
+2921.30.11,Monocicloexilamina e seus sais,01/04/2022
+2921.30.12,Dicicloexilamina,01/04/2022
+2921.30.19,Outros,01/04/2022
+2921.30.20,Propilexedrina,01/04/2022
+2921.30.90,Outros,01/04/2022
+2921.4,- Monoaminas aromáticas e seus derivados; sais destes produtos:,01/04/2022
+2921.41.00,-- Anilina e seus sais,01/04/2022
+2921.42,-- Derivados da anilina e seus sais,01/04/2022
+2921.42.1,Ácidos aminobenzenossulfônicos e seus sais,01/04/2022
+2921.42.11,Ácido sulfanílico e seus sais,01/04/2022
+2921.42.19,Outros,01/04/2022
+2921.42.2,Cloroanilinas e seus sais,01/04/2022
+2921.42.21,"3,4-Dicloroanilina e seus sais",01/04/2022
+2921.42.29,Outros,01/04/2022
+2921.42.3,Nitroanilinas e seus sais,01/04/2022
+2921.42.31,4-Nitroanilina,01/04/2022
+2921.42.39,Outros,01/04/2022
+2921.42.4,Cloronitroanilinas e seus sais,01/04/2022
+2921.42.41,5-Cloro-2-nitroanilina,01/04/2022
+2921.42.49,Outros,01/04/2022
+2921.42.90,Outros,01/04/2022
+2921.43,-- Toluidinas e seus derivados; sais destes produtos,01/04/2022
+2921.43.1,Toluidinas e seus sais,01/04/2022
+2921.43.11,o-Toluidina,01/04/2022
+2921.43.19,Outros,01/04/2022
+2921.43.2,Derivados das toluidinas; sais destes produtos,01/04/2022
+2921.43.21,3-Nitro-4-toluidina e seus sais,01/04/2022
+2921.43.22,Trifluralina,01/04/2022
+2921.43.23,4-Cloro-2-toluidina,01/04/2022
+2921.43.29,Outros,01/04/2022
+2921.44,-- Difenilamina e seus derivados; sais destes produtos,01/04/2022
+2921.44.10,Difenilamina e seus sais,01/04/2022
+2921.44.2,Derivados da difenilamina; sais destes produtos,01/04/2022
+2921.44.21,n-Octildifenilamina,01/04/2022
+2921.44.22,n-Nonildifenilamina,01/04/2022
+2921.44.29,Outros,01/04/2022
+2921.45.00,"-- 1-Naftilamina (alfa-naftilamina), 2-naftilamina (beta-naftilamina), e seus derivados; sais destes prod",01/04/2022
+2921.46,"-- Anfetamina (DCI), benzofetamina (DCI), dexanfetamina (DCI), etilanfetamina (DCI), fencanfamina (",01/04/2022
+2921.46.10,Anfetamina e seus sais,01/04/2022
+2921.46.20,Benzofetamina e seus sais,01/04/2022
+2921.46.30,Dexanfetamina e seus sais,01/04/2022
+2921.46.40,Etilanfetamina e seus sais,01/04/2022
+2921.46.50,Fencanfamina e seus sais,01/04/2022
+2921.46.60,Fentermina e seus sais,01/04/2022
+2921.46.70,Lefetamina e seus sais,01/04/2022
+2921.46.80,Levanfetamina e seus sais,01/04/2022
+2921.46.90,Mefenorex e seus sais,01/04/2022
+2921.49,-- Outros,01/04/2022
+2921.49.10,Cloridrato de fenfluramina,01/04/2022
+2921.49.2,Xilidinas e seus derivados; sais destes produtos,01/04/2022
+2921.49.21,"2,4-Xilidina e seus sais",01/04/2022
+2921.49.22,Pendimetalina,01/04/2022
+2921.49.29,Outros,01/04/2022
+2921.49.3,Tranilcipromina e seus sais,01/04/2022
+2921.49.31,Sulfato de tranilcipromina,01/04/2022
+2921.49.39,Outros,01/04/2022
+2921.49.90,Outros,01/04/2022
+2921.5,- Poliaminas aromáticas e seus derivados; sais destes produtos:,01/04/2022
+2921.51,"-- o-, m-, p-Fenilenodiamina, diaminotoluenos, e seus derivados; sais destesprodutos",01/04/2022
+2921.51.1,"o-, m-, p-Fenilenodiamina; diaminotoluenos; sais destes produtos",01/04/2022
+2921.51.11,m-Fenilenodiamina e seus sais,01/04/2022
+2921.51.12,Diaminotoluenos (toluilenodiaminas),01/04/2022
+2921.51.19,Outros,01/04/2022
+2921.51.20,Derivados sulfonados das fenilenodiaminas e de seus derivados; sais destesprodutos,01/04/2022
+2921.51.3,Outros derivados das fenilenodiaminas; sais destes produtos,01/04/2022
+2921.51.31,"N,N'-Di-sec-butil-p-fenilenodiamina",01/04/2022
+2921.51.32,N-Isopropil-N'-fenil-p-fenilenodiamina,01/04/2022
+2921.51.33,"N-(1,3-Dimetilbutil)-N'-fenil-p-fenilenodiamina",01/04/2022
+2921.51.34,"N-(1,4-Dimetilpentil)-N'-fenil-p-fenilenodiamina",01/04/2022
+2921.51.35,N-Fenil-p-fenilenodiamina (4-aminodifenilamina) e seus sais,01/04/2022
+2921.51.39,Outros,01/04/2022
+2921.51.90,Outros,01/04/2022
+2921.59,-- Outros,01/04/2022
+2921.59.1,Benzidina e seus derivados; sais destes produtos,01/04/2022
+2921.59.11,"3,3'-Diclorobenzidina",01/04/2022
+2921.59.19,Outros,01/04/2022
+2921.59.2,Diaminodifenilmetanos,01/04/2022
+2921.59.21,"4,4'-Diaminodifenilmetano",01/04/2022
+2921.59.29,Outros,01/04/2022
+2921.59.3,Diaminodifenilaminas e seus derivados; sais destes produtos,01/04/2022
+2921.59.31,"4,4'-Diaminodifenilamina e seus sais",01/04/2022
+2921.59.32,"Ácido 4,4'-diaminodifenilamino-2-sulfônico e seus sais",01/04/2022
+2921.59.39,Outros,01/04/2022
+2921.59.90,Outros,01/04/2022
+2922.1,"- Aminoálcoois, exceto os que contenham mais de um tipo de função oxigenada, seus éteres e seus",01/04/2022
+2922.11.00,-- Monoetanolamina e seus sais,01/04/2022
+2922.12.00,-- Dietanolamina e seus sais,01/04/2022
+2922.14.00,-- Dextropropoxifeno (DCI) e seus sais,01/04/2022
+2922.15.00,-- Trietanolamina,01/04/2022
+2922.16.00,-- Perfluoroctanossulfonato de dietanolamônio,01/04/2022
+2922.17.00,-- Metildietanolamina e etildietanolamina,01/04/2022
+2922.18.00,"-- 2-(N,N-di-isopropilamino)etanol",01/04/2022
+2922.19,-- Outros,01/04/2022
+2922.19.1,Propanolaminas e seus sais; derivados destes produtos,01/04/2022
+2922.19.11,Monoisopropanolamina,01/04/2022
+2922.19.12,"2,4-Diclorofenoxiacetato de triisopropanolamina",01/04/2022
+2922.19.13,"2,4-Diclorofenoxiacetato de dimetilpropanolamina",01/04/2022
+2922.19.19,Outros,01/04/2022
+2922.19.2,Orfenadrina e seus sais,01/04/2022
+2922.19.21,Citrato,01/04/2022
+2922.19.29,Outros,01/04/2022
+2922.19.3,Ambroxol e seus sais,01/04/2022
+2922.19.31,Cloridrato,01/04/2022
+2922.19.39,Outros,01/04/2022
+2922.19.4,Clobutinol e seus sais,01/04/2022
+2922.19.41,Cloridrato,01/04/2022
+2922.19.49,Outros,01/04/2022
+2922.19.5,"N,N-Dialquil-2-aminoetanol, com grupos alquila de C1 a C3, e seus sais protonados",01/04/2022
+2922.19.51,"N,N-Dimetil-2-aminoetanol e seus sais protonados",01/04/2022
+2922.19.52,"N,N-Dietil-2-aminoetanol e seus sais protonados",01/04/2022
+2922.19.59,Outros,01/04/2022
+2922.19.7,Propafenona e seus sais,01/04/2022
+2922.19.71,Cloridrato,01/04/2022
+2922.19.79,Outros,01/04/2022
+2922.19.8,Metoprolol e seus sais,01/04/2022
+2922.19.81,Tartarato,01/04/2022
+2922.19.89,Outros,01/04/2022
+2922.19.9,Outros,01/04/2022
+2922.19.91,"1-p-Nitrofenil-2-amino-1,3-propanodiol",01/04/2022
+2922.19.92,Fumarato de benciclano,01/04/2022
+2922.19.93,Clembuterol (clenbuterol) e seu cloridrato,01/04/2022
+2922.19.94,Mirtecaína,01/04/2022
+2922.19.95,Tamoxifen e seu citrato,01/04/2022
+2922.19.96,Propranolol e seus sais,01/04/2022
+2922.19.99,Outros,01/04/2022
+2922.2,"- Aminonaftóis e outros aminofenóis, exceto os que contenham mais de um tipo de função oxigenada",01/04/2022
+2922.21.00,-- Ácidos aminohidroxinaftalenossulfônicos e seus sais,01/04/2022
+2922.29,-- Outros,01/04/2022
+2922.29.1,"o-, m-, p-Aminofenóis, e seus sais",01/04/2022
+2922.29.11,p-Aminofenol,01/04/2022
+2922.29.19,Outros,01/04/2022
+2922.29.20,Nitroanisidinas e seus sais,01/04/2022
+2922.29.90,Outros,01/04/2022
+2922.3,"- Aminoaldeídos, aminocetonas e aminoquinonas, exceto de funções oxigenadas diferentes; sais des",01/04/2022
+2922.31,"-- Anfepramona (DCI), metadona (DCI) e normetadona (DCI); sais destes produtos",01/04/2022
+2922.31.1,Anfepramona e seus sais,01/04/2022
+2922.31.11,Anfepramona,01/04/2022
+2922.31.12,Sais,01/04/2022
+2922.31.20,Metadona e seus sais,01/04/2022
+2922.31.30,Normetadona e seus sais,01/04/2022
+2922.39,-- Outros,01/04/2022
+2922.39.10,Aminoantraquinonas e seus sais,01/04/2022
+2922.39.2,Ketamina e seus sais,01/04/2022
+2922.39.21,Cloridrato,01/04/2022
+2922.39.29,Outros,01/04/2022
+2922.39.90,Outros,01/04/2022
+2922.4,"- Aminoácidos, exceto os que contenham mais de um tipo de função oxigenada, e seus ésteres; sais",01/04/2022
+2922.41,-- Lisina e seus ésteres; sais destes produtos,01/04/2022
+2922.41.10,Lisina,01/04/2022
+2922.41.90,Outros,01/04/2022
+2922.42,-- Ácido glutâmico e seus sais,01/04/2022
+2922.42.10,Ácido glutâmico,01/04/2022
+2922.42.20,Sais,01/04/2022
+2922.43.00,-- Ácido antranílico e seus sais,01/04/2022
+2922.44,-- Tilidina (DCI) e seus sais,01/04/2022
+2922.44.10,Tilidina,01/04/2022
+2922.44.20,Sais,01/04/2022
+2922.49,-- Outros,01/04/2022
+2922.49.10,Glicina e seus sais,01/04/2022
+2922.49.20,Ácido etilenodiaminotetracético (EDTA) e seus sais,01/04/2022
+2922.49.3,Ácido iminodiacético e seus sais,01/04/2022
+2922.49.31,Ácido iminodiacético,01/04/2022
+2922.49.32,Sais,01/04/2022
+2922.49.40,Ácido dietilenotriaminopentacético e seus sais,01/04/2022
+2922.49.5,alfa-Fenilglicina e seus sais; derivados destes produtos,01/04/2022
+2922.49.51,alfa-Fenilglicina,01/04/2022
+2922.49.52,Cloridrato de cloreto de D(-)alfa-aminobenzenoacetila,01/04/2022
+2922.49.59,Outros,01/04/2022
+2922.49.6,Diclofenaco e seus sais; derivados destes produtos,01/04/2022
+2922.49.61,Diclofenaco de sódio,01/04/2022
+2922.49.62,Diclofenaco de potássio,01/04/2022
+2922.49.63,Diclofenaco de dietilamônio,01/04/2022
+2922.49.64,Diclofenaco,01/04/2022
+2922.49.69,Outros,01/04/2022
+2922.49.90,Outros,01/04/2022
+2922.50,"- Aminoálcoois-fenóis, aminoácidos-fenóis e outros compostos aminados de funções oxigenadas",01/04/2022
+2922.50.1,Fenilefrina e seus sais,01/04/2022
+2922.50.11,Cloridrato,01/04/2022
+2922.50.19,Outros,01/04/2022
+2922.50.3,Tirosina e seus derivados; sais destes produtos,01/04/2022
+2922.50.31,Levodopa,01/04/2022
+2922.50.32,Metildopa,01/04/2022
+2922.50.39,Outros,01/04/2022
+2922.50.9,Outros,01/04/2022
+2922.50.91,N-(1-(Metoxicarbonil)propen-2-il)-alfa-amino-p-hidroxifenilacetato de sódio (NAPOH),01/04/2022
+2922.50.99,Outros,01/04/2022
+2923.10.00,- Colina e seus sais,01/04/2022
+2923.20.00,- Lecitinas e outros fosfoaminolipídios,01/04/2022
+2923.30.00,- Perfluoroctanossulfonato de tetraetilamônio,01/04/2022
+2923.40.00,- Perfluoroctanossulfonato de didecildimetilamônio,01/04/2022
+2923.90,- Outros,01/04/2022
+2923.90.10,Betaína e seus sais,01/04/2022
+2923.90.20,Derivados da colina,01/04/2022
+2923.90.30,Cloreto de 3-cloro-2-hidroxipropiltrimetilamônio,01/04/2022
+2923.90.40,"Halogenetos de alquil-trimetilamônio, com grupo alquila de C6 a C22",01/04/2022
+2923.90.50,"Halogenetos de dialquil-dimetilamônio ou de alquil-benzil-dimetilamônio, comgrupo alquila de C6 a C",01/04/2022
+2923.90.60,"Halogenetos de pentametil-alquil-propilenodiamônio, com grupo alquila de C6",
+2923.90.90,Outros,01/04/2022
+2924.1,- Amidas (incluindo os carbamatos) acíclicas e seus derivados; sais destes produtos:,01/04/2022
+2924.11.00,-- Meprobamato (DCI),01/04/2022
+2924.12,"-- Fluoracetamida (ISO), fosfamidona (ISO) e monocrotofós (ISO)",01/04/2022
+2924.12.10,Fluoracetamida,01/04/2022
+2924.12.20,Fosfamidona,01/04/2022
+2924.12.30,Monocrotofós,01/04/2022
+2924.19,-- Outros,01/04/2022
+2924.19.1,Acetoacetamida e seus derivados; sais destes produtos,01/04/2022
+2924.19.11,2-Cloro-N-metilacetoacetamida,01/04/2022
+2924.19.19,Outros,01/04/2022
+2924.19.2,Formamidas; acetamidas,01/04/2022
+2924.19.21,N-Metilformamida,01/04/2022
+2924.19.22,"N,N-Dimetilformamida",01/04/2022
+2924.19.29,Outras,01/04/2022
+2924.19.3,Acrilamidas e seus derivados,01/04/2022
+2924.19.31,Acrilamida,01/04/2022
+2924.19.32,Metacrilamidas,01/04/2022
+2924.19.39,Outros,01/04/2022
+2924.19.4,Crotonamidas e seus derivados,01/04/2022
+2924.19.42,Dicrotofós,01/04/2022
+2924.19.49,Outros,01/04/2022
+2924.19.9,Outros,01/04/2022
+2924.19.91,"N,N'-Dimetilureia",01/04/2022
+2924.19.92,Carisoprodol,01/04/2022
+2924.19.93,"N,N'-(Diestearoil)etilenodiamina (N,N'-etilen-bis-estearamida)",01/04/2022
+2924.19.94,Dietanolamidas de ácidos graxos (gordos) de C12 a C18,01/04/2022
+2924.19.99,Outros,01/04/2022
+2924.2,- Amidas (incluindo os carbamatos) cíclicas e seus derivados; sais destes produtos:,01/04/2022
+2924.21,-- Ureínas e seus derivados; sais destes produtos,01/04/2022
+2924.21.1,Carbanilida e seus derivados; sais destes produtos,01/04/2022
+2924.21.11,Hexanitrocarbanilidas,01/04/2022
+2924.21.19,Outros,01/04/2022
+2924.21.20,Diuron,01/04/2022
+2924.21.90,Outros,01/04/2022
+2924.23.00,-- Ácido 2-acetamidobenzoico (ácido N-acetilantranílico) e seus sais,01/04/2022
+2924.24.00,-- Etinamato (DCI),01/04/2022
+2924.25.00,-- Alaclor (ISO),01/04/2022
+2924.29,-- Outros,01/04/2022
+2924.29.1,Acetanilida e seus derivados; sais destes produtos,01/04/2022
+2924.29.11,Acetanilida,01/04/2022
+2924.29.12,4-Aminoacetanilida,01/04/2022
+2924.29.13,Acetaminofen (paracetamol),01/04/2022
+2924.29.14,Lidocaína e seu cloridrato,01/04/2022
+2924.29.15,"2,5-Dimetoxiacetanilida",01/04/2022
+2924.29.19,Outros,01/04/2022
+2924.29.20,Anilidas dos ácidos hidroxinaftoicos e seus derivados; sais destes produtos,01/04/2022
+2924.29.3,Carbamatos,01/04/2022
+2924.29.31,Carbaril,01/04/2022
+2924.29.32,Propoxur,01/04/2022
+2924.29.39,Outros,01/04/2022
+2924.29.4,Acetamidas e seus derivados,01/04/2022
+2924.29.41,Teclozam,01/04/2022
+2924.29.43,Atenolol; metolaclor,01/04/2022
+2924.29.44,Ácido ioxáglico,01/04/2022
+2924.29.45,Iodamida,01/04/2022
+2924.29.46,Cloreto do ácido p-acetamidobenzenossulfônico,01/04/2022
+2924.29.47,Ácido ioxitalâmico,01/04/2022
+2924.29.49,Outros,01/04/2022
+2924.29.5,Metoxibenzamidas e seus derivados; sais destes produtos,01/04/2022
+2924.29.51,Bromoprida,01/04/2022
+2924.29.52,Metoclopramida e seu cloridrato,01/04/2022
+2924.29.59,Outros,01/04/2022
+2924.29.6,Propanamidas e seus derivados; sais destes produtos,01/04/2022
+2924.29.61,Propanil,01/04/2022
+2924.29.62,Flutamida,01/04/2022
+2924.29.63,Prilocaína e seu cloridrato,01/04/2022
+2924.29.64,Iobitridol,01/04/2022
+2924.29.69,Outros,01/04/2022
+2924.29.9,Outros,01/04/2022
+2924.29.91,Aspartame,01/04/2022
+2924.29.92,Diflubenzurom,01/04/2022
+2924.29.93,Metalaxil,01/04/2022
+2924.29.94,Triflumurom,01/04/2022
+2924.29.95,Buclosamida,01/04/2022
+2924.29.96,Benzoato de denatônio,01/04/2022
+2924.29.99,Outros,01/04/2022
+2925.1,- Imidas e seus derivados; sais destes produtos:,01/04/2022
+2925.11.00,-- Sacarina e seus sais,01/04/2022
+2925.12.00,-- Glutetimida (DCI),01/04/2022
+2925.19,-- Outros,01/04/2022
+2925.19.10,Talidomida,01/04/2022
+2925.19.90,Outros,01/04/2022
+2925.2,- Iminas e seus derivados; sais destes produtos:,01/04/2022
+2925.21.00,-- Clordimeforme (ISO),01/04/2022
+2925.29,-- Outros,01/04/2022
+2925.29.1,Arginina e seus sais,01/04/2022
+2925.29.11,Aspartato de L-arginina,01/04/2022
+2925.29.19,Outros,01/04/2022
+2925.29.2,Guanidina e seus derivados; sais destes produtos,01/04/2022
+2925.29.21,Guanidina,01/04/2022
+2925.29.22,"N,N'-Difenilguanidina",01/04/2022
+2925.29.23,Clorexidina e seus sais,01/04/2022
+2925.29.29,Outros,01/04/2022
+2925.29.30,Amitraz,01/04/2022
+2925.29.40,Isetionato de pentamidina,01/04/2022
+2925.29.50,"N-(3,7-Dimetil-7-hidroxioctilideno)antranilato de metila",01/04/2022
+2925.29.90,Outros,01/04/2022
+2926.10.00,- Acrilonitrila,01/04/2022
+2926.20.00,- 1-Cianoguanidina (diciandiamida),01/04/2022
+2926.30,"- Fenproporex (DCI) e seus sais; intermediário da metadona (DCI) (4-ciano-2-dimetilamino-4,4-difenil",01/04/2022
+2926.30.1,Fenproporex e seus sais,01/04/2022
+2926.30.11,Fenproporex,01/04/2022
+2926.30.12,Sais,01/04/2022
+2926.30.20,Intermediário da metadona,01/04/2022
+2926.40.00,- alfa-Fenilacetoacetonitrila,01/04/2022
+2926.90,- Outros,01/04/2022
+2926.90.1,Verapamil e seus sais,01/04/2022
+2926.90.11,Verapamil,01/04/2022
+2926.90.12,Cloridrato,01/04/2022
+2926.90.19,Outros,01/04/2022
+2926.90.2,Álcool alfa-ciano-3-fenoxibenzílico e seus derivados; ésteres destes produtos,01/04/2022
+2926.90.21,Álcool alfa-ciano-3-fenoxibenzílico,01/04/2022
+2926.90.22,Ciflutrina,01/04/2022
+2926.90.23,Cipermetrina,01/04/2022
+2926.90.24,Deltametrina,01/04/2022
+2926.90.25,Fenvalerato,01/04/2022
+2926.90.26,Cialotrina (cyhalothrin),01/04/2022
+2926.90.29,Outros,01/04/2022
+2926.90.30,Sais de intermediário da metadona,01/04/2022
+2926.90.9,Outros,01/04/2022
+2926.90.91,"Adiponitrila (1,4-dicianobutano)",01/04/2022
+2926.90.92,Cianidrina de acetona (acetona cianidrina),01/04/2022
+2926.90.93,Closantel,01/04/2022
+2926.90.95,Clorotalonil,01/04/2022
+2926.90.96,Cianoacrilatos de etila,01/04/2022
+2926.90.99,Outros,01/04/2022
+2927.00,"Compostos diazoicos, azoicos ou azóxicos.",01/04/2022
+2927.00.10,Compostos diazoicos,01/04/2022
+2927.00.2,Compostos azoicos,01/04/2022
+2927.00.21,Azodicarbonamida,01/04/2022
+2927.00.29,Outros,01/04/2022
+2927.00.30,Compostos azóxicos,01/04/2022
+2928.00,Derivados orgânicos da hidrazina e da hidroxilamina.,01/04/2022
+2928.00.1,Acetoxima e seus derivados; sais destes produtos,01/04/2022
+2928.00.11,Metiletilacetoxima,01/04/2022
+2928.00.19,Outros,01/04/2022
+2928.00.20,Carbidopa,01/04/2022
+2928.00.30,2-Hidrazinoetanol,01/04/2022
+2928.00.4,Fenilidrazina e seus derivados,01/04/2022
+2928.00.41,Fenilidrazina,01/04/2022
+2928.00.42,Derivados,01/04/2022
+2928.00.90,Outros,01/04/2022
+2929.10,- Isocianatos,01/04/2022
+2929.10.10,Di-isocianato de difenilmetano,01/04/2022
+2929.10.2,Di-isocianatos de tolueno,01/04/2022
+2929.10.21,Mistura de isômeros,01/04/2022
+2929.10.29,Outros,01/04/2022
+2929.10.30,"Isocianato de 3,4-diclorofenila",01/04/2022
+2929.10.90,Outros,01/04/2022
+2929.90,- Outros,01/04/2022
+2929.90.1,Ácido ciclâmico e seus sais,01/04/2022
+2929.90.11,De sódio,01/04/2022
+2929.90.12,De cálcio,01/04/2022
+2929.90.19,Outros,01/04/2022
+2929.90.3,"Dialogenetos de N,N-dialquilfosforoamidatos, com grupos alquila de C1 a C3",01/04/2024
+2929.90.31,"Dicloreto de N,N-dimetilfosforoamídico",01/04/2024
+2929.90.39,Outros,01/04/2024
+2929.90.40,"N,N-Dialquilfosforoamidatos de dialquila, com grupos alquila de C1 a C3",01/04/2024
+2929.90.50,"Fosfonamidofluoridatos de N-(1-(dialquila (de até C10, incluindo cicloalquila)amino))alquilideno (H ou",01/04/2024
+2929.90.60,"Fosforamidofluoridatos de O-alquila (H ou de até C10, incluindo cicloalquila)N0-(-(dialquila (de até C",11/04/2024
+2929.90.90,Outros,01/04/2022
+2930.10.00,"- 2-(N,N-Dimetilamino)etanotiol",01/04/2022
+2930.20,- Tiocarbamatos e ditiocarbamatos,01/04/2022
+2930.20.1,Tiocarbamatos,01/04/2022
+2930.20.11,EPTC,01/04/2022
+2930.20.12,Cartap,01/04/2022
+2930.20.13,Tiobencarb (dietiltiocarbamato de S-4-clorobenzila),01/04/2022
+2930.20.19,Outros,01/04/2022
+2930.20.2,Ditiocarbamatos,01/04/2022
+2930.20.21,Ziram; dimetilditiocarbamato de sódio,01/04/2022
+2930.20.22,Dietilditiocarbamato de zinco,01/04/2022
+2930.20.23,Dibutilditiocarbamato de zinco,01/04/2022
+2930.20.24,Metam sódio,01/04/2022
+2930.20.29,Outros,01/04/2022
+2930.30,"- Mono-, di- ou tetrassulfetos de tiourama",01/04/2022
+2930.30.1,Monossulfetos,01/04/2022
+2930.30.11,De tetrametiltiourama,01/04/2022
+2930.30.12,Sulfiram,01/04/2022
+2930.30.19,Outros,01/04/2022
+2930.30.2,Dissulfetos,01/04/2022
+2930.30.21,Thiram,01/04/2022
+2930.30.22,Dissulfiram,01/04/2022
+2930.30.29,Outros,01/04/2022
+2930.30.90,Outros,01/04/2022
+2930.40,- Metionina,01/04/2022
+2930.40.10,"DL-Metionina, com um teor de cinzas sulfatadas superior a 0,1 %, em peso",01/04/2022
+2930.40.90,Outra,01/04/2022
+2930.60.00,"- 2-(N,N-Dietilamino)etanotiol",01/04/2022
+2930.70.00,- Sulfeto de bis(2-hidroxietila) (tiodiglicol (DCI)),01/04/2022
+2930.80,"- Aldicarb (ISO), captafol (ISO) e metamidofós (ISO)",01/04/2022
+2930.80.10,Aldicarb,01/04/2022
+2930.80.20,Captafol,01/04/2022
+2930.80.30,Metamidofós,01/04/2022
+2930.90,- Outros,01/04/2022
+2930.90.1,Tióis e seus derivados; sais destes produtos,01/04/2022
+2930.90.11,Ácido tioglicólico e seus sais,01/04/2022
+2930.90.12,Cisteína,01/04/2022
+2930.90.13,"N,N-Dialquil-2-aminoetanotiol, com grupos alquila de C1 a C3, e seus sais protonados",01/04/2022
+2930.90.19,Outros,01/04/2022
+2930.90.2,Tioamidas e seus derivados; sais destes produtos,01/04/2022
+2930.90.21,Tioureia,01/04/2022
+2930.90.22,Tiofanato-Metila,01/04/2022
+2930.90.23,4-Metil-3-tiosemicarbazida,01/04/2022
+2930.90.29,Outros,01/04/2022
+2930.90.3,"Tioéteres, tioésteres e seus derivados, exceto os produtos do item 2930.90.8;sais destes produtos",01/04/2022
+2930.90.31,"2-(Etiltio)etanol, com uma concentração igual ou superior a 98 %, em peso",01/04/2022
+2930.90.32,3-(Metiltio)propanal,01/04/2022
+2930.90.33,Clorotioformiato de S-etila,01/04/2022
+2930.90.34,Ácido 2-hidroxi-4-(metiltio)butanoico e seu sal cálcico,01/04/2022
+2930.90.35,Metomil,01/04/2022
+2930.90.36,Carbocisteína,01/04/2022
+2930.90.37,"4-Sulfatoetilsulfonil-2,5-dimetoxianilina; 4-sulfatoetilsulfonil-2-metoxi-5-metilan",
+2930.90.39,Outros,01/04/2022
+2930.90.4,Fosforotioatos e seus derivados; sais destes produtos,01/04/2022
+2930.90.41,"Fosforotioato de O,O-dietila e de S-[2-(dietilamino)etila] e seus sais alquilados ou protonados",01/04/2022
+2930.90.42,"Fosforotioato de O,O-dimetila e de S-[2-(1-metilcarbamoiletiltio)-etila)] (vamidotion)",01/04/2022
+2930.90.43,Fosforotioato de O-(4-bromo-2-clorofenila) O-etila e de S-propila (profenofós),01/04/2022
+2930.90.49,Outros,01/04/2022
+2930.90.5,Fosforoditioatos e seus derivados; sais destes produtos,01/04/2022
+2930.90.51,Forato (ISO),01/04/2024
+2930.90.52,Dissulfoton,01/04/2022
+2930.90.53,Etion,01/04/2022
+2930.90.54,Dimetoato,01/04/2022
+2930.90.57,"Fosforoditioato de O,O-dimetila e de S-[2-(etiltio)etila] (tiometon)",01/04/2022
+2930.90.59,Outros,01/04/2022
+2930.90.6,Fosforoamidotioatos e seus derivados; sais destes produtos,01/04/2022
+2930.90.61,Acefato,01/04/2022
+2930.90.69,Outros,01/04/2022
+2930.90.7,Sulfonas,01/04/2022
+2930.90.71,Tiaprida,01/04/2022
+2930.90.72,Bicalutamida,01/04/2022
+2930.90.79,Outras,01/04/2022
+2930.90.8,"Sulfeto de 2-cloroetila e de clorometila; sulfeto de bis(2-cloroetila); bis(2-cloroetiltio)metano; 1,2-bis(2",01/04/2022
+2930.90.81,Sulfeto de 2-cloroetila e de clorometila,01/04/2022
+2930.90.82,Sulfeto de bis(2-cloroetila),01/04/2022
+2930.90.83,Bis(2-cloroetiltio)metano,01/04/2022
+2930.90.84,"1,2-Bis(2-cloroetiltio)etano",01/04/2022
+2930.90.85,"1,3-Bis(2-cloroetiltio)-n-propano",01/04/2022
+2930.90.86,"1,4-Bis(2-cloroetiltio)-n-butano",01/04/2022
+2930.90.87,"1,5-Bis(2-cloroetiltio)-n-pentano",01/04/2022
+2930.90.88,Óxido de bis(2-cloroetiltiometila),01/04/2022
+2930.90.89,Óxido de bis(2-cloroetiltioetila),01/04/2022
+2930.90.9,Outros,01/04/2022
+2930.90.91,Captan,01/04/2022
+2930.90.93,Metileno-bis-tiocianato,01/04/2022
+2930.90.94,Dimetiltiofosforamida,01/04/2022
+2930.90.95,Etilditiofosfonato de O-etila e de S-fenila (fonofós),01/04/2022
+2930.90.96,"Hidrogênio alquil(de C1 a C3)fosfonotioatos de [S-2-(dialquil(de C1 a C3)amino)etila], seus ésteres d",01/04/2022
+2930.90.97,Outros compostos que contenham um átomo de fósforo ligado a um grupo alquila (de C4 a C3) mas,01/04/2021
+2930.90.98,Ditiocarbonatos (xantatos e xantogenatos),01/04/2022
+2930.90.99,Outros,01/04/2022
+2931.10.00,- Tetrametila de chumbo e tetraetila de chumbo,01/04/2022
+2931.20.00,- Compostos de tributilestanho,01/04/2022
+2931.4,- Derivados organofosforados não halogenados:,01/04/2022
+2931.41.00,-- Metilfosfonato de dimetila,01/04/2022
+2931.42.00,-- Propilfosfonato de dimetila,01/04/2022
+2931.43.00,-- Etilfosfonato de dietila,01/04/2022
+2931.44.00,-- Ácido metilfosfônico,01/04/2022
+2931.45.00,-- Sal do ácido metilfosfônico e de (aminoiminometil)ureia (1:1),01/04/2022
+2931.46.00,"-- 2,4,6-Trióxido de 2,4,6-tripropil-1,3,5,2,4,6-trioxatrifosfinano",01/04/2022
+2931.47.00,"-- Metilfosfonato de (5-etil-2-metil-2-óxido-1,3,2-dioxafosfinan-5-il)metil metila",01/04/2022
+2931.48.00,"-- 3,9-Dióxido de 3,9-dimetil-2,4,8,10-tetraoxa-3,9-difosfaspiro[5.5]undecano",01/04/2022
+2931.49,-- Outros,01/04/2022
+2931.49.1,Ácido fosfonometiliminodiacético; ácido aminotrimetilenofosfônico; difenilfosfo,
+2931.49.11,Ácido fosfonometiliminodiacético; ácido aminotrimetilenofosfônico,01/04/2022
+2931.49.12,"Difenilfosfonato(4,4'-bis((dimetoxifosfinil)metil)difenila)",01/04/2022
+2931.49.13,Etidronato dissódico,01/04/2022
+2931.49.14,Glifosato e seu sal de monoisopropilamina,01/04/2022
+2931.49.15,Glufosinato de amônio,01/04/2022
+2931.49.16,Hidrogenofosfonato de bis(2-etilexilo),01/04/2022
+2931.49.20,"Hidrogênio alquil(de C1 a C3)fosfonitos de [O-2-(dialquil(de C1 a C3)amino)etila], seus ésteres de O-",01/04/2022
+2931.49.3,Outros compostos que contenham um átomo de fósforo ligado a um grupo alquila (de C4 a C3) mas,01/04/2021
+2931.49.31,Metilfosfinato de butila,01/04/2024
+2931.49.32,Metilfosfonato de bis(1-metilpentila),01/04/2024
+2931.49.39,Outros,01/04/2024
+2931.49.40,"N,N-Dialquil(de C1 a C3)fosforoamidocianidatos de O-alquila (de até C10, incluindo os cicloalquila)",01/04/2022
+2931.49.90,Outros,01/04/2022
+2931.5,- Derivados organofosforados halogenados:,01/04/2022
+2931.51.00,-- Dicloreto metilfosfônico,01/04/2022
+2931.52.00,-- Dicloreto propilfosfônico,01/04/2022
+2931.53.00,-- Metilfosfonotionato de O-(3-cloropropil) O-[4-nitro-3-(trifluorometil)fenila],01/04/2022
+2931.54.00,-- Triclorfom (ISO),01/04/2022
+2931.59,-- Outros,01/04/2022
+2931.59.1,Ácido clodrônico e seu sal dissódico; etefon; fotemustina,01/04/2022
+2931.59.11,Ácido clodrônico e seu sal dissódico,01/04/2022
+2931.59.12,Etefon,01/04/2022
+2931.59.13,Fotemustina,01/04/2022
+2931.59.9,Outros,01/04/2022
+2931.59.91,"Alquil(de C1 a C3)fosfonofluoridatos de O-alquila (de até C10, incluindo os cicloalquila)",01/04/2022
+2931.59.92,Metilfosfonocloridato de O-isopropila,01/04/2022
+2931.59.93,Metilfosfonocloridato de O-pinacolila,01/04/2022
+2931.59.94,"Difluoreto de alquilfosfonila, com grupo alquila de C1 a C3",01/04/2022
+2931.59.95,"Fosfonamidofluoridatos de P-alquila (de até C10, incluindo cicloalquila) N-(1-(dialquila (de até C10, in",01/04/2024
+2931.59.96,(Bis(dietilamina)metileno)fosfonamidofluoridato de metila,01/04/2024
+2931.59.98,Outros compostos que contenham um átomo de fósforo ligado a um grupo alquila (de C4 a C3) mas,01/04/2021
+2931.59.99,Outros,01/04/2022
+2931.90,- Outros,01/04/2022
+2931.90.2,Compostos organossilícicos,01/04/2022
+2931.90.21,Bis(trimetilsilil)ureia,01/04/2022
+2931.90.29,Outros,01/04/2022
+2931.90.4,Compostos organometálicos do estanho,01/04/2022
+2931.90.41,Acetato de trifenilestanho,01/04/2022
+2931.90.42,Tetraoctilestanho,01/04/2022
+2931.90.43,Ciexatin,01/04/2022
+2931.90.44,Hidróxido de trifenilestanho,01/04/2022
+2931.90.45,Óxido de fembutatina,01/04/2022
+2931.90.46,"Sais de dimetil-estanho, de dibutil-estanho e de dioctil-estanho, dos ácidos carboxílicos ou tioglicólic",01/04/2022
+2931.90.49,Outros,01/04/2022
+2931.90.5,Compostos organoarseniais,01/04/2022
+2931.90.51,Ácido metilarsínico e seus sais,01/04/2022
+2931.90.52,2-Clorovinil-dicloroarsina,01/04/2022
+2931.90.53,Bis(2-clorovinil)cloroarsina,01/04/2022
+2931.90.54,Tris(2-clorovinil)arsina,01/04/2022
+2931.90.59,Outros,01/04/2022
+2931.90.6,Compostos organoalumínicos,01/04/2022
+2931.90.61,Tricloreto de etilalumínio (sesquicloreto de etilalumínio),01/04/2022
+2931.90.62,Cloreto de dietilalumínio,01/04/2022
+2931.90.69,Outros,01/04/2022
+2931.90.90,Outros,01/04/2022
+2932.1,- Compostos cuja estrutura contém um ciclo furano (hidrogenado ou não) nãocondensado:,01/04/2022
+2932.11.00,-- Tetra-hidrofurano,01/04/2022
+2932.12.00,-- 2-Furaldeído (furfural),01/04/2022
+2932.13,-- Álcool furfurílico e álcool tetra-hidrofurfurílico,01/04/2022
+2932.13.10,Álcool furfurílico,01/04/2022
+2932.13.20,Álcool tetra-hidrofurfurílico,01/04/2022
+2932.14.00,-- Sucralose,01/04/2022
+2932.19,-- Outros,01/04/2022
+2932.19.10,Ranitidina e seus sais,01/04/2022
+2932.19.20,Nafronil,01/04/2022
+2932.19.30,Nitrovin,01/04/2022
+2932.19.40,Bioresmetrina,01/04/2022
+2932.19.50,Diacetato de 5-nitrofurfurilideno (NFDA),01/04/2022
+2932.19.90,Outros,01/04/2022
+2932.20.00,- Lactonas,01/04/2022
+2932.9,- Outros:,01/04/2022
+2932.91.00,-- Isosafrol,01/04/2022
+2932.92.00,"-- 1-(1,3-Benzodioxol-5-il)propan-2-ona",01/04/2022
+2932.93.00,-- Piperonal,01/04/2022
+2932.94.00,-- Safrol,01/04/2022
+2932.95.00,-- Tetra-hidrocanabinóis (todos os isômeros),01/04/2022
+2932.96.00,-- Carbofurano (ISO),01/04/2022
+2932.99,-- Outros,01/04/2022
+2932.99.1,Eucaliptol; quercetina; dinitrato de isossorbida,01/04/2022
+2932.99.11,Eucaliptol,01/04/2022
+2932.99.12,Quercetina,01/04/2022
+2932.99.13,Dinitrato de isossorbida,01/04/2022
+2932.99.9,Outros,01/04/2022
+2932.99.91,Cloridrato de amiodarona,01/04/2022
+2932.99.92,"1,3,4,6,7,8-Hexaidro-4,6,6,7,8,8-hexametilciclopenta-gama-2-benzopirano",01/04/2022
+2932.99.93,Dibenzilideno-sorbitol,01/04/2022
+2932.99.94,"Carbosulfan ((dibutilaminotio)metilcarbamato de 2,3-di-hidro-2,2-dimetilbenzo",
+2932.99.99,Outros,01/04/2022
+2933.1,- Compostos cuja estrutura contém um ciclo pirazol (hidrogenado ou não) nãocondensado:,01/04/2022
+2933.11,-- Fenazona (antipirina) e seus derivados,01/04/2022
+2933.11.1,"Ácido 1-fenil-2,3-dimetil-5-pirazolona-4-metilaminometanossulfônico e seus sais",01/04/2022
+2933.11.11,Dipirona,01/04/2022
+2933.11.12,Magnopirol (dipirona magnésica),01/04/2022
+2933.11.19,Outros,01/04/2022
+2933.11.20,"Metileno-bis(4-metilamino-1-fenil-2,3-dimetil)pirazolona",01/04/2022
+2933.11.90,Outros,01/04/2022
+2933.19,-- Outros,01/04/2022
+2933.19.1,Fenilbutazona e seus sais,01/04/2022
+2933.19.11,Fenilbutazona cálcica,01/04/2022
+2933.19.19,Outros,01/04/2022
+2933.19.90,Outros,01/04/2022
+2933.2,- Compostos cuja estrutura contém um ciclo imidazol (hidrogenado ou não) não condensado:,01/04/2022
+2933.21,-- Hidantoína e seus derivados,01/04/2022
+2933.21.10,Iprodiona,01/04/2022
+2933.21.2,Fenitoína e seus sais,01/04/2022
+2933.21.21,Fenitoína e seu sal sódico,01/04/2022
+2933.21.29,Outros,01/04/2022
+2933.21.90,Outros,01/04/2022
+2933.29,-- Outros,01/04/2022
+2933.29.1,Cuja estrutura contém um ciclo nitroimidazol,01/04/2022
+2933.29.11,2-Metil-5-nitroimidazol,01/04/2022
+2933.29.12,Metronidazol e seus sais,01/04/2022
+2933.29.13,Tinidazol,01/04/2022
+2933.29.19,Outros,01/04/2022
+2933.29.2,"Cuja estrutura contém um ciclo benzeno clorado, exceto os que contenham um ciclo nitroimidazol",01/04/2022
+2933.29.21,Econazol e seu nitrato,01/04/2022
+2933.29.22,Nitrato de miconazol,01/04/2022
+2933.29.23,Cloridrato de clonidina,01/04/2022
+2933.29.24,Nitrato de isoconazol,01/04/2022
+2933.29.25,Clotrimazol,01/04/2022
+2933.29.29,Outros,01/04/2022
+2933.29.30,Cimetidina e seus sais,01/04/2022
+2933.29.40,4-Metil-5-hidroximetilimidazol e seus sais,01/04/2022
+2933.29.9,Outros,01/04/2022
+2933.29.91,Imidazol,01/04/2022
+2933.29.92,Histidina e seus sais,01/04/2022
+2933.29.93,Ondansetron e seus sais,01/04/2022
+2933.29.94,1-Hidroxietil-2-undecanoilimidazolina,01/04/2022
+2933.29.95,1-Hidroxietil-2-(8-heptadecenoil)imidazolina,01/04/2022
+2933.29.99,Outros,01/04/2022
+2933.3,- Compostos cuja estrutura contém um ciclo piridina (hidrogenado ou não) não condensado:,01/04/2022
+2933.31,-- Piridina e seus sais,01/04/2022
+2933.31.10,Piridina,01/04/2022
+2933.31.20,Sais,01/04/2022
+2933.32.00,-- Piperidina e seus sais,01/04/2022
+2933.33,"-- Alfentanila (DCI), anileridina (DCI), bezitramida (DCI), bromazepam (DCI), carfentanila (DCI), cetob",01/04/2022
+2933.33.1,Alfentanila e anileridina; sais destes produtos,01/04/2022
+2933.33.11,Alfentanila,01/04/2022
+2933.33.12,Anileridina,01/04/2022
+2933.33.19,Outros,01/04/2022
+2933.33.2,Bezitramida e bromazepam; sais destes produtos,01/04/2022
+2933.33.21,Bezitramida,01/04/2022
+2933.33.22,Bromazepam,01/04/2022
+2933.33.29,Outros,01/04/2022
+2933.33.3,Carfentanila e cetobemidona; sais destes produtos,01/04/2022
+2933.33.31,Carfentanila,01/04/2022
+2933.33.32,Cetobemidona,01/04/2022
+2933.33.39,Outros,01/04/2022
+2933.33.4,Difenoxilato e seus sais,01/04/2022
+2933.33.41,Difenoxilato,01/04/2022
+2933.33.42,Cloridrato de difenoxilato,01/04/2022
+2933.33.49,Outros,01/04/2022
+2933.33.5,Difenoxina e dipipanona; sais destes produtos,01/04/2022
+2933.33.51,Difenoxina,01/04/2022
+2933.33.52,Dipipanona,01/04/2022
+2933.33.59,Outros,01/04/2022
+2933.33.6,"Fenciclidina, fenoperidina e fentanila; sais destes produtos",01/04/2022
+2933.33.61,Fenciclidina,01/04/2022
+2933.33.62,Fenoperidina,01/04/2022
+2933.33.63,Fentanila,01/04/2022
+2933.33.69,Outros,01/04/2022
+2933.33.7,Metilfenidato e pentazocina; sais destes produtos,01/04/2022
+2933.33.71,Metilfenidato,01/04/2022
+2933.33.72,Pentazocina,01/04/2022
+2933.33.79,Outros,01/04/2022
+2933.33.8,"Petidina, intermediário A da petidina e pipradrol; sais destes produtos",01/04/2022
+2933.33.81,Petidina,01/04/2022
+2933.33.82,Intermediário A da petidina,01/04/2022
+2933.33.83,Pipradrol,01/04/2022
+2933.33.84,Cloridrato de petidina,01/04/2022
+2933.33.89,Outros,01/04/2022
+2933.33.9,"Piritramida, propiram, remifentanila e trimeperidina; sais destes produtos",01/04/2022
+2933.33.91,Piritramida,01/04/2022
+2933.33.92,Propiram,01/04/2022
+2933.33.93,Trimeperidina,01/04/2022
+2933.33.94,Remifentanila,01/04/2022
+2933.33.99,Outros,01/04/2022
+2933.34.00,-- Outras fentanilas e seus derivados,01/04/2022
+2933.35.00,-- Quinuclidin-3-ol,01/04/2022
+2933.36.00,-- 4-Anilino-N-fenetilpiperidina (ANPP),01/04/2022
+2933.37.00,-- N-Fenetil-4-piperidona (NPP),01/04/2022
+2933.39,-- Outros,01/04/2022
+2933.39.1,"Cuja estrutura contém flúor, bromo ou ambos, em ligação covalente",01/04/2022
+2933.39.12,Droperidol,01/04/2022
+2933.39.13,Ácido niflúmico,01/04/2022
+2933.39.14,Haloxifop (ácido (RS)-2-(4-(3-cloro-5-trifluorometil-2-piridiloxi)fenoxi)propiônico),01/04/2022
+2933.39.15,Haloperidol,01/04/2022
+2933.39.19,Outros,01/04/2022
+2933.39.2,"Cuja estrutura contém cloro, mas não contém flúor nem bromo, em ligação covalente",01/04/2022
+2933.39.21,Picloram,01/04/2022
+2933.39.22,Clorpirifós,01/04/2022
+2933.39.23,Malato ácido de cleboprida (malato de cleboprida),01/04/2022
+2933.39.24,Cloridrato de loperamida,01/04/2022
+2933.39.25,Ácido 2-(2-metil-3-cloroanilino)nicotínico e seu sal de lisina,01/04/2022
+2933.39.29,Outros,01/04/2022
+2933.39.3,"Cuja estrutura contém funções álcool, ácido carboxílico ou ambas, mas não contém halogênios em li",01/04/2022
+2933.39.31,Terfenadina,01/04/2022
+2933.39.32,Biperideno e seus sais,01/04/2022
+2933.39.33,Ácido isonicotínico,01/04/2022
+2933.39.34,"5-Etil-2,3-dicarboxipiridina (5-EPDC)",01/04/2022
+2933.39.35,Imazetapir (ácido (RS)-5-etil-2-(4-isopropil-4-metil-5-oxo-2-imidazolin-2-il)nicotínico),01/04/2022
+2933.39.36,"Dibrometo de 1-[N,N-dialquila (de até C10) -N-(n-hidroxialquil (de até C10))amônio]-n-[N-(3-dimetilca",01/04/2024
+2933.39.37,Benzilato de 3-quinuclidinila,01/04/2022
+2933.39.39,Outros,01/04/2022
+2933.39.4,"Cuja estrutura contém funções éter, éster ou ambas, mas não contém funções álcool ou ácido carbo",01/04/2022
+2933.39.41,"Dibrometo de 1-[N,N-dialquila (de até C10) -N-(n-(ciano, acetoxi)alquil (de até",
+2933.39.42,"Dibrometo de 1,n-bis[N-(3-dimetilcarbamoxi-alfa-picolil)-N,N-dialquila (de atéC01) amônio]-alcano-(2",10/04/2024
+2933.39.43,Nifedipina,01/04/2022
+2933.39.44,Nitrendipina,01/04/2022
+2933.39.45,Maleato de pirilamina,01/04/2022
+2933.39.46,Omeprazol,01/04/2022
+2933.39.48,Nimodipina,01/04/2022
+2933.39.49,Outros,01/04/2022
+2933.39.8,"Outros, cuja estrutura contém um ciclo piridina (hidrogenado ou não) N-substituído com radicais alqu",01/04/2022
+2933.39.81,Cloridrato de benzetimida,01/04/2022
+2933.39.82,Cloridrato de mepivacaína,01/04/2022
+2933.39.83,Cloridrato de bupivacaína,01/04/2022
+2933.39.84,Dicloreto de paraquate,01/04/2022
+2933.39.89,Outros,01/04/2022
+2933.39.9,Outros,01/04/2022
+2933.39.91,Cloridrato de fenazopiridina,01/04/2022
+2933.39.92,Isoniazida,01/04/2022
+2933.39.93,3-Cianopiridina,01/04/2022
+2933.39.94,"4,4'-Bipiridina",01/04/2022
+2933.39.99,Outros,01/04/2022
+2933.4,- Compostos cuja estrutura contém ciclos quinoleína ou isoquinoleína (hidrogenados ou não) sem ou,01/04/2022
+2933.41,-- Levorfanol (DCI) e seus sais,01/04/2022
+2933.41.10,Levorfanol,01/04/2022
+2933.41.20,Sais,01/04/2022
+2933.49,-- Outros,01/04/2022
+2933.49.1,Derivados do ácido quinolinocarboxílico,01/04/2022
+2933.49.11,"Ácido 2,3-quinolinodicarboxílico",01/04/2022
+2933.49.12,Rosoxacina,01/04/2022
+2933.49.13,Imazaquin,01/04/2022
+2933.49.19,Outros,01/04/2022
+2933.49.20,Oxaminiquina,01/04/2022
+2933.49.30,Broxiquinolina,01/04/2022
+2933.49.40,Ésteres do levorfanol,01/04/2022
+2933.49.90,Outros,01/04/2022
+2933.5,- Compostos cuja estrutura contém um ciclo pirimidina (hidrogenado ou não)ou piperazina:,01/04/2022
+2933.52.00,-- Malonilureia (ácido barbitúrico) e seus sais,01/04/2022
+2933.53,"-- Alobarbital (DCI), amobarbital (DCI), barbital (DCI), butalbital (DCI), butobarbital, ciclobarbital (DCI)",01/04/2022
+2933.53.1,Alobarbital e amobarbital; sais destes produtos,01/04/2022
+2933.53.11,Alobarbital e seus sais,01/04/2022
+2933.53.12,Amobarbital e seus sais,01/04/2022
+2933.53.2,"Barbital, butalbital e butobarbital; sais destes produtos",01/04/2022
+2933.53.21,Barbital e seus sais,01/04/2022
+2933.53.22,Butalbital e seus sais,01/04/2022
+2933.53.23,Butobarbital e seus sais,01/04/2022
+2933.53.30,Ciclobarbital e seus sais,01/04/2022
+2933.53.40,Fenobarbital e seus sais,01/04/2022
+2933.53.50,Metilfenobarbital e seus sais,01/04/2022
+2933.53.60,Pentobarbital e seus sais,01/04/2022
+2933.53.7,Secbutabarbital e secobarbital; sais destes produtos,01/04/2022
+2933.53.71,Secbutabarbital e seus sais,01/04/2022
+2933.53.72,Secobarbital e seus sais,01/04/2022
+2933.53.80,Venilbital e seus sais,01/04/2022
+2933.54.00,-- Outros derivados de malonilureia (ácido barbitúrico); sais destes produtos,01/04/2022
+2933.55,"-- Loprazolam (DCI), mecloqualona (DCI), metaqualona (DCI) e zipeprol (DCI); sais destes produtos",01/04/2022
+2933.55.10,Loprazolam e seus sais,01/04/2022
+2933.55.20,Mecloqualona e seus sais,01/04/2022
+2933.55.30,Metaqualona e seus sais,01/04/2022
+2933.55.40,Zipeprol e seus sais,01/04/2022
+2933.59,-- Outros,01/04/2022
+2933.59.1,Cuja estrutura contém um ciclo piperazina,01/04/2022
+2933.59.11,Oxatomida,01/04/2022
+2933.59.12,Praziquantel,01/04/2022
+2933.59.13,Norfloxacina e seu nicotinato,01/04/2022
+2933.59.14,Flunarizina e seu dicloridrato,01/04/2022
+2933.59.15,Enrofloxacina; sais de piperazina,01/04/2022
+2933.59.16,Cloridrato de buspirona,01/04/2022
+2933.59.19,Outros,01/04/2022
+2933.59.2,Cuja estrutura contém um ciclo pirimidina (hidrogenado ou não) e halogêniosem ligação covalente,01/04/2022
+2933.59.21,Bromacil,01/04/2022
+2933.59.22,Terbacil,01/04/2022
+2933.59.23,Fluorouracil,01/04/2022
+2933.59.29,Outros,01/04/2022
+2933.59.3,"Cuja estrutura contém um ciclo pirimidina (hidrogenado ou não) e enxofre, mas não contém halogêni",01/04/2022
+2933.59.31,Propiltiouracil,01/04/2022
+2933.59.32,Diazinon,01/04/2022
+2933.59.33,Pirazofós,01/04/2022
+2933.59.34,Azatioprina,01/04/2022
+2933.59.35,6-Mercaptopurina,01/04/2022
+2933.59.39,Outros,01/04/2022
+2933.59.4,"Cuja estrutura contém um ciclo pirimidina (hidrogenado ou não) e funções álcool, éter ou ambas, ma",01/04/2022
+2933.59.41,Trimetoprima,01/04/2022
+2933.59.42,Aciclovir,01/04/2022
+2933.59.43,Tosilatos de dipiridamol,01/04/2022
+2933.59.44,Nicarbazina,01/04/2022
+2933.59.45,Bissulfito de menadiona dimetilpirimidinol,01/04/2022
+2933.59.49,Outros,01/04/2022
+2933.59.9,Outros,01/04/2022
+2933.59.91,Minoxidil,01/04/2022
+2933.59.92,2-Aminopirimidina,01/04/2022
+2933.59.99,Outros,01/04/2022
+2933.6,- Compostos cuja estrutura contém um ciclo triazina (hidrogenado ou não) não condensado:,01/04/2022
+2933.61.00,-- Melamina,01/04/2022
+2933.69,-- Outros,01/04/2022
+2933.69.1,Cuja estrutura contém cloro em ligação covalente,01/04/2022
+2933.69.11,"2,4,6-Triclorotriazina (cloreto cianúrico)",01/04/2022
+2933.69.12,Mercaptodiclorotriazina,01/04/2022
+2933.69.13,Atrazina,01/04/2022
+2933.69.14,Simazina,01/04/2022
+2933.69.15,Cianazina,01/04/2022
+2933.69.16,Anilazina,01/04/2022
+2933.69.19,Outros,01/04/2022
+2933.69.2,"Cuja estrutura contém funções oxigenadas, mas não contém cloro em ligaçãocovalente",01/04/2022
+2933.69.21,"N,N,N-Triidroxietilexaidrotriazina",01/04/2022
+2933.69.22,Hexazinona,01/04/2022
+2933.69.23,Metribuzim,01/04/2022
+2933.69.29,Outros,01/04/2022
+2933.69.9,Outros,01/04/2022
+2933.69.91,Ametrina,01/04/2022
+2933.69.92,Metenamina e seus sais,01/04/2022
+2933.69.99,Outros,01/04/2022
+2933.7,- Lactamas:,01/04/2022
+2933.71.00,-- 6-Hexanolactama (épsilon-caprolactama),01/04/2022
+2933.72,-- Clobazam (DCI) e metiprilona (DCI),01/04/2022
+2933.72.10,Clobazam,01/04/2022
+2933.72.20,Metiprilona,01/04/2022
+2933.79,-- Outras lactamas,01/04/2022
+2933.79.10,Piracetam,01/04/2022
+2933.79.90,Outras,01/04/2022
+2933.9,- Outros:,01/04/2022
+2933.91,"-- Alprazolam (DCI), camazepam (DCI), clonazepam (DCI), clorazepato, clordiazepóxido (DCI), delor",01/04/2022
+2933.91.1,"Alprazolam, camazepam, clonazepam, clorazepato e clorodiazepóxido; sais destes produtos",01/04/2022
+2933.91.11,Alprazolam,01/04/2022
+2933.91.12,Camazepam,01/04/2022
+2933.91.13,Clonazepam,01/04/2022
+2933.91.14,Clorazepato,01/04/2022
+2933.91.15,Clordiazepóxido,01/04/2022
+2933.91.19,Outros,01/04/2022
+2933.91.2,"Delorazepam, diazepam e estazolam; sais destes produtos",01/04/2022
+2933.91.21,Delorazepam,01/04/2022
+2933.91.22,Diazepam,01/04/2022
+2933.91.23,Estazolam,01/04/2022
+2933.91.29,Outros,01/04/2022
+2933.91.3,"Fludiazepam, flunitrazepam, flurazepam e halazepam; sais destes produtos",01/04/2022
+2933.91.31,Fludiazepam,01/04/2022
+2933.91.32,Flunitrazepam,01/04/2022
+2933.91.33,Flurazepam,01/04/2022
+2933.91.34,Halazepam,01/04/2022
+2933.91.39,Outros,01/04/2022
+2933.91.4,"Loflazepato de etila, lorazepam e lormetazepam; sais destes produtos",01/04/2022
+2933.91.41,Loflazepato de etila,01/04/2022
+2933.91.42,Lorazepam,01/04/2022
+2933.91.43,Lormetazepam,01/04/2022
+2933.91.49,Outros,01/04/2022
+2933.91.5,"Mazindol, medazepam e midazolam; sais destes produtos",01/04/2022
+2933.91.51,Mazindol,01/04/2022
+2933.91.52,Medazepam,01/04/2022
+2933.91.53,Midazolam e seus sais,01/04/2022
+2933.91.59,Outros,01/04/2022
+2933.91.6,"Nimetazepam, nitrazepam, nordazepam e oxazepam; sais destes produtos",01/04/2022
+2933.91.61,Nimetazepam,01/04/2022
+2933.91.62,Nitrazepam,01/04/2022
+2933.91.63,Nordazepam,01/04/2022
+2933.91.64,Oxazepam,01/04/2022
+2933.91.69,Outros,01/04/2022
+2933.91.7,"Pinazepam, pirovalerona e prazepam; sais destes produtos",01/04/2022
+2933.91.71,Pinazepam,01/04/2022
+2933.91.72,Pirovalerona,01/04/2022
+2933.91.73,Prazepam,01/04/2022
+2933.91.79,Outros,01/04/2022
+2933.91.8,"Temazepam, tetrazepam e triazolam; sais destes produtos",01/04/2022
+2933.91.81,Temazepam,01/04/2022
+2933.91.82,Tetrazepam,01/04/2022
+2933.91.83,Triazolam,01/04/2022
+2933.91.89,Outros,01/04/2022
+2933.92.00,-- Azinfós metil (ISO),01/04/2022
+2933.99,-- Outros,01/04/2022
+2933.99.1,Cuja estrutura contém um ciclo pirazina não condensado ou ciclos indol (hidrogenados ou não) sem,01/04/2022
+2933.99.11,Pirazinamida,01/04/2022
+2933.99.12,Cloridrato de amilorida,01/04/2022
+2933.99.13,Pindolol,01/04/2022
+2933.99.19,Outros,01/04/2022
+2933.99.20,Cuja estrutura contém um ciclo diazepina (hidrogenado ou não),01/04/2022
+2933.99.3,Cuja estrutura contém um ciclo azepina (hidrogenado ou não),01/04/2022
+2933.99.31,Dibenzoazepina (iminoestilbeno),01/04/2022
+2933.99.32,Carbamazepina,01/04/2022
+2933.99.33,Cloridrato de clomipramina,01/04/2022
+2933.99.34,Molinate (hexaidroazepin-1-carbotioato de S-etila),01/04/2022
+2933.99.35,Hexametilenoimina,01/04/2022
+2933.99.39,Outros,01/04/2022
+2933.99.4,Cuja estrutura contém um ciclo pirrol (hidrogenado ou não),01/04/2022
+2933.99.41,Clemastina e seus derivados; sais destes produtos,01/04/2022
+2933.99.42,Amisulprida,01/04/2022
+2933.99.43,Sultoprida,01/04/2022
+2933.99.44,Alizaprida,01/04/2022
+2933.99.45,Buflomedil e seus derivados; sais destes produtos,01/04/2022
+2933.99.46,Maleato de enalapril,01/04/2022
+2933.99.47,Ketorolac trometamina,01/04/2022
+2933.99.49,Outros,01/04/2022
+2933.99.5,Cuja estrutura contém um ciclo imidazol (hidrogenados ou não),01/04/2022
+2933.99.51,Benomil,01/04/2022
+2933.99.52,Oxifendazol,01/04/2022
+2933.99.53,Albendazol e seu sulfóxido,01/04/2022
+2933.99.54,Mebendazol,01/04/2022
+2933.99.55,Flubendazol,01/04/2022
+2933.99.56,Fembendazol,01/04/2022
+2933.99.59,Outros,01/04/2022
+2933.99.6,"Cuja estrutura contém um ciclo triazol (hidrogenado ou não), não condensado",01/04/2022
+2933.99.61,Triadimenol,01/04/2022
+2933.99.62,Triadimefon,01/04/2022
+2933.99.63,"Triazofós (fosforotioato de O,O-dietila O-(1-fenil-1H-1,2,4-triazol-3-ila))",01/04/2022
+2933.99.69,Outros,01/04/2022
+2933.99.9,Outros,01/04/2022
+2933.99.91,Azinfós etílico,01/04/2022
+2933.99.92,Ácido nalidíxico,01/04/2022
+2933.99.93,Clofazimina,01/04/2022
+2933.99.95,Metilssulfato de amezínio,01/04/2022
+2933.99.96,Hidrazida maleica e seus sais,01/04/2022
+2933.99.99,Outros,01/04/2022
+2934.10,- Compostos cuja estrutura contém um ciclo tiazol (hidrogenado ou não) nãocondensado,01/04/2022
+2934.10.10,Fentiazac,01/04/2022
+2934.10.20,Cloridrato de tiazolidina,01/04/2022
+2934.10.30,Tiabendazol,01/04/2022
+2934.10.90,Outros,01/04/2022
+2934.20,- Compostos cuja estrutura contém ciclos benzotiazol (hidrogenados ou não)sem outras condensaçõ,01/04/2022
+2934.20.10,2-Mercaptobenzotiazol e seus sais,01/04/2022
+2934.20.20,"2,2'-Ditio-bis(benzotiazol) (dissulfeto de benzotiazila)",01/04/2022
+2934.20.3,Benzotiazol sulfenamidas,01/04/2022
+2934.20.31,2-(Terbutilaminotio)benzotiazol (N-terbutil-benzotiazol-sulfenamida),01/04/2022
+2934.20.32,2-(Cicloexilaminotio)benzotiazol (N-cicloexil-benzotiazol-sulfenamida),01/04/2022
+2934.20.33,"2-(Dicicloexilaminotio)benzotiazol (N,N-dicicloexil-benzotiazol-sulfenamida)",01/04/2022
+2934.20.34,2-(4-Morfoliniltio)benzotiazol (N-oxidietileno-benzotiazol-sulfenamida),01/04/2022
+2934.20.39,Outras,01/04/2022
+2934.20.40,2-(Tiocianometiltio)benzotiazol (TCMTB),01/04/2022
+2934.20.90,Outros,01/04/2022
+2934.30,- Compostos cuja estrutura contém ciclos fenotiazina (hidrogenados ou não)sem outras condensaçõ,01/04/2022
+2934.30.10,Maleato de metotrimeprazina (maleato de levomepromazina),01/04/2022
+2934.30.20,Enantato de flufenazina,01/04/2022
+2934.30.30,Prometazina,01/04/2022
+2934.30.90,Outros,01/04/2022
+2934.9,- Outros:,01/04/2022
+2934.91,"-- Aminorex (DCI), brotizolam (DCI), clotiazepam (DCI), cloxazolam (DCI), dextromoramida (DCI), fen",01/04/2022
+2934.91.1,Aminorex e brotizolan; sais destes produtos,01/04/2022
+2934.91.11,Aminorex e seus sais,01/04/2022
+2934.91.12,Brotizolam e seus sais,01/04/2022
+2934.91.2,"Clotiazepam, cloxazolam e dextromoramida; sais destes produtos",01/04/2022
+2934.91.21,Clotiazepam,01/04/2022
+2934.91.22,Cloxazolam,01/04/2022
+2934.91.23,Dextromoramida,01/04/2022
+2934.91.29,Outros,01/04/2022
+2934.91.3,"Fendimetrazina, fenmetrazina e haloxazolam; sais destes produtos",01/04/2022
+2934.91.31,Fendimetrazina e seus sais,01/04/2022
+2934.91.32,Fenmetrazina e seus sais,01/04/2022
+2934.91.33,Haloxazolam e seus sais,01/04/2022
+2934.91.4,Ketazolam e mesocarbo; sais destes produtos,01/04/2022
+2934.91.41,Ketazolam,01/04/2022
+2934.91.42,Mesocarbo,01/04/2022
+2934.91.49,Outros,01/04/2022
+2934.91.50,Oxazolam e seus sais,01/04/2022
+2934.91.60,Pemolina e seus sais,01/04/2022
+2934.91.70,Sufentanila e seus sais,01/04/2022
+2934.92.00,-- Outras fentanilas e seus derivados,01/04/2022
+2934.99,-- Outros,01/04/2022
+2934.99.1,"Cuja estrutura contém um ciclo oxazina (hidrogenado ou não), exceto os quecontenham heteroátom",01/04/2022
+2934.99.11,Morfolina e seus sais,01/04/2022
+2934.99.12,Pirenoxina sódica (catalino sódico),01/04/2022
+2934.99.13,Nimorazol,01/04/2022
+2934.99.14,"Anidrido isatoico (2H-3,1-benzoxazina-2,4-(1H)-diona)",01/04/2022
+2934.99.15,"4,4'-Ditiodimorfolina",01/04/2022
+2934.99.19,Outros,01/04/2022
+2934.99.2,"Cuja estrutura contém exclusivamente 3 heteroátomos de nitrogênio (azoto) eoxigênio em conjunto,",01/04/2022
+2934.99.22,Zidovudina (AZT),01/04/2022
+2934.99.23,Timidina,01/04/2022
+2934.99.24,Furazolidona,01/04/2022
+2934.99.25,Citarabina,01/04/2022
+2934.99.26,Oxadiazona,01/04/2022
+2934.99.27,Estavudina,01/04/2022
+2934.99.29,Outros,01/04/2022
+2934.99.3,"Outros, cuja estrutura contém exclusivamente heteroátomos de nitrogênio (azoto) e oxigênio",01/04/2022
+2934.99.31,Cetoconazol,01/04/2022
+2934.99.32,Cloridrato de prazosina,01/04/2022
+2934.99.33,Talniflumato,01/04/2022
+2934.99.34,Ácidos nucleicos e seus sais,01/04/2022
+2934.99.35,Propiconazol,01/04/2022
+2934.99.39,Outros,01/04/2022
+2934.99.4,Cuja estrutura contém exclusivamente até 2 heteroátomos de enxofre ou umde enxofre e um de nitr,01/04/2022
+2934.99.41,Tiofeno,01/04/2022
+2934.99.42,Ácido 6-aminopenicilânico,01/04/2022
+2934.99.43,Ácido 7-aminocefalosporânico,01/04/2022
+2934.99.44,Ácido 7-aminodesacetoxicefalosporânico,01/04/2022
+2934.99.45,Clormezanona,01/04/2022
+2934.99.46,9-(N-Metil-4-piperidinilideno)tioxanteno,01/04/2022
+2934.99.49,Outros,01/04/2022
+2934.99.5,Cuja estrutura contém exclusivamente 3 heteroátomos de enxofre e nitrogênio (azoto) em conjunto,01/04/2022
+2934.99.51,Tebutiuron,01/04/2022
+2934.99.52,Tetramisol,01/04/2022
+2934.99.53,Levamisol e seus sais,01/04/2022
+2934.99.54,Tioconazol,01/04/2022
+2934.99.59,Outros,01/04/2022
+2934.99.6,"Outros, cuja estrutura contém exclusivamente heteroátomos de enxofre ou deenxofre e nitrogênio (a",01/04/2022
+2934.99.61,Cloridrato de tizanidina,01/04/2022
+2934.99.69,Outros,01/04/2022
+2934.99.9,Outros,01/04/2022
+2934.99.91,Timolol,01/04/2022
+2934.99.92,Maleato ácido de timolol,01/04/2022
+2934.99.93,Lamivudina,01/04/2022
+2934.99.99,Outros,01/04/2022
+2935.10.00,- N-Metilperfluoroctano sulfonamida,01/04/2022
+2935.20.00,- N-Etilperfluoroctano sulfonamida,01/04/2022
+2935.30.00,- N-Etil-N-(2-hidroxietil)perfluoroctano sulfonamida,01/04/2022
+2935.40.00,- N-(2-Hidroxietil)-N-metilperfluoroctano sulfonamida,01/04/2022
+2935.50.00,- Outras perfluoroctanossulfonamidas,01/04/2022
+2935.90,- Outras,01/04/2022
+2935.90.1,Cuja estrutura contém exclusivamente heterociclo(s) com heteroátomo(s) denitrogênio (azoto),01/04/2022
+2935.90.11,Sulfadiazina e seu sal sódico,01/04/2022
+2935.90.12,Clortalidona,01/04/2022
+2935.90.13,Sulpirida,01/04/2022
+2935.90.14,Veraliprida,01/04/2022
+2935.90.15,"Sulfametazina (4,6-dimetil-2-sulfanilamidopirimidina) e seu sal sódico",01/04/2022
+2935.90.19,Outras,01/04/2022
+2935.90.2,Cuja estrutura contém outro(s) heterociclo(s),01/04/2022
+2935.90.21,Furosemida,01/04/2022
+2935.90.22,Ftalilsulfatiazol,01/04/2022
+2935.90.23,Piroxicam,01/04/2022
+2935.90.24,Tenoxicam,01/04/2022
+2935.90.25,Sulfametoxazol,01/04/2022
+2935.90.29,Outras,01/04/2022
+2935.90.9,Outras,01/04/2022
+2935.90.91,Cloramina-B e cloramina-T,01/04/2022
+2935.90.92,Gliburida,01/04/2022
+2935.90.93,Toluenossulfonamidas,01/04/2022
+2935.90.94,Nimesulida,01/04/2022
+2935.90.95,Bumetanida,01/04/2022
+2935.90.96,Sulfaguanidina,01/04/2022
+2935.90.99,Outras,01/04/2022
+2936.2,"- Vitaminas e seus derivados, não misturados:",01/04/2022
+2936.21,-- Vitaminas A e seus derivados,01/04/2022
+2936.21.1,Vitamina A1 álcool (retinol) e seus derivados,01/04/2022
+2936.21.11,Vitamina A1 álcool (retinol),01/04/2022
+2936.21.12,Acetato,01/04/2022
+2936.21.13,Palmitato,01/04/2022
+2936.21.19,Outros,01/04/2022
+2936.21.90,Outros,01/04/2022
+2936.22,-- Vitamina B1 e seus derivados,01/04/2022
+2936.22.10,Cloridrato de vitamina B1 (cloridrato de tiamina),01/04/2022
+2936.22.20,Mononitrato de vitamina B1 (mononitrato de tiamina),01/04/2022
+2936.22.90,Outros,01/04/2022
+2936.23,-- Vitamina B2 e seus derivados,01/04/2022
+2936.23.10,Vitamina B2 (riboflavina),01/04/2022
+2936.23.20,5'-Fosfato sódico de vitamina B2 (5'-fosfato sódico de riboflavina),01/04/2022
+2936.23.90,Outros,01/04/2022
+2936.24,-- Ácido D- ou DL-pantotênico (vitamina B5) e seus derivados,01/04/2022
+2936.24.10,D-Pantotenato de cálcio,01/04/2022
+2936.24.90,Outros,01/04/2022
+2936.25,-- Vitamina B6 e seus derivados,01/04/2022
+2936.25.10,Vitamina B6,01/04/2022
+2936.25.20,Cloridrato de piridoxina,01/04/2022
+2936.25.90,Outros,01/04/2022
+2936.26,-- Vitamina B12 e seus derivados,01/04/2022
+2936.26.10,Vitamina B12 (cianocobalamina),01/04/2022
+2936.26.20,Cobamamida,01/04/2022
+2936.26.30,Hidroxocobalamina e seus sais,01/04/2022
+2936.26.90,Outros,01/04/2022
+2936.27,-- Vitamina C e seus derivados,01/04/2022
+2936.27.10,Vitamina C (ácido L- ou DL-ascórbico),01/04/2022
+2936.27.20,Ascorbato de sódio,01/04/2022
+2936.27.90,Outros,01/04/2022
+2936.28,-- Vitamina E e seus derivados,01/04/2022
+2936.28.1,D- ou DL-alfa-Tocoferol e seus derivados,01/04/2022
+2936.28.11,D- ou DL-alfa-Tocoferol,01/04/2022
+2936.28.12,Acetato de D- ou DL-alfa-tocoferol,01/04/2022
+2936.28.19,Outros,01/04/2022
+2936.28.90,Outros,01/04/2022
+2936.29,-- Outras vitaminas e seus derivados,01/04/2022
+2936.29.1,Vitamina B9 (ácido fólico) e seus derivados,01/04/2022
+2936.29.11,Vitamina B9 (ácido fólico) e seus sais,01/04/2022
+2936.29.19,Outros,01/04/2022
+2936.29.2,Vitaminas D e seus derivados,01/04/2022
+2936.29.21,Vitamina D3 (colecalciferol),01/04/2022
+2936.29.29,Outros,01/04/2022
+2936.29.3,Vitamina H (biotina) e seus derivados,01/04/2022
+2936.29.31,Vitamina H (biotina),01/04/2022
+2936.29.39,Outros,01/04/2022
+2936.29.40,Vitaminas K e seus derivados,01/04/2022
+2936.29.5,Ácido nicotínico e seus derivados,01/04/2022
+2936.29.51,Ácido nicotínico,01/04/2022
+2936.29.52,Nicotinamida,01/04/2022
+2936.29.53,Nicotinato de sódio,01/04/2022
+2936.29.59,Outros,01/04/2022
+2936.29.90,Outros,01/04/2022
+2936.90.00,"- Outras, incluindo os concentrados naturais",01/04/2022
+2937.1,"- Hormônios polipeptídicos, hormônios proteicos e hormônios glicoproteicos,seus derivados e análo",01/04/2022
+2937.11.00,"-- Somatotropina, seus derivados e análogos estruturais",01/04/2022
+2937.12.00,-- Insulina e seus sais,01/04/2022
+2937.19,-- Outros,01/04/2022
+2937.19.10,ACTH (corticotropina),01/04/2022
+2937.19.20,HCG (gonadotropina coriônica),01/04/2022
+2937.19.30,PMSG (gonadotropina sérica),01/04/2022
+2937.19.40,Menotropinas,01/04/2022
+2937.19.50,Oxitocina,01/04/2022
+2937.19.90,Outros,01/04/2022
+2937.2,"- Hormônios esteroides, seus derivados e análogos estruturais:",01/04/2022
+2937.21,"-- Cortisona, hidrocortisona, prednisona (deidrocortisona) e prednisolona (deidroidrocortisona)",01/04/2022
+2937.21.10,Cortisona,01/04/2022
+2937.21.20,Hidrocortisona,01/04/2022
+2937.21.30,Prednisona (deidrocortisona),01/04/2022
+2937.21.40,Prednisolona (deidroidrocortisona),01/04/2022
+2937.22,-- Derivados halogenados dos hormônios corticosteroides,01/04/2022
+2937.22.10,Dexametasona e seus acetatos,01/04/2022
+2937.22.2,Triancinolona e seus derivados,01/04/2022
+2937.22.21,Acetonida da triancinolona,01/04/2022
+2937.22.29,Outros,01/04/2022
+2937.22.3,Fluocortolona e seus derivados,01/04/2022
+2937.22.31,Valerato de diflucortolona,01/04/2022
+2937.22.39,Outros,01/04/2022
+2937.22.90,Outros,01/04/2022
+2937.23,-- Estrogênios e progestogênios,01/04/2022
+2937.23.10,Medroxiprogesterona e seus derivados,01/04/2022
+2937.23.2,Norgestrel e seus derivados,01/04/2022
+2937.23.21,L-Norgestrel (levonorgestrel),01/04/2022
+2937.23.22,DL-Norgestrel,01/04/2022
+2937.23.29,Outros,01/04/2022
+2937.23.3,"Estriol, seus ésteres e seus sais",01/04/2022
+2937.23.31,Estriol e seu succinato,01/04/2022
+2937.23.39,Outros,01/04/2022
+2937.23.4,"Estradiol, seus ésteres e seus sais; derivados destes produtos",01/04/2022
+2937.23.41,Hemissuccinato de estradiol,01/04/2022
+2937.23.42,Fempropionato de estradiol (17-(3-fenilpropionato) de estradiol),01/04/2022
+2937.23.49,Outros,01/04/2022
+2937.23.5,"Alilestrenol, seus ésteres e seus sais",01/04/2022
+2937.23.51,Alilestrenol,01/04/2022
+2937.23.59,Outros,01/04/2022
+2937.23.60,Desogestrel,01/04/2022
+2937.23.70,Linestrenol,01/04/2022
+2937.23.9,Outros,01/04/2022
+2937.23.91,Acetato de etinodiol,01/04/2022
+2937.23.92,Gestodeno,01/04/2022
+2937.23.99,Outros,01/04/2022
+2937.29,-- Outros,01/04/2022
+2937.29.10,Metilprednisolona e seus derivados,01/04/2022
+2937.29.20,21-Succinato sódico de hidrocortisona,01/04/2022
+2937.29.3,Ciproterona e seus derivados,01/04/2022
+2937.29.31,Acetato de ciproterona,01/04/2022
+2937.29.39,Outros,01/04/2022
+2937.29.40,Mesterolona e seus derivados,01/04/2022
+2937.29.50,Espironolactona,01/04/2022
+2937.29.60,Deflazacorte,01/04/2022
+2937.29.90,Outros,01/04/2022
+2937.50.00,"- Prostaglandinas, tromboxanas e leucotrienos, seus derivados e análogos estruturais",01/04/2022
+2937.90,- Outros,01/04/2022
+2937.90.10,Tiratricol (triac) e seu sal sódico,01/04/2022
+2937.90.30,Levotiroxina sódica,01/04/2022
+2937.90.40,Liotironina sódica,01/04/2022
+2937.90.90,Outros,01/04/2022
+2938.10.00,- Rutosídio (rutina) e seus derivados,01/04/2022
+2938.90,- Outros,01/04/2022
+2938.90.10,Deslanosídio,01/04/2022
+2938.90.20,Esteviosídio,01/04/2022
+2938.90.90,Outros,01/04/2022
+2939.1,- Alcaloides do ópio e seus derivados; sais destes produtos:,01/04/2022
+2939.11,"-- Concentrados de palha de dormideira (papoula); buprenorfina (DCI), codeína, di-hidrocodeína (DC",01/04/2022
+2939.11.10,Concentrados de palha de dormideira ou papoula,01/04/2022
+2939.11.2,"Buprenorfina, codeína e di-hidrocodeína; sais destes produtos",01/04/2022
+2939.11.21,Buprenorfina e seus sais,01/04/2022
+2939.11.22,Codeína e seus sais,01/04/2022
+2939.11.23,Di-hidrocodeína e seus sais,01/04/2022
+2939.11.3,Etilmorfina e etorfina; sais destes produtos,01/04/2022
+2939.11.31,Etilmorfina e seus sais,01/04/2022
+2939.11.32,Etorfina e seus sais,01/04/2022
+2939.11.40,Folcodina e seus sais,01/04/2022
+2939.11.5,"Heroína, hidrocodona e hidromorfona; sais destes produtos",01/04/2022
+2939.11.51,Heroína e seus sais,01/04/2022
+2939.11.52,Hidrocodona e seus sais,01/04/2022
+2939.11.53,Hidromorfona e seus sais,01/04/2022
+2939.11.6,Morfina e seus sais,01/04/2022
+2939.11.61,Morfina,01/04/2022
+2939.11.62,Cloridrato e sulfato de morfina,01/04/2022
+2939.11.69,Outros,01/04/2022
+2939.11.70,Nicomorfina e seus sais,01/04/2022
+2939.11.8,Oxicodona e oximorfona; sais destes produtos,01/04/2022
+2939.11.81,Oxicodona e seus sais,01/04/2022
+2939.11.82,Oximorfona e seus sais,01/04/2022
+2939.11.9,Tebacona e tebaína; sais destes produtos,01/04/2022
+2939.11.91,Tebacona e seus sais,01/04/2022
+2939.11.92,Tebaína e seus sais,01/04/2022
+2939.19.00,-- Outros,01/04/2022
+2939.20.00,- Alcaloides da quina e seus derivados; sais destes produtos,01/04/2022
+2939.30,- Cafeína e seus sais,01/04/2022
+2939.30.10,Cafeína,01/04/2022
+2939.30.20,Sais,01/04/2022
+2939.4,- Alcaloides da éfedra e seus derivados; sais destes produtos:,01/04/2022
+2939.41.00,-- Efedrina e seus sais,01/04/2022
+2939.42.00,-- Pseudoefedrina (DCI) e seus sais,01/04/2022
+2939.43.00,-- Catina (DCI) e seus sais,01/04/2022
+2939.44.00,-- Norefedrina e seus sais,01/04/2022
+2939.45,"-- Levometanfetamina, metanfetamina (DCI), racemato de metanfetamina e seus sais",01/04/2022
+2939.45.10,Levometanfetamina e seus sais,01/04/2022
+2939.45.20,Metanfetamina e seus sais,01/04/2022
+2939.45.30,Racemato de metanfetamina e seus sais,01/04/2022
+2939.49.00,-- Outros,01/04/2022
+2939.5,- Teofilina e aminofilina (teofilina-etilenodiamina) e seus derivados; sais destes produtos:,01/04/2022
+2939.51.00,-- Fenetilina (DCI) e seus sais,01/04/2022
+2939.59,-- Outros,01/04/2022
+2939.59.10,Teofilina,01/04/2022
+2939.59.20,Aminofilina,01/04/2022
+2939.59.90,Outros,01/04/2022
+2939.6,- Alcaloides da cravagem do centeio (centeio-espigado) e seus derivados; sais destes produtos:,01/04/2022
+2939.61.00,-- Ergometrina (DCI) e seus sais,01/04/2022
+2939.62.00,-- Ergotamina (DCI) e seus sais,01/04/2022
+2939.63.00,-- Ácido lisérgico e seus sais,01/04/2022
+2939.69,-- Outros,01/04/2022
+2939.69.1,Derivados da ergometrina e seus sais,01/04/2022
+2939.69.11,Maleato de metilergometrina,01/04/2022
+2939.69.19,Outros,01/04/2022
+2939.69.2,Derivados da ergotamina e seus sais,01/04/2022
+2939.69.21,Mesilato de di-hidroergotamina,01/04/2022
+2939.69.29,Outros,01/04/2022
+2939.69.3,Ergocornina e seus derivados; sais destes produtos,01/04/2022
+2939.69.31,Mesilato de di-hidroergocornina,01/04/2022
+2939.69.39,Outros,01/04/2022
+2939.69.4,Ergocriptina e seus derivados; sais destes produtos,01/04/2022
+2939.69.41,Mesilato de alfa-di-hidroergocriptina,01/04/2022
+2939.69.42,Mesilato de beta-di-hidroergocriptina,01/04/2022
+2939.69.49,Outros,01/04/2022
+2939.69.5,Ergocristina e seus derivados; sais destes produtos,01/04/2022
+2939.69.51,Ergocristina,01/04/2022
+2939.69.52,Metanossulfonato de di-hidroergocristina,01/04/2022
+2939.69.59,Outros,01/04/2022
+2939.69.90,Outros,01/04/2022
+2939.7,"- Outros, de origem vegetal:",01/04/2022
+2939.72,"-- Cocaína, ecgonina; sais, ésteres e outros derivados destes produtos",01/04/2022
+2939.72.10,Cocaína e seus sais,01/04/2022
+2939.72.20,Ecgonina e seus sais,01/04/2022
+2939.72.90,Outros,01/04/2022
+2939.79,-- Outros,01/04/2022
+2939.79.1,Escopolamina e seus derivados; sais destes produtos,01/04/2022
+2939.79.11,Brometo de N-butilescopolamônio,01/04/2022
+2939.79.19,Outros,01/04/2022
+2939.79.20,Teobromina e seus derivados; sais destes produtos,01/04/2022
+2939.79.3,Pilocarpina e seus sais,01/04/2022
+2939.79.31,"Pilocarpina, seu nitrato e seu cloridrato",01/04/2022
+2939.79.39,Outros,01/04/2022
+2939.79.40,Tiocolquicósido,01/04/2022
+2939.79.90,Outros,01/04/2022
+2939.80,- Outros,01/04/2024
+2939.80.10,Saxitoxina,01/04/2024
+2939.80.90,Outros,01/04/2024
+2940.00,"Açúcares quimicamente puros, exceto sacarose, lactose, maltose, glicose e frutose (levulose); éteres",01/04/2022
+2940.00.1,Açúcares quimicamente puros,01/04/2022
+2940.00.11,Galactose,01/04/2022
+2940.00.12,Arabinose,01/04/2022
+2940.00.13,Ramnose,01/04/2022
+2940.00.19,Outros,01/04/2022
+2940.00.2,"Ácido lactobiônico, seus sais e seus ésteres; derivados halogenados, sulfonados, nitrados ou nitrosa",01/04/2022
+2940.00.21,Ácido lactobiônico,01/04/2022
+2940.00.22,Lactobionato de cálcio,01/04/2022
+2940.00.23,Bromolactobionato de cálcio,01/04/2022
+2940.00.29,Outros,01/04/2022
+2940.00.9,Outros,01/04/2022
+2940.00.92,"Frutose-1,6-difosfato de cálcio ou de sódio",01/04/2022
+2940.00.93,Maltitol,01/04/2022
+2940.00.94,Lactogluconato de cálcio,01/04/2022
+2940.00.99,Outros,01/04/2022
+2941.10,"- Penicilinas e seus derivados, com a estrutura do ácido penicilânico; sais destes produtos",01/04/2022
+2941.10.10,Ampicilina e seus sais,01/04/2022
+2941.10.20,Amoxicilina e seus sais,01/04/2022
+2941.10.3,Penicilina V e seus derivados; sais destes produtos,01/04/2022
+2941.10.31,Penicilina V potássica,01/04/2022
+2941.10.39,Outros,01/04/2022
+2941.10.4,Penicilina G e seus derivados; sais destes produtos,01/04/2022
+2941.10.41,Penicilina G potássica,01/04/2022
+2941.10.42,Penicilina G benzatínica,01/04/2022
+2941.10.43,Penicilina G procaínica,01/04/2022
+2941.10.49,Outros,01/04/2022
+2941.10.90,Outros,01/04/2022
+2941.20,- Estreptomicinas e seus derivados; sais destes produtos,01/04/2022
+2941.20.10,Sulfatos,01/04/2022
+2941.20.90,Outros,01/04/2022
+2941.30,- Tetraciclinas e seus derivados; sais destes produtos,01/04/2022
+2941.30.10,Cloridrato de tetraciclina,01/04/2022
+2941.30.20,Oxitetraciclina,01/04/2022
+2941.30.3,Minociclina e seus sais,01/04/2022
+2941.30.31,Minociclina,01/04/2022
+2941.30.32,Sais,01/04/2022
+2941.30.90,Outros,01/04/2022
+2941.40,- Cloranfenicol e seus derivados; sais destes produtos,01/04/2022
+2941.40.1,Cloranfenicol e seus ésteres,01/04/2022
+2941.40.11,"Cloranfenicol, seu palmitato, seu succinato e seu hemissuccinato",01/04/2022
+2941.40.19,Outros,01/04/2022
+2941.40.20,Tianfenicol e seus ésteres,01/04/2022
+2941.40.90,Outros,01/04/2022
+2941.50,- Eritromicina e seus derivados; sais destes produtos,01/04/2022
+2941.50.10,Claritromicina,01/04/2022
+2941.50.20,Eritromicina e seus sais,01/04/2022
+2941.50.90,Outros,01/04/2022
+2941.90,- Outros,01/04/2022
+2941.90.1,Rifamicinas e seus derivados; sais destes produtos,01/04/2022
+2941.90.11,Rifamicina S,01/04/2022
+2941.90.12,Rifampicina (rifamicina AMP),01/04/2022
+2941.90.13,Rifamicina SV sódica,01/04/2022
+2941.90.19,Outros,01/04/2022
+2941.90.2,Lincomicina e seus derivados; sais destes produtos,01/04/2022
+2941.90.21,Cloridrato de lincomicina,01/04/2022
+2941.90.22,Fosfato de clindamicina,01/04/2022
+2941.90.29,Outros,01/04/2022
+2941.90.3,"Cefalosporinas e cefamicinas, e seus derivados; sais destes produtos",01/04/2022
+2941.90.31,Ceftriaxona e seus sais,01/04/2022
+2941.90.32,"Cefoperazona e seus sais, cefazolina sódica",01/04/2022
+2941.90.33,"Cefaclor e cefalexina monoidratados, cefalotina sódica",01/04/2022
+2941.90.34,Cefadroxil e seus sais,01/04/2022
+2941.90.35,Cefotaxima sódica,01/04/2022
+2941.90.36,Cefoxitina e seus sais,01/04/2022
+2941.90.37,Cefalosporina C,01/04/2022
+2941.90.39,Outros,01/04/2022
+2941.90.4,Aminoglucosídios e seus sais,01/04/2022
+2941.90.41,Sulfato de neomicina,01/04/2022
+2941.90.42,Embonato de gentamicina (pamoato de gentamicina),01/04/2022
+2941.90.43,Sulfato de gentamicina,01/04/2022
+2941.90.49,Outros,01/04/2022
+2941.90.5,Macrolídios e seus sais,01/04/2022
+2941.90.51,Embonato de espiramicina (pamoato de espiramicina),01/04/2022
+2941.90.59,Outros,01/04/2022
+2941.90.6,Polienos e seus sais,01/04/2022
+2941.90.61,Nistatina e seus sais,01/04/2022
+2941.90.62,Anfotericina B e seus sais,01/04/2022
+2941.90.69,Outros,01/04/2022
+2941.90.7,Poliéteres e seus sais,01/04/2022
+2941.90.71,Monensina sódica,01/04/2022
+2941.90.72,Narasina,01/04/2022
+2941.90.73,Avilamicinas,01/04/2022
+2941.90.79,Outros,01/04/2022
+2941.90.8,Polipeptídios e seus sais,01/04/2022
+2941.90.81,"Polimixinas e seus sais, exceto sulfato de colistina",01/04/2022
+2941.90.82,Sulfato de colistina,01/04/2022
+2941.90.83,Virginiamicinas e seus sais,01/04/2022
+2941.90.89,Outros,01/04/2022
+2941.90.9,Outros,01/04/2022
+2941.90.91,Griseofulvina e seus sais,01/04/2022
+2941.90.92,Fumarato de tiamulina,01/04/2022
+2941.90.99,Outros,01/04/2022
+2942.00.00,Outros compostos orgânicos.,01/04/2022

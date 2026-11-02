@@ -1,0 +1,92 @@
+codigo,descricao,data_inicio
+94.01,"Assentos (exceto os da posição 94.02), mesmo transformáveis em camas, esuas partes.",01/04/2022
+94.02,"Mobiliário para medicina, cirurgia, odontologia ou veterinária (por exemplo, mesas de operação, mes",01/04/2022
+94.03,Outros móveis e suas partes.,01/04/2022
+94.04,"Suportes para camas (somiês); colchões, edredões, almofadas, pufes, travesseiros e artigos semelh",01/04/2022
+94.05,"Luminárias e aparelhos de iluminação (incluindo os projetores), e suas partes, não especificados ne",01/04/2022
+94.06,Construções pré-fabricadas.,01/04/2022
+9401.10,- Assentos do tipo utilizado em veículos aéreos,01/04/2022
+9401.10.10,Ejetáveis,01/04/2022
+9401.10.90,Outros,01/04/2022
+9401.20.00,- Assentos do tipo utilizado em veículos automóveis,01/04/2022
+9401.3,- Assentos giratórios de altura ajustável:,01/04/2022
+9401.31.00,-- De madeira,01/04/2022
+9401.39.00,-- Outros,01/04/2022
+9401.4,- Assentos (exceto de jardim ou de acampamento) transformáveis em camas:,01/04/2022
+9401.41.00,-- De madeira,01/04/2022
+9401.49.00,-- Outros,01/04/2022
+9401.5,"- Assentos de rotim, vime, bambu ou matérias semelhantes:",01/04/2022
+9401.52.00,-- De bambu,01/04/2022
+9401.53.00,-- De rotim,01/04/2022
+9401.59.00,-- Outros,01/04/2022
+9401.6,"- Outros assentos, com armação de madeira:",01/04/2022
+9401.61.00,-- Estofados,01/04/2022
+9401.69.00,-- Outros,01/04/2022
+9401.7,"- Outros assentos, com armação de metal:",01/04/2022
+9401.71.00,-- Estofados,01/04/2022
+9401.79.00,-- Outros,01/04/2022
+9401.80.00,- Outros assentos,01/04/2022
+9401.9,- Partes:,01/04/2022
+9401.91.00,-- De madeira,01/04/2022
+9401.99.00,-- Outras,01/04/2022
+9402.10.00,"- Cadeiras odontológicas, cadeiras para salões de cabeleireiro e cadeiras semelhantes, e suas parte",01/04/2022
+9402.90,- Outros,01/04/2022
+9402.90.10,Mesas de operação,01/04/2022
+9402.90.20,Camas dotadas de mecanismos para usos clínicos,01/04/2022
+9402.90.90,Outros,01/04/2022
+9403.10.00,"- Móveis de metal, do tipo utilizado em escritórios",01/04/2022
+9403.20,- Outros móveis de metal,01/09/2022
+9403.20.10,Do tipo utilizado em cozinhas,01/09/2022
+9403.20.90,Outros,01/09/2022
+9403.30.00,"- Móveis de madeira, do tipo utilizado em escritórios",01/04/2022
+9403.40.00,"- Móveis de madeira, do tipo utilizado em cozinhas",01/04/2022
+9403.50.00,"- Móveis de madeira, do tipo utilizado em quartos de dormir",01/04/2022
+9403.60.00,- Outros móveis de madeira,01/04/2022
+9403.70.00,- Móveis de plástico,01/04/2022
+9403.8,"- Móveis de outras matérias, incluindo o rotim, vime, bambu ou matérias semelhantes:",01/04/2022
+9403.82.00,-- De bambu,01/04/2022
+9403.83.00,-- De rotim,01/04/2022
+9403.89.00,-- Outros,01/04/2022
+9403.9,- Partes:,01/04/2022
+9403.91.00,-- De madeira,01/04/2022
+9403.99.00,-- Outras,01/04/2022
+9404.10.00,- Suportes para camas (somiês),01/04/2022
+9404.2,- Colchões:,01/04/2022
+9404.21.00,"-- De borracha alveolar ou de plástico alveolar, mesmo recobertos",01/04/2022
+9404.29.00,-- De outras matérias,01/04/2022
+9404.30.00,- Sacos de dormir,01/04/2022
+9404.40.00,"- Colchas, edredões e artigos semelhantes",01/04/2022
+9404.90.00,- Outros,01/04/2022
+9405.1,"- Lustres e outras luminárias, elétricos, próprios para serem suspensos ou fixados no teto ou na pare",01/04/2022
+9405.11,-- Concebidos para serem utilizados unicamente com fontes de luz de diodosemissores de luz (LED,01/04/2022
+9405.11.10,"Focos cirúrgicos (luzes sem sombra, do tipo utilizado em medicina, cirurgia ou odontologia)",01/04/2022
+9405.11.90,Outros,01/04/2022
+9405.19,-- Outros,01/04/2022
+9405.19.10,"Focos cirúrgicos (luzes sem sombra, do tipo utilizado em medicina, cirurgia ou odontologia)",01/04/2022
+9405.19.90,Outros,01/04/2022
+9405.2,"- Abajures (candeeiros) de mesa, de escritório, de cabeceira e luminárias (candeeiros) de pé, elétrico",01/04/2022
+9405.21.00,-- Concebidos para serem utilizados unicamente com fontes de luz de diodosemissores de luz (LED,01/04/2022
+9405.29.00,-- Outros,01/04/2022
+9405.3,- Guirlandas elétricas do tipo utilizado em árvores de Natal:,01/04/2022
+9405.31.00,-- Concebidas para serem utilizadas unicamente com fontes de luz de diodosemissores de luz (LED,01/04/2022
+9405.39.00,-- Outras,01/04/2022
+9405.4,"- Outras luminárias e aparelhos de iluminação, elétricos:",01/04/2022
+9405.41.00,"-- Fotovoltaicos, concebidos para serem utilizados unicamente com fontes deluz de diodos emissore",01/04/2022
+9405.42.00,"-- Outros, concebidos para serem utilizados unicamente com fontes de luz dediodos emissores de lu",01/04/2022
+9405.49.00,-- Outros,01/04/2022
+9405.50.00,"- Luminárias e aparelhos de iluminação, não elétricos",01/04/2022
+9405.6,"- Anúncios, cartazes ou tabuletas e placas indicadoras, luminosos, e artigos semelhantes:",01/04/2022
+9405.61.00,-- Concebidos para serem utilizados unicamente com fontes de luz de diodosemissores de luz (LED,01/04/2022
+9405.69.00,-- Outros,01/04/2022
+9405.9,- Partes:,01/04/2022
+9405.91.00,-- De vidro,01/04/2022
+9405.92.00,-- De plástico,01/04/2022
+9405.99.00,-- Outras,01/04/2022
+9406.10,- De madeira,01/04/2022
+9406.10.10,Estufas,01/04/2022
+9406.10.90,Outras,01/04/2022
+9406.20.00,"- Unidades de construção modulares, de aço",01/04/2022
+9406.90,- Outras,01/04/2022
+9406.90.10,Estufas,01/04/2022
+9406.90.20,Com estrutura de ferro ou aço e paredes exteriores constituídas principalmente dessas matérias,01/04/2022
+9406.90.90,Outras,01/04/2022

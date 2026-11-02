@@ -1,0 +1,235 @@
+codigo,descricao,data_inicio
+44.01,"Lenha em qualquer forma; madeira em estilhas ou em partículas; serragem (serradura), desperdícios",01/04/2022
+44.02,"Carvão vegetal (incluindo o carvão de cascas ou de caroços), mesmo aglomerado.",01/04/2022
+44.03,"Madeira em bruto, mesmo descascada, desalburnada ou esquadriada.",01/04/2022
+44.04,"Arcos de madeira; estacas fendidas; estacas aguçadas, não serradas longitudinalmente; madeira sim",01/04/2022
+44.06,Dormentes de madeira para vias férreas ou semelhantes.,01/04/2022
+44.07,"Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo ap",01/04/2022
+44.08,"Folhas para folheados (incluindo as obtidas por corte de madeira estratificada), folhas para compens",01/04/2022
+44.09,"Madeira (incluindo os tacos e frisos de parquê, não montados) perfilada (comespigas, ranhuras, filet",01/04/2022
+44.10,"Painéis de partículas, painéis denominados oriented strand board (OSB) e painéis semelhantes (waf",01/04/2022
+44.11,"Painéis de fibras de madeira ou de outras matérias lenhosas, mesmo aglomeradas com resinas ou c",01/04/2022
+44.12,"Madeira compensada (contraplacada), madeira folheada, e madeiras estratificadas semelhantes.",01/04/2022
+44.14,"Molduras de madeira para quadros, fotografias, espelhos ou objetos semelhantes.",01/04/2022
+44.15,"Caixotes, caixas, engradados, barricas e embalagens semelhantes, de madeira; carretéis para cabos",01/04/2022
+44.18,"Obras de marcenaria e peças de carpintaria para construções, incluindo os painéis celulares, os pain",01/04/2022
+44.19,Artigos de madeira para mesa ou cozinha.,01/04/2022
+44.20,"Madeira marchetada e madeira incrustada; estojos e guarda-joias para joalheria e ourivesaria, e obra",01/04/2022
+44.21,Outras obras em madeira.,01/04/2022
+4401.1,- Lenha em qualquer forma:,01/04/2022
+4401.11.00,-- De coníferas,01/04/2022
+4401.12.00,-- De não coníferas,01/04/2022
+4401.2,- Madeira em estilhas ou em partículas:,01/04/2022
+4401.21.00,-- De coníferas,01/04/2022
+4401.22.00,-- De não coníferas,01/04/2022
+4401.3,"- Serragem (serradura), desperdícios e resíduos, de madeira, aglomerados em toras (toros), briquete",01/04/2022
+4401.31.00,-- Pellets de madeira,01/04/2022
+4401.32.00,-- Briquetes de madeira,01/04/2022
+4401.39.00,-- Outros,01/04/2022
+4401.4,"- Serragem (serradura), desperdícios e resíduos, de madeira, não aglomerados:",01/04/2022
+4401.41.00,-- Serragem (serradura),01/04/2022
+4401.49.00,-- Outros,01/04/2022
+4402.10.00,- De bambu,01/04/2022
+4402.20.00,- De cascas ou de caroços,01/04/2022
+4402.90.00,- Outros,01/04/2022
+4403.1,"- Tratada com tinta, creosoto ou outros agentes de conservação:",01/04/2022
+4403.11.00,-- De coníferas,01/04/2022
+4403.12.00,-- De não coníferas,01/04/2022
+4403.2,"- Outras, de coníferas:",01/04/2022
+4403.21.00,"-- De pinheiro (Pinus spp.), cuja menor dimensão da seção transversal é igual ou superior a 15 cm",01/04/2022
+4403.22.00,"-- De pinheiro (Pinus spp.), outras",01/04/2022
+4403.23.00,"-- De abeto (Abies spp.) e de espruce (pícea) (Picea spp.), cuja menor dimensão da seção transvers",01/04/2022
+4403.24.00,"-- De abeto (Abies spp.) e de espruce (pícea) (Picea spp.), outras",01/04/2022
+4403.25.00,"-- Outras, cuja menor dimensão da seção transversal é igual ou superior a 15cm",01/04/2022
+4403.26.00,-- Outras,01/04/2022
+4403.4,"- Outras, de madeiras tropicais:",01/04/2022
+4403.41.00,"-- Dark Red Meranti, Light Red Meranti e Meranti Bakau",01/04/2022
+4403.42.00,-- Teca,01/04/2022
+4403.49.00,-- Outras,01/04/2022
+4403.9,- Outras:,01/04/2022
+4403.91.00,-- De carvalho (Quercus spp.),01/04/2022
+4403.93.00,"-- De faia (Fagus spp.), cuja menor dimensão da seção transversal é igual ousuperior a 15 cm",01/04/2022
+4403.94.00,"-- De faia (Fagus spp.), outras",01/04/2022
+4403.95.00,"-- De bétula (vidoeiro) (Betula spp.), cuja menor dimensão da seção transversal é igual ou superior a",01/04/2022
+4403.96.00,"-- De bétula (vidoeiro) (Betula spp.), outras",01/04/2022
+4403.97.00,-- De choupo (álamo) (Populus spp.),01/04/2022
+4403.98.00,-- De eucalipto (Eucalyptus spp.),01/04/2022
+4403.99.00,-- Outras,01/04/2022
+4404.10.00,- De coníferas,01/04/2022
+4404.20.00,- De não coníferas,01/04/2022
+4405.00.00,Lã de madeira; farinha de madeira.,01/04/2022
+4406.1,- Não impregnados:,01/04/2022
+4406.11.00,-- De coníferas,01/04/2022
+4406.12.00,-- De não coníferas,01/04/2022
+4406.9,- Outros:,01/04/2022
+4406.91.00,-- De coníferas,01/04/2022
+4406.92.00,-- De não coníferas,01/04/2022
+4407.1,- De coníferas:,01/04/2022
+4407.11.00,-- De pinheiro (Pinus spp.),01/04/2022
+4407.12.00,-- De abeto (Abies spp.) e de espruce (pícea) (Picea spp.),01/04/2022
+4407.13.00,"-- De S-P-F (espruce (pícea) (Picea spp.), pinheiro (Pinus spp.) e abeto (Abies spp.))",01/04/2022
+4407.14.00,-- De Hem-fir (tsuga (western hemlock) (Tsuga heterophylla) e abeto (Abies spp.)),01/04/2022
+4407.19.00,-- Outras,01/04/2022
+4407.2,- De madeiras tropicais:,01/04/2022
+4407.21.00,-- Mahogany (Mogno) (Swietenia spp.),01/04/2022
+4407.22.00,"-- Virola, Imbuia e Balsa",01/04/2022
+4407.23.00,-- Teca,01/04/2022
+4407.25.00,"-- Dark Red Meranti, Light Red Meranti e Meranti Bakau",01/04/2022
+4407.26.00,"-- White Lauan, White Meranti, White Seraya, Yellow Meranti e Alan",01/04/2022
+4407.27.00,-- Sapelli,01/04/2022
+4407.28.00,-- Iroko,01/04/2022
+4407.29,-- Outras,01/04/2022
+4407.29.10,De cedro,01/04/2022
+4407.29.20,De ipê,01/04/2022
+4407.29.30,De pau-marfim,01/04/2022
+4407.29.40,De louro,01/04/2022
+4407.29.50,De canafístula (Peltophorum vogelianum),01/04/2022
+4407.29.60,De cabreúva Parda (Myrocarpus spp.),01/04/2022
+4407.29.70,De urundei (Astronium balansae),01/04/2022
+4407.29.90,Outras,01/04/2022
+4407.9,- Outras:,01/04/2022
+4407.91.00,-- De carvalho (Quercus spp.),01/04/2022
+4407.92.00,-- De faia (Fagus spp.),01/04/2022
+4407.93.00,-- De bordo (ácer) (Acer spp.),01/04/2022
+4407.94.00,-- De prunóidea (Prunus spp.),01/04/2022
+4407.95.00,-- De freixo (Fraxinus spp.),01/04/2022
+4407.96.00,-- De bétula (vidoeiro) (Betula spp.),01/04/2022
+4407.97.00,-- De choupo (álamo) (Populus spp.),01/04/2022
+4407.99,-- Outras,01/04/2022
+4407.99.20,De peroba (Paratecoma peroba),01/04/2022
+4407.99.30,De guaiuvira (Patagonula americana),01/04/2022
+4407.99.60,De amendoim (Pterogyne nitens),01/04/2022
+4407.99.70,De angico preto (Piptadenia macrocarpa),01/04/2022
+4407.99.90,Outras,01/04/2022
+4408.10,- De coníferas,01/04/2022
+4408.10.10,Obtidas por corte de madeira estratificada,01/04/2022
+4408.10.9,Outras,01/04/2022
+4408.10.91,De pinho brasil (Araucaria angustifolia),01/04/2022
+4408.10.99,Outras,01/04/2022
+4408.3,- De madeiras tropicais:,01/04/2022
+4408.31,"-- Dark Red Meranti, Light Red Meranti e Meranti Bakau",01/04/2022
+4408.31.10,Obtidas por corte de madeira estratificada,01/04/2022
+4408.31.90,Outras,01/04/2022
+4408.39,-- Outras,01/04/2022
+4408.39.10,Obtidas por corte de madeira estratificada,01/04/2022
+4408.39.9,Outras,01/04/2022
+4408.39.91,De cedro,01/04/2022
+4408.39.92,De pau-marfim,01/04/2022
+4408.39.99,Outras,01/04/2022
+4408.90,- Outras,01/04/2022
+4408.90.10,Obtidas por corte de madeira estratificada,01/04/2022
+4408.90.90,Outras,01/04/2022
+4409.10.00,- De coníferas,01/04/2022
+4409.2,- De não coníferas:,01/04/2022
+4409.21.00,-- De bambu,01/04/2022
+4409.22.00,-- De madeiras tropicais,01/04/2022
+4409.29.00,-- Outras,01/04/2022
+4410.1,- De madeira:,01/04/2022
+4410.11,-- Painéis de partículas,01/04/2022
+4410.11.10,Em bruto ou simplesmente polidos,01/04/2022
+4410.11.2,Recobertos na superfície com papel impregnado de melamina,01/04/2022
+4410.11.21,"Em ambas as faces, com película protetora na face superior e trabalho de encaixe nas quatro laterai",01/04/2022
+4410.11.29,Outros,01/04/2022
+4410.11.90,Outros,01/04/2022
+4410.12,-- Painéis denominados oriented strand board (OSB),01/04/2022
+4410.12.10,Em bruto ou simplesmente polidos,01/04/2022
+4410.12.90,Outros,01/04/2022
+4410.19,-- Outros,01/04/2022
+4410.19.1,Painéis denominados waferboard,01/04/2022
+4410.19.11,Em bruto ou simplesmente polidos,01/04/2022
+4410.19.19,Outros,01/04/2022
+4410.19.9,Outros,01/04/2022
+4410.19.91,Em bruto ou simplesmente polidos,01/04/2022
+4410.19.92,Recobertos na superfície com papel impregnado de melamina,01/04/2022
+4410.19.99,Outros,01/04/2022
+4410.90.00,- Outros,01/04/2022
+4411.1,- Painéis de média densidade (denominados MDF):,01/04/2022
+4411.12,-- De espessura não superior a 5 mm,01/04/2022
+4411.12.10,Não trabalhados mecanicamente nem recobertos à superfície,01/04/2022
+4411.12.90,Outros,01/04/2022
+4411.13,"-- De espessura superior a 5 mm, mas não superior a 9 mm",01/04/2022
+4411.13.10,Não trabalhados mecanicamente nem recobertos à superfície,01/04/2022
+4411.13.9,Outros,01/04/2022
+4411.13.91,"Recobertos em ambas as faces com papel impregnado de melamina, películaprotetora na face supe",01/04/2022
+4411.13.99,Outros,01/04/2022
+4411.14,-- De espessura superior a 9 mm,01/04/2022
+4411.14.10,Não trabalhados mecanicamente nem recobertos à superfície,01/04/2022
+4411.14.90,Outros,01/04/2022
+4411.9,- Outros:,01/04/2022
+4411.92,"-- Com massa específica superior a 0,8 g/cm3",01/04/2022
+4411.92.10,Não trabalhados mecanicamente nem recobertos à superfície,01/04/2022
+4411.92.90,Outros,01/04/2022
+4411.93,"-- Com massa específica superior a 0,5 g/cm3, mas não superior a 0,8 g/cm3",01/04/2022
+4411.93.10,Não trabalhados mecanicamente nem recobertos à superfície,01/04/2022
+4411.93.90,Outros,01/04/2022
+4411.94,"-- Com massa específica não superior a 0,5 g/cm3",01/04/2022
+4411.94.10,Não trabalhados mecanicamente nem recobertos à superfície,01/04/2022
+4411.94.90,Outros,01/04/2022
+4412.10.00,- De bambu,01/04/2022
+4412.3,"- Outras madeiras compensadas (contraplacadas), constituídas exclusivamente por folhas de madeir",01/04/2022
+4412.31.00,"-- Com, pelo menos, uma camada exterior de madeira tropical",01/04/2022
+4412.33.00,"-- Outras, com, pelo menos, uma camada exterior de madeira não conífera, das espécies amieiro (Al",01/04/2022
+4412.34.00,"-- Outras, com, pelo menos, uma camada exterior de madeira não conífera, não especificadas na su",01/04/2022
+4412.39.00,"-- Outras, com ambas as camadas exteriores de madeira de coníferas",01/04/2022
+4412.4,- Madeira microlaminada (microlamelada) colada (LVL):,01/04/2022
+4412.41.00,"-- Com, pelo menos, uma camada exterior de madeira tropical",01/04/2022
+4412.42.00,"-- Outras, com, pelo menos, uma camada exterior de madeira não conífera",01/04/2022
+4412.49.00,"-- Outras, com ambas as camadas exteriores de madeira de coníferas",01/04/2022
+4412.5,"- Com alma aglomerada, alveolada ou lamelada:",01/04/2022
+4412.51.00,"-- Com, pelo menos, uma camada exterior de madeira tropical",01/04/2022
+4412.52.00,"-- Outras, com, pelo menos, uma camada exterior de madeira não conífera",01/04/2022
+4412.59.00,"-- Outras, com ambas as camadas exteriores de madeira de coníferas",01/04/2022
+4412.9,- Outras:,01/04/2022
+4412.91.00,"-- Com, pelo menos, uma camada exterior de madeira tropical",01/04/2022
+4412.92.00,"-- Outras, com, pelo menos, uma camada exterior de madeira não conífera",01/04/2022
+4412.99.00,"-- Outras, com ambas as camadas exteriores de madeira de coníferas",01/04/2022
+4413.00.00,"Madeira densificada, em blocos, pranchas, lâminas ou perfis.",01/04/2022
+4414.10.00,- De madeira tropical,01/04/2022
+4414.90.00,- Outras,01/04/2022
+4415.10.00,"- Caixotes, caixas, engradados, barricas e embalagens semelhantes; carretéis para cabos",01/04/2022
+4415.20.00,"- Paletes simples, paletes-caixas e outros estrados para carga; taipais de paletes",01/04/2022
+4416.00,"Barris, cubas, balsas, dornas, selhas e outras obras de tanoeiro e respectivaspartes de madeira, inc",01/04/2022
+4416.00.10,De carvalho (Quercus spp.),01/04/2022
+4416.00.90,Outros,01/04/2022
+4417.00,"Ferramentas, armações e cabos, de ferramentas, de escovas e de vassouras, de madeira; formas, a",01/04/2022
+4417.00.10,Ferramentas,01/04/2022
+4417.00.20,"Formas, alargadeiras e esticadores, para calçado",01/04/2022
+4417.00.90,Outros,01/04/2022
+4418.1,"- Janelas, janelas de sacada e respectivos caixilhos e alizares:",01/04/2022
+4418.11.00,-- De madeira tropical,01/04/2022
+4418.19.00,-- Outras,01/04/2022
+4418.2,"- Portas e respectivos caixilhos, alizares e soleiras:",01/04/2022
+4418.21.00,-- De madeira tropical,01/04/2022
+4418.29.00,-- Outras,01/04/2022
+4418.30.00,"- Postes e vigas, exceto os produtos das subposições 4418.81 a 4418.89",01/04/2022
+4418.40.00,- Cofragens para concreto (betão),01/04/2022
+4418.50.00,- Fasquias para telhados (shingles e shakes),01/04/2022
+4418.7,- Painéis montados para revestimento de pisos (pavimentos):,01/04/2022
+4418.73.00,"-- De bambu ou com, pelo menos, a camada superior de bambu",01/04/2022
+4418.74.00,"-- Outros, para pisos (pavimentos) em mosaico",01/04/2022
+4418.75.00,"-- Outros, de camadas múltiplas",01/04/2022
+4418.79.00,-- Outros,01/04/2022
+4418.8,- Produtos de madeira para engenharia estrutural:,01/04/2022
+4418.81.00,-- Madeira laminada (lamelada) colada (glulam ou MLC),01/04/2022
+4418.82.00,-- Madeira laminada (lamelada) cruzada (CLT ou X-lam),01/04/2022
+4418.83.00,-- Vigas em I,01/04/2022
+4418.89.00,-- Outros,01/04/2022
+4418.9,- Outras:,01/04/2022
+4418.91.00,-- De bambu,01/04/2022
+4418.92.00,-- Painéis celulares de madeira,01/04/2022
+4418.99.00,-- Outras,01/04/2022
+4419.1,- De bambu:,01/04/2022
+4419.11.00,"-- Tábuas para cortar pão, outras tábuas para cortar e artigos semelhantes",01/04/2022
+4419.12.00,-- Pauzinhos (hashi ou fachi),01/04/2022
+4419.19.00,-- Outros,01/04/2022
+4419.20.00,- De madeira tropical,01/04/2022
+4419.90.00,- Outros,01/04/2022
+4420.1,- Estatuetas e outros objetos de ornamentação:,01/04/2022
+4420.11.00,-- De madeira tropical,01/04/2022
+4420.19.00,-- Outros,01/04/2022
+4420.90.00,- Outros,01/04/2022
+4421.10.00,- Cabides para vestuário,01/04/2022
+4421.20.00,- Urnas funerárias (caixões),01/04/2022
+4421.9,- Outras:,01/04/2022
+4421.91.00,-- De bambu,01/04/2022
+4421.99.00,-- Outras,01/04/2022

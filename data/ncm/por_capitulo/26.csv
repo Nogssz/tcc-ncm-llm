@@ -1,0 +1,77 @@
+codigo,descricao,data_inicio
+26.01,"Minérios de ferro e seus concentrados, incluindo as piritas de ferro ustuladas(cinzas de piritas).",01/04/2022
+26.12,"Minérios de urânio ou de tório, e seus concentrados.",01/04/2022
+26.13,Minérios de molibdênio e seus concentrados.,01/04/2022
+26.15,"Minérios de nióbio (colômbio), tântalo, vanádio ou de zircônio, e seus concentrados.",01/04/2022
+26.16,Minérios de metais preciosos e seus concentrados.,01/04/2022
+26.17,Outros minérios e seus concentrados.,01/04/2022
+26.20,"Escórias, cinzas e resíduos (exceto os provenientes da fabricação de ferro fundido, ferro ou aço), qu",01/04/2022
+26.21,"Outras escórias e cinzas, incluindo as cinzas de algas; cinzas e resíduos provenientes da incineraçã",01/04/2022
+2601.1,"- Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas):",01/04/2022
+2601.11.00,-- Não aglomerados,01/04/2022
+2601.12,-- Aglomerados,01/04/2022
+2601.12.10,"Aglomerados por processo de peletização, de diâmetro igual ou superior a 8mm, mas não superior a",01/04/2022
+2601.12.90,Outros,01/04/2022
+2601.20.00,- Piritas de ferro ustuladas (cinzas de piritas),01/04/2022
+2602.00,"Minérios de manganês e seus concentrados, incluindo os minérios de manganês ferruginosos e seus",01/04/2022
+2602.00.10,Aglomerados,01/04/2022
+2602.00.90,Outros,01/04/2022
+2603.00,Minérios de cobre e seus concentrados.,01/04/2022
+2603.00.10,Sulfetos,01/04/2022
+2603.00.90,Outros,01/04/2022
+2604.00.00,Minérios de níquel e seus concentrados.,01/04/2022
+2605.00.00,Minérios de cobalto e seus concentrados.,01/04/2022
+2606.00,Minérios de alumínio e seus concentrados.,01/04/2022
+2606.00.1,Bauxita,01/04/2022
+2606.00.11,Não calcinada,01/04/2022
+2606.00.12,Calcinada,01/04/2022
+2606.00.90,Outros,01/04/2022
+2607.00.00,Minérios de chumbo e seus concentrados.,01/04/2022
+2608.00,Minérios de zinco e seus concentrados.,01/04/2022
+2608.00.10,Sulfetos,01/04/2022
+2608.00.90,Outros,01/04/2022
+2609.00.00,Minérios de estanho e seus concentrados.,01/04/2022
+2610.00,Minérios de cromo e seus concentrados.,01/04/2022
+2610.00.10,Cromita,01/04/2022
+2610.00.90,Outros,01/04/2022
+2611.00.00,Minérios de tungstênio (volfrâmio) e seus concentrados.,01/04/2022
+2612.10.00,- Minérios de urânio e seus concentrados,01/04/2022
+2612.20.00,- Minérios de tório e seus concentrados,01/04/2022
+2613.10,- Ustulados,01/04/2022
+2613.10.10,Molibdenita,01/04/2022
+2613.10.90,Outros,01/04/2022
+2613.90,- Outros,01/04/2022
+2613.90.10,Molibdenita,01/04/2022
+2613.90.90,Outros,01/04/2022
+2614.00,Minérios de titânio e seus concentrados.,01/04/2022
+2614.00.10,Ilmenita,01/04/2022
+2614.00.90,Outros,01/04/2022
+2615.10,- Minérios de zircônio e seus concentrados,01/04/2022
+2615.10.10,Badeleíta,01/04/2022
+2615.10.20,Zirconita,01/04/2022
+2615.10.90,Outros,01/04/2022
+2615.90.00,- Outros,01/04/2022
+2616.10.00,- Minérios de prata e seus concentrados,01/04/2022
+2616.90.00,- Outros,01/04/2022
+2617.10.00,- Minérios de antimônio e seus concentrados,01/04/2022
+2617.90.00,- Outros,01/04/2022
+2618.00.00,"Escória de altos-fornos granulada (areia de escória) proveniente da fabricação de ferro fundido, ferro",01/04/2022
+2619.00.00,Escórias (exceto escória de altos-fornos granulada) e outros desperdícios dafabricação de ferro fund,01/04/2022
+2620.1,- Que contenham principalmente zinco:,01/04/2022
+2620.11.00,-- Mates de galvanização,01/04/2022
+2620.19.00,-- Outros,01/04/2022
+2620.2,- Que contenham principalmente chumbo:,01/04/2022
+2620.21.00,-- Lamas (borras) de gasolina que contenham chumbo e lamas (borras) de compostos antidetonante,01/04/2022
+2620.29.00,-- Outros,01/04/2022
+2620.30.00,- Que contenham principalmente cobre,01/04/2022
+2620.40.00,- Que contenham principalmente alumínio,01/04/2022
+2620.60.00,"- Que contenham arsênio, mercúrio, tálio ou suas misturas, do tipo utilizado para extração de arsênio",01/04/2022
+2620.9,- Outros:,01/04/2022
+2620.91.00,"-- Que contenham antimônio, berílio, cádmio, cromo ou suas misturas",01/04/2022
+2620.99,-- Outros,01/04/2022
+2620.99.10,Que contenham principalmente titânio,01/04/2022
+2620.99.90,Outros,01/04/2022
+2621.10.00,- Cinzas e resíduos provenientes da incineração de resíduos municipais,01/04/2022
+2621.90,- Outras,01/04/2022
+2621.90.10,Cinzas de origem vegetal,01/04/2022
+2621.90.90,Outras,01/04/2022

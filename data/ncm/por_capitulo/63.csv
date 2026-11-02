@@ -1,0 +1,95 @@
+codigo,descricao,data_inicio
+63.01,Cobertores e mantas.,01/04/2022
+63.02,"Roupa de cama, mesa, toucador ou cozinha.",01/04/2022
+63.03,"Cortinados, cortinas, reposteiros e estores; sanefas.",01/04/2022
+63.04,"Outros artigos para guarnição de interiores, exceto os da posição 94.04.",01/04/2022
+63.05,"Sacos de quaisquer dimensões, para embalagem.",01/04/2022
+63.06,Encerados e toldos; tendas (incluindo os gazebos temporários e artigos semelhantes); velas para em,01/04/2022
+63.07,"Outros artigos confeccionados, incluindo os moldes para vestuário.",01/04/2022
+63.10,"Trapos, cordéis, cordas e cabos, de matérias têxteis, em forma de desperdícios ou de artigos inutiliza",01/04/2022
+6301.10.00,"- Cobertores e mantas, elétricos",01/04/2022
+6301.20.00,"- Cobertores e mantas (exceto os elétricos), de lã ou de pelos finos",01/04/2022
+6301.30.00,"- Cobertores e mantas (exceto os elétricos), de algodão",01/04/2022
+6301.40.00,"- Cobertores e mantas (exceto os elétricos), de fibras sintéticas",01/04/2022
+6301.90.00,- Outros cobertores e mantas,01/04/2022
+6302.10.00,"- Roupa de cama, de malha",01/04/2022
+6302.2,"- Outra roupa de cama, estampadas:",01/04/2022
+6302.21.00,-- De algodão,01/04/2022
+6302.22.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6302.29.00,-- De outras matérias têxteis,01/04/2022
+6302.3,- Outra roupa de cama:,01/04/2022
+6302.31.00,-- De algodão,01/04/2022
+6302.32.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6302.39.00,-- De outras matérias têxteis,01/04/2022
+6302.40.00,"- Roupa de mesa, de malha",01/04/2022
+6302.5,- Outra roupa de mesa:,01/04/2022
+6302.51.00,-- De algodão,01/04/2022
+6302.53.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6302.59,-- De outras matérias têxteis,01/04/2022
+6302.59.10,De linho,01/04/2022
+6302.59.90,Outras,01/04/2022
+6302.60.00,"- Roupa de toucador ou de cozinha, de tecidos atoalhados (turcos) de algodão",01/04/2022
+6302.9,- Outra:,01/04/2022
+6302.91.00,-- De algodão,01/04/2022
+6302.93.00,-- De fibras sintéticas ou artificiais,01/04/2022
+6302.99,-- De outras matérias têxteis,01/04/2022
+6302.99.10,De linho,01/04/2022
+6302.99.90,Outras,01/04/2022
+6303.1,- De malha:,01/04/2022
+6303.12.00,-- De fibras sintéticas,01/04/2022
+6303.19,-- De outras matérias têxteis,01/04/2022
+6303.19.10,De algodão,01/04/2022
+6303.19.90,Outros,01/04/2022
+6303.9,- Outros:,01/04/2022
+6303.91.00,-- De algodão,01/04/2022
+6303.92.00,-- De fibras sintéticas,01/04/2022
+6303.99.00,-- De outras matérias têxteis,01/04/2022
+6304.1,- Colchas:,01/04/2022
+6304.11.00,-- De malha,01/04/2022
+6304.19,-- Outras,01/04/2022
+6304.19.10,De algodão,01/04/2022
+6304.19.90,De outras matérias têxteis,01/04/2022
+6304.20.00,- Mosquiteiros para camas mencionados na Nota de subposição 1 do presente Capítulo,01/04/2022
+6304.9,- Outros:,01/04/2022
+6304.91.00,-- De malha,01/04/2022
+6304.92.00,"-- De algodão, exceto de malha",01/04/2022
+6304.93.00,"-- De fibras sintéticas, exceto de malha",01/04/2022
+6304.99.00,"-- De outras matérias têxteis, exceto de malha",01/04/2022
+6305.10.00,- De juta ou de outras fibras têxteis liberianas da posição 53.03,01/04/2022
+6305.20.00,- De algodão,01/04/2022
+6305.3,- De matérias têxteis sintéticas ou artificiais:,01/04/2022
+6305.32.00,-- Recipientes flexíveis para produtos a granel,01/04/2022
+6305.33,"-- Outros, obtidos a partir de lâminas ou formas semelhantes de polietileno oude polipropileno",01/04/2022
+6305.33.10,De malha,01/04/2022
+6305.33.90,Outros,01/04/2022
+6305.39.00,-- Outros,01/04/2022
+6305.90.00,- De outras matérias têxteis,01/04/2022
+6306.1,- Encerados e toldos:,01/04/2022
+6306.12.00,-- De fibras sintéticas,01/04/2022
+6306.19,-- De outras matérias têxteis,01/04/2022
+6306.19.10,De algodão,01/04/2022
+6306.19.90,Outros,01/04/2022
+6306.2,- Tendas (incluindo os gazebos temporários e artigos semelhantes):,01/04/2022
+6306.22.00,-- De fibras sintéticas,01/04/2022
+6306.29,-- De outras matérias têxteis,01/04/2022
+6306.29.10,De algodão,01/04/2022
+6306.29.90,Outros,01/04/2022
+6306.30,- Velas,01/04/2022
+6306.30.10,De fibras sintéticas,01/04/2022
+6306.30.90,De outras matérias têxteis,01/04/2022
+6306.40,- Colchões pneumáticos,01/04/2022
+6306.40.10,De algodão,01/04/2022
+6306.40.90,De outras matérias têxteis,01/04/2022
+6306.90.00,- Outros,01/04/2022
+6307.10.00,"- Rodilhas, esfregões, panos de prato ou de cozinha, flanelas e artigos de limpeza semelhantes",01/04/2022
+6307.20.00,- Cintos e coletes salva-vidas,01/04/2022
+6307.90,- Outros,01/04/2022
+6307.90.10,De falso tecido (tecido não tecido),01/04/2022
+6307.90.20,"Artigo tubular com tratamento ignífugo, próprio para saída de emergência depessoas, mesmo com s",01/04/2022
+6307.90.90,Outros,01/04/2022
+6308.00.00,"Sortidos constituídos por cortes de tecido e fios, mesmo com acessórios, para confecção de tapetes,",01/04/2022
+6309.00,"Artigos de matérias têxteis e artigos de uso semelhante, usados.",01/04/2022
+6309.00.10,"Vestuário, seus acessórios, e suas partes",01/04/2022
+6309.00.90,Outros,01/04/2022
+6310.10.00,- Selecionados,01/04/2022
+6310.90.00,- Outros,01/04/2022

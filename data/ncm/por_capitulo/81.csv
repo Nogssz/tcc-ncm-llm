@@ -1,0 +1,99 @@
+codigo,descricao,data_inicio
+81.01,"Tungstênio (volfrâmio) e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.02,"Molibdênio e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.03,"Tântalo e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.04,"Magnésio e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.05,"Mates de cobalto e outros produtos intermediários da metalurgia do cobalto; cobalto e suas obras, in",01/04/2022
+81.06,"Bismuto e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.08,"Titânio e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.09,"Zircônio e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.10,"Antimônio e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+81.12,"Berílio, cromo, háfnio (céltio), rênio, tálio, cádmio, germânio, vanádio, gálio, índio e nióbio (colômbio)",01/04/2022
+8101.10.00,- Pós,01/04/2022
+8101.9,- Outros:,01/04/2022
+8101.94.00,"-- Tungstênio (volfrâmio) em formas brutas, incluindo as barras simplesmenteobtidas por sinterizaçã",01/04/2022
+8101.96.00,-- Fios,01/04/2022
+8101.97.00,"-- Desperdícios e resíduos, e sucata",01/04/2022
+8101.99,-- Outros,01/04/2022
+8101.99.10,Do tipo utilizado na fabricação de contatos elétricos,01/04/2022
+8101.99.90,Outros,01/04/2022
+8102.10.00,- Pós,01/04/2022
+8102.9,- Outros:,01/04/2022
+8102.94.00,"-- Molibdênio em formas brutas, incluindo as barras simplesmente obtidas por sinterização",01/04/2022
+8102.95.00,"-- Barras, exceto as simplesmente obtidas por sinterização, perfis, chapas, tiras e folhas",01/04/2022
+8102.96.00,-- Fios,01/04/2022
+8102.97.00,"-- Desperdícios e resíduos, e sucata",01/04/2022
+8102.99.00,-- Outros,01/04/2022
+8103.20.00,"- Tântalo em formas brutas, incluindo as barras simplesmente obtidas por sinterização; pós",01/04/2022
+8103.30.00,"- Desperdícios e resíduos, e sucata",01/04/2022
+8103.9,- Outros:,01/04/2022
+8103.91.00,-- Cadinhos,01/04/2022
+8103.99.00,-- Outros,01/04/2022
+8104.1,- Magnésio em formas brutas:,01/04/2022
+8104.11.00,"-- Que contenha pelo menos 99,8 %, em peso, de magnésio",01/04/2022
+8104.19.00,-- Outro,01/04/2022
+8104.20.00,"- Desperdícios e resíduos, e sucata",01/04/2022
+8104.30.00,"- Aparas, resíduos de torno e grânulos, calibrados; pós",01/04/2022
+8104.90.00,- Outros,01/04/2022
+8105.20,- Mates de cobalto e outros produtos intermediários da metalurgia do cobalto;cobalto em formas bru,01/04/2022
+8105.20.10,Em formas brutas,01/04/2022
+8105.20.2,Pós,01/04/2022
+8105.20.21,De ligas à base de cobalto-cromo-tungstênio (volfrâmio) (estelites),01/04/2022
+8105.20.29,Outros,01/04/2022
+8105.20.90,Outros,01/04/2022
+8105.30.00,"- Desperdícios e resíduos, e sucata",01/04/2022
+8105.90,- Outros,01/04/2022
+8105.90.10,"Chapas, folhas, tiras, fios, hastes, pastilhas e plaquetas",01/04/2022
+8105.90.90,Outros,01/04/2022
+8106.10.00,"- Que contenham mais de 99,99 %, em peso, de bismuto",01/04/2022
+8106.90.00,- Outros,01/04/2022
+8108.20.00,- Titânio em formas brutas; pós,01/04/2022
+8108.30.00,"- Desperdícios e resíduos, e sucata",01/04/2022
+8108.90.00,- Outros,01/04/2022
+8109.2,- Zircônio em formas brutas; pós:,01/04/2022
+8109.21.00,"-- Que contenham menos de uma parte de háfnio para 500 partes, em peso,de zircônio",01/04/2022
+8109.29.00,-- Outros,01/04/2022
+8109.3,"- Desperdícios e resíduos, e sucata:",01/04/2022
+8109.31.00,"-- Que contenham menos de uma parte de háfnio para 500 partes, em peso,de zircônio",01/04/2022
+8109.39.00,-- Outros,01/04/2022
+8109.9,- Outros:,01/04/2022
+8109.91.00,"-- Que contenham menos de uma parte de háfnio para 500 partes, em peso,de zircônio",01/04/2022
+8109.99.00,-- Outros,01/04/2022
+8110.10,- Antimônio em formas brutas; pós,01/04/2022
+8110.10.10,Em formas brutas,01/04/2022
+8110.10.20,Pós,01/04/2022
+8110.20.00,"- Desperdícios e resíduos, e sucata",01/04/2022
+8110.90.00,- Outros,01/04/2022
+8111.00,"Manganês e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+8111.00.10,Em formas brutas,01/04/2022
+8111.00.20,"Chapas, folhas, tiras, fios, hastes, pastilhas e plaquetas",01/04/2022
+8111.00.90,Outros,01/04/2022
+8112.1,- Berílio:,01/04/2022
+8112.12.00,-- Em formas brutas; pós,01/04/2022
+8112.13.00,"-- Desperdícios e resíduos, e sucata",01/04/2022
+8112.19.00,-- Outros,01/04/2022
+8112.2,- Cromo:,01/04/2022
+8112.21,-- Em formas brutas; pós,01/04/2022
+8112.21.10,Em formas brutas,01/04/2022
+8112.21.20,Pós,01/04/2022
+8112.22.00,"-- Desperdícios e resíduos, e sucata",01/04/2022
+8112.29.00,-- Outros,01/04/2022
+8112.3,- Háfnio (céltio):,01/04/2022
+8112.31.00,"-- Em formas brutas; desperdícios e resíduos, e sucata; pós",01/04/2022
+8112.39.00,-- Outros,01/04/2022
+8112.4,- Rênio:,01/04/2022
+8112.41.00,"-- Em formas brutas; desperdícios e resíduos, e sucata; pós",01/04/2022
+8112.49.00,-- Outros,01/04/2022
+8112.5,- Tálio:,01/04/2022
+8112.51.00,-- Em formas brutas; pós,01/04/2022
+8112.52.00,"-- Desperdícios e resíduos, e sucata",01/04/2022
+8112.59.00,-- Outros,01/04/2022
+8112.6,- Cádmio:,01/04/2022
+8112.61.00,"-- Desperdícios e resíduos, e sucata",01/04/2022
+8112.69.00,-- Outros,01/04/2022
+8112.9,- Outros:,01/04/2022
+8112.92.00,"-- Em formas brutas; desperdícios e resíduos, e sucata; pós",01/04/2022
+8112.99.00,-- Outros,01/04/2022
+8113.00,"Cermets e suas obras, incluindo os desperdícios e resíduos, e sucata.",01/04/2022
+8113.00.10,"Chapas, folhas, tiras, fios, hastes, pastilhas e plaquetas",01/04/2022
+8113.00.90,Outros,01/04/2022

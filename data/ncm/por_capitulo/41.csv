@@ -1,0 +1,117 @@
+codigo,descricao,data_inicio
+41.01,"Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, sec",01/04/2022
+41.02,"Peles em bruto de ovinos (frescas ou salgadas, secas, tratadas pela cal, piqueladas ou conservadas",01/04/2022
+41.03,"Outros couros e peles em bruto (frescos ou salgados, secos, tratados pela cal, piquelados ou conser",01/04/2022
+41.04,"Couros e peles curtidos ou crust, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesm",01/04/2022
+41.05,"Peles curtidas ou crust de ovinos, depiladas, mesmo divididas, mas não preparadas de outro modo.",01/04/2022
+41.06,"Couros e peles, depilados, de outros animais e peles de animais desprovidosde pelos, curtidos ou c",01/04/2022
+41.07,"Couros preparados após curtimenta ou após secagem (crusting) e couros e peles apergaminhados,",01/04/2022
+41.13,"Couros preparados após curtimenta ou após secagem (crusting) e couros e peles apergaminhados,",01/04/2022
+41.14,Couros e peles acamurçados (incluindo a camurça combinada); couros e peles envernizados ou reve,01/04/2022
+41.15,"Couro reconstituído, à base de couro ou de fibras de couro, em chapas, folhas ou tiras, mesmo enrol",01/04/2022
+4101.20.00,"- Couros e peles em bruto, inteiros, não divididos, de peso unitário não superi",
+4101.50,"- Couros e peles em bruto, inteiros, de peso unitário superior a 16 kg",01/04/2022
+4101.50.10,Sem dividir,01/04/2022
+4101.50.20,"Divididos, com o lado flor",01/04/2022
+4101.50.30,"Divididos, sem o lado flor",01/04/2022
+4101.90,"- Outros, incluindo dorsos (crepões*), meios-dorsos (meios-crepões*) e flancos (partes laterais)",01/04/2022
+4101.90.10,Sem dividir,01/04/2022
+4101.90.20,"Divididos, com o lado flor",01/04/2022
+4101.90.30,"Divididos, sem o lado flor",01/04/2022
+4102.10.00,- Com lã (não depiladas),01/04/2022
+4102.2,- Depiladas ou sem lã:,01/04/2022
+4102.21.00,-- Piqueladas,01/04/2022
+4102.29.00,-- Outras,01/04/2022
+4103.20.00,- De répteis,01/04/2022
+4103.30.00,- De suínos,01/04/2022
+4103.90.00,- Outros,01/04/2022
+4104.1,- No estado úmido (incluindo wet-blue):,01/04/2022
+4104.11,"-- Plena flor, não divididos; divididos, com o lado flor",01/04/2022
+4104.11.1,"Plena flor, não divididos",01/04/2022
+4104.11.11,"Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m",01/04/2022
+4104.11.12,"Outros couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a",01/04/2022
+4104.11.13,"Outros couros e peles de bovinos (incluindo os búfalos), com pré-curtimentavegetal",01/04/2022
+4104.11.14,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4104.11.19,Outros,01/04/2022
+4104.11.2,"Divididos, com o lado flor",01/04/2022
+4104.11.21,"Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m",01/04/2022
+4104.11.22,"Outros couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a",01/04/2022
+4104.11.23,"Outros couros e peles de bovinos (incluindo os búfalos), com pré-curtimentavegetal",01/04/2022
+4104.11.24,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4104.11.29,Outros,01/04/2022
+4104.19,-- Outros,01/04/2022
+4104.19.10,"Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m",01/04/2022
+4104.19.20,"Outros couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a",01/04/2022
+4104.19.30,"Outros couros e peles de bovinos (incluindo os búfalos), com pré-curtimentavegetal",01/04/2022
+4104.19.40,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4104.19.90,Outros,01/04/2022
+4104.4,- No estado seco (crust):,01/04/2022
+4104.41,"-- Plena flor, não divididos; divididos, com o lado flor",01/04/2022
+4104.41.10,"Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m",01/04/2022
+4104.41.20,"Outros couros e peles de bovinos (incluindo os búfalos), curtidos ao vegetal,para solas",01/04/2022
+4104.41.30,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4104.41.90,Outros,01/04/2022
+4104.49,-- Outros,01/04/2022
+4104.49.10,"Couros e peles inteiros, de bovinos (incluindo os búfalos), de superfície unitária não superior a 2,6 m",01/04/2022
+4104.49.20,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4104.49.90,Outros,01/04/2022
+4105.10,- No estado úmido (incluindo wet-blue),01/04/2022
+4105.10.10,Com pré-curtimenta vegetal,01/04/2022
+4105.10.2,Pré-curtidas de outro modo,01/04/2022
+4105.10.21,Ao cromo (wet-blue),01/04/2022
+4105.10.29,Outras,01/04/2022
+4105.10.90,Outras,01/04/2022
+4105.30.00,- No estado seco (crust),01/04/2022
+4106.2,- De caprinos:,01/04/2022
+4106.21,-- No estado úmido (incluindo wet-blue),01/04/2022
+4106.21.10,Com pré-curtimenta vegetal,01/04/2022
+4106.21.2,Pré-curtidos de outro modo,01/04/2022
+4106.21.21,Ao cromo (wet-blue),01/04/2022
+4106.21.29,Outros,01/04/2022
+4106.21.90,Outros,01/04/2022
+4106.22.00,-- No estado seco (crust),01/04/2022
+4106.3,- De suínos:,01/04/2022
+4106.31,-- No estado úmido (incluindo wet-blue),01/04/2022
+4106.31.10,Simplesmente curtidos ao cromo (wet-blue),01/04/2022
+4106.31.90,Outros,01/04/2022
+4106.32.00,-- No estado seco (crust),01/04/2022
+4106.40.00,- De répteis,01/04/2022
+4106.9,- Outros:,01/04/2022
+4106.91.00,-- No estado úmido (incluindo wet-blue),01/04/2022
+4106.92.00,-- No estado seco (crust),01/04/2022
+4107.1,- Couros e peles inteiros:,01/04/2022
+4107.11,"-- Plena flor, não divididos",01/04/2022
+4107.11.10,"Couros e peles de bovinos (incluindo os búfalos), de superfície unitária não superior a ,26 m2",01/04/2022
+4107.11.20,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4107.11.90,Outros,01/04/2022
+4107.12,"-- Divididos, com o lado flor",01/04/2022
+4107.12.10,"Couros e peles de bovinos (incluindo os búfalos), de superfície unitária não superior a ,26 m2",01/04/2022
+4107.12.20,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4107.12.90,Outros,01/04/2022
+4107.19,-- Outros,01/04/2022
+4107.19.10,"Couros e peles de bovinos (incluindo os búfalos), de superfície unitária não superior a ,26 m2",01/04/2022
+4107.19.20,Outros couros e peles de bovinos (incluindo os búfalos),01/04/2022
+4107.19.90,Outros,01/04/2022
+4107.9,"- Outros, incluindo as tiras:",01/04/2022
+4107.91,"-- Plena flor, não divididos",01/04/2022
+4107.91.10,De bovinos (incluindo os búfalos),01/04/2022
+4107.91.90,Outros,01/04/2022
+4107.92,"-- Divididos, com o lado flor",01/04/2022
+4107.92.10,De bovinos (incluindo os búfalos),01/04/2022
+4107.92.90,Outros,01/04/2022
+4107.99,-- Outros,01/04/2022
+4107.99.10,De bovinos (incluindo os búfalos),01/04/2022
+4107.99.90,Outros,01/04/2022
+4112.00.00,"Couros preparados após curtimenta ou após secagem (crusting) e couros e peles apergaminhados,",01/04/2022
+4113.10,- De caprinos,01/04/2022
+4113.10.10,"Curtidos ao cromo, com acabamento",01/04/2022
+4113.10.90,Outros,01/04/2022
+4113.20.00,- De suínos,01/04/2022
+4113.30.00,- De répteis,01/04/2022
+4113.90.00,- Outros,01/04/2022
+4114.10.00,- Couros e peles acamurçados (incluindo a camurça combinada),01/04/2022
+4114.20,- Couros e peles envernizados ou revestidos; couros e peles metalizados,01/04/2022
+4114.20.10,Envernizados ou revestidos,01/04/2022
+4114.20.20,Metalizados,01/04/2022
+4115.10.00,"- Couro reconstituído à base de couro ou de fibras de couro, em chapas, folhas ou tiras, mesmo enro",01/04/2022
+4115.20.00,"- Aparas e outros desperdícios de couros ou de peles preparados ou de couro reconstituído, não utili",01/04/2022

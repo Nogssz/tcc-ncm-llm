@@ -1,0 +1,52 @@
+codigo,descricao,data_inicio
+88.02,"Outros veículos aéreos (por exemplo, helicópteros, aviões), exceto veículos aéreos (aeronaves) não",01/04/2022
+88.05,Aparelhos e dispositivos para lançamento de veículos aéreos; aparelhos e dispositivos para aterrissa,01/04/2022
+88.06,Veículos aéreos (aeronaves) não tripulados.,01/04/2022
+88.07,"Partes dos aparelhos das posições 88.01, 88.02 ou 88.06.",01/04/2022
+8801.00.00,"Balões e dirigíveis; planadores, asas voadoras e outros veículos aéreos, nãoconcebidos para propul",01/04/2022
+8802.1,- Helicópteros:,01/04/2022
+8802.11.00,"-- De peso não superior a 2.000 kg, vazios (sem carga)",01/04/2022
+8802.12,"-- De peso superior a 2.000 kg, vazios (sem carga)",01/04/2022
+8802.12.10,De peso não superior a 3.500 kg,01/04/2022
+8802.12.90,Outros,01/04/2022
+8802.20,"- Aviões e outros veículos aéreos, de peso não superior a 2.000 kg, vazios (sem carga)",01/04/2022
+8802.20.10,A hélice,01/04/2022
+8802.20.2,A turboélice,01/04/2022
+8802.20.21,Monomotores,01/04/2022
+8802.20.22,Multimotores,01/04/2022
+8802.20.90,Outros,01/04/2022
+8802.30,"- Aviões e outros veículos aéreos, de peso superior a 2.000 kg, mas não supe",
+8802.30.10,A hélice,01/04/2022
+8802.30.2,A turboélice,01/04/2022
+8802.30.21,"Multimotores, de peso não superior a 7.000 kg, vazios (sem carga)",01/04/2022
+8802.30.29,Outros,01/04/2022
+8802.30.3,A turbojato,01/04/2022
+8802.30.31,"De peso não superior a 7.000 kg, vazios (sem carga)",01/04/2022
+8802.30.39,Outros,01/04/2022
+8802.30.90,Outros,01/04/2022
+8802.40,"- Aviões e outros veículos aéreos, de peso superior a 15.000 kg, vazios (semcarga)",01/04/2022
+8802.40.10,A turboélice,01/04/2022
+8802.40.90,Outros,01/04/2022
+8802.60.00,"- Veículos espaciais (incluindo os satélites) e seus veículos de lançamento, eveículos suborbitais",01/04/2022
+8804.00.00,Paraquedas (incluindo os paraquedas dirigíveis e os parapentes) e os paraquedas giratórios; suas p,01/04/2022
+8805.10.00,"- Aparelhos e dispositivos para lançamento de veículos aéreos, e suas partes; aparelhos e dispositiv",01/04/2022
+8805.2,- Aparelhos de treinamento de voo em terra e suas partes:,01/04/2022
+8805.21.00,-- Simuladores de combate aéreo e suas partes,01/04/2022
+8805.29.00,-- Outros,01/04/2022
+8806.10.00,- Concebidos para o transporte de passageiros,01/04/2022
+8806.2,"- Outros, concebidos unicamente para serem pilotados remotamente:",01/04/2022
+8806.21.00,-- De peso máximo de decolagem não superior a 250 g,01/04/2022
+8806.22.00,"-- De peso máximo de decolagem superior a 250 g, mas não superior a 7 kg",01/04/2022
+8806.23.00,"-- De peso máximo de decolagem superior a 7 kg, mas não superior a 25 kg",01/04/2022
+8806.24.00,"-- De peso máximo de decolagem superior a 25 kg, mas não superior a 150 kg",01/04/2022
+8806.29.00,-- Outros,01/04/2022
+8806.9,- Outros:,01/04/2022
+8806.91.00,-- De peso máximo de decolagem não superior a 250 g,01/04/2022
+8806.92.00,"-- De peso máximo de decolagem superior a 250 g, mas não superior a 7 kg",01/04/2022
+8806.93.00,"-- De peso máximo de decolagem superior a 7 kg, mas não superior a 25 kg",01/04/2022
+8806.94.00,"-- De peso máximo de decolagem superior a 25 kg, mas não superior a 150 kg",01/04/2022
+8806.99.00,-- Outros,01/04/2022
+8807.10.00,"- Hélices e rotores, e suas partes",01/04/2022
+8807.20.00,- Trens de aterrissagem (aterragem) e suas partes,01/04/2022
+8807.30.00,"- Outras partes de aviões, de helicópteros ou de veículos aéreos (aeronaves)não tripulados",01/04/2022
+8807.90.00,- Outras,01/04/2022
