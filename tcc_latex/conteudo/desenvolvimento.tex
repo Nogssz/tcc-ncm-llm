@@ -148,7 +148,7 @@ A semelhança é dada pela busca BM25 sobre os radicais das palavras da descriç
 
 Uma base de exemplos herda os erros de quem a produziu. Na Loja B, o código 8708.10.00 (para-choques) aparece em 3.407 produtos, dos quais apenas 104 são para-choques; os demais são molas, freios, cabos e rolamentos, cadastrados com um código ``coringa''. Por isso, produtos com esse código cuja descrição não menciona para-choque são excluídos da base. A mesma situação foi aproveitada como caso real para avaliar a detecção de NCM incorreto (Capítulo~\ref{cap:resultados}).
 
-A base é usada de três formas no processo de sugestão: os NCMs mais votados entram no topo da lista de candidatos; até cinco produtos parecidos são mostrados ao modelo como indício; e, depois da escolha do modelo, se o NCM mais votado tiver voto de pelo menos 2,0 e o vizinho mais próximo for bastante parecido, esse NCM passa ao primeiro lugar, com a justificativa de que outras lojas classificam produtos parecidos dessa forma. Os limiares foram definidos no conjunto de desenvolvimento.
+A base é usada de três formas no processo de sugestão: os NCMs mais votados entram no topo da lista de candidatos; até seis produtos parecidos são mostrados ao modelo como indício; e, depois da escolha do modelo, se o NCM mais votado tiver voto de pelo menos 2,0 e o vizinho mais próximo for bastante parecido, esse NCM passa ao primeiro lugar, com a justificativa de que outras lojas classificam produtos parecidos dessa forma. Os limiares foram definidos no conjunto de desenvolvimento.
 
 \section{Verificação de NCM Possivelmente Incorreto}
 \label{sec:verificacao}
@@ -165,7 +165,7 @@ Optou-se pela consulta periódica (\textit{polling}) em vez de um gatilho (\text
 
 \section{Interface de Supervisão}
 
-A interface, desenvolvida em Streamlit, lista os produtos com NCM inválido e, para cada um, exibe as opções sugeridas, como ilustra a Figura~\ref{fig:tela_streamlit}. Acima das opções, são apresentadas a interpretação feita pelo modelo, as características consideradas, os produtos parecidos já cadastrados e, quando houver, a pergunta sobre a informação que falta. O operador escolhe uma das três opções e confirma; somente nesse momento o sistema executa a atualização do cadastro. Se nenhuma opção servir, o operador pode descartar a sugestão e pedir uma nova. Uma segunda seção da interface lista os produtos com NCM possivelmente errado, com o código cadastrado, o motivo da suspeita e as opções sugeridas; o operador pode trocar o código por uma das opções ou indicar que o código atual está correto, e, nesse caso, o produto deixa de ser apontado.
+A interface, desenvolvida em Streamlit, lista os produtos com NCM inválido e, para cada um, exibe as opções sugeridas, como ilustra a Figura~\ref{fig:tela_streamlit}. Acima das opções, são apresentadas a interpretação feita pelo modelo, as características consideradas, os produtos parecidos já cadastrados e, quando houver, a pergunta sobre a informação que falta. O operador escolhe uma das três opções e confirma; somente nesse momento o sistema executa a atualização do cadastro. Se nenhuma opção servir, o operador pode descartar a sugestão e pedir uma nova. Uma segunda seção da interface lista os produtos com NCM possivelmente errado, com o código cadastrado, o motivo da suspeita e as opções sugeridas; o operador pode trocar o código por uma das opções ou indicar que o código atual está correto, e, nesse caso, o produto deixa de ser apontado (Figura~\ref{fig:tela_suspeito}).
 
 \begin{figure}[H]
     \centering
@@ -175,7 +175,17 @@ A interface, desenvolvida em Streamlit, lista os produtos com NCM inválido e, p
     \fonte{O autor (2026).}
 \end{figure}
 
-O exemplo da Figura~\ref{fig:tela_streamlit} é um dos erros do conjunto de teste: para um refrigerante de cola, as três opções sugeridas são de águas e de bebidas fermentadas, e não a posição correta, de bebidas não alcoólicas (2202.10.00). É justamente para esse tipo de caso que a aprovação humana existe: o operador percebe que nenhuma opção corresponde ao produto e, em vez de aplicar a sugestão, pede uma nova ou classifica o produto manualmente.
+O exemplo da Figura~\ref{fig:tela_streamlit} foi gerado pela versão final, para um produto da instalação de desenvolvimento. A primeira opção veio do voto da base de conhecimento, como indica a justificativa, e a pergunta aponta uma informação que a descrição não traz. A terceira opção, de pneumáticos recauchutados para veículos aéreos, não faz sentido para o produto. É justamente para esse tipo de caso que a aprovação humana existe: o operador confere as opções e, se nenhuma servir, pede uma nova sugestão ou classifica o produto manualmente.
+
+A Figura~\ref{fig:tela_suspeito} mostra um produto apontado pela verificação na mesma instalação: um retentor cadastrado com o código de perfumes (3303.00.10).
+
+\begin{figure}[H]
+    \centering
+    \caption{Interface de supervisão com um produto de NCM possivelmente errado}
+    \label{fig:tela_suspeito}
+    \includegraphics[width=11cm]{images/tela_suspeito.png}
+    \fonte{O autor (2026).}
+\end{figure}
 
 A camada de acesso ao banco impõe duas restrições. Toda consulta de leitura passa por uma função que só aceita comandos \texttt{SELECT}. A gravação passa por outra função, que só aceita comandos \texttt{UPDATE} com parâmetros, e é chamada apenas pelo botão de aprovação da interface, com um comando fixo: \texttt{UPDATE PRODUTO SET NCM = ? WHERE CODIGO = ?}. Como o código gravado é sempre um dos códigos existentes na tabela, apresentados ao operador, não há como o sistema gravar um código inventado. Por controlar alterações no banco de produção, a interface é servida apenas para o próprio computador (\textit{localhost}).
 
